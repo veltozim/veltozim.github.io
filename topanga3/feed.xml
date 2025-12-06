@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" 
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     version="2.0">
+<channel>
+    <title>トパンガ ポッドキャスト</title>
+    <description>トパンガの音声版</description>
+    <link>https://www.youtube.com/@topanga3</link>
+    <language>ja</language>
+    <copyright>© 2025 トパンガ</copyright>
+    <itunes:author>トパンガ</itunes:author>
+    <itunes:summary>トパンガの音声版</itunes:summary>
+    <itunes:owner>
+        <itunes:name>トパンガ</itunes:name>
+    </itunes:owner>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:category text="Entertainment"/>
+    <itunes:image href=""/>
+
+    <item>
+        <title>TOPANGA TV 688 WWお疲れさまでした - 2025年12月04日</title>
+        <description>配信者: トパンガ</description>
+        <link>https://www.youtube.com/@topanga3</link>
+        <guid isPermaLink="false">12-04：TOPANGA TV 688 WWお疲れさまでした.mp3</guid>
+        <pubDate>Wed, 03 Dec 2025 20:04:46 +0000</pubDate>
+        <enclosure url="https://podcast-server.tetsufumi-isa.workers.dev/topanga3/12-04：TOPANGA TV 688 WWお疲れさまでした.mp3" length="113745453" type="audio/mpeg"/>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+        <title>勝ちたがりTV 625 トパチャリ エントリー受付中！【ゲスト：竹内ジョン】 - 2025年12月03日</title>
+        <description>配信者: トパンガ</description>
+        <link>https://www.youtube.com/@topanga3</link>
+        <guid isPermaLink="false">12-03：勝ちたがりTV 625 トパチャリ エントリー受付中！【ゲスト：竹内ジョン】.mp3</guid>
+        <pubDate>Tue, 02 Dec 2025 20:04:46 +0000</pubDate>
+        <enclosure url="https://podcast-server.tetsufumi-isa.workers.dev/topanga3/12-03：勝ちたがりTV 625 トパチャリ エントリー受付中！【ゲスト：竹内ジョン】.mp3" length="111280941" type="audio/mpeg"/>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+        <title>TOPANGA TV 687 SFL本節全日程終了！ - 2025年11月27日</title>
+        <description>配信者: トパンガ</description>
+        <link>https://www.youtube.com/@topanga3</link>
+        <guid isPermaLink="false">11-27：TOPANGA TV 687 SFL本節全日程終了！.mp3</guid>
+        <pubDate>Wed, 26 Nov 2025 20:04:27 +0000</pubDate>
+        <enclosure url="https://podcast-server.tetsufumi-isa.workers.dev/topanga3/11-27：TOPANGA TV 687 SFL本節全日程終了！.mp3" length="82129197" type="audio/mpeg"/>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+        <title>勝ちたがりTV 624 SFL本節全日程終了【ゲスト：じゃじい】 - 2025年11月27日</title>
+        <description>配信者: トパンガ</description>
+        <link>https://www.youtube.com/@topanga3</link>
+        <guid isPermaLink="false">11-27：勝ちたがりTV 624 SFL本節全日程終了【ゲスト：じゃじい】.mp3</guid>
+        <pubDate>Wed, 26 Nov 2025 20:04:24 +0000</pubDate>
+        <enclosure url="https://podcast-server.tetsufumi-isa.workers.dev/topanga3/11-27：勝ちたがりTV 624 SFL本節全日程終了【ゲスト：じゃじい】.mp3" length="82449453" type="audio/mpeg"/>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+        <title>TOPANGA TV 687 SFL本節全日程終了！ - 2025年11月26日</title>
+        <description>配信者: トパンガ</description>
+        <link>https://www.youtube.com/@topanga3</link>
+        <guid isPermaLink="false">11-26：TOPANGA TV 687 SFL本節全日程終了！.mp3</guid>
+        <pubDate>Wed, 26 Nov 2025 13:05:28 +0000</pubDate>
+        <enclosure url="https://podcast-server.tetsufumi-isa.workers.dev/topanga3/11-26：TOPANGA TV 687 SFL本節全日程終了！.mp3" length="82129122" type="audio/mpeg"/>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+        <title>TOPANGA TV 686 SFL第9節終了、ラスト1節！ - 2025年11月20日</title>
+        <description>配信者: トパンガ</description>
+        <link>https://www.youtube.com/@topanga3</link>
+        <guid isPermaLink="false">11-20：TOPANGA TV 686 SFL第9節終了、ラスト1節！.mp3</guid>
+        <pubDate>Wed, 19 Nov 2025 13:05:38 +0000</pubDate>
+        <enclosure url="https://podcast-server.tetsufumi-isa.workers.dev/topanga3/11-20：TOPANGA TV 686 SFL第9節終了、ラスト1節！.mp3" length="86849553" type="audio/mpeg"/>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+        <title>勝ちたがりTV 623 SFL第9節終了【ゲスト：水派】 - 2025年11月20日</title>
+        <description>配信者: トパンガ</description>
+        <link>https://www.youtube.com/@topanga3</link>
+        <guid isPermaLink="false">11-20：勝ちたがりTV 623 SFL第9節終了【ゲスト：水派】.mp3</guid>
+        <pubDate>Wed, 19 Nov 2025 20:04:30 +0000</pubDate>
+        <enclosure url="https://podcast-server.tetsufumi-isa.workers.dev/topanga3/11-20：勝ちたがりTV 623 SFL第9節終了【ゲスト：水派】.mp3" length="76273197" type="audio/mpeg"/>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+        <title>TOPANGA TV 685 SFL第8節終了、残り2節！ - 2025年11月13日</title>
+        <description>配信者: トパンガ</description>
+        <link>https://www.youtube.com/@topanga3</link>
+        <guid isPermaLink="false">11-13：TOPANGA TV 685 SFL第8節終了、残り2節！.mp3</guid>
+        <pubDate>Wed, 12 Nov 2025 13:05:06 +0000</pubDate>
+        <enclosure url="https://podcast-server.tetsufumi-isa.workers.dev/topanga3/11-13：TOPANGA TV 685 SFL第8節終了、残り2節！.mp3" length="79537197" type="audio/mpeg"/>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+        <title>勝ちたがりTV 622 SFL第8節終了【ゲスト：ナウマン】 - 2025年11月13日</title>
+        <description>配信者: トパンガ</description>
+        <link>https://www.youtube.com/@topanga3</link>
+        <guid isPermaLink="false">11-13：勝ちたがりTV 622 SFL第8節終了【ゲスト：ナウマン】.mp3</guid>
+        <pubDate>Wed, 12 Nov 2025 20:04:11 +0000</pubDate>
+        <enclosure url="https://podcast-server.tetsufumi-isa.workers.dev/topanga3/11-13：勝ちたがりTV 622 SFL第8節終了【ゲスト：ナウマン】.mp3" length="77288493" type="audio/mpeg"/>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+        <title>TOPANGA TV 684 SFL第7節終了 - 2025年11月06日</title>
+        <description>配信者: トパンガ</description>
+        <link>https://www.youtube.com/@topanga3</link>
+        <guid isPermaLink="false">11-06：TOPANGA TV 684 SFL第7節終了.mp3</guid>
+        <pubDate>Wed, 05 Nov 2025 13:06:34 +0000</pubDate>
+        <enclosure url="https://podcast-server.tetsufumi-isa.workers.dev/topanga3/11-06：TOPANGA TV 684 SFL第7節終了.mp3" length="110577514" type="audio/mpeg"/>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+        <title>第9回 細かすぎて伝わらない格ゲーモノマネ選手権 - 2025年10月26日</title>
+        <description>配信者: トパンガ</description>
+        <link>https://www.youtube.com/@topanga3</link>
+        <guid isPermaLink="false">10-26：第9回 細かすぎて伝わらない格ゲーモノマネ選手権.mp3</guid>
+        <pubDate>Sat, 25 Oct 2025 20:11:29 +0000</pubDate>
+        <enclosure url="https://podcast-server.tetsufumi-isa.workers.dev/topanga3/10-26：第9回 細かすぎて伝わらない格ゲーモノマネ選手権.mp3" length="175905792" type="audio/mpeg"/>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+        <title>TOPANGAポケカリーグ 事前配信【出場選手のデッキリスト公開！】 - 2025年10月24日</title>
+        <description>配信者: トパンガ</description>
+        <link>https://www.youtube.com/@topanga3</link>
+        <guid isPermaLink="false">10-24：TOPANGAポケカリーグ 事前配信【出場選手のデッキリスト公開！】.mp3</guid>
+        <pubDate>Sun, 26 Oct 2025 20:05:17 +0000</pubDate>
+        <enclosure url="https://podcast-server.tetsufumi-isa.workers.dev/topanga3/10-24：TOPANGAポケカリーグ 事前配信【出場選手のデッキリスト公開！】.mp3" length="117681570" type="audio/mpeg"/>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+        <title>TOPANGA TV 683 今週末は格ゲーモノマネ選手権！ - 2025年10月23日</title>
+        <description>配信者: トパンガ</description>
+        <link>https://www.youtube.com/@topanga3</link>
+        <guid isPermaLink="false">10-23：TOPANGA TV 683 今週末は格ゲーモノマネ選手権！.mp3</guid>
+        <pubDate>Wed, 22 Oct 2025 13:07:59 +0000</pubDate>
+        <enclosure url="https://podcast-server.tetsufumi-isa.workers.dev/topanga3/10-23：TOPANGA TV 683 今週末は格ゲーモノマネ選手権！.mp3" length="87985566" type="audio/mpeg"/>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+        <title>勝ちたがりTV 621 今週末はワールドウォリアー！【ゲスト：わびいち】 - 2025年10月23日</title>
+        <description>配信者: トパンガ</description>
+        <link>https://www.youtube.com/@topanga3</link>
+        <guid isPermaLink="false">10-23：勝ちたがりTV 621 今週末はワールドウォリアー！【ゲスト：わびいち】.mp3</guid>
+        <pubDate>Tue, 28 Oct 2025 11:06:56 +0000</pubDate>
+        <enclosure url="https://podcast-server.tetsufumi-isa.workers.dev/topanga3/10-23：勝ちたがりTV 621 今週末はワールドウォリアー！【ゲスト：わびいち】.mp3" length="74834485" type="audio/mpeg"/>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+        <title>TOPANGA TV 682 新体制のCELLORB経営陣が登場！ - 2025年10月16日</title>
+        <description>配信者: トパンガ</description>
+        <link>https://www.youtube.com/@topanga3</link>
+        <guid isPermaLink="false">10-16：TOPANGA TV 682 新体制のCELLORB経営陣が登場！.mp3</guid>
+        <pubDate>Wed, 15 Oct 2025 13:12:52 +0000</pubDate>
+        <enclosure url="https://podcast-server.tetsufumi-isa.workers.dev/topanga3/10-16：TOPANGA TV 682 新体制のCELLORB経営陣が登場！.mp3" length="91169579" type="audio/mpeg"/>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+        <title>勝ちたがりTV 620 今週末は獅白杯【ゲスト：おらりん】 - 2025年10月16日</title>
+        <description>配信者: トパンガ</description>
+        <link>https://www.youtube.com/@topanga3</link>
+        <guid isPermaLink="false">10-16：勝ちたがりTV 620 今週末は獅白杯【ゲスト：おらりん】.mp3</guid>
+        <pubDate>Wed, 15 Oct 2025 20:04:59 +0000</pubDate>
+        <enclosure url="https://podcast-server.tetsufumi-isa.workers.dev/topanga3/10-16：勝ちたがりTV 620 今週末は獅白杯【ゲスト：おらりん】.mp3" length="73633197" type="audio/mpeg"/>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+        <title>TOPANGA TV 681 今週末はEVOフランス - 2025年10月09日</title>
+        <description>配信者: トパンガ</description>
+        <link>https://www.youtube.com/@topanga3</link>
+        <guid isPermaLink="false">10-09：TOPANGA TV 681 今週末はEVOフランス.mp3</guid>
+        <pubDate>Wed, 08 Oct 2025 13:07:02 +0000</pubDate>
+        <enclosure url="https://podcast-server.tetsufumi-isa.workers.dev/topanga3/10-09：TOPANGA TV 681 今週末はEVOフランス.mp3" length="84865465" type="audio/mpeg"/>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+        <title>勝ちたがりTV 619 SFL第5節進行中！【ゲスト：ひびき】 - 2025年10月09日</title>
+        <description>配信者: トパンガ</description>
+        <link>https://www.youtube.com/@topanga3</link>
+        <guid isPermaLink="false">10-09：勝ちたがりTV 619 SFL第5節進行中！【ゲスト：ひびき】.mp3</guid>
+        <pubDate>Wed, 08 Oct 2025 21:05:47 +0000</pubDate>
+        <enclosure url="https://podcast-server.tetsufumi-isa.workers.dev/topanga3/10-09：勝ちたがりTV 619 SFL第5節進行中！【ゲスト：ひびき】.mp3" length="83153504" type="audio/mpeg"/>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+        <title>TOPANGA TV 680 TGSお疲れさまでした - 2025年10月02日</title>
+        <description>配信者: トパンガ</description>
+        <link>https://www.youtube.com/@topanga3</link>
+        <guid isPermaLink="false">10-02：TOPANGA TV 680 TGSお疲れさまでした.mp3</guid>
+        <pubDate>Wed, 01 Oct 2025 13:05:08 +0000</pubDate>
+        <enclosure url="https://podcast-server.tetsufumi-isa.workers.dev/topanga3/10-02：TOPANGA TV 680 TGSお疲れさまでした.mp3" length="81233400" type="audio/mpeg"/>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+        <title>勝ちたがりTV 618 SFL第4節進行中！【ゲスト：こばやん】 - 2025年10月02日</title>
+        <description>配信者: トパンガ</description>
+        <link>https://www.youtube.com/@topanga3</link>
+        <guid isPermaLink="false">10-02：勝ちたがりTV 618 SFL第4節進行中！【ゲスト：こばやん】.mp3</guid>
+        <pubDate>Wed, 01 Oct 2025 21:06:32 +0000</pubDate>
+        <enclosure url="https://podcast-server.tetsufumi-isa.workers.dev/topanga3/10-02：勝ちたがりTV 618 SFL第4節進行中！【ゲスト：こばやん】.mp3" length="83745752" type="audio/mpeg"/>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+        <title>TOPANGA TV 679 SFL第3節終了！今週末はTGS - 2025年09月25日</title>
+        <description>配信者: トパンガ</description>
+        <link>https://www.youtube.com/@topanga3</link>
+        <guid isPermaLink="false">09-25：TOPANGA TV 679 SFL第3節終了！今週末はTGS.mp3</guid>
+        <pubDate>Wed, 24 Sep 2025 13:04:18 +0000</pubDate>
+        <enclosure url="https://podcast-server.tetsufumi-isa.workers.dev/topanga3/09-25：TOPANGA TV 679 SFL第3節終了！今週末はTGS.mp3" length="78048969" type="audio/mpeg"/>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+        <title>勝ちたがりTV 617 SFL第3節終了！【ゲスト：ジョニィ＆2BASSA】 - 2025年09月25日</title>
+        <description>配信者: トパンガ</description>
+        <link>https://www.youtube.com/@topanga3</link>
+        <guid isPermaLink="false">09-25：勝ちたがりTV 617 SFL第3節終了！【ゲスト：ジョニィ＆2BASSA】.mp3</guid>
+        <pubDate>Wed, 24 Sep 2025 21:05:23 +0000</pubDate>
+        <enclosure url="https://podcast-server.tetsufumi-isa.workers.dev/topanga3/09-25：勝ちたがりTV 617 SFL第3節終了！【ゲスト：ジョニィ＆2BASSA】.mp3" length="81345831" type="audio/mpeg"/>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+        <title>TOPANGA TV 678  フランス大会『UFA』お疲れさまでした - 2025年09月18日</title>
+        <description>配信者: トパンガ</description>
+        <link>https://www.youtube.com/@topanga3</link>
+        <guid isPermaLink="false">09-18：TOPANGA TV 678  フランス大会『UFA』お疲れさまでした.mp3</guid>
+        <pubDate>Wed, 17 Sep 2025 13:04:25 +0000</pubDate>
+        <enclosure url="https://podcast-server.tetsufumi-isa.workers.dev/topanga3/09-18：TOPANGA TV 678  フランス大会『UFA』お疲れさまでした.mp3" length="80385069" type="audio/mpeg"/>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+        <title>勝ちたがりTV 616 金曜日からSFL第3節！【ゲスト：ヤナイ】 - 2025年09月18日</title>
+        <description>配信者: トパンガ</description>
+        <link>https://www.youtube.com/@topanga3</link>
+        <guid isPermaLink="false">09-18：勝ちたがりTV 616 金曜日からSFL第3節！【ゲスト：ヤナイ】.mp3</guid>
+        <pubDate>Wed, 17 Sep 2025 21:05:26 +0000</pubDate>
+        <enclosure url="https://podcast-server.tetsufumi-isa.workers.dev/topanga3/09-18：勝ちたがりTV 616 金曜日からSFL第3節！【ゲスト：ヤナイ】.mp3" length="77281581" type="audio/mpeg"/>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+        <title>TOPANGA TV 677 SFL第2節終了！【ゲスト：ts】 - 2025年09月13日</title>
+        <description>配信者: トパンガ</description>
+        <link>https://www.youtube.com/@topanga3</link>
+        <guid isPermaLink="false">09-13：TOPANGA TV 677 SFL第2節終了！【ゲスト：ts】.mp3</guid>
+        <pubDate>Fri, 12 Sep 2025 21:05:53 +0000</pubDate>
+        <enclosure url="https://podcast-server.tetsufumi-isa.workers.dev/topanga3/09-13：TOPANGA TV 677 SFL第2節終了！【ゲスト：ts】.mp3" length="89169453" type="audio/mpeg"/>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+        <title>勝ちたがりTV 615 SFL第2節終了！【ゲスト：あでりい】 - 2025年09月13日</title>
+        <description>配信者: トパンガ</description>
+        <link>https://www.youtube.com/@topanga3</link>
+        <guid isPermaLink="false">09-13：勝ちたがりTV 615 SFL第2節終了！【ゲスト：あでりい】.mp3</guid>
+        <pubDate>Fri, 12 Sep 2025 21:05:28 +0000</pubDate>
+        <enclosure url="https://podcast-server.tetsufumi-isa.workers.dev/topanga3/09-13：勝ちたがりTV 615 SFL第2節終了！【ゲスト：あでりい】.mp3" length="77536941" type="audio/mpeg"/>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+        <title>特別番組「NOモーション。EVOへ行く」 - 2025年09月13日</title>
+        <description>配信者: トパンガ</description>
+        <link>https://www.youtube.com/@topanga3</link>
+        <guid isPermaLink="false">09-13：特別番組「NOモーション。EVOへ行く」.mp3</guid>
+        <pubDate>Sat, 13 Sep 2025 11:07:19 +0000</pubDate>
+        <enclosure url="https://podcast-server.tetsufumi-isa.workers.dev/topanga3/09-13：特別番組「NOモーション。EVOへ行く」.mp3" length="104449197" type="audio/mpeg"/>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+        <title>TOPANGA TV 677 SFL第2節終了！【ゲスト：ts】 - 2025年09月11日</title>
+        <description>配信者: トパンガ</description>
+        <link>https://www.youtube.com/@topanga3</link>
+        <guid isPermaLink="false">09-11：TOPANGA TV 677 SFL第2節終了！【ゲスト：ts】.mp3</guid>
+        <pubDate>Wed, 10 Sep 2025 13:07:15 +0000</pubDate>
+        <enclosure url="https://podcast-server.tetsufumi-isa.workers.dev/topanga3/09-11：TOPANGA TV 677 SFL第2節終了！【ゲスト：ts】.mp3" length="76794615" type="audio/mpeg"/>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+        <title>勝ちたがりTV 615 SFL第2節終了！【ゲスト：あでりい】 - 2025年09月11日</title>
+        <description>配信者: トパンガ</description>
+        <link>https://www.youtube.com/@topanga3</link>
+        <guid isPermaLink="false">09-11：勝ちたがりTV 615 SFL第2節終了！【ゲスト：あでりい】.mp3</guid>
+        <pubDate>Wed, 10 Sep 2025 21:06:59 +0000</pubDate>
+        <enclosure url="https://podcast-server.tetsufumi-isa.workers.dev/topanga3/09-11：勝ちたがりTV 615 SFL第2節終了！【ゲスト：あでりい】.mp3" length="65217748" type="audio/mpeg"/>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+</channel>
+</rss>

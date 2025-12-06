@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" 
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     version="2.0">
+<channel>
+    <title>新宿ヘロヘロ団 ポッドキャスト</title>
+    <description>新宿ヘロヘロ団の音声版</description>
+    <link>https://www.youtube.com/@herohero</link>
+    <language>ja</language>
+    <copyright>© 2025 新宿ヘロヘロ団</copyright>
+    <itunes:author>新宿ヘロヘロ団</itunes:author>
+    <itunes:summary>新宿ヘロヘロ団の音声版</itunes:summary>
+    <itunes:owner>
+        <itunes:name>新宿ヘロヘロ団</itunes:name>
+    </itunes:owner>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:category text="Entertainment"/>
+    <itunes:image href=""/>
+
+    <item>
+        <title>【マジ泥酔】このつまみ知ってんのか！？〜2025冬〜 お酒が進んだ結果、約2時間 - 2025年12月02日</title>
+        <description>配信者: 新宿ヘロヘロ団</description>
+        <link>https://www.youtube.com/@herohero</link>
+        <guid isPermaLink="false">12-02：【マジ泥酔】このつまみ知ってんのか！？〜2025冬〜 お酒が進んだ結果、約2時間.mp3</guid>
+        <pubDate>Mon, 01 Dec 2025 11:03:14 +0000</pubDate>
+        <enclosure url="https://podcast-server.tetsufumi-isa.workers.dev/herohero/12-02：【マジ泥酔】このつまみ知ってんのか！？〜2025冬〜 お酒が進んだ結果、約2時間.mp3" length="45288237" type="audio/mpeg"/>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+        <title>【愚痴と爆笑】ウエストランド井口とガチ飲み。親友三四郎小宮・爆笑問題太田と佐久間 - 2025年11月25日</title>
+        <description>配信者: 新宿ヘロヘロ団</description>
+        <link>https://www.youtube.com/@herohero</link>
+        <guid isPermaLink="false">11-25：【愚痴と爆笑】ウエストランド井口とガチ飲み。親友三四郎小宮・爆笑問題太田と佐久間.mp3</guid>
+        <pubDate>Mon, 24 Nov 2025 11:02:59 +0000</pubDate>
+        <enclosure url="https://podcast-server.tetsufumi-isa.workers.dev/herohero/11-25：【愚痴と爆笑】ウエストランド井口とガチ飲み。親友三四郎小宮・爆笑問題太田と佐久間.mp3" length="32917677" type="audio/mpeg"/>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+        <title>【衝撃】佐久間オススメの冷凍食品で昼飲みをキメたら最高だった - 2025年11月18日</title>
+        <description>配信者: 新宿ヘロヘロ団</description>
+        <link>https://www.youtube.com/@herohero</link>
+        <guid isPermaLink="false">11-18：【衝撃】佐久間オススメの冷凍食品で昼飲みをキメたら最高だった.mp3</guid>
+        <pubDate>Mon, 17 Nov 2025 11:04:22 +0000</pubDate>
+        <enclosure url="https://podcast-server.tetsufumi-isa.workers.dev/herohero/11-18：【衝撃】佐久間オススメの冷凍食品で昼飲みをキメたら最高だった.mp3" length="27010989" type="audio/mpeg"/>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+        <title>【おじ達の宴】錦鯉渡辺と佐久間とっておきの居酒屋で飲んだら、中身のない最高の宴が - 2025年11月11日</title>
+        <description>配信者: 新宿ヘロヘロ団</description>
+        <link>https://www.youtube.com/@herohero</link>
+        <guid isPermaLink="false">11-11：【おじ達の宴】錦鯉渡辺と佐久間とっておきの居酒屋で飲んだら、中身のない最高の宴が.mp3</guid>
+        <pubDate>Mon, 10 Nov 2025 11:05:03 +0000</pubDate>
+        <enclosure url="https://podcast-server.tetsufumi-isa.workers.dev/herohero/11-11：【おじ達の宴】錦鯉渡辺と佐久間とっておきの居酒屋で飲んだら、中身のない最高の宴が.mp3" length="42261933" type="audio/mpeg"/>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+        <title>【居酒屋無印】厳選全17品！無印良品ゲキ旨フルコースで飲んでみた - 2025年11月04日</title>
+        <description>配信者: 新宿ヘロヘロ団</description>
+        <link>https://www.youtube.com/@herohero</link>
+        <guid isPermaLink="false">11-04：【居酒屋無印】厳選全17品！無印良品ゲキ旨フルコースで飲んでみた.mp3</guid>
+        <pubDate>Mon, 03 Nov 2025 11:03:16 +0000</pubDate>
+        <enclosure url="https://podcast-server.tetsufumi-isa.workers.dev/herohero/11-04：【居酒屋無印】厳選全17品！無印良品ゲキ旨フルコースで飲んでみた.mp3" length="27063213" type="audio/mpeg"/>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+        <title>【宴開幕】上田が通い詰めるバーミヤンで飲んだら楽しすぎてベロベロになった - 2025年10月28日</title>
+        <description>配信者: 新宿ヘロヘロ団</description>
+        <link>https://www.youtube.com/@herohero</link>
+        <guid isPermaLink="false">10-28：【宴開幕】上田が通い詰めるバーミヤンで飲んだら楽しすぎてベロベロになった.mp3</guid>
+        <pubDate>Mon, 27 Oct 2025 13:05:42 +0000</pubDate>
+        <enclosure url="https://podcast-server.tetsufumi-isa.workers.dev/herohero/10-28：【宴開幕】上田が通い詰めるバーミヤンで飲んだら楽しすぎてベロベロになった.mp3" length="30556307" type="audio/mpeg"/>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+        <title>【褒めて〜】銀シャリ橋本とガチ飲み。東京03飯塚からの忘れられない一言・M-1優 - 2025年10月21日</title>
+        <description>配信者: 新宿ヘロヘロ団</description>
+        <link>https://www.youtube.com/@herohero</link>
+        <guid isPermaLink="false">10-21：【褒めて〜】銀シャリ橋本とガチ飲み。東京03飯塚からの忘れられない一言・M-1優.mp3</guid>
+        <pubDate>Mon, 20 Oct 2025 11:04:31 +0000</pubDate>
+        <enclosure url="https://podcast-server.tetsufumi-isa.workers.dev/herohero/10-21：【褒めて〜】銀シャリ橋本とガチ飲み。東京03飯塚からの忘れられない一言・M-1優.mp3" length="45306669" type="audio/mpeg"/>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+        <title>【緊急発表】ヤバいカップラーメンが爆誕しました - 2025年10月10日</title>
+        <description>配信者: 新宿ヘロヘロ団</description>
+        <link>https://www.youtube.com/@herohero</link>
+        <guid isPermaLink="false">10-10：【緊急発表】ヤバいカップラーメンが爆誕しました.mp3</guid>
+        <pubDate>Thu, 09 Oct 2025 11:04:44 +0000</pubDate>
+        <enclosure url="https://podcast-server.tetsufumi-isa.workers.dev/herohero/10-10：【緊急発表】ヤバいカップラーメンが爆誕しました.mp3" length="21874000" type="audio/mpeg"/>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+        <title>【嫉妬と小籠包】紺野ぶるまとガチ飲み。貧乏時代の飲み仲間ヒコロヒー・下ネタを救っ - 2025年10月07日</title>
+        <description>配信者: 新宿ヘロヘロ団</description>
+        <link>https://www.youtube.com/@herohero</link>
+        <guid isPermaLink="false">10-07：【嫉妬と小籠包】紺野ぶるまとガチ飲み。貧乏時代の飲み仲間ヒコロヒー・下ネタを救っ.mp3</guid>
+        <pubDate>Mon, 06 Oct 2025 11:04:55 +0000</pubDate>
+        <enclosure url="https://podcast-server.tetsufumi-isa.workers.dev/herohero/10-07：【嫉妬と小籠包】紺野ぶるまとガチ飲み。貧乏時代の飲み仲間ヒコロヒー・下ネタを救っ.mp3" length="35680864" type="audio/mpeg"/>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+        <title>【過去最高】業務スーパー パンチ最強つまみフルコースがうますぎて全員唸った - 2025年09月30日</title>
+        <description>配信者: 新宿ヘロヘロ団</description>
+        <link>https://www.youtube.com/@herohero</link>
+        <guid isPermaLink="false">09-30：【過去最高】業務スーパー パンチ最強つまみフルコースがうますぎて全員唸った.mp3</guid>
+        <pubDate>Mon, 29 Sep 2025 11:08:55 +0000</pubDate>
+        <enclosure url="https://podcast-server.tetsufumi-isa.workers.dev/herohero/09-30：【過去最高】業務スーパー パンチ最強つまみフルコースがうますぎて全員唸った.mp3" length="27531914" type="audio/mpeg"/>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+        <title>【1人800円】佐久間プレゼンツ！絶品冷凍食品フルコース9品でお酒を飲んだら止ま - 2025年09月23日</title>
+        <description>配信者: 新宿ヘロヘロ団</description>
+        <link>https://www.youtube.com/@herohero</link>
+        <guid isPermaLink="false">09-23：【1人800円】佐久間プレゼンツ！絶品冷凍食品フルコース9品でお酒を飲んだら止ま.mp3</guid>
+        <pubDate>Mon, 22 Sep 2025 11:04:39 +0000</pubDate>
+        <enclosure url="https://podcast-server.tetsufumi-isa.workers.dev/herohero/09-23：【1人800円】佐久間プレゼンツ！絶品冷凍食品フルコース9品でお酒を飲んだら止ま.mp3" length="30615981" type="audio/mpeg"/>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+        <title>【戦友】おぎやはぎ矢作とガチ飲み。SNS炎上は前髪みたいなもん・焼肉orステーキ - 2025年09月16日</title>
+        <description>配信者: 新宿ヘロヘロ団</description>
+        <link>https://www.youtube.com/@herohero</link>
+        <guid isPermaLink="false">09-16：【戦友】おぎやはぎ矢作とガチ飲み。SNS炎上は前髪みたいなもん・焼肉orステーキ.mp3</guid>
+        <pubDate>Mon, 15 Sep 2025 11:04:43 +0000</pubDate>
+        <enclosure url="https://podcast-server.tetsufumi-isa.workers.dev/herohero/09-16：【戦友】おぎやはぎ矢作とガチ飲み。SNS炎上は前髪みたいなもん・焼肉orステーキ.mp3" length="30329517" type="audio/mpeg"/>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+        <title>【お知らせ】本日9-8月配信をお休みします - 2025年09月08日</title>
+        <description>配信者: 新宿ヘロヘロ団</description>
+        <link>https://www.youtube.com/@herohero</link>
+        <guid isPermaLink="false">09-08：【お知らせ】本日9-8月配信をお休みします.mp3</guid>
+        <pubDate>Thu, 11 Sep 2025 03:39:18 +0000</pubDate>
+        <enclosure url="https://podcast-server.tetsufumi-isa.workers.dev/herohero/09-08：【お知らせ】本日9-8月配信をお休みします.mp3" length="8382381" type="audio/mpeg"/>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+        <title>【お知らせ】本日9-8月配信をお休みします - 2025年09月08日</title>
+        <description>配信者: 新宿ヘロヘロ団</description>
+        <link>https://www.youtube.com/@herohero</link>
+        <guid isPermaLink="false">09-08：【お知らせ】本日9／8月配信をお休みします.mp3</guid>
+        <pubDate>Mon, 08 Sep 2025 11:03:59 +0000</pubDate>
+        <enclosure url="https://podcast-server.tetsufumi-isa.workers.dev/herohero/09-08：【お知らせ】本日9／8月配信をお休みします.mp3" length="5091597" type="audio/mpeg"/>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+        <title>【閑話休題】川戸Dの夏休みと、佐久間Pサングラスの話。 - 2025年09月08日</title>
+        <description>配信者: 新宿ヘロヘロ団</description>
+        <link>https://www.youtube.com/@herohero</link>
+        <guid isPermaLink="false">09-08：【閑話休題】川戸Dの夏休みと、佐久間Pサングラスの話。.mp3</guid>
+        <pubDate>Fri, 19 Sep 2025 11:04:48 +0000</pubDate>
+        <enclosure url="https://podcast-server.tetsufumi-isa.workers.dev/herohero/09-08：【閑話休題】川戸Dの夏休みと、佐久間Pサングラスの話。.mp3" length="8382381" type="audio/mpeg"/>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+</channel>
+</rss>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" 
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     version="2.0">
+<channel>
+    <title>タップアウトTV ポッドキャスト</title>
+    <description>タップアウトTVの音声版</description>
+    <link>https://www.youtube.com/@tapouttv</link>
+    <language>ja</language>
+    <copyright>© 2025 タップアウトTV</copyright>
+    <itunes:author>タップアウトTV</itunes:author>
+    <itunes:summary>タップアウトTVの音声版</itunes:summary>
+    <itunes:owner>
+        <itunes:name>タップアウトTV</itunes:name>
+    </itunes:owner>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:category text="Entertainment"/>
+    <itunes:image href=""/>
+
+    <item>
+        <title>【シェイドゥラエフ】「朝倉未来にはガッカリ」【朝倉未来】ヒロヤをボコす【堀口恭司 - 2025年11月24日</title>
+        <description>配信者: タップアウトTV</description>
+        <link>https://www.youtube.com/@tapouttv</link>
+        <guid isPermaLink="false">11-24：【シェイドゥラエフ】「朝倉未来にはガッカリ」【朝倉未来】ヒロヤをボコす【堀口恭司.mp3</guid>
+        <pubDate>Sun, 23 Nov 2025 20:01:06 +0000</pubDate>
+        <enclosure url="https://podcast-server.tetsufumi-isa.workers.dev/tapouttv/11-24：【シェイドゥラエフ】「朝倉未来にはガッカリ」【朝倉未来】ヒロヤをボコす【堀口恭司.mp3" length="14557485" type="audio/mpeg"/>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+        <title>【萩原京平】「朝倉未来とは縁がなかった」【堀口恭司】神龍誠にダメ出し【安保瑠輝也 - 2025年11月16日</title>
+        <description>配信者: タップアウトTV</description>
+        <link>https://www.youtube.com/@tapouttv</link>
+        <guid isPermaLink="false">11-16：【萩原京平】「朝倉未来とは縁がなかった」【堀口恭司】神龍誠にダメ出し【安保瑠輝也.mp3</guid>
+        <pubDate>Sat, 15 Nov 2025 20:01:10 +0000</pubDate>
+        <enclosure url="https://podcast-server.tetsufumi-isa.workers.dev/tapouttv/11-16：【萩原京平】「朝倉未来とは縁がなかった」【堀口恭司】神龍誠にダメ出し【安保瑠輝也.mp3" length="14626221" type="audio/mpeg"/>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+        <title>【朝倉未来】「シェイドゥラエフ戦、いける」【朝倉海】「シェイド戦は、やめて欲しい - 2025年11月10日</title>
+        <description>配信者: タップアウトTV</description>
+        <link>https://www.youtube.com/@tapouttv</link>
+        <guid isPermaLink="false">11-10：【朝倉未来】「シェイドゥラエフ戦、いける」【朝倉海】「シェイド戦は、やめて欲しい.mp3</guid>
+        <pubDate>Sun, 09 Nov 2025 20:01:17 +0000</pubDate>
+        <enclosure url="https://podcast-server.tetsufumi-isa.workers.dev/tapouttv/11-10：【朝倉未来】「シェイドゥラエフ戦、いける」【朝倉海】「シェイド戦は、やめて欲しい.mp3" length="12242349" type="audio/mpeg"/>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+        <title>【萩原京平】引退示唆か【秋元強真】「次は○○選手と戦いたい」【平本蓮】エキシ拒否 - 2025年11月05日</title>
+        <description>配信者: タップアウトTV</description>
+        <link>https://www.youtube.com/@tapouttv</link>
+        <guid isPermaLink="false">11-05：【萩原京平】引退示唆か【秋元強真】「次は○○選手と戦いたい」【平本蓮】エキシ拒否.mp3</guid>
+        <pubDate>Tue, 04 Nov 2025 13:01:15 +0000</pubDate>
+        <enclosure url="https://podcast-server.tetsufumi-isa.workers.dev/tapouttv/11-05：【萩原京平】引退示唆か【秋元強真】「次は○○選手と戦いたい」【平本蓮】エキシ拒否.mp3" length="10884141" type="audio/mpeg"/>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+        <title>【RIZIN神戸大会】【秋元強真】朝倉未来の熱血指導うける【萩原京平】1RKO宣 - 2025年11月03日</title>
+        <description>配信者: タップアウトTV</description>
+        <link>https://www.youtube.com/@tapouttv</link>
+        <guid isPermaLink="false">11-03：【RIZIN神戸大会】【秋元強真】朝倉未来の熱血指導うける【萩原京平】1RKO宣.mp3</guid>
+        <pubDate>Sun, 02 Nov 2025 20:01:42 +0000</pubDate>
+        <enclosure url="https://podcast-server.tetsufumi-isa.workers.dev/tapouttv/11-03：【RIZIN神戸大会】【秋元強真】朝倉未来の熱血指導うける【萩原京平】1RKO宣.mp3" length="11233581" type="audio/mpeg"/>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+        <title>【萩原京平】「平本蓮は良い奴」「朝倉未来は…」【平本蓮】炎上【青木真也】秋元強真 - 2025年10月28日</title>
+        <description>配信者: タップアウトTV</description>
+        <link>https://www.youtube.com/@tapouttv</link>
+        <guid isPermaLink="false">10-28：【萩原京平】「平本蓮は良い奴」「朝倉未来は…」【平本蓮】炎上【青木真也】秋元強真.mp3</guid>
+        <pubDate>Tue, 28 Oct 2025 13:25:17 +0000</pubDate>
+        <enclosure url="https://podcast-server.tetsufumi-isa.workers.dev/tapouttv/10-28：【萩原京平】「平本蓮は良い奴」「朝倉未来は…」【平本蓮】炎上【青木真也】秋元強真.mp3" length="17060405" type="audio/mpeg"/>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+        <title>【RIZIN51】全試合結果まとめ！サトシvs堀江圭功、ラジャブアリ・シェイドゥ - 2025年09月29日</title>
+        <description>配信者: タップアウトTV</description>
+        <link>https://www.youtube.com/@tapouttv</link>
+        <guid isPermaLink="false">09-29：【RIZIN51】全試合結果まとめ！サトシvs堀江圭功、ラジャブアリ・シェイドゥ.mp3</guid>
+        <pubDate>Sun, 28 Sep 2025 13:01:45 +0000</pubDate>
+        <enclosure url="https://podcast-server.tetsufumi-isa.workers.dev/tapouttv/09-29：【RIZIN51】全試合結果まとめ！サトシvs堀江圭功、ラジャブアリ・シェイドゥ.mp3" length="11053037" type="audio/mpeg"/>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+        <title>【朝倉未来】UFC参戦か。「秋元強真実は萩原京平に苦戦するかも」【芦澤竜誠】冨澤 - 2025年09月08日</title>
+        <description>配信者: タップアウトTV</description>
+        <link>https://www.youtube.com/@tapouttv</link>
+        <guid isPermaLink="false">09-08：【朝倉未来】UFC参戦か。「秋元強真実は萩原京平に苦戦するかも」【芦澤竜誠】冨澤.mp3</guid>
+        <pubDate>Sun, 07 Sep 2025 21:01:22 +0000</pubDate>
+        <enclosure url="https://podcast-server.tetsufumi-isa.workers.dev/tapouttv/09-08：【朝倉未来】UFC参戦か。「秋元強真実は萩原京平に苦戦するかも」【芦澤竜誠】冨澤.mp3" length="8185437" type="audio/mpeg"/>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+</channel>
+</rss>
