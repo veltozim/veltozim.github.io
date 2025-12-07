@@ -6,8 +6,15 @@
     <description>TokioHot100 の音声Podcast (FMJ)</description>
     <language>ja</language>
     <itunes:category text="News"/>
-    <lastBuildDate>Sat, 06 Dec 2025 18:00:12 -0000</lastBuildDate>
+    <lastBuildDate>Sun, 07 Dec 2025 18:02:33 -0000</lastBuildDate>
     
+    <item>
+      <title>TokioHot100 - 2025年12月07日</title>
+      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/TokioHot100/20251207_TokioHot100.aac" length="84239977" type="audio/aac" />
+      <guid isPermaLink="false">20251207_TokioHot100.aac</guid>
+      <pubDate>Sun, 07 Dec 2025 00:00:00 -0000</pubDate>
+      <itunes:duration>03:54:00</itunes:duration>
+    </item>
     <item>
       <title>TokioHot100 - 2025年11月30日</title>
       <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/TokioHot100/20251130_TokioHot100.aac" length="84239877" type="audio/aac" />
