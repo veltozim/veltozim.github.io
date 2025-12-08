@@ -6,8 +6,15 @@
     <description>アトロク の音声Podcast (TBS)</description>
     <language>ja</language>
     <itunes:category text="News"/>
-    <lastBuildDate>Sun, 07 Dec 2025 18:02:35 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 08 Dec 2025 18:01:14 -0000</lastBuildDate>
     
+    <item>
+      <title>アトロク - 2025年12月08日 (宇多サンタとトナおまほの ドリンク奢り旅！)</title>
+      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/aftersix/20251208_%E3%82%A2%E3%83%88%E3%83%AD%E3%82%AF_%E5%AE%87%E5%A4%9A%E3%82%B5%E3%83%B3%E3%82%BF%E3%81%A8%E3%83%88%E3%83%8A%E3%81%8A%E3%81%BE%E3%81%BB%E3%81%AE%20%E3%83%89%E3%83%AA%E3%83%B3%E3%82%AF%E5%A5%A2%E3%82%8A%E6%97%85%EF%BC%81.aac" length="43199744" type="audio/aac" />
+      <guid isPermaLink="false">20251208_アトロク_宇多サンタとトナおまほの ドリンク奢り旅！.aac</guid>
+      <pubDate>Mon, 08 Dec 2025 00:00:00 -0000</pubDate>
+      <itunes:duration>02:00:00</itunes:duration>
+    </item>
     <item>
       <title>アトロク - 2025年12月04日</title>
       <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/aftersix/20251204_%E3%82%A2%E3%83%88%E3%83%AD%E3%82%AF.aac" length="43199744" type="audio/aac" />
@@ -139,13 +146,6 @@
       <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/aftersix/20251104_%E3%82%A2%E3%83%88%E3%83%AD%E3%82%AF.aac" length="43199489" type="audio/aac" />
       <guid isPermaLink="false">20251104_アトロク.aac</guid>
       <pubDate>Tue, 04 Nov 2025 00:00:00 -0000</pubDate>
-      <itunes:duration>02:00:00</itunes:duration>
-    </item>
-    <item>
-      <title>アトロク - 2025年11月03日</title>
-      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/aftersix/20251103_%E3%82%A2%E3%83%88%E3%83%AD%E3%82%AF.aac" length="43199744" type="audio/aac" />
-      <guid isPermaLink="false">20251103_アトロク.aac</guid>
-      <pubDate>Mon, 03 Nov 2025 00:00:00 -0000</pubDate>
       <itunes:duration>02:00:00</itunes:duration>
     </item>
   </channel>
