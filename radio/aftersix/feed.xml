@@ -6,8 +6,15 @@
     <description>アトロク の音声Podcast (TBS)</description>
     <language>ja</language>
     <itunes:category text="News"/>
-    <lastBuildDate>Mon, 08 Dec 2025 18:01:14 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 Dec 2025 18:02:52 -0000</lastBuildDate>
     
+    <item>
+      <title>アトロク - 2025年12月09日 (《恋とカルチャー》クリスマススペシャル feat. ジェーン・スー)</title>
+      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/aftersix/20251209_%E3%82%A2%E3%83%88%E3%83%AD%E3%82%AF_%E3%80%8A%E6%81%8B%E3%81%A8%E3%82%AB%E3%83%AB%E3%83%81%E3%83%A3%E3%83%BC%E3%80%8B%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%9E%E3%82%B9%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%20feat.%20%E3%82%B8%E3%82%A7%E3%83%BC%E3%83%B3%E3%83%BB%E3%82%B9%E3%83%BC.aac" length="43199488" type="audio/aac" />
+      <guid isPermaLink="false">20251209_アトロク_《恋とカルチャー》クリスマススペシャル feat. ジェーン・スー.aac</guid>
+      <pubDate>Tue, 09 Dec 2025 00:00:00 -0000</pubDate>
+      <itunes:duration>02:00:00</itunes:duration>
+    </item>
     <item>
       <title>アトロク - 2025年12月08日 (宇多サンタとトナおまほの ドリンク奢り旅！)</title>
       <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/aftersix/20251208_%E3%82%A2%E3%83%88%E3%83%AD%E3%82%AF_%E5%AE%87%E5%A4%9A%E3%82%B5%E3%83%B3%E3%82%BF%E3%81%A8%E3%83%88%E3%83%8A%E3%81%8A%E3%81%BE%E3%81%BB%E3%81%AE%20%E3%83%89%E3%83%AA%E3%83%B3%E3%82%AF%E5%A5%A2%E3%82%8A%E6%97%85%EF%BC%81.aac" length="43199744" type="audio/aac" />
@@ -139,13 +146,6 @@
       <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/aftersix/20251105_%E3%82%A2%E3%83%88%E3%83%AD%E3%82%AF.aac" length="43199744" type="audio/aac" />
       <guid isPermaLink="false">20251105_アトロク.aac</guid>
       <pubDate>Wed, 05 Nov 2025 00:00:00 -0000</pubDate>
-      <itunes:duration>02:00:00</itunes:duration>
-    </item>
-    <item>
-      <title>アトロク - 2025年11月04日</title>
-      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/aftersix/20251104_%E3%82%A2%E3%83%88%E3%83%AD%E3%82%AF.aac" length="43199489" type="audio/aac" />
-      <guid isPermaLink="false">20251104_アトロク.aac</guid>
-      <pubDate>Tue, 04 Nov 2025 00:00:00 -0000</pubDate>
       <itunes:duration>02:00:00</itunes:duration>
     </item>
   </channel>
