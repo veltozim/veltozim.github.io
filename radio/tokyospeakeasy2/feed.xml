@@ -6,8 +6,15 @@
     <description>tokyospeakeasy の音声Podcast (FMT)</description>
     <language>ja</language>
     <itunes:category text="News"/>
-    <lastBuildDate>Wed, 10 Dec 2025 18:03:52 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Dec 2025 18:03:29 -0000</lastBuildDate>
     
+    <item>
+      <title>tokyospeakeasy - 2025年12月12日 (大地真央＆藤井フミヤ)</title>
+      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20251212_tokyospeakeasy_%E5%A4%A7%E5%9C%B0%E7%9C%9F%E5%A4%AE%EF%BC%86%E8%97%A4%E4%BA%95%E3%83%95%E3%83%9F%E3%83%A4.aac" length="21600000" type="audio/aac" />
+      <guid isPermaLink="false">20251212_tokyospeakeasy_大地真央＆藤井フミヤ.aac</guid>
+      <pubDate>Fri, 12 Dec 2025 00:00:00 -0000</pubDate>
+      <itunes:duration>01:00:00</itunes:duration>
+    </item>
     <item>
       <title>tokyospeakeasy - 2025年12月11日 (近藤春菜（ハリセンボン）＆滝沢カレン)</title>
       <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20251211_tokyospeakeasy_%E8%BF%91%E8%97%A4%E6%98%A5%E8%8F%9C%EF%BC%88%E3%83%8F%E3%83%AA%E3%82%BB%E3%83%B3%E3%83%9C%E3%83%B3%EF%BC%89%EF%BC%86%E6%BB%9D%E6%B2%A2%E3%82%AB%E3%83%AC%E3%83%B3.aac" length="21599743" type="audio/aac" />
@@ -139,13 +146,6 @@
       <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20251107_tokyospeakeasy_%E7%AB%B9%E4%B8%AD%E7%9B%B4%E4%BA%BA%EF%BC%86%E5%B2%A9%E4%BA%95%E4%BF%8A%E4%BA%8C.aac" length="21599743" type="audio/aac" />
       <guid isPermaLink="false">20251107_tokyospeakeasy_竹中直人＆岩井俊二.aac</guid>
       <pubDate>Fri, 07 Nov 2025 00:00:00 -0000</pubDate>
-      <itunes:duration>01:00:00</itunes:duration>
-    </item>
-    <item>
-      <title>tokyospeakeasy - 2025年11月06日 (デニス＆角由紀子)</title>
-      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20251106_tokyospeakeasy_%E3%83%87%E3%83%8B%E3%82%B9%EF%BC%86%E8%A7%92%E7%94%B1%E7%B4%80%E5%AD%90.aac" length="21599232" type="audio/aac" />
-      <guid isPermaLink="false">20251106_tokyospeakeasy_デニス＆角由紀子.aac</guid>
-      <pubDate>Thu, 06 Nov 2025 00:00:00 -0000</pubDate>
       <itunes:duration>01:00:00</itunes:duration>
     </item>
   </channel>
