@@ -6,8 +6,15 @@
     <description>tokyospeakeasy の音声Podcast (FMT)</description>
     <language>ja</language>
     <itunes:category text="News"/>
-    <lastBuildDate>Sun, 14 Dec 2025 18:05:38 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Dec 2025 18:04:34 -0000</lastBuildDate>
     
+    <item>
+      <title>tokyospeakeasy - 2025年12月16日 (小堺一機＆なだぎ武)</title>
+      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20251216_tokyospeakeasy_%E5%B0%8F%E5%A0%BA%E4%B8%80%E6%A9%9F%EF%BC%86%E3%81%AA%E3%81%A0%E3%81%8E%E6%AD%A6.aac" length="21599232" type="audio/aac" />
+      <guid isPermaLink="false">20251216_tokyospeakeasy_小堺一機＆なだぎ武.aac</guid>
+      <pubDate>Tue, 16 Dec 2025 00:00:00 -0000</pubDate>
+      <itunes:duration>01:00:00</itunes:duration>
+    </item>
     <item>
       <title>tokyospeakeasy - 2025年12月12日 (大地真央＆藤井フミヤ)</title>
       <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20251212_tokyospeakeasy_%E5%A4%A7%E5%9C%B0%E7%9C%9F%E5%A4%AE%EF%BC%86%E8%97%A4%E4%BA%95%E3%83%95%E3%83%9F%E3%83%A4.aac" length="21600000" type="audio/aac" />
@@ -139,13 +146,6 @@
       <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20251111_tokyospeakeasy_%E5%B1%B1%E6%9C%AC%E5%9C%AD%E5%A3%B1%EF%BC%86%E5%BA%84%E5%8F%B8%E6%99%BA%E6%98%A5%EF%BC%88%E5%93%81%E5%B7%9D%E5%BA%84%E5%8F%B8%EF%BC%89.aac" length="21599744" type="audio/aac" />
       <guid isPermaLink="false">20251111_tokyospeakeasy_山本圭壱＆庄司智春（品川庄司）.aac</guid>
       <pubDate>Tue, 11 Nov 2025 00:00:00 -0000</pubDate>
-      <itunes:duration>01:00:00</itunes:duration>
-    </item>
-    <item>
-      <title>tokyospeakeasy - 2025年11月07日 (竹中直人＆岩井俊二)</title>
-      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20251107_tokyospeakeasy_%E7%AB%B9%E4%B8%AD%E7%9B%B4%E4%BA%BA%EF%BC%86%E5%B2%A9%E4%BA%95%E4%BF%8A%E4%BA%8C.aac" length="21599743" type="audio/aac" />
-      <guid isPermaLink="false">20251107_tokyospeakeasy_竹中直人＆岩井俊二.aac</guid>
-      <pubDate>Fri, 07 Nov 2025 00:00:00 -0000</pubDate>
       <itunes:duration>01:00:00</itunes:duration>
     </item>
   </channel>
