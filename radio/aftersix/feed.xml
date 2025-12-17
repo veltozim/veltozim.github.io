@@ -6,8 +6,15 @@
     <description>アトロク の音声Podcast (TBS)</description>
     <language>ja</language>
     <itunes:category text="News"/>
-    <lastBuildDate>Tue, 16 Dec 2025 18:05:11 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Dec 2025 18:04:34 -0000</lastBuildDate>
     
+    <item>
+      <title>アトロク - 2025年12月17日 (ブックカルチャージャンクション【独立書店の現在】)</title>
+      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/aftersix/20251217_%E3%82%A2%E3%83%88%E3%83%AD%E3%82%AF_%E3%83%96%E3%83%83%E3%82%AF%E3%82%AB%E3%83%AB%E3%83%81%E3%83%A3%E3%83%BC%E3%82%B8%E3%83%A3%E3%83%B3%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%E3%80%90%E7%8B%AC%E7%AB%8B%E6%9B%B8%E5%BA%97%E3%81%AE%E7%8F%BE%E5%9C%A8%E3%80%91.aac" length="43199744" type="audio/aac" />
+      <guid isPermaLink="false">20251217_アトロク_ブックカルチャージャンクション【独立書店の現在】.aac</guid>
+      <pubDate>Wed, 17 Dec 2025 00:00:00 -0000</pubDate>
+      <itunes:duration>02:00:00</itunes:duration>
+    </item>
     <item>
       <title>アトロク - 2025年12月16日 (ライター／編集者・月永理絵（ホン・サンス監督について）)</title>
       <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/aftersix/20251216_%E3%82%A2%E3%83%88%E3%83%AD%E3%82%AF_%E3%83%A9%E3%82%A4%E3%82%BF%E3%83%BC%EF%BC%8F%E7%B7%A8%E9%9B%86%E8%80%85%E3%83%BB%E6%9C%88%E6%B0%B8%E7%90%86%E7%B5%B5%EF%BC%88%E3%83%9B%E3%83%B3%E3%83%BB%E3%82%B5%E3%83%B3%E3%82%B9%E7%9B%A3%E7%9D%A3%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%EF%BC%89.aac" length="43199488" type="audio/aac" />
@@ -139,13 +146,6 @@
       <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/aftersix/20251113_%E3%82%A2%E3%83%88%E3%83%AD%E3%82%AF.aac" length="43200256" type="audio/aac" />
       <guid isPermaLink="false">20251113_アトロク.aac</guid>
       <pubDate>Thu, 13 Nov 2025 00:00:00 -0000</pubDate>
-      <itunes:duration>02:00:00</itunes:duration>
-    </item>
-    <item>
-      <title>アトロク - 2025年11月12日</title>
-      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/aftersix/20251112_%E3%82%A2%E3%83%88%E3%83%AD%E3%82%AF.aac" length="43199232" type="audio/aac" />
-      <guid isPermaLink="false">20251112_アトロク.aac</guid>
-      <pubDate>Wed, 12 Nov 2025 00:00:00 -0000</pubDate>
       <itunes:duration>02:00:00</itunes:duration>
     </item>
   </channel>
