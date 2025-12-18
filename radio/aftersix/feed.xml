@@ -6,8 +6,15 @@
     <description>アトロク の音声Podcast (TBS)</description>
     <language>ja</language>
     <itunes:category text="News"/>
-    <lastBuildDate>Wed, 17 Dec 2025 18:04:34 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Dec 2025 18:04:24 -0000</lastBuildDate>
     
+    <item>
+      <title>アトロク - 2025年12月18日 (今年最後の映画評！「ズートピア２」評論)</title>
+      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/aftersix/20251218_%E3%82%A2%E3%83%88%E3%83%AD%E3%82%AF_%E4%BB%8A%E5%B9%B4%E6%9C%80%E5%BE%8C%E3%81%AE%E6%98%A0%E7%94%BB%E8%A9%95%EF%BC%81%E3%80%8C%E3%82%BA%E3%83%BC%E3%83%88%E3%83%94%E3%82%A2%EF%BC%92%E3%80%8D%E8%A9%95%E8%AB%96.aac" length="43199743" type="audio/aac" />
+      <guid isPermaLink="false">20251218_アトロク_今年最後の映画評！「ズートピア２」評論.aac</guid>
+      <pubDate>Thu, 18 Dec 2025 00:00:00 -0000</pubDate>
+      <itunes:duration>02:00:00</itunes:duration>
+    </item>
     <item>
       <title>アトロク - 2025年12月17日 (ブックカルチャージャンクション【独立書店の現在】)</title>
       <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/aftersix/20251217_%E3%82%A2%E3%83%88%E3%83%AD%E3%82%AF_%E3%83%96%E3%83%83%E3%82%AF%E3%82%AB%E3%83%AB%E3%83%81%E3%83%A3%E3%83%BC%E3%82%B8%E3%83%A3%E3%83%B3%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%E3%80%90%E7%8B%AC%E7%AB%8B%E6%9B%B8%E5%BA%97%E3%81%AE%E7%8F%BE%E5%9C%A8%E3%80%91.aac" length="43199744" type="audio/aac" />
@@ -139,13 +146,6 @@
       <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/aftersix/20251117_%E3%82%A2%E3%83%88%E3%83%AD%E3%82%AF.aac" length="43199743" type="audio/aac" />
       <guid isPermaLink="false">20251117_アトロク.aac</guid>
       <pubDate>Mon, 17 Nov 2025 00:00:00 -0000</pubDate>
-      <itunes:duration>02:00:00</itunes:duration>
-    </item>
-    <item>
-      <title>アトロク - 2025年11月13日</title>
-      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/aftersix/20251113_%E3%82%A2%E3%83%88%E3%83%AD%E3%82%AF.aac" length="43200256" type="audio/aac" />
-      <guid isPermaLink="false">20251113_アトロク.aac</guid>
-      <pubDate>Thu, 13 Nov 2025 00:00:00 -0000</pubDate>
       <itunes:duration>02:00:00</itunes:duration>
     </item>
   </channel>

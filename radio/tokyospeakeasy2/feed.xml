@@ -6,8 +6,15 @@
     <description>tokyospeakeasy の音声Podcast (FMT)</description>
     <language>ja</language>
     <itunes:category text="News"/>
-    <lastBuildDate>Wed, 17 Dec 2025 18:04:35 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Dec 2025 18:04:24 -0000</lastBuildDate>
     
+    <item>
+      <title>tokyospeakeasy - 2025年12月19日 (有野晋哉（よゐこ）＆田村亮)</title>
+      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20251219_tokyospeakeasy_%E6%9C%89%E9%87%8E%E6%99%8B%E5%93%89%EF%BC%88%E3%82%88%E3%82%90%E3%81%93%EF%BC%89%EF%BC%86%E7%94%B0%E6%9D%91%E4%BA%AE.aac" length="21599999" type="audio/aac" />
+      <guid isPermaLink="false">20251219_tokyospeakeasy_有野晋哉（よゐこ）＆田村亮.aac</guid>
+      <pubDate>Fri, 19 Dec 2025 00:00:00 -0000</pubDate>
+      <itunes:duration>01:00:00</itunes:duration>
+    </item>
     <item>
       <title>tokyospeakeasy - 2025年12月18日 (ベッキー＆オズワルド)</title>
       <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20251218_tokyospeakeasy_%E3%83%99%E3%83%83%E3%82%AD%E3%83%BC%EF%BC%86%E3%82%AA%E3%82%BA%E3%83%AF%E3%83%AB%E3%83%89.aac" length="21599232" type="audio/aac" />
@@ -139,13 +146,6 @@
       <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20251114_tokyospeakeasy_%E9%81%A0%E8%97%A4%E7%AB%A0%E9%80%A0%EF%BC%88%E3%82%B3%E3%82%B3%E3%83%AA%E3%82%B3%EF%BC%89%EF%BC%86%E3%83%9E%E3%83%83%E3%82%B3%E3%82%A4%E6%96%89%E8%97%A4.aac" length="21599999" type="audio/aac" />
       <guid isPermaLink="false">20251114_tokyospeakeasy_遠藤章造（ココリコ）＆マッコイ斉藤.aac</guid>
       <pubDate>Fri, 14 Nov 2025 00:00:00 -0000</pubDate>
-      <itunes:duration>01:00:00</itunes:duration>
-    </item>
-    <item>
-      <title>tokyospeakeasy - 2025年11月13日 (松尾貴史＆木村祐一)</title>
-      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20251113_tokyospeakeasy_%E6%9D%BE%E5%B0%BE%E8%B2%B4%E5%8F%B2%EF%BC%86%E6%9C%A8%E6%9D%91%E7%A5%90%E4%B8%80.aac" length="21599232" type="audio/aac" />
-      <guid isPermaLink="false">20251113_tokyospeakeasy_松尾貴史＆木村祐一.aac</guid>
-      <pubDate>Thu, 13 Nov 2025 00:00:00 -0000</pubDate>
       <itunes:duration>01:00:00</itunes:duration>
     </item>
   </channel>
