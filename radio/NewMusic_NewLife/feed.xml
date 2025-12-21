@@ -6,8 +6,15 @@
     <description>堀込高樹NewMusicNewLife の音声Podcast (ALPHA-STATION)</description>
     <language>ja</language>
     <itunes:category text="News"/>
-    <lastBuildDate>Sat, 20 Dec 2025 18:04:57 -0000</lastBuildDate>
+    <lastBuildDate>Sun, 21 Dec 2025 18:04:49 -0000</lastBuildDate>
     
+    <item>
+      <title>堀込高樹NewMusicNewLife - 2025年12月21日</title>
+      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/NewMusic_NewLife/20251221_%E5%A0%80%E8%BE%BC%E9%AB%98%E6%A8%B9NewMusicNewLife.aac" length="21600045" type="audio/aac" />
+      <guid isPermaLink="false">20251221_堀込高樹NewMusicNewLife.aac</guid>
+      <pubDate>Sun, 21 Dec 2025 00:00:00 -0000</pubDate>
+      <itunes:duration>01:00:00</itunes:duration>
+    </item>
     <item>
       <title>堀込高樹NewMusicNewLife - 2025年12月14日</title>
       <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/NewMusic_NewLife/20251214_%E5%A0%80%E8%BE%BC%E9%AB%98%E6%A8%B9NewMusicNewLife.aac" length="21599702" type="audio/aac" />
@@ -139,13 +146,6 @@
       <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/NewMusic_NewLife/20250810_%E5%A0%80%E8%BE%BC%E9%AB%98%E6%A8%B9NewMusicNewLife.aac" length="21599949" type="audio/aac" />
       <guid isPermaLink="false">20250810_堀込高樹NewMusicNewLife.aac</guid>
       <pubDate>Sun, 10 Aug 2025 00:00:00 -0000</pubDate>
-      <itunes:duration>01:00:00</itunes:duration>
-    </item>
-    <item>
-      <title>堀込高樹NewMusicNewLife - 2025年08月03日</title>
-      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/NewMusic_NewLife/20250803_%E5%A0%80%E8%BE%BC%E9%AB%98%E6%A8%B9NewMusic_NewLife.aac" length="21599669" type="audio/aac" />
-      <guid isPermaLink="false">20250803_堀込高樹NewMusic_NewLife.aac</guid>
-      <pubDate>Sun, 03 Aug 2025 00:00:00 -0000</pubDate>
       <itunes:duration>01:00:00</itunes:duration>
     </item>
   </channel>
