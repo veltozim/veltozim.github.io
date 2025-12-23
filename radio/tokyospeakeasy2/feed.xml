@@ -6,8 +6,15 @@
     <description>tokyospeakeasy の音声Podcast (FMT)</description>
     <language>ja</language>
     <itunes:category text="News"/>
-    <lastBuildDate>Mon, 22 Dec 2025 18:03:21 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Dec 2025 18:03:46 -0000</lastBuildDate>
     
+    <item>
+      <title>tokyospeakeasy - 2025年12月24日 (見城徹（幻冬舎社長）＆秋山純)</title>
+      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20251224_tokyospeakeasy_%E8%A6%8B%E5%9F%8E%E5%BE%B9%EF%BC%88%E5%B9%BB%E5%86%AC%E8%88%8E%E7%A4%BE%E9%95%B7%EF%BC%89%EF%BC%86%E7%A7%8B%E5%B1%B1%E7%B4%94.aac" length="21600000" type="audio/aac" />
+      <guid isPermaLink="false">20251224_tokyospeakeasy_見城徹（幻冬舎社長）＆秋山純.aac</guid>
+      <pubDate>Wed, 24 Dec 2025 00:00:00 -0000</pubDate>
+      <itunes:duration>01:00:00</itunes:duration>
+    </item>
     <item>
       <title>tokyospeakeasy - 2025年12月23日 (大竹まこと＆イッセー尾形)</title>
       <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20251223_tokyospeakeasy_%E5%A4%A7%E7%AB%B9%E3%81%BE%E3%81%93%E3%81%A8%EF%BC%86%E3%82%A4%E3%83%83%E3%82%BB%E3%83%BC%E5%B0%BE%E5%BD%A2.aac" length="21599488" type="audio/aac" />
@@ -139,13 +146,6 @@
       <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20251119_tokyospeakeasy_%E7%AB%B9%E5%86%85%E3%82%A2%E3%83%B3%E3%83%8A%EF%BC%86%E5%B9%B9%E8%91%89%EF%BC%88%E3%82%B9%E3%83%94%E3%83%A9%E3%83%BB%E3%82%B9%E3%83%94%E3%82%AB%EF%BC%89.aac" length="21598976" type="audio/aac" />
       <guid isPermaLink="false">20251119_tokyospeakeasy_竹内アンナ＆幹葉（スピラ・スピカ）.aac</guid>
       <pubDate>Wed, 19 Nov 2025 00:00:00 -0000</pubDate>
-      <itunes:duration>01:00:00</itunes:duration>
-    </item>
-    <item>
-      <title>tokyospeakeasy - 2025年11月18日 (関根勤＆植草克秀)</title>
-      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20251118_tokyospeakeasy_%E9%96%A2%E6%A0%B9%E5%8B%A4%EF%BC%86%E6%A4%8D%E8%8D%89%E5%85%8B%E7%A7%80.aac" length="21600000" type="audio/aac" />
-      <guid isPermaLink="false">20251118_tokyospeakeasy_関根勤＆植草克秀.aac</guid>
-      <pubDate>Tue, 18 Nov 2025 00:00:00 -0000</pubDate>
       <itunes:duration>01:00:00</itunes:duration>
     </item>
   </channel>

@@ -6,8 +6,15 @@
     <description>京都FLAG_RADIO の音声Podcast (ALPHA-STATION)</description>
     <language>ja</language>
     <itunes:category text="News"/>
-    <lastBuildDate>Mon, 22 Dec 2025 18:03:18 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Dec 2025 18:03:42 -0000</lastBuildDate>
     
+    <item>
+      <title>京都FLAG_RADIO - 2025年12月23日</title>
+      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/FLAG_RADIO/20251223_%E4%BA%AC%E9%83%BDFLAG_RADIO.aac" length="21600598" type="audio/aac" />
+      <guid isPermaLink="false">20251223_京都FLAG_RADIO.aac</guid>
+      <pubDate>Tue, 23 Dec 2025 00:00:00 -0000</pubDate>
+      <itunes:duration>01:00:00</itunes:duration>
+    </item>
     <item>
       <title>京都FLAG_RADIO - 2025年12月16日</title>
       <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/FLAG_RADIO/20251216_%E4%BA%AC%E9%83%BDFLAG_RADIO.aac" length="21600680" type="audio/aac" />
@@ -139,13 +146,6 @@
       <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/FLAG_RADIO/20250812_%E4%BA%AC%E9%83%BDFLAG_RADIO.aac" length="21600103" type="audio/aac" />
       <guid isPermaLink="false">20250812_京都FLAG_RADIO.aac</guid>
       <pubDate>Tue, 12 Aug 2025 00:00:00 -0000</pubDate>
-      <itunes:duration>01:00:00</itunes:duration>
-    </item>
-    <item>
-      <title>京都FLAG_RADIO - 2025年08月05日</title>
-      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/FLAG_RADIO/20250805_%E4%BA%AC%E9%83%BDFLAG_RADIO.aac" length="21599777" type="audio/aac" />
-      <guid isPermaLink="false">20250805_京都FLAG_RADIO.aac</guid>
-      <pubDate>Tue, 05 Aug 2025 00:00:00 -0000</pubDate>
       <itunes:duration>01:00:00</itunes:duration>
     </item>
   </channel>
