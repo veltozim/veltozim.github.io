@@ -6,8 +6,15 @@
     <description>tokyospeakeasy の音声Podcast (FMT)</description>
     <language>ja</language>
     <itunes:category text="News"/>
-    <lastBuildDate>Tue, 23 Dec 2025 18:03:46 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Dec 2025 18:03:40 -0000</lastBuildDate>
     
+    <item>
+      <title>tokyospeakeasy - 2025年12月25日 (小宮山雄飛（ホフディラン）＆片桐仁)</title>
+      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20251225_tokyospeakeasy_%E5%B0%8F%E5%AE%AE%E5%B1%B1%E9%9B%84%E9%A3%9B%EF%BC%88%E3%83%9B%E3%83%95%E3%83%87%E3%82%A3%E3%83%A9%E3%83%B3%EF%BC%89%EF%BC%86%E7%89%87%E6%A1%90%E4%BB%81.aac" length="21599488" type="audio/aac" />
+      <guid isPermaLink="false">20251225_tokyospeakeasy_小宮山雄飛（ホフディラン）＆片桐仁.aac</guid>
+      <pubDate>Thu, 25 Dec 2025 00:00:00 -0000</pubDate>
+      <itunes:duration>01:00:00</itunes:duration>
+    </item>
     <item>
       <title>tokyospeakeasy - 2025年12月24日 (見城徹（幻冬舎社長）＆秋山純)</title>
       <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20251224_tokyospeakeasy_%E8%A6%8B%E5%9F%8E%E5%BE%B9%EF%BC%88%E5%B9%BB%E5%86%AC%E8%88%8E%E7%A4%BE%E9%95%B7%EF%BC%89%EF%BC%86%E7%A7%8B%E5%B1%B1%E7%B4%94.aac" length="21600000" type="audio/aac" />
@@ -139,13 +146,6 @@
       <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20251120_tokyospeakeasy_%E5%9B%BD%E7%94%9F%E3%81%95%E3%82%86%E3%82%8A%EF%BC%86%E3%83%9F%E3%83%83%E3%83%84%E3%83%BB%E3%83%9E%E3%83%B3%E3%82%B0%E3%83%AD%E3%83%BC%E3%83%96.aac" length="21599744" type="audio/aac" />
       <guid isPermaLink="false">20251120_tokyospeakeasy_国生さゆり＆ミッツ・マングローブ.aac</guid>
       <pubDate>Thu, 20 Nov 2025 00:00:00 -0000</pubDate>
-      <itunes:duration>01:00:00</itunes:duration>
-    </item>
-    <item>
-      <title>tokyospeakeasy - 2025年11月19日 (竹内アンナ＆幹葉（スピラ・スピカ）)</title>
-      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20251119_tokyospeakeasy_%E7%AB%B9%E5%86%85%E3%82%A2%E3%83%B3%E3%83%8A%EF%BC%86%E5%B9%B9%E8%91%89%EF%BC%88%E3%82%B9%E3%83%94%E3%83%A9%E3%83%BB%E3%82%B9%E3%83%94%E3%82%AB%EF%BC%89.aac" length="21598976" type="audio/aac" />
-      <guid isPermaLink="false">20251119_tokyospeakeasy_竹内アンナ＆幹葉（スピラ・スピカ）.aac</guid>
-      <pubDate>Wed, 19 Nov 2025 00:00:00 -0000</pubDate>
       <itunes:duration>01:00:00</itunes:duration>
     </item>
   </channel>

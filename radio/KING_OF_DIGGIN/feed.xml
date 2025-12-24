@@ -6,8 +6,15 @@
     <description>KING_OF_DIGGIN の音声Podcast (FMT)</description>
     <language>ja</language>
     <itunes:category text="News"/>
-    <lastBuildDate>Tue, 23 Dec 2025 18:03:41 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Dec 2025 18:03:36 -0000</lastBuildDate>
     
+    <item>
+      <title>KING_OF_DIGGIN - 2025年12月24日</title>
+      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/KING_OF_DIGGIN/20251224_KING_OF_DIGGIN.aac" length="10800640" type="audio/aac" />
+      <guid isPermaLink="false">20251224_KING_OF_DIGGIN.aac</guid>
+      <pubDate>Wed, 24 Dec 2025 00:00:00 -0000</pubDate>
+      <itunes:duration>00:30:00</itunes:duration>
+    </item>
     <item>
       <title>KING_OF_DIGGIN - 2025年12月17日</title>
       <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/KING_OF_DIGGIN/20251217_KING_OF_DIGGIN.aac" length="10800384" type="audio/aac" />
@@ -139,13 +146,6 @@
       <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/KING_OF_DIGGIN/20250813_KING_OF_DIGGIN.aac" length="10799616" type="audio/aac" />
       <guid isPermaLink="false">20250813_KING_OF_DIGGIN.aac</guid>
       <pubDate>Wed, 13 Aug 2025 00:00:00 -0000</pubDate>
-      <itunes:duration>00:30:00</itunes:duration>
-    </item>
-    <item>
-      <title>KING_OF_DIGGIN - 2025年08月06日</title>
-      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/KING_OF_DIGGIN/20250806_KING_OF_DIGGIN.aac" length="10799616" type="audio/aac" />
-      <guid isPermaLink="false">20250806_KING_OF_DIGGIN.aac</guid>
-      <pubDate>Wed, 06 Aug 2025 00:00:00 -0000</pubDate>
       <itunes:duration>00:30:00</itunes:duration>
     </item>
   </channel>

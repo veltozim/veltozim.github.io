@@ -6,8 +6,15 @@
     <description>アトロク の音声Podcast (TBS)</description>
     <language>ja</language>
     <itunes:category text="News"/>
-    <lastBuildDate>Tue, 23 Dec 2025 18:03:45 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Dec 2025 18:03:39 -0000</lastBuildDate>
     
+    <item>
+      <title>アトロク - 2025年12月24日 (Ms.メラニーのシネマランキング)</title>
+      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/aftersix/20251224_%E3%82%A2%E3%83%88%E3%83%AD%E3%82%AF_Ms.%E3%83%A1%E3%83%A9%E3%83%8B%E3%83%BC%E3%81%AE%E3%82%B7%E3%83%8D%E3%83%9E%E3%83%A9%E3%83%B3%E3%82%AD%E3%83%B3%E3%82%B0.aac" length="43198976" type="audio/aac" />
+      <guid isPermaLink="false">20251224_アトロク_Ms.メラニーのシネマランキング.aac</guid>
+      <pubDate>Wed, 24 Dec 2025 00:00:00 -0000</pubDate>
+      <itunes:duration>02:00:00</itunes:duration>
+    </item>
     <item>
       <title>アトロク - 2025年12月23日 (料理研究家・きじまりゅうた（お正月の家庭料理について）)</title>
       <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/aftersix/20251223_%E3%82%A2%E3%83%88%E3%83%AD%E3%82%AF_%E6%96%99%E7%90%86%E7%A0%94%E7%A9%B6%E5%AE%B6%E3%83%BB%E3%81%8D%E3%81%98%E3%81%BE%E3%82%8A%E3%82%85%E3%81%86%E3%81%9F%EF%BC%88%E3%81%8A%E6%AD%A3%E6%9C%88%E3%81%AE%E5%AE%B6%E5%BA%AD%E6%96%99%E7%90%86%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%EF%BC%89.aac" length="43199743" type="audio/aac" />
@@ -139,13 +146,6 @@
       <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/aftersix/20251120_%E3%82%A2%E3%83%88%E3%83%AD%E3%82%AF.aac" length="43199744" type="audio/aac" />
       <guid isPermaLink="false">20251120_アトロク.aac</guid>
       <pubDate>Thu, 20 Nov 2025 00:00:00 -0000</pubDate>
-      <itunes:duration>02:00:00</itunes:duration>
-    </item>
-    <item>
-      <title>アトロク - 2025年11月19日</title>
-      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/aftersix/20251119_%E3%82%A2%E3%83%88%E3%83%AD%E3%82%AF.aac" length="43199488" type="audio/aac" />
-      <guid isPermaLink="false">20251119_アトロク.aac</guid>
-      <pubDate>Wed, 19 Nov 2025 00:00:00 -0000</pubDate>
       <itunes:duration>02:00:00</itunes:duration>
     </item>
   </channel>
