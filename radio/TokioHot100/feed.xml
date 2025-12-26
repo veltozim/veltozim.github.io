@@ -6,12 +6,19 @@
     <description>TokioHot100 の音声Podcast (FMJ)</description>
     <language>ja</language>
     <itunes:category text="News"/>
-    <lastBuildDate>Thu, 25 Dec 2025 18:03:31 -0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Dec 2025 18:05:30 -0000</lastBuildDate>
     
     <item>
       <title>TokioHot100 - 2025年12月21日</title>
       <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/TokioHot100/20251221_TokioHot100.aac" length="84239495" type="audio/aac" />
       <guid isPermaLink="false">20251221_TokioHot100.aac</guid>
+      <pubDate>Sun, 21 Dec 2025 00:00:00 -0000</pubDate>
+      <itunes:duration>03:54:00</itunes:duration>
+    </item>
+    <item>
+      <title>TokioHot100 - 2025年12月21日 (ハナレグミ（14時ごろ〜）)</title>
+      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/TokioHot100/20251221_TokioHot100_%E3%83%8F%E3%83%8A%E3%83%AC%E3%82%B0%E3%83%9F%EF%BC%8814%E6%99%82%E3%81%94%E3%82%8D%E3%80%9C%EF%BC%89.aac" length="84239495" type="audio/aac" />
+      <guid isPermaLink="false">20251221_TokioHot100_ハナレグミ（14時ごろ〜）.aac</guid>
       <pubDate>Sun, 21 Dec 2025 00:00:00 -0000</pubDate>
       <itunes:duration>03:54:00</itunes:duration>
     </item>
@@ -139,13 +146,6 @@
       <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/TokioHot100/20250817_TokioHot100.aac" length="84239394" type="audio/aac" />
       <guid isPermaLink="false">20250817_TokioHot100.aac</guid>
       <pubDate>Sun, 17 Aug 2025 00:00:00 -0000</pubDate>
-      <itunes:duration>03:54:00</itunes:duration>
-    </item>
-    <item>
-      <title>TokioHot100 - 2025年08月10日</title>
-      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/TokioHot100/20250810_TokioHot100.aac" length="84240083" type="audio/aac" />
-      <guid isPermaLink="false">20250810_TokioHot100.aac</guid>
-      <pubDate>Sun, 10 Aug 2025 00:00:00 -0000</pubDate>
       <itunes:duration>03:54:00</itunes:duration>
     </item>
   </channel>
