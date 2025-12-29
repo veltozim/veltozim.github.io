@@ -6,8 +6,15 @@
     <description>tokyospeakeasy の音声Podcast (FMT)</description>
     <language>ja</language>
     <itunes:category text="News"/>
-    <lastBuildDate>Sun, 28 Dec 2025 18:01:50 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Dec 2025 18:01:16 -0000</lastBuildDate>
     
+    <item>
+      <title>tokyospeakeasy - 2025年12月30日 (ビビる大木＆チャンカワイ)</title>
+      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20251230_tokyospeakeasy_%E3%83%93%E3%83%93%E3%82%8B%E5%A4%A7%E6%9C%A8%EF%BC%86%E3%83%81%E3%83%A3%E3%83%B3%E3%82%AB%E3%83%AF%E3%82%A4.aac" length="21599744" type="audio/aac" />
+      <guid isPermaLink="false">20251230_tokyospeakeasy_ビビる大木＆チャンカワイ.aac</guid>
+      <pubDate>Tue, 30 Dec 2025 00:00:00 -0000</pubDate>
+      <itunes:duration>01:00:00</itunes:duration>
+    </item>
     <item>
       <title>tokyospeakeasy - 2025年12月26日 (サンプラザ中野くん＆千秋)</title>
       <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20251226_tokyospeakeasy_%E3%82%B5%E3%83%B3%E3%83%97%E3%83%A9%E3%82%B6%E4%B8%AD%E9%87%8E%E3%81%8F%E3%82%93%EF%BC%86%E5%8D%83%E7%A7%8B.aac" length="21599744" type="audio/aac" />
@@ -139,13 +146,6 @@
       <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20251125_tokyospeakeasy_%E6%BF%B1%E5%8F%A3%E5%84%AA%EF%BC%88%E3%82%88%E3%82%90%E3%81%93%EF%BC%89%EF%BC%86%E9%88%B4%E6%9C%A8%E6%8B%93.aac" length="21599232" type="audio/aac" />
       <guid isPermaLink="false">20251125_tokyospeakeasy_濱口優（よゐこ）＆鈴木拓.aac</guid>
       <pubDate>Tue, 25 Nov 2025 00:00:00 -0000</pubDate>
-      <itunes:duration>01:00:00</itunes:duration>
-    </item>
-    <item>
-      <title>tokyospeakeasy - 2025年11月21日 (蝶野正洋＆辻よしなり)</title>
-      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20251121_tokyospeakeasy_%E8%9D%B6%E9%87%8E%E6%AD%A3%E6%B4%8B%EF%BC%86%E8%BE%BB%E3%82%88%E3%81%97%E3%81%AA%E3%82%8A.aac" length="21600000" type="audio/aac" />
-      <guid isPermaLink="false">20251121_tokyospeakeasy_蝶野正洋＆辻よしなり.aac</guid>
-      <pubDate>Fri, 21 Nov 2025 00:00:00 -0000</pubDate>
       <itunes:duration>01:00:00</itunes:duration>
     </item>
   </channel>
