@@ -6,8 +6,15 @@
     <description>tokyospeakeasy の音声Podcast (FMT)</description>
     <language>ja</language>
     <itunes:category text="News"/>
-    <lastBuildDate>Mon, 29 Dec 2025 18:01:16 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Dec 2025 18:01:57 -0000</lastBuildDate>
     
+    <item>
+      <title>tokyospeakeasy - 2025年12月31日 (五関晃一＆森本晋太郎（トンツカタン）)</title>
+      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20251231_tokyospeakeasy_%E4%BA%94%E9%96%A2%E6%99%83%E4%B8%80%EF%BC%86%E6%A3%AE%E6%9C%AC%E6%99%8B%E5%A4%AA%E9%83%8E%EF%BC%88%E3%83%88%E3%83%B3%E3%83%84%E3%82%AB%E3%82%BF%E3%83%B3%EF%BC%89.aac" length="21599488" type="audio/aac" />
+      <guid isPermaLink="false">20251231_tokyospeakeasy_五関晃一＆森本晋太郎（トンツカタン）.aac</guid>
+      <pubDate>Wed, 31 Dec 2025 00:00:00 -0000</pubDate>
+      <itunes:duration>01:00:00</itunes:duration>
+    </item>
     <item>
       <title>tokyospeakeasy - 2025年12月30日 (ビビる大木＆チャンカワイ)</title>
       <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20251230_tokyospeakeasy_%E3%83%93%E3%83%93%E3%82%8B%E5%A4%A7%E6%9C%A8%EF%BC%86%E3%83%81%E3%83%A3%E3%83%B3%E3%82%AB%E3%83%AF%E3%82%A4.aac" length="21599744" type="audio/aac" />
@@ -139,13 +146,6 @@
       <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20251126_tokyospeakeasy_%E8%84%87%E5%B1%8B%E5%8F%8B%E8%A9%9E%EF%BC%86%E5%B9%B3%E5%8E%9F%E7%B6%BE%E9%A6%99.aac" length="21599744" type="audio/aac" />
       <guid isPermaLink="false">20251126_tokyospeakeasy_脇屋友詞＆平原綾香.aac</guid>
       <pubDate>Wed, 26 Nov 2025 00:00:00 -0000</pubDate>
-      <itunes:duration>01:00:00</itunes:duration>
-    </item>
-    <item>
-      <title>tokyospeakeasy - 2025年11月25日 (濱口優（よゐこ）＆鈴木拓)</title>
-      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20251125_tokyospeakeasy_%E6%BF%B1%E5%8F%A3%E5%84%AA%EF%BC%88%E3%82%88%E3%82%90%E3%81%93%EF%BC%89%EF%BC%86%E9%88%B4%E6%9C%A8%E6%8B%93.aac" length="21599232" type="audio/aac" />
-      <guid isPermaLink="false">20251125_tokyospeakeasy_濱口優（よゐこ）＆鈴木拓.aac</guid>
-      <pubDate>Tue, 25 Nov 2025 00:00:00 -0000</pubDate>
       <itunes:duration>01:00:00</itunes:duration>
     </item>
   </channel>

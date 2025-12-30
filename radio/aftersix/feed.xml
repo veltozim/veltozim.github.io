@@ -6,8 +6,15 @@
     <description>アトロク の音声Podcast (TBS)</description>
     <language>ja</language>
     <itunes:category text="News"/>
-    <lastBuildDate>Mon, 29 Dec 2025 18:01:15 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Dec 2025 18:01:56 -0000</lastBuildDate>
     
+    <item>
+      <title>アトロク - 2025年12月30日 (アトロク)</title>
+      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/aftersix/20251230_%E3%82%A2%E3%83%88%E3%83%AD%E3%82%AF.aac" length="43199225" type="audio/aac" />
+      <guid isPermaLink="false">20251230_アトロク.aac</guid>
+      <pubDate>Tue, 30 Dec 2025 00:00:00 -0000</pubDate>
+      <itunes:duration>02:00:00</itunes:duration>
+    </item>
     <item>
       <title>アトロク - 2025年12月29日 (アトロク２！ 年忘れ大カラオケ大会 2025！)</title>
       <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/aftersix/20251229_%E3%82%A2%E3%83%88%E3%83%AD%E3%82%AF%EF%BC%92%EF%BC%81%20%E5%B9%B4%E5%BF%98%E3%82%8C%E5%A4%A7%E3%82%AB%E3%83%A9%E3%82%AA%E3%82%B1%E5%A4%A7%E4%BC%9A%202025%EF%BC%81.aac" length="43199743" type="audio/aac" />
