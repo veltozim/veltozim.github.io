@@ -10,14 +10,14 @@
     <ns0:explicit>no</ns0:explicit>
     <ns0:category text="Technology"/>
     <link>https://veltozim.github.io/feed.xml</link>
-    <lastBuildDate>Thu, 01 Jan 2026 09:03:24 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Jan 2026 13:35:56 +0000</lastBuildDate>
     <item>
-      <title>test1</title>
-      <description>Recording: test1</description>
-      <pubDate>Thu, 01 Jan 2026 09:03:23 +0000</pubDate>
-      <guid>https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/test1.m4a</guid>
-      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/test1.m4a" length="1040312" type="audio/mp4"/>
-      <ns0:title>test1</ns0:title>
+      <title>年末だよ！ニュースヤミ鍋プラスワン2025 三浦マイルド</title>
+      <description>Recording: 年末だよ！ニュースヤミ鍋プラスワン2025 三浦マイルド</description>
+      <pubDate>Thu, 01 Jan 2026 13:35:56 +0000</pubDate>
+      <guid>https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/年末だよ！ニュースヤミ鍋プラスワン2025 三浦マイルド.m4a</guid>
+      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/年末だよ！ニュースヤミ鍋プラスワン2025 三浦マイルド.m4a" length="211563880" type="audio/mp4"/>
+      <ns0:title>年末だよ！ニュースヤミ鍋プラスワン2025 三浦マイルド</ns0:title>
     </item>
   </channel>
 </rss>
