@@ -10,38 +10,14 @@
     <ns0:explicit>no</ns0:explicit>
     <ns0:category text="Technology"/>
     <link>https://veltozim.github.io/feed.xml</link>
-    <lastBuildDate>Thu, 01 Jan 2026 08:09:07 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Jan 2026 08:49:02 +0000</lastBuildDate>
     <item>
-      <title>test6</title>
-      <description>Recording: test6</description>
-      <pubDate>Thu, 01 Jan 2026 08:09:07 +0000</pubDate>
-      <guid>https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/test6.m4a</guid>
-      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/test6.m4a" length="970877" type="audio/mp4"/>
-      <ns0:title>test6</ns0:title>
-    </item>
-    <item>
-      <title>test5</title>
-      <description>Recording: test5</description>
-      <pubDate>Thu, 01 Jan 2026 07:38:52 +0000</pubDate>
-      <guid>https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/test5.m4a</guid>
-      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/test5.m4a" length="652871" type="audio/mp4"/>
-      <ns0:title>test5</ns0:title>
-    </item>
-    <item>
-      <title>test4</title>
-      <description>Recording: test4</description>
-      <pubDate>Thu, 01 Jan 2026 07:34:14 +0000</pubDate>
-      <guid>https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/test4.m4a</guid>
-      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/test4.m4a" length="645430" type="audio/mp4"/>
-      <ns0:title>test4</ns0:title>
-    </item>
-    <item>
-      <title>test3</title>
-      <description>Recording: test3</description>
-      <pubDate>Thu, 01 Jan 2026 07:28:53 +0000</pubDate>
-      <guid>https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/test3.m4a</guid>
-      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/test3.m4a" length="431542" type="audio/mp4"/>
-      <ns0:title>test3</ns0:title>
+      <title>test28</title>
+      <description>Recording: test28</description>
+      <pubDate>Thu, 01 Jan 2026 08:49:01 +0000</pubDate>
+      <guid>https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/test28.m4a</guid>
+      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/test28.m4a" length="1043547" type="audio/mp4"/>
+      <ns0:title>test28</ns0:title>
     </item>
   </channel>
 </rss>
