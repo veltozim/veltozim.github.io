@@ -6,8 +6,15 @@
     <description>tokyospeakeasy の音声Podcast (FMT)</description>
     <language>ja</language>
     <itunes:category text="News"/>
-    <lastBuildDate>Wed, 31 Dec 2025 18:01:25 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Jan 2026 18:01:19 -0000</lastBuildDate>
     
+    <item>
+      <title>tokyospeakeasy - 2026年01月02日 (ザ・ぼんち＆囲碁将棋)</title>
+      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20260102_tokyospeakeasy_%E3%82%B6%E3%83%BB%E3%81%BC%E3%82%93%E3%81%A1%EF%BC%86%E5%9B%B2%E7%A2%81%E5%B0%86%E6%A3%8B.aac" length="21599488" type="audio/aac" />
+      <guid isPermaLink="false">20260102_tokyospeakeasy_ザ・ぼんち＆囲碁将棋.aac</guid>
+      <pubDate>Fri, 02 Jan 2026 00:00:00 -0000</pubDate>
+      <itunes:duration>01:00:00</itunes:duration>
+    </item>
     <item>
       <title>tokyospeakeasy - 2026年01月01日 (クロちゃん（安田大サーカス）＆河瀬詩（22＆7）＆椎名桜月（22＆7）＆望月りの（22＆7）)</title>
       <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20260101_tokyospeakeasy_%E3%82%AF%E3%83%AD%E3%81%A1%E3%82%83%E3%82%93%EF%BC%88%E5%AE%89%E7%94%B0%E5%A4%A7%E3%82%B5%E3%83%BC%E3%82%AB%E3%82%B9%EF%BC%89%EF%BC%86%E6%B2%B3%E7%80%AC%E8%A9%A9%EF%BC%8822%EF%BC%867%EF%BC%89%EF%BC%86%E6%A4%8E%E5%90%8D%E6%A1%9C%E6%9C%88%EF%BC%8822%EF%BC%867%EF%BC%89%EF%BC%86%E6%9C%9B%E6%9C%88%E3%82%8A%E3%81%AE%EF%BC%8822%EF%BC%867%EF%BC%89.aac" length="21599488" type="audio/aac" />
@@ -139,13 +146,6 @@
       <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20251128_tokyospeakeasy_%E3%81%A8%E3%81%AB%E3%81%8B%E3%81%8F%E6%98%8E%E3%82%8B%E3%81%84%E5%AE%89%E6%9D%91%EF%BC%86%E5%B0%BE%E5%BD%A2%E8%B2%B4%E5%BC%98.aac" length="21599233" type="audio/aac" />
       <guid isPermaLink="false">20251128_tokyospeakeasy_とにかく明るい安村＆尾形貴弘.aac</guid>
       <pubDate>Fri, 28 Nov 2025 00:00:00 -0000</pubDate>
-      <itunes:duration>01:00:00</itunes:duration>
-    </item>
-    <item>
-      <title>tokyospeakeasy - 2025年11月27日 (DJ_KOO＆ラブレターズ)</title>
-      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20251127_tokyospeakeasy_DJ_KOO%EF%BC%86%E3%83%A9%E3%83%96%E3%83%AC%E3%82%BF%E3%83%BC%E3%82%BA.aac" length="21600000" type="audio/aac" />
-      <guid isPermaLink="false">20251127_tokyospeakeasy_DJ_KOO＆ラブレターズ.aac</guid>
-      <pubDate>Thu, 27 Nov 2025 00:00:00 -0000</pubDate>
       <itunes:duration>01:00:00</itunes:duration>
     </item>
   </channel>
