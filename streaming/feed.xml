@@ -1,35 +1,35 @@
 <?xml version="1.0" ?>
 <rss xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
-    <title>Streaming Recordings</title>
-    <description>Audio recordings captured from streaming services</description>
+    <title>配信録音</title>
+    <description>ストリーミングサービスから録音した音声</description>
     <language>ja</language>
     <author>Browser Audio Recorder</author>
     <ns0:author>Browser Audio Recorder</ns0:author>
-    <ns0:summary>Audio recordings captured from streaming services</ns0:summary>
+    <ns0:summary>ストリーミングサービスから録音した音声</ns0:summary>
     <ns0:explicit>no</ns0:explicit>
     <ns0:category text="Technology"/>
     <link>https://veltozim.github.io/streaming/feed.xml</link>
-    <lastBuildDate>Fri, 02 Jan 2026 04:55:40 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Jan 2026 05:41:34 +0000</lastBuildDate>
+    <item>
+      <title>【自律神経はなぜ乱れるのか】「なんとなくだるい」の原因／コロナ禍以降、10代でも患者が増加／音・光・匂いもストレスに／「完璧主義者」は要注意／交感神経と副交感神経の関係【PIVOT HEALTH】</title>
+      <description>【自律神経はなぜ乱れるのか】「なんとなくだるい」の原因／コロナ禍以降、10代でも患者が増加／音・光・匂いもストレスに／「完璧主義者」は要注意／交感神経と副交感神経の関係【PIVOT HEALTH】</description>
+      <pubDate>Fri, 02 Jan 2026 05:41:33 +0000</pubDate>
+      <guid>https://pub-818f368ffb1343438308791361fbe938.r2.dev/【自律神経はなぜ乱れるのか】「なんとなくだるい」の原因／コロナ禍以降、10代でも患者が増加／音・光・匂いもストレスに／「完璧主義者」は要注意／交感神経と副交感神経の関係【PIVOT HEALTH】.m4a</guid>
+      <enclosure url="https://pub-818f368ffb1343438308791361fbe938.r2.dev/【自律神経はなぜ乱れるのか】「なんとなくだるい」の原因／コロナ禍以降、10代でも患者が増加／音・光・匂いもストレスに／「完璧主義者」は要注意／交感神経と副交感神経の関係【PIVOT HEALTH】.m4a" length="1251438" type="audio/mp4"/>
+      <ns0:title>【自律神経はなぜ乱れるのか】「なんとなくだるい」の原因／コロナ禍以降、10代でも患者が増加／音・光・匂いもストレスに／「完璧主義者」は要注意／交感神経と副交感神経の関係【PIVOT HEALTH】</ns0:title>
+    </item>
     <item>
       <title>MAGA分裂で新潮流「AFAO」／トランプ関税に違憲判決？／ベネズエラ船攻撃と新モンロー主義／米中G2時代の到来と日本の危機</title>
-      <description>Recording: MAGA分裂で新潮流「AFAO」／トランプ関税に違憲判決？／ベネズエラ船攻撃と新モンロー主義／米中G2時代の到来と日本の危機</description>
+      <description>MAGA分裂で新潮流「AFAO」／トランプ関税に違憲判決？／ベネズエラ船攻撃と新モンロー主義／米中G2時代の到来と日本の危機</description>
       <pubDate>Fri, 02 Jan 2026 04:55:39 +0000</pubDate>
       <guid>https://pub-818f368ffb1343438308791361fbe938.r2.dev/MAGA分裂で新潮流「AFAO」／トランプ関税に違憲判決？／ベネズエラ船攻撃と新モンロー主義／米中G2時代の到来と日本の危機.m4a</guid>
       <enclosure url="https://pub-818f368ffb1343438308791361fbe938.r2.dev/MAGA分裂で新潮流「AFAO」／トランプ関税に違憲判決？／ベネズエラ船攻撃と新モンロー主義／米中G2時代の到来と日本の危機.m4a" length="2115766" type="audio/mp4"/>
       <ns0:title>MAGA分裂で新潮流「AFAO」／トランプ関税に違憲判決？／ベネズエラ船攻撃と新モンロー主義／米中G2時代の到来と日本の危機</ns0:title>
     </item>
     <item>
-      <title>test01</title>
-      <description>Recording: test01</description>
-      <pubDate>Thu, 01 Jan 2026 13:53:14 +0000</pubDate>
-      <guid>https://pub-818f368ffb1343438308791361fbe938.r2.dev/test01.m4a</guid>
-      <enclosure url="https://pub-818f368ffb1343438308791361fbe938.r2.dev/test01.m4a" length="1934180" type="audio/mp4"/>
-      <ns0:title>test01</ns0:title>
-    </item>
-    <item>
       <title>年末だよ！ニュースヤミ鍋プラスワン2025 三浦マイルド</title>
-      <description>Recording: 年末だよ！ニュースヤミ鍋プラスワン2025 三浦マイルド</description>
+      <description>年末だよ！ニュースヤミ鍋プラスワン2025 三浦マイルド</description>
       <pubDate>Thu, 01 Jan 2026 13:35:56 +0000</pubDate>
       <guid>https://pub-818f368ffb1343438308791361fbe938.r2.dev/年末だよ！ニュースヤミ鍋プラスワン2025 三浦マイルド.m4a</guid>
       <enclosure url="https://pub-818f368ffb1343438308791361fbe938.r2.dev/年末だよ！ニュースヤミ鍋プラスワン2025 三浦マイルド.m4a" length="211563880" type="audio/mp4"/>
