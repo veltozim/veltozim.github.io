@@ -6,8 +6,15 @@
     <description>常盤響のニューレコード の音声Podcast (LOVEFM)</description>
     <language>ja</language>
     <itunes:category text="News"/>
-    <lastBuildDate>Thu, 01 Jan 2026 18:01:16 -0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Jan 2026 18:01:15 -0000</lastBuildDate>
     
+    <item>
+      <title>常盤響のニューレコード - 2026年01月02日</title>
+      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/NewRecord/20260102_%E5%B8%B8%E7%9B%A4%E9%9F%BF%E3%81%AE%E3%83%8B%E3%83%A5%E3%83%BC%E3%83%AC%E3%82%B3%E3%83%BC%E3%83%89.aac" length="32399969" type="audio/aac" />
+      <guid isPermaLink="false">20260102_常盤響のニューレコード.aac</guid>
+      <pubDate>Fri, 02 Jan 2026 00:00:00 -0000</pubDate>
+      <itunes:duration>01:30:00</itunes:duration>
+    </item>
     <item>
       <title>常盤響のニューレコード - 2025年12月26日</title>
       <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/NewRecord/20251226_%E5%B8%B8%E7%9B%A4%E9%9F%BF%E3%81%AE%E3%83%8B%E3%83%A5%E3%83%BC%E3%83%AC%E3%82%B3%E3%83%BC%E3%83%89.aac" length="32399296" type="audio/aac" />
@@ -139,13 +146,6 @@
       <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/NewRecord/20250822_%E5%B8%B8%E7%9B%A4%E9%9F%BF%E3%81%AE%E3%83%8B%E3%83%A5%E3%83%BC%E3%83%AC%E3%82%B3%E3%83%BC%E3%83%89.aac" length="32399350" type="audio/aac" />
       <guid isPermaLink="false">20250822_常盤響のニューレコード.aac</guid>
       <pubDate>Fri, 22 Aug 2025 00:00:00 -0000</pubDate>
-      <itunes:duration>01:30:00</itunes:duration>
-    </item>
-    <item>
-      <title>常盤響のニューレコード - 2025年08月15日</title>
-      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/NewRecord/20250815_%E5%B8%B8%E7%9B%A4%E9%9F%BF%E3%81%AE%E3%83%8B%E3%83%A5%E3%83%BC%E3%83%AC%E3%82%B3%E3%83%BC%E3%83%89.aac" length="32399326" type="audio/aac" />
-      <guid isPermaLink="false">20250815_常盤響のニューレコード.aac</guid>
-      <pubDate>Fri, 15 Aug 2025 00:00:00 -0000</pubDate>
       <itunes:duration>01:30:00</itunes:duration>
     </item>
   </channel>
