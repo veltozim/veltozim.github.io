@@ -4,13 +4,45 @@
     <title>配信録音</title>
     <description>ストリーミングサービスから録音した音声</description>
     <language>ja</language>
-    <author>Browser Audio Recorder</author>
-    <ns0:author>Browser Audio Recorder</ns0:author>
+    <author>YouTube Audio Downloader</author>
+    <ns0:author>YouTube Audio Downloader</ns0:author>
     <ns0:summary>ストリーミングサービスから録音した音声</ns0:summary>
     <ns0:explicit>no</ns0:explicit>
     <ns0:category text="Technology"/>
     <link>https://veltozim.github.io/streaming/feed.xml</link>
-    <lastBuildDate>Mon, 05 Jan 2026 13:18:44 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Jan 2026 06:25:08 +0000</lastBuildDate>
+    <item>
+      <title>【小泉悠×興梠一郎】ウクライナ情勢展望／和平交渉の行方／兵器と予算が欠乏する、ロシア軍の苦境／台湾有事への影響／衛星画像でロシア軍基地を徹底分析／ロシア核実験施設の最新動向【政策超分析】</title>
+      <description>【小泉悠×興梠一郎】ウクライナ情勢展望／和平交渉の行方／兵器と予算が欠乏する、ロシア軍の苦境／台湾有事への影響／衛星画像でロシア軍基地を徹底分析／ロシア核実験施設の最新動向【政策超分析】</description>
+      <pubDate>Tue, 06 Jan 2026 06:25:08 +0000</pubDate>
+      <guid>https://pub-818f368ffb1343438308791361fbe938.r2.dev/【小泉悠×興梠一郎】ウクライナ情勢展望／和平交渉の行方／兵器と予算が欠乏する、ロシア軍の苦境／台湾有事への影響／衛星画像でロシア軍基地を徹底分析／ロシア核実験施設の最新動向【政策超分析】.m4a</guid>
+      <enclosure url="https://pub-818f368ffb1343438308791361fbe938.r2.dev/【小泉悠×興梠一郎】ウクライナ情勢展望／和平交渉の行方／兵器と予算が欠乏する、ロシア軍の苦境／台湾有事への影響／衛星画像でロシア軍基地を徹底分析／ロシア核実験施設の最新動向【政策超分析】.m4a" length="26736038" type="audio/mp4"/>
+      <ns0:title>【小泉悠×興梠一郎】ウクライナ情勢展望／和平交渉の行方／兵器と予算が欠乏する、ロシア軍の苦境／台湾有事への影響／衛星画像でロシア軍基地を徹底分析／ロシア核実験施設の最新動向【政策超分析】</ns0:title>
+    </item>
+    <item>
+      <title>【興梠一郎×小泉悠】2026展望／日中関係と中国経済の低迷／中国の強硬策は持続不可能／台湾有事にロシアが協力する可能性／失業率は40%超？／民間企業を弾圧する習近平／コネ社会と利権【政策超分析】</title>
+      <description>【興梠一郎×小泉悠】2026展望／日中関係と中国経済の低迷／中国の強硬策は持続不可能／台湾有事にロシアが協力する可能性／失業率は40%超？／民間企業を弾圧する習近平／コネ社会と利権【政策超分析】</description>
+      <pubDate>Tue, 06 Jan 2026 06:10:26 +0000</pubDate>
+      <guid>https://pub-818f368ffb1343438308791361fbe938.r2.dev/【興梠一郎×小泉悠】2026展望／日中関係と中国経済の低迷／中国の強硬策は持続不可能／台湾有事にロシアが協力する可能性／失業率は40%超？／民間企業を弾圧する習近平／コネ社会と利権【政策超分析】.m4a</guid>
+      <enclosure url="https://pub-818f368ffb1343438308791361fbe938.r2.dev/【興梠一郎×小泉悠】2026展望／日中関係と中国経済の低迷／中国の強硬策は持続不可能／台湾有事にロシアが協力する可能性／失業率は40%超？／民間企業を弾圧する習近平／コネ社会と利権【政策超分析】.m4a" length="23145782" type="audio/mp4"/>
+      <ns0:title>【興梠一郎×小泉悠】2026展望／日中関係と中国経済の低迷／中国の強硬策は持続不可能／台湾有事にロシアが協力する可能性／失業率は40%超？／民間企業を弾圧する習近平／コネ社会と利権【政策超分析】</ns0:title>
+    </item>
+    <item>
+      <title>test1</title>
+      <description>test1</description>
+      <pubDate>Tue, 06 Jan 2026 05:55:06 +0000</pubDate>
+      <guid>https://pub-818f368ffb1343438308791361fbe938.r2.dev/test1.m4a</guid>
+      <enclosure url="https://pub-818f368ffb1343438308791361fbe938.r2.dev/test1.m4a" length="750102" type="audio/mp4"/>
+      <ns0:title>test1</ns0:title>
+    </item>
+    <item>
+      <title>【速報解説】ベネズエラ攻撃トランプ政権の狙い／麻薬撲滅と石油資源／ベネズエラ国家運営の今後と中露への影響／新モンロー主義【PIVOT NEWS】</title>
+      <description>【速報解説】ベネズエラ攻撃トランプ政権の狙い／麻薬撲滅と石油資源／ベネズエラ国家運営の今後と中露への影響／新モンロー主義【PIVOT NEWS】</description>
+      <pubDate>Tue, 06 Jan 2026 05:40:56 +0000</pubDate>
+      <guid>https://pub-818f368ffb1343438308791361fbe938.r2.dev/【速報解説】ベネズエラ攻撃トランプ政権の狙い／麻薬撲滅と石油資源／ベネズエラ国家運営の今後と中露への影響／新モンロー主義【PIVOT NEWS】.m4a</guid>
+      <enclosure url="https://pub-818f368ffb1343438308791361fbe938.r2.dev/【速報解説】ベネズエラ攻撃トランプ政権の狙い／麻薬撲滅と石油資源／ベネズエラ国家運営の今後と中露への影響／新モンロー主義【PIVOT NEWS】.m4a" length="21340289" type="audio/mp4"/>
+      <ns0:title>【速報解説】ベネズエラ攻撃トランプ政権の狙い／麻薬撲滅と石油資源／ベネズエラ国家運営の今後と中露への影響／新モンロー主義【PIVOT NEWS】</ns0:title>
+    </item>
     <item>
       <title>クレナンデス 2025</title>
       <description>クレナンデス 2025</description>
