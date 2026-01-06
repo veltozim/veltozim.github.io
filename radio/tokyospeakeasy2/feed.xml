@@ -6,8 +6,15 @@
     <description>tokyospeakeasy の音声Podcast (FMT)</description>
     <language>ja</language>
     <itunes:category text="News"/>
-    <lastBuildDate>Mon, 05 Jan 2026 18:01:17 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Jan 2026 18:01:58 -0000</lastBuildDate>
     
+    <item>
+      <title>tokyospeakeasy - 2026年01月07日 (木本武宏（TKO）＆お見送り芸人しんいち)</title>
+      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20260107_tokyospeakeasy_%E6%9C%A8%E6%9C%AC%E6%AD%A6%E5%AE%8F%EF%BC%88TKO%EF%BC%89%EF%BC%86%E3%81%8A%E8%A6%8B%E9%80%81%E3%82%8A%E8%8A%B8%E4%BA%BA%E3%81%97%E3%82%93%E3%81%84%E3%81%A1.aac" length="21599231" type="audio/aac" />
+      <guid isPermaLink="false">20260107_tokyospeakeasy_木本武宏（TKO）＆お見送り芸人しんいち.aac</guid>
+      <pubDate>Wed, 07 Jan 2026 00:00:00 -0000</pubDate>
+      <itunes:duration>01:00:00</itunes:duration>
+    </item>
     <item>
       <title>tokyospeakeasy - 2026年01月06日 (早見優＆酒井法子)</title>
       <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20260106_tokyospeakeasy_%E6%97%A9%E8%A6%8B%E5%84%AA%EF%BC%86%E9%85%92%E4%BA%95%E6%B3%95%E5%AD%90.aac" length="21600512" type="audio/aac" />
@@ -139,13 +146,6 @@
       <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20251203_tokyospeakeasy_TAKURO%EF%BC%86%E4%B8%AD%E6%9D%91%E6%B5%B7%E4%BA%BA.aac" length="21599496" type="audio/aac" />
       <guid isPermaLink="false">20251203_tokyospeakeasy_TAKURO＆中村海人.aac</guid>
       <pubDate>Wed, 03 Dec 2025 00:00:00 -0000</pubDate>
-      <itunes:duration>01:00:00</itunes:duration>
-    </item>
-    <item>
-      <title>tokyospeakeasy - 2025年12月02日 (中井美穂＆笠井信輔)</title>
-      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20251202_tokyospeakeasy_%E4%B8%AD%E4%BA%95%E7%BE%8E%E7%A9%82%EF%BC%86%E7%AC%A0%E4%BA%95%E4%BF%A1%E8%BC%94.aac" length="21599489" type="audio/aac" />
-      <guid isPermaLink="false">20251202_tokyospeakeasy_中井美穂＆笠井信輔.aac</guid>
-      <pubDate>Tue, 02 Dec 2025 00:00:00 -0000</pubDate>
       <itunes:duration>01:00:00</itunes:duration>
     </item>
   </channel>
