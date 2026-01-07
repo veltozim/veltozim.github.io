@@ -6,8 +6,15 @@
     <description>アトロク の音声Podcast (TBS)</description>
     <language>ja</language>
     <itunes:category text="News"/>
-    <lastBuildDate>Tue, 06 Jan 2026 18:01:57 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Jan 2026 18:01:22 -0000</lastBuildDate>
     
+    <item>
+      <title>アトロク - 2026年01月07日 (アトロク)</title>
+      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/aftersix/20260107_%E3%82%A2%E3%83%88%E3%83%AD%E3%82%AF.aac" length="43199744" type="audio/aac" />
+      <guid isPermaLink="false">20260107_アトロク.aac</guid>
+      <pubDate>Wed, 07 Jan 2026 00:00:00 -0000</pubDate>
+      <itunes:duration>02:00:00</itunes:duration>
+    </item>
     <item>
       <title>アトロク - 2026年01月06日 (マブ論（森田秀一）_深田晃司監督（国際交流基金コラボ企画）)</title>
       <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/aftersix/20260106_%E3%83%9E%E3%83%96%E8%AB%96%EF%BC%88%E6%A3%AE%E7%94%B0%E7%A7%80%E4%B8%80%EF%BC%89_%E6%B7%B1%E7%94%B0%E6%99%83%E5%8F%B8%E7%9B%A3%E7%9D%A3%EF%BC%88%E5%9B%BD%E9%9A%9B%E4%BA%A4%E6%B5%81%E5%9F%BA%E9%87%91%E3%82%B3%E3%83%A9%E3%83%9C%E4%BC%81%E7%94%BB%EF%BC%89.aac" length="1835008" type="audio/aac" />
@@ -139,13 +146,6 @@
       <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/aftersix/20251203_%E3%82%A2%E3%83%88%E3%83%AD%E3%82%AF.aac" length="43200000" type="audio/aac" />
       <guid isPermaLink="false">20251203_アトロク.aac</guid>
       <pubDate>Wed, 03 Dec 2025 00:00:00 -0000</pubDate>
-      <itunes:duration>02:00:00</itunes:duration>
-    </item>
-    <item>
-      <title>アトロク - 2025年12月02日 (アトロク)</title>
-      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/aftersix/20251202_%E3%82%A2%E3%83%88%E3%83%AD%E3%82%AF.aac" length="43199744" type="audio/aac" />
-      <guid isPermaLink="false">20251202_アトロク.aac</guid>
-      <pubDate>Tue, 02 Dec 2025 00:00:00 -0000</pubDate>
       <itunes:duration>02:00:00</itunes:duration>
     </item>
   </channel>
