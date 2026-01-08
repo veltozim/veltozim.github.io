@@ -6,8 +6,15 @@
     <description>tokyospeakeasy の音声Podcast (FMT)</description>
     <language>ja</language>
     <itunes:category text="News"/>
-    <lastBuildDate>Wed, 07 Jan 2026 18:01:22 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Jan 2026 18:01:17 -0000</lastBuildDate>
     
+    <item>
+      <title>tokyospeakeasy - 2026年01月09日 (松本幸四郎＆山口馬木也)</title>
+      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20260109_tokyospeakeasy_%E6%9D%BE%E6%9C%AC%E5%B9%B8%E5%9B%9B%E9%83%8E%EF%BC%86%E5%B1%B1%E5%8F%A3%E9%A6%AC%E6%9C%A8%E4%B9%9F.aac" length="21599232" type="audio/aac" />
+      <guid isPermaLink="false">20260109_tokyospeakeasy_松本幸四郎＆山口馬木也.aac</guid>
+      <pubDate>Fri, 09 Jan 2026 00:00:00 -0000</pubDate>
+      <itunes:duration>01:00:00</itunes:duration>
+    </item>
     <item>
       <title>tokyospeakeasy - 2026年01月08日 (堂本光一（DOMOTO）＆中村麗乃)</title>
       <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20260108_tokyospeakeasy_%E5%A0%82%E6%9C%AC%E5%85%89%E4%B8%80%EF%BC%88DOMOTO%EF%BC%89%EF%BC%86%E4%B8%AD%E6%9D%91%E9%BA%97%E4%B9%83.aac" length="21599744" type="audio/aac" />
@@ -139,13 +146,6 @@
       <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20251205_tokyospeakeasy_%E7%99%BD%E9%B3%A5%E4%B9%85%E7%BE%8E%E5%AD%90%EF%BC%86%E7%B4%BA%E9%87%8E%E3%81%B6%E3%82%8B%E3%81%BE.aac" length="21599744" type="audio/aac" />
       <guid isPermaLink="false">20251205_tokyospeakeasy_白鳥久美子＆紺野ぶるま.aac</guid>
       <pubDate>Fri, 05 Dec 2025 00:00:00 -0000</pubDate>
-      <itunes:duration>01:00:00</itunes:duration>
-    </item>
-    <item>
-      <title>tokyospeakeasy - 2025年12月04日 (高橋みなみ＆倉野尾成美（AKB48）)</title>
-      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20251204_tokyospeakeasy_%E9%AB%98%E6%A9%8B%E3%81%BF%E3%81%AA%E3%81%BF%EF%BC%86%E5%80%89%E9%87%8E%E5%B0%BE%E6%88%90%E7%BE%8E%EF%BC%88AKB48%EF%BC%89.aac" length="21599650" type="audio/aac" />
-      <guid isPermaLink="false">20251204_tokyospeakeasy_高橋みなみ＆倉野尾成美（AKB48）.aac</guid>
-      <pubDate>Thu, 04 Dec 2025 00:00:00 -0000</pubDate>
       <itunes:duration>01:00:00</itunes:duration>
     </item>
   </channel>
