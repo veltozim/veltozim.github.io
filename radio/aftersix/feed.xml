@@ -6,8 +6,15 @@
     <description>アトロク の音声Podcast (TBS)</description>
     <language>ja</language>
     <itunes:category text="News"/>
-    <lastBuildDate>Tue, 13 Jan 2026 18:02:10 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Jan 2026 18:01:45 -0000</lastBuildDate>
     
+    <item>
+      <title>アトロク - 2026年01月14日 (アトロク)</title>
+      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/aftersix/20260114_%E3%82%A2%E3%83%88%E3%83%AD%E3%82%AF.aac" length="43199744" type="audio/aac" />
+      <guid isPermaLink="false">20260114_アトロク.aac</guid>
+      <pubDate>Wed, 14 Jan 2026 00:00:00 -0000</pubDate>
+      <itunes:duration>02:00:00</itunes:duration>
+    </item>
     <item>
       <title>アトロク - 2026年01月13日 (＜アトロク推薦図書祭り＞2026 推薦人：荻上チキ、斎藤真理子、朝井リョウ)</title>
       <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/aftersix/20260113_%EF%BC%9C%E3%82%A2%E3%83%88%E3%83%AD%E3%82%AF%E6%8E%A8%E8%96%A6%E5%9B%B3%E6%9B%B8%E7%A5%AD%E3%82%8A%EF%BC%9E2026%20%E6%8E%A8%E8%96%A6%E4%BA%BA%EF%BC%9A%E8%8D%BB%E4%B8%8A%E3%83%81%E3%82%AD%E3%80%81%E6%96%8E%E8%97%A4%E7%9C%9F%E7%90%86%E5%AD%90%E3%80%81%E6%9C%9D%E4%BA%95%E3%83%AA%E3%83%A7%E3%82%A6.aac" length="43198976" type="audio/aac" />
@@ -139,13 +146,6 @@
       <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/aftersix/20251210_%E3%82%A2%E3%83%88%E3%83%AD%E3%82%AF_%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%9E%E3%82%B9%E3%81%A0%E3%82%88%EF%BC%81%E3%80%8C%E7%A9%BA%E8%AB%96%E9%81%93%E3%80%8D%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%EF%BC%81%20%E5%9C%9F%E5%B1%8B%E7%A4%BC%E5%A4%AE%EF%BC%86%E4%BD%90%E5%80%89%E7%B6%BE%E9%9F%B3.aac" length="43198976" type="audio/aac" />
       <guid isPermaLink="false">20251210_アトロク_クリスマスだよ！「空論道」スペシャル！ 土屋礼央＆佐倉綾音.aac</guid>
       <pubDate>Wed, 10 Dec 2025 00:00:00 -0000</pubDate>
-      <itunes:duration>02:00:00</itunes:duration>
-    </item>
-    <item>
-      <title>アトロク - 2025年12月09日 (アトロク_《恋とカルチャー》クリスマススペシャル feat. ジェーン・スー)</title>
-      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/aftersix/20251209_%E3%82%A2%E3%83%88%E3%83%AD%E3%82%AF_%E3%80%8A%E6%81%8B%E3%81%A8%E3%82%AB%E3%83%AB%E3%83%81%E3%83%A3%E3%83%BC%E3%80%8B%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%9E%E3%82%B9%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%20feat.%20%E3%82%B8%E3%82%A7%E3%83%BC%E3%83%B3%E3%83%BB%E3%82%B9%E3%83%BC.aac" length="43199488" type="audio/aac" />
-      <guid isPermaLink="false">20251209_アトロク_《恋とカルチャー》クリスマススペシャル feat. ジェーン・スー.aac</guid>
-      <pubDate>Tue, 09 Dec 2025 00:00:00 -0000</pubDate>
       <itunes:duration>02:00:00</itunes:duration>
     </item>
   </channel>

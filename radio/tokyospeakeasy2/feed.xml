@@ -6,8 +6,15 @@
     <description>tokyospeakeasy の音声Podcast (FMT)</description>
     <language>ja</language>
     <itunes:category text="News"/>
-    <lastBuildDate>Tue, 13 Jan 2026 18:02:11 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Jan 2026 18:01:46 -0000</lastBuildDate>
     
+    <item>
+      <title>tokyospeakeasy - 2026年01月15日 (篠田麻里子＆MOMO（WHITE_SCORPION）＆NICO（WHITE_SCORPION）)</title>
+      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20260115_tokyospeakeasy_%E7%AF%A0%E7%94%B0%E9%BA%BB%E9%87%8C%E5%AD%90%EF%BC%86MOMO%EF%BC%88WHITE_SCORPION%EF%BC%89%EF%BC%86NICO%EF%BC%88WHITE_SCORPION%EF%BC%89.aac" length="21599232" type="audio/aac" />
+      <guid isPermaLink="false">20260115_tokyospeakeasy_篠田麻里子＆MOMO（WHITE_SCORPION）＆NICO（WHITE_SCORPION）.aac</guid>
+      <pubDate>Thu, 15 Jan 2026 00:00:00 -0000</pubDate>
+      <itunes:duration>01:00:00</itunes:duration>
+    </item>
     <item>
       <title>tokyospeakeasy - 2026年01月14日 (すがちゃん最高No.1（ぱーてぃーちゃん）＆本田康祐)</title>
       <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20260114_tokyospeakeasy_%E3%81%99%E3%81%8C%E3%81%A1%E3%82%83%E3%82%93%E6%9C%80%E9%AB%98No.1%EF%BC%88%E3%81%B1%E3%83%BC%E3%81%A6%E3%81%83%E3%83%BC%E3%81%A1%E3%82%83%E3%82%93%EF%BC%89%EF%BC%86%E6%9C%AC%E7%94%B0%E5%BA%B7%E7%A5%90.aac" length="21599744" type="audio/aac" />
@@ -139,13 +146,6 @@
       <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20251212_tokyospeakeasy_%E5%A4%A7%E5%9C%B0%E7%9C%9F%E5%A4%AE%EF%BC%86%E8%97%A4%E4%BA%95%E3%83%95%E3%83%9F%E3%83%A4.aac" length="21600000" type="audio/aac" />
       <guid isPermaLink="false">20251212_tokyospeakeasy_大地真央＆藤井フミヤ.aac</guid>
       <pubDate>Fri, 12 Dec 2025 00:00:00 -0000</pubDate>
-      <itunes:duration>01:00:00</itunes:duration>
-    </item>
-    <item>
-      <title>tokyospeakeasy - 2025年12月11日 (近藤春菜（ハリセンボン）＆滝沢カレン)</title>
-      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20251211_tokyospeakeasy_%E8%BF%91%E8%97%A4%E6%98%A5%E8%8F%9C%EF%BC%88%E3%83%8F%E3%83%AA%E3%82%BB%E3%83%B3%E3%83%9C%E3%83%B3%EF%BC%89%EF%BC%86%E6%BB%9D%E6%B2%A2%E3%82%AB%E3%83%AC%E3%83%B3.aac" length="21599743" type="audio/aac" />
-      <guid isPermaLink="false">20251211_tokyospeakeasy_近藤春菜（ハリセンボン）＆滝沢カレン.aac</guid>
-      <pubDate>Thu, 11 Dec 2025 00:00:00 -0000</pubDate>
       <itunes:duration>01:00:00</itunes:duration>
     </item>
   </channel>
