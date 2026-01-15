@@ -6,8 +6,15 @@
     <description>アトロク の音声Podcast (TBS)</description>
     <language>ja</language>
     <itunes:category text="News"/>
-    <lastBuildDate>Wed, 14 Jan 2026 18:01:45 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Jan 2026 18:01:38 -0000</lastBuildDate>
     
+    <item>
+      <title>アトロク - 2026年01月15日 (映画「ワーキングマン」評論_タケウチカズタケ feat.岩崎慧(セカイイチ) スタジオライブ)</title>
+      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/aftersix/20260115_%E6%98%A0%E7%94%BB%E3%80%8C%E3%83%AF%E3%83%BC%E3%82%AD%E3%83%B3%E3%82%B0%E3%83%9E%E3%83%B3%E3%80%8D%E8%A9%95%E8%AB%96_%E3%82%BF%E3%82%B1%E3%82%A6%E3%83%81%E3%82%AB%E3%82%BA%E3%82%BF%E3%82%B1%20feat.%E5%B2%A9%E5%B4%8E%E6%85%A7%28%E3%82%BB%E3%82%AB%E3%82%A4%E3%82%A4%E3%83%81%29%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%E3%83%A9%E3%82%A4%E3%83%96.aac" length="43198976" type="audio/aac" />
+      <guid isPermaLink="false">20260115_映画「ワーキングマン」評論_タケウチカズタケ feat.岩崎慧(セカイイチ) スタジオライブ.aac</guid>
+      <pubDate>Thu, 15 Jan 2026 00:00:00 -0000</pubDate>
+      <itunes:duration>02:00:00</itunes:duration>
+    </item>
     <item>
       <title>アトロク - 2026年01月14日 (アトロク)</title>
       <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/aftersix/20260114_%E3%82%A2%E3%83%88%E3%83%AD%E3%82%AF.aac" length="43199744" type="audio/aac" />
@@ -139,13 +146,6 @@
       <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/aftersix/20251211_%E3%82%A2%E3%83%88%E3%83%AD%E3%82%AF_%E6%98%A0%E7%94%BB%E3%80%8C%E5%9B%BD%E5%AE%9D%E3%80%8D%E8%A9%95%E8%AB%96.aac" length="43199744" type="audio/aac" />
       <guid isPermaLink="false">20251211_アトロク_映画「国宝」評論.aac</guid>
       <pubDate>Thu, 11 Dec 2025 00:00:00 -0000</pubDate>
-      <itunes:duration>02:00:00</itunes:duration>
-    </item>
-    <item>
-      <title>アトロク - 2025年12月10日 (アトロク_クリスマスだよ！「空論道」スペシャル！ 土屋礼央＆佐倉綾音)</title>
-      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/aftersix/20251210_%E3%82%A2%E3%83%88%E3%83%AD%E3%82%AF_%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%9E%E3%82%B9%E3%81%A0%E3%82%88%EF%BC%81%E3%80%8C%E7%A9%BA%E8%AB%96%E9%81%93%E3%80%8D%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%EF%BC%81%20%E5%9C%9F%E5%B1%8B%E7%A4%BC%E5%A4%AE%EF%BC%86%E4%BD%90%E5%80%89%E7%B6%BE%E9%9F%B3.aac" length="43198976" type="audio/aac" />
-      <guid isPermaLink="false">20251210_アトロク_クリスマスだよ！「空論道」スペシャル！ 土屋礼央＆佐倉綾音.aac</guid>
-      <pubDate>Wed, 10 Dec 2025 00:00:00 -0000</pubDate>
       <itunes:duration>02:00:00</itunes:duration>
     </item>
   </channel>

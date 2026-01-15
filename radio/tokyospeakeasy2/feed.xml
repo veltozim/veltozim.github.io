@@ -6,8 +6,15 @@
     <description>tokyospeakeasy の音声Podcast (FMT)</description>
     <language>ja</language>
     <itunes:category text="News"/>
-    <lastBuildDate>Wed, 14 Jan 2026 18:01:46 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Jan 2026 18:01:39 -0000</lastBuildDate>
     
+    <item>
+      <title>tokyospeakeasy - 2026年01月16日 (ますだおかだ岡田＆山口智充)</title>
+      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20260116_tokyospeakeasy_%E3%81%BE%E3%81%99%E3%81%A0%E3%81%8A%E3%81%8B%E3%81%A0%E5%B2%A1%E7%94%B0%EF%BC%86%E5%B1%B1%E5%8F%A3%E6%99%BA%E5%85%85.aac" length="21600000" type="audio/aac" />
+      <guid isPermaLink="false">20260116_tokyospeakeasy_ますだおかだ岡田＆山口智充.aac</guid>
+      <pubDate>Fri, 16 Jan 2026 00:00:00 -0000</pubDate>
+      <itunes:duration>01:00:00</itunes:duration>
+    </item>
     <item>
       <title>tokyospeakeasy - 2026年01月15日 (篠田麻里子＆MOMO（WHITE_SCORPION）＆NICO（WHITE_SCORPION）)</title>
       <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20260115_tokyospeakeasy_%E7%AF%A0%E7%94%B0%E9%BA%BB%E9%87%8C%E5%AD%90%EF%BC%86MOMO%EF%BC%88WHITE_SCORPION%EF%BC%89%EF%BC%86NICO%EF%BC%88WHITE_SCORPION%EF%BC%89.aac" length="21599232" type="audio/aac" />
@@ -139,13 +146,6 @@
       <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20251216_tokyospeakeasy_%E5%B0%8F%E5%A0%BA%E4%B8%80%E6%A9%9F%EF%BC%86%E3%81%AA%E3%81%A0%E3%81%8E%E6%AD%A6.aac" length="21599232" type="audio/aac" />
       <guid isPermaLink="false">20251216_tokyospeakeasy_小堺一機＆なだぎ武.aac</guid>
       <pubDate>Tue, 16 Dec 2025 00:00:00 -0000</pubDate>
-      <itunes:duration>01:00:00</itunes:duration>
-    </item>
-    <item>
-      <title>tokyospeakeasy - 2025年12月12日 (大地真央＆藤井フミヤ)</title>
-      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20251212_tokyospeakeasy_%E5%A4%A7%E5%9C%B0%E7%9C%9F%E5%A4%AE%EF%BC%86%E8%97%A4%E4%BA%95%E3%83%95%E3%83%9F%E3%83%A4.aac" length="21600000" type="audio/aac" />
-      <guid isPermaLink="false">20251212_tokyospeakeasy_大地真央＆藤井フミヤ.aac</guid>
-      <pubDate>Fri, 12 Dec 2025 00:00:00 -0000</pubDate>
       <itunes:duration>01:00:00</itunes:duration>
     </item>
   </channel>
