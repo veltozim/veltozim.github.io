@@ -4,13 +4,21 @@
     <title>配信録音</title>
     <description>ストリーミングサービスから録音した音声</description>
     <language>ja</language>
-    <author>Browser Audio Recorder</author>
-    <ns0:author>Browser Audio Recorder</ns0:author>
+    <author>YouTube Audio Downloader</author>
+    <ns0:author>YouTube Audio Downloader</ns0:author>
     <ns0:summary>ストリーミングサービスから録音した音声</ns0:summary>
     <ns0:explicit>no</ns0:explicit>
     <ns0:category text="Technology"/>
     <link>https://veltozim.github.io/streaming/feed.xml</link>
-    <lastBuildDate>Fri, 16 Jan 2026 11:12:25 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Jan 2026 15:11:42 +0000</lastBuildDate>
+    <item>
+      <title>【iPhoneユーザー“十数億人”がGeminiに染まる】「OpenAIに勝ち目ない」今井翔太が語る“2026年覇権シナリオ”／Apple自社開発断念でAI勢力図の最終形が決定【1on1 Tech】</title>
+      <description>【iPhoneユーザー“十数億人”がGeminiに染まる】「OpenAIに勝ち目ない」今井翔太が語る“2026年覇権シナリオ”／Apple自社開発断念でAI勢力図の最終形が決定【1on1 Tech】</description>
+      <pubDate>Fri, 16 Jan 2026 15:11:42 +0000</pubDate>
+      <guid>https://pub-818f368ffb1343438308791361fbe938.r2.dev/【iPhoneユーザー“十数億人”がGeminiに染まる】「OpenAIに勝ち目ない」今井翔太が語る“2026年覇権シナリオ”／Apple自社開発断念でAI勢力図の最終形が決定【1on1 Tech】.m4a</guid>
+      <enclosure url="https://pub-818f368ffb1343438308791361fbe938.r2.dev/【iPhoneユーザー“十数億人”がGeminiに染まる】「OpenAIに勝ち目ない」今井翔太が語る“2026年覇権シナリオ”／Apple自社開発断念でAI勢力図の最終形が決定【1on1 Tech】.m4a" length="36839444" type="audio/mp4"/>
+      <ns0:title>【iPhoneユーザー“十数億人”がGeminiに染まる】「OpenAIに勝ち目ない」今井翔太が語る“2026年覇権シナリオ”／Apple自社開発断念でAI勢力図の最終形が決定【1on1 Tech】</ns0:title>
+    </item>
     <item>
       <title>ここでしか聞けない豪さんの生放送!! 【平熱大陸】2026年新年1月号</title>
       <description>ここでしか聞けない豪さんの生放送!! 【平熱大陸】2026年新年1月号</description>
