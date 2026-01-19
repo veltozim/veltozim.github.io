@@ -6,8 +6,15 @@
     <description>tokyospeakeasy の音声Podcast (FMT)</description>
     <language>ja</language>
     <itunes:category text="News"/>
-    <lastBuildDate>Sun, 18 Jan 2026 18:01:58 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Jan 2026 18:01:13 -0000</lastBuildDate>
     
+    <item>
+      <title>tokyospeakeasy - 2026年01月20日 (いとうせいこう＆眉村ちあき)</title>
+      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20260120_tokyospeakeasy_%E3%81%84%E3%81%A8%E3%81%86%E3%81%9B%E3%81%84%E3%81%93%E3%81%86%EF%BC%86%E7%9C%89%E6%9D%91%E3%81%A1%E3%81%82%E3%81%8D.aac" length="21599488" type="audio/aac" />
+      <guid isPermaLink="false">20260120_tokyospeakeasy_いとうせいこう＆眉村ちあき.aac</guid>
+      <pubDate>Tue, 20 Jan 2026 00:00:00 -0000</pubDate>
+      <itunes:duration>01:00:00</itunes:duration>
+    </item>
     <item>
       <title>tokyospeakeasy - 2026年01月16日 (ますだおかだ岡田＆山口智充)</title>
       <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20260116_tokyospeakeasy_%E3%81%BE%E3%81%99%E3%81%A0%E3%81%8A%E3%81%8B%E3%81%A0%E5%B2%A1%E7%94%B0%EF%BC%86%E5%B1%B1%E5%8F%A3%E6%99%BA%E5%85%85.aac" length="21600000" type="audio/aac" />
@@ -139,13 +146,6 @@
       <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20251217_tokyospeakeasy_%E9%9D%92%E6%9C%A8%E7%9C%9F%E4%B9%9F%EF%BC%86%E3%82%B8%E3%82%A7%E3%83%BC%E3%83%B3%E3%83%BB%E3%82%B9%E3%83%BC.aac" length="21600000" type="audio/aac" />
       <guid isPermaLink="false">20251217_tokyospeakeasy_青木真也＆ジェーン・スー.aac</guid>
       <pubDate>Wed, 17 Dec 2025 00:00:00 -0000</pubDate>
-      <itunes:duration>01:00:00</itunes:duration>
-    </item>
-    <item>
-      <title>tokyospeakeasy - 2025年12月16日 (小堺一機＆なだぎ武)</title>
-      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20251216_tokyospeakeasy_%E5%B0%8F%E5%A0%BA%E4%B8%80%E6%A9%9F%EF%BC%86%E3%81%AA%E3%81%A0%E3%81%8E%E6%AD%A6.aac" length="21599232" type="audio/aac" />
-      <guid isPermaLink="false">20251216_tokyospeakeasy_小堺一機＆なだぎ武.aac</guid>
-      <pubDate>Tue, 16 Dec 2025 00:00:00 -0000</pubDate>
       <itunes:duration>01:00:00</itunes:duration>
     </item>
   </channel>
