@@ -6,7 +6,7 @@
     <description>大友良英JAMJAMラジオ の音声Podcast (KBS)</description>
     <language>ja</language>
     <itunes:category text="News"/>
-    <lastBuildDate>Tue, 20 Jan 2026 09:46:16 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Jan 2026 18:02:07 -0000</lastBuildDate>
     
     <item>
       <title>大友良英JAMJAMラジオ - 2026年01月17日</title>
@@ -69,41 +69,6 @@
       <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/JAMJAM/20251122_%E5%A4%A7%E5%8F%8B%E8%89%AF%E8%8B%B1JAMJAM%E3%83%A9%E3%82%B8%E3%82%AA.aac" length="10799460" type="audio/aac" />
       <guid isPermaLink="false">20251122_大友良英JAMJAMラジオ.aac</guid>
       <pubDate>Sat, 22 Nov 2025 00:00:00 -0000</pubDate>
-      <itunes:duration>00:30:00</itunes:duration>
-    </item>
-    <item>
-      <title>大友良英JAMJAMラジオ - 2025年11月15日</title>
-      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/JAMJAM/20251115_%E5%A4%A7%E5%8F%8B%E8%89%AF%E8%8B%B1JAMJAM%E3%83%A9%E3%82%B8%E3%82%AA.aac" length="10799713" type="audio/aac" />
-      <guid isPermaLink="false">20251115_大友良英JAMJAMラジオ.aac</guid>
-      <pubDate>Sat, 15 Nov 2025 00:00:00 -0000</pubDate>
-      <itunes:duration>00:30:00</itunes:duration>
-    </item>
-    <item>
-      <title>大友良英JAMJAMラジオ - 2025年11月08日</title>
-      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/JAMJAM/20251108_%E5%A4%A7%E5%8F%8B%E8%89%AF%E8%8B%B1JAMJAM%E3%83%A9%E3%82%B8%E3%82%AA.aac" length="10799448" type="audio/aac" />
-      <guid isPermaLink="false">20251108_大友良英JAMJAMラジオ.aac</guid>
-      <pubDate>Sat, 08 Nov 2025 00:00:00 -0000</pubDate>
-      <itunes:duration>00:30:00</itunes:duration>
-    </item>
-    <item>
-      <title>大友良英JAMJAMラジオ - 2025年11月01日</title>
-      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/JAMJAM/20251101_%E5%A4%A7%E5%8F%8B%E8%89%AF%E8%8B%B1JAMJAM%E3%83%A9%E3%82%B8%E3%82%AA.aac" length="10799699" type="audio/aac" />
-      <guid isPermaLink="false">20251101_大友良英JAMJAMラジオ.aac</guid>
-      <pubDate>Sat, 01 Nov 2025 00:00:00 -0000</pubDate>
-      <itunes:duration>00:30:00</itunes:duration>
-    </item>
-    <item>
-      <title>大友良英JAMJAMラジオ - 2025年10月25日</title>
-      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/JAMJAM/20251025_%E5%A4%A7%E5%8F%8B%E8%89%AF%E8%8B%B1JAMJAM%E3%83%A9%E3%82%B8%E3%82%AA.aac" length="10799078" type="audio/aac" />
-      <guid isPermaLink="false">20251025_大友良英JAMJAMラジオ.aac</guid>
-      <pubDate>Sat, 25 Oct 2025 00:00:00 -0000</pubDate>
-      <itunes:duration>00:30:00</itunes:duration>
-    </item>
-    <item>
-      <title>大友良英JAMJAMラジオ - 2025年10月18日</title>
-      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/JAMJAM/20251018_%E5%A4%A7%E5%8F%8B%E8%89%AF%E8%8B%B1JAMJAM%E3%83%A9%E3%82%B8%E3%82%AA.aac" length="10799538" type="audio/aac" />
-      <guid isPermaLink="false">20251018_大友良英JAMJAMラジオ.aac</guid>
-      <pubDate>Sat, 18 Oct 2025 00:00:00 -0000</pubDate>
       <itunes:duration>00:30:00</itunes:duration>
     </item>
   </channel>

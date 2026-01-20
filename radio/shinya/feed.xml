@@ -6,8 +6,15 @@
     <description>深夜の音楽食堂 の音声Podcast (YFM)</description>
     <language>ja</language>
     <itunes:category text="News"/>
-    <lastBuildDate>Tue, 20 Jan 2026 09:46:18 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Jan 2026 18:02:08 -0000</lastBuildDate>
     
+    <item>
+      <title>深夜の音楽食堂 - 2026年01月21日</title>
+      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/shinya/20260121_%E6%B7%B1%E5%A4%9C%E3%81%AE%E9%9F%B3%E6%A5%BD%E9%A3%9F%E5%A0%82.aac" length="10800383" type="audio/aac" />
+      <guid isPermaLink="false">20260121_深夜の音楽食堂.aac</guid>
+      <pubDate>Wed, 21 Jan 2026 00:00:00 -0000</pubDate>
+      <itunes:duration>00:30:00</itunes:duration>
+    </item>
     <item>
       <title>深夜の音楽食堂 - 2026年01月14日</title>
       <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/shinya/20260114_%E6%B7%B1%E5%A4%9C%E3%81%AE%E9%9F%B3%E6%A5%BD%E9%A3%9F%E5%A0%82.aac" length="10800385" type="audio/aac" />
@@ -62,90 +69,6 @@
       <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/shinya/20251126_%E6%B7%B1%E5%A4%9C%E3%81%AE%E9%9F%B3%E6%A5%BD%E9%A3%9F%E5%A0%82.aac" length="10799616" type="audio/aac" />
       <guid isPermaLink="false">20251126_深夜の音楽食堂.aac</guid>
       <pubDate>Wed, 26 Nov 2025 00:00:00 -0000</pubDate>
-      <itunes:duration>00:30:00</itunes:duration>
-    </item>
-    <item>
-      <title>深夜の音楽食堂 - 2025年11月19日</title>
-      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/shinya/20251119_%E6%B7%B1%E5%A4%9C%E3%81%AE%E9%9F%B3%E6%A5%BD%E9%A3%9F%E5%A0%82.aac" length="10800896" type="audio/aac" />
-      <guid isPermaLink="false">20251119_深夜の音楽食堂.aac</guid>
-      <pubDate>Wed, 19 Nov 2025 00:00:00 -0000</pubDate>
-      <itunes:duration>00:30:00</itunes:duration>
-    </item>
-    <item>
-      <title>深夜の音楽食堂 - 2025年11月12日</title>
-      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/shinya/20251112_%E6%B7%B1%E5%A4%9C%E3%81%AE%E9%9F%B3%E6%A5%BD%E9%A3%9F%E5%A0%82.aac" length="10800384" type="audio/aac" />
-      <guid isPermaLink="false">20251112_深夜の音楽食堂.aac</guid>
-      <pubDate>Wed, 12 Nov 2025 00:00:00 -0000</pubDate>
-      <itunes:duration>00:30:00</itunes:duration>
-    </item>
-    <item>
-      <title>深夜の音楽食堂 - 2025年11月05日</title>
-      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/shinya/20251105_%E6%B7%B1%E5%A4%9C%E3%81%AE%E9%9F%B3%E6%A5%BD%E9%A3%9F%E5%A0%82.aac" length="10800383" type="audio/aac" />
-      <guid isPermaLink="false">20251105_深夜の音楽食堂.aac</guid>
-      <pubDate>Wed, 05 Nov 2025 00:00:00 -0000</pubDate>
-      <itunes:duration>00:30:00</itunes:duration>
-    </item>
-    <item>
-      <title>深夜の音楽食堂 - 2025年10月29日</title>
-      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/shinya/20251029_%E6%B7%B1%E5%A4%9C%E3%81%AE%E9%9F%B3%E6%A5%BD%E9%A3%9F%E5%A0%82.aac" length="10799615" type="audio/aac" />
-      <guid isPermaLink="false">20251029_深夜の音楽食堂.aac</guid>
-      <pubDate>Wed, 29 Oct 2025 00:00:00 -0000</pubDate>
-      <itunes:duration>00:30:00</itunes:duration>
-    </item>
-    <item>
-      <title>深夜の音楽食堂 - 2025年10月22日</title>
-      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/shinya/20251022_%E6%B7%B1%E5%A4%9C%E3%81%AE%E9%9F%B3%E6%A5%BD%E9%A3%9F%E5%A0%82.aac" length="10800383" type="audio/aac" />
-      <guid isPermaLink="false">20251022_深夜の音楽食堂.aac</guid>
-      <pubDate>Wed, 22 Oct 2025 00:00:00 -0000</pubDate>
-      <itunes:duration>00:30:00</itunes:duration>
-    </item>
-    <item>
-      <title>深夜の音楽食堂 - 2025年10月15日</title>
-      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/shinya/20251015_%E6%B7%B1%E5%A4%9C%E3%81%AE%E9%9F%B3%E6%A5%BD%E9%A3%9F%E5%A0%82.aac" length="10800895" type="audio/aac" />
-      <guid isPermaLink="false">20251015_深夜の音楽食堂.aac</guid>
-      <pubDate>Wed, 15 Oct 2025 00:00:00 -0000</pubDate>
-      <itunes:duration>00:30:00</itunes:duration>
-    </item>
-    <item>
-      <title>深夜の音楽食堂 - 2025年10月08日</title>
-      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/shinya/20251008_%E6%B7%B1%E5%A4%9C%E3%81%AE%E9%9F%B3%E6%A5%BD%E9%A3%9F%E5%A0%82.aac" length="10800129" type="audio/aac" />
-      <guid isPermaLink="false">20251008_深夜の音楽食堂.aac</guid>
-      <pubDate>Wed, 08 Oct 2025 00:00:00 -0000</pubDate>
-      <itunes:duration>00:30:00</itunes:duration>
-    </item>
-    <item>
-      <title>深夜の音楽食堂 - 2025年10月01日</title>
-      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/shinya/20251001_%E6%B7%B1%E5%A4%9C%E3%81%AE%E9%9F%B3%E6%A5%BD%E9%A3%9F%E5%A0%82.aac" length="10801141" type="audio/aac" />
-      <guid isPermaLink="false">20251001_深夜の音楽食堂.aac</guid>
-      <pubDate>Wed, 01 Oct 2025 00:00:00 -0000</pubDate>
-      <itunes:duration>00:30:00</itunes:duration>
-    </item>
-    <item>
-      <title>深夜の音楽食堂 - 2025年09月24日</title>
-      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/shinya/20250924_%E6%B7%B1%E5%A4%9C%E3%81%AE%E9%9F%B3%E6%A5%BD%E9%A3%9F%E5%A0%82.aac" length="10799864" type="audio/aac" />
-      <guid isPermaLink="false">20250924_深夜の音楽食堂.aac</guid>
-      <pubDate>Wed, 24 Sep 2025 00:00:00 -0000</pubDate>
-      <itunes:duration>00:30:00</itunes:duration>
-    </item>
-    <item>
-      <title>深夜の音楽食堂 - 2025年09月17日</title>
-      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/shinya/20250917_%E6%B7%B1%E5%A4%9C%E3%81%AE%E9%9F%B3%E6%A5%BD%E9%A3%9F%E5%A0%82.aac" length="10800365" type="audio/aac" />
-      <guid isPermaLink="false">20250917_深夜の音楽食堂.aac</guid>
-      <pubDate>Wed, 17 Sep 2025 00:00:00 -0000</pubDate>
-      <itunes:duration>00:30:00</itunes:duration>
-    </item>
-    <item>
-      <title>深夜の音楽食堂 - 2025年09月10日</title>
-      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/shinya/20250910_%E6%B7%B1%E5%A4%9C%E3%81%AE%E9%9F%B3%E6%A5%BD%E9%A3%9F%E5%A0%82.aac" length="10799432" type="audio/aac" />
-      <guid isPermaLink="false">20250910_深夜の音楽食堂.aac</guid>
-      <pubDate>Wed, 10 Sep 2025 00:00:00 -0000</pubDate>
-      <itunes:duration>00:30:00</itunes:duration>
-    </item>
-    <item>
-      <title>深夜の音楽食堂 - 2025年09月03日</title>
-      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/shinya/20250903_%E6%B7%B1%E5%A4%9C%E3%81%AE%E9%9F%B3%E6%A5%BD%E9%A3%9F%E5%A0%82.aac" length="10799612" type="audio/aac" />
-      <guid isPermaLink="false">20250903_深夜の音楽食堂.aac</guid>
-      <pubDate>Wed, 03 Sep 2025 00:00:00 -0000</pubDate>
       <itunes:duration>00:30:00</itunes:duration>
     </item>
   </channel>

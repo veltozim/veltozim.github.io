@@ -6,7 +6,7 @@
     <description>沖野修也TokyoCrossoverRadio の音声Podcast (INT)</description>
     <language>ja</language>
     <itunes:category text="News"/>
-    <lastBuildDate>Tue, 20 Jan 2026 09:46:14 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Jan 2026 18:02:04 -0000</lastBuildDate>
     
     <item>
       <title>沖野修也TokyoCrossoverRadio - 2026年01月16日</title>
@@ -62,27 +62,6 @@
       <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/TokyoCrossoverRadio/20251128_%E6%B2%96%E9%87%8E%E4%BF%AE%E4%B9%9FTokyoCrossoverRadio.aac" length="21598976" type="audio/aac" />
       <guid isPermaLink="false">20251128_沖野修也TokyoCrossoverRadio.aac</guid>
       <pubDate>Fri, 28 Nov 2025 00:00:00 -0000</pubDate>
-      <itunes:duration>01:00:00</itunes:duration>
-    </item>
-    <item>
-      <title>沖野修也TokyoCrossoverRadio - 2025年11月21日</title>
-      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/TokyoCrossoverRadio/20251121_%E6%B2%96%E9%87%8E%E4%BF%AE%E4%B9%9FTokyoCrossoverRadio.aac" length="21598464" type="audio/aac" />
-      <guid isPermaLink="false">20251121_沖野修也TokyoCrossoverRadio.aac</guid>
-      <pubDate>Fri, 21 Nov 2025 00:00:00 -0000</pubDate>
-      <itunes:duration>01:00:00</itunes:duration>
-    </item>
-    <item>
-      <title>沖野修也TokyoCrossoverRadio - 2025年11月14日</title>
-      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/TokyoCrossoverRadio/20251114_%E6%B2%96%E9%87%8E%E4%BF%AE%E4%B9%9FTokyoCrossoverRadio.aac" length="21599232" type="audio/aac" />
-      <guid isPermaLink="false">20251114_沖野修也TokyoCrossoverRadio.aac</guid>
-      <pubDate>Fri, 14 Nov 2025 00:00:00 -0000</pubDate>
-      <itunes:duration>01:00:00</itunes:duration>
-    </item>
-    <item>
-      <title>沖野修也TokyoCrossoverRadio - 2025年11月07日</title>
-      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/TokyoCrossoverRadio/20251107_%E6%B2%96%E9%87%8E%E4%BF%AE%E4%B9%9FTokyoCrossoverRadio.aac" length="21598976" type="audio/aac" />
-      <guid isPermaLink="false">20251107_沖野修也TokyoCrossoverRadio.aac</guid>
-      <pubDate>Fri, 07 Nov 2025 00:00:00 -0000</pubDate>
       <itunes:duration>01:00:00</itunes:duration>
     </item>
   </channel>
