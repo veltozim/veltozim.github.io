@@ -6,7 +6,7 @@
     <description>tokyospeakeasy の音声Podcast (FMT)</description>
     <language>ja</language>
     <itunes:category text="News"/>
-    <lastBuildDate>Sat, 24 Jan 2026 18:00:14 -0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Jan 2026 18:01:48 -0000</lastBuildDate>
     
     <item>
       <title>tokyospeakeasy - 2026年01月23日 (柏木由紀＆遠藤莉乃＆片瀬真花)</title>
@@ -118,13 +118,6 @@
       <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20251230_tokyospeakeasy_%E3%83%93%E3%83%93%E3%82%8B%E5%A4%A7%E6%9C%A8%EF%BC%86%E3%83%81%E3%83%A3%E3%83%B3%E3%82%AB%E3%83%AF%E3%82%A4.aac" length="21599744" type="audio/aac" />
       <guid isPermaLink="false">20251230_tokyospeakeasy_ビビる大木＆チャンカワイ.aac</guid>
       <pubDate>Tue, 30 Dec 2025 00:00:00 -0000</pubDate>
-      <itunes:duration>01:00:00</itunes:duration>
-    </item>
-    <item>
-      <title>tokyospeakeasy - 2025年12月26日 (サンプラザ中野くん＆千秋)</title>
-      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20251226_tokyospeakeasy_%E3%82%B5%E3%83%B3%E3%83%97%E3%83%A9%E3%82%B6%E4%B8%AD%E9%87%8E%E3%81%8F%E3%82%93%EF%BC%86%E5%8D%83%E7%A7%8B.aac" length="21599744" type="audio/aac" />
-      <guid isPermaLink="false">20251226_tokyospeakeasy_サンプラザ中野くん＆千秋.aac</guid>
-      <pubDate>Fri, 26 Dec 2025 00:00:00 -0000</pubDate>
       <itunes:duration>01:00:00</itunes:duration>
     </item>
   </channel>
