@@ -4,13 +4,21 @@
     <title>配信録音</title>
     <description>ストリーミングサービスから録音した音声</description>
     <language>ja</language>
-    <author>Browser Audio Recorder</author>
-    <ns0:author>Browser Audio Recorder</ns0:author>
+    <author>YouTube Audio Downloader</author>
+    <ns0:author>YouTube Audio Downloader</ns0:author>
     <ns0:summary>ストリーミングサービスから録音した音声</ns0:summary>
     <ns0:explicit>no</ns0:explicit>
     <ns0:category text="Technology"/>
     <link>https://veltozim.github.io/streaming/feed.xml</link>
-    <lastBuildDate>Sat, 24 Jan 2026 07:03:26 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Jan 2026 05:11:09 +0000</lastBuildDate>
+    <item>
+      <title>【雑談】プロ雀士白鳥翔との初対面や一緒に働き始めた経緯など、雀ボーイ時代の昔話を語るボンちゃん【ボンちゃん切り抜き】</title>
+      <description>【雑談】プロ雀士白鳥翔との初対面や一緒に働き始めた経緯など、雀ボーイ時代の昔話を語るボンちゃん【ボンちゃん切り抜き】</description>
+      <pubDate>Mon, 26 Jan 2026 05:11:08 +0000</pubDate>
+      <guid>https://pub-818f368ffb1343438308791361fbe938.r2.dev/【雑談】プロ雀士白鳥翔との初対面や一緒に働き始めた経緯など、雀ボーイ時代の昔話を語るボンちゃん【ボンちゃん切り抜き】.m4a</guid>
+      <enclosure url="https://pub-818f368ffb1343438308791361fbe938.r2.dev/【雑談】プロ雀士白鳥翔との初対面や一緒に働き始めた経緯など、雀ボーイ時代の昔話を語るボンちゃん【ボンちゃん切り抜き】.m4a" length="10707788" type="audio/mp4"/>
+      <ns0:title>【雑談】プロ雀士白鳥翔との初対面や一緒に働き始めた経緯など、雀ボーイ時代の昔話を語るボンちゃん【ボンちゃん切り抜き】</ns0:title>
+    </item>
     <item>
       <title>【本編】吉田豪と久田将義の噂のワイドショー1月号</title>
       <description>【本編】吉田豪と久田将義の噂のワイドショー1月号</description>
