@@ -6,8 +6,29 @@
     <description>tokyospeakeasy の音声Podcast (FMT)</description>
     <language>ja</language>
     <itunes:category text="News"/>
-    <lastBuildDate>Wed, 28 Jan 2026 18:00:15 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Jan 2026 13:38:28 -0000</lastBuildDate>
     
+    <item>
+      <title>tokyospeakeasy - 2026年01月29日 (山口もえ＆ギャル曽根)</title>
+      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20260129_tokyospeakeasy_%E5%B1%B1%E5%8F%A3%E3%82%82%E3%81%88%EF%BC%86%E3%82%AE%E3%83%A3%E3%83%AB%E6%9B%BD%E6%A0%B9.aac" length="22190575" type="audio/aac" />
+      <guid isPermaLink="false">20260129_tokyospeakeasy_山口もえ＆ギャル曽根.aac</guid>
+      <pubDate>Thu, 29 Jan 2026 00:00:00 -0000</pubDate>
+      <itunes:duration>01:00:00</itunes:duration>
+    </item>
+    <item>
+      <title>tokyospeakeasy - 2026年01月28日 (藤井隆＆堂島孝平)</title>
+      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20260128_tokyospeakeasy_%E8%97%A4%E4%BA%95%E9%9A%86%EF%BC%86%E5%A0%82%E5%B3%B6%E5%AD%9D%E5%B9%B3.aac" length="22190658" type="audio/aac" />
+      <guid isPermaLink="false">20260128_tokyospeakeasy_藤井隆＆堂島孝平.aac</guid>
+      <pubDate>Wed, 28 Jan 2026 00:00:00 -0000</pubDate>
+      <itunes:duration>01:00:00</itunes:duration>
+    </item>
+    <item>
+      <title>tokyospeakeasy - 2026年01月27日 (安藤なつ＆鈴木奈々)</title>
+      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20260127_tokyospeakeasy_%E5%AE%89%E8%97%A4%E3%81%AA%E3%81%A4%EF%BC%86%E9%88%B4%E6%9C%A8%E5%A5%88%E3%80%85.aac" length="22190665" type="audio/aac" />
+      <guid isPermaLink="false">20260127_tokyospeakeasy_安藤なつ＆鈴木奈々.aac</guid>
+      <pubDate>Tue, 27 Jan 2026 00:00:00 -0000</pubDate>
+      <itunes:duration>01:00:00</itunes:duration>
+    </item>
     <item>
       <title>tokyospeakeasy - 2026年01月23日 (柏木由紀＆遠藤莉乃＆片瀬真花)</title>
       <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20260123_tokyospeakeasy_%E6%9F%8F%E6%9C%A8%E7%94%B1%E7%B4%80%EF%BC%86%E9%81%A0%E8%97%A4%E8%8E%89%E4%B9%83%EF%BC%86%E7%89%87%E7%80%AC%E7%9C%9F%E8%8A%B1.aac" length="21599232" type="audio/aac" />
@@ -111,13 +132,6 @@
       <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20251231_tokyospeakeasy_%E4%BA%94%E9%96%A2%E6%99%83%E4%B8%80%EF%BC%86%E6%A3%AE%E6%9C%AC%E6%99%8B%E5%A4%AA%E9%83%8E%EF%BC%88%E3%83%88%E3%83%B3%E3%83%84%E3%82%AB%E3%82%BF%E3%83%B3%EF%BC%89.aac" length="21599488" type="audio/aac" />
       <guid isPermaLink="false">20251231_tokyospeakeasy_五関晃一＆森本晋太郎（トンツカタン）.aac</guid>
       <pubDate>Wed, 31 Dec 2025 00:00:00 -0000</pubDate>
-      <itunes:duration>01:00:00</itunes:duration>
-    </item>
-    <item>
-      <title>tokyospeakeasy - 2025年12月30日 (ビビる大木＆チャンカワイ)</title>
-      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20251230_tokyospeakeasy_%E3%83%93%E3%83%93%E3%82%8B%E5%A4%A7%E6%9C%A8%EF%BC%86%E3%83%81%E3%83%A3%E3%83%B3%E3%82%AB%E3%83%AF%E3%82%A4.aac" length="21599744" type="audio/aac" />
-      <guid isPermaLink="false">20251230_tokyospeakeasy_ビビる大木＆チャンカワイ.aac</guid>
-      <pubDate>Tue, 30 Dec 2025 00:00:00 -0000</pubDate>
       <itunes:duration>01:00:00</itunes:duration>
     </item>
   </channel>
