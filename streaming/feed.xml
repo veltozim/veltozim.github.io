@@ -4,13 +4,21 @@
     <title>配信録音</title>
     <description>ストリーミングサービスから録音した音声</description>
     <language>ja</language>
-    <author>YouTube Audio Downloader</author>
-    <ns0:author>YouTube Audio Downloader</ns0:author>
+    <author>Browser Audio Recorder</author>
+    <ns0:author>Browser Audio Recorder</ns0:author>
     <ns0:summary>ストリーミングサービスから録音した音声</ns0:summary>
     <ns0:explicit>no</ns0:explicit>
     <ns0:category text="Technology"/>
     <link>https://veltozim.github.io/streaming/feed.xml</link>
-    <lastBuildDate>Sat, 31 Jan 2026 05:55:46 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Feb 2026 05:21:07 +0000</lastBuildDate>
+    <item>
+      <title>吉田豪×久田将義「今夜も下世話に斬ります！」居酒屋タックルズ1月号</title>
+      <description>吉田豪×久田将義「今夜も下世話に斬ります！」居酒屋タックルズ1月号</description>
+      <pubDate>Sun, 01 Feb 2026 05:21:05 +0000</pubDate>
+      <guid>https://pub-818f368ffb1343438308791361fbe938.r2.dev/吉田豪×久田将義「今夜も下世話に斬ります！」居酒屋タックルズ1月号.m4a</guid>
+      <enclosure url="https://pub-818f368ffb1343438308791361fbe938.r2.dev/吉田豪×久田将義「今夜も下世話に斬ります！」居酒屋タックルズ1月号.m4a" length="164622462" type="audio/mp4"/>
+      <ns0:title>吉田豪×久田将義「今夜も下世話に斬ります！」居酒屋タックルズ1月号</ns0:title>
+    </item>
     <item>
       <title>【財政健全化の指標】政府債務残高対GDP比という視点／20年間忘れられてきた目標／プライマリーバランスとの違い／財政健全化か経済成長か／上智大・中里透氏【PIVOT TALK ECONOMY】</title>
       <description>【財政健全化の指標】政府債務残高対GDP比という視点／20年間忘れられてきた目標／プライマリーバランスとの違い／財政健全化か経済成長か／上智大・中里透氏【PIVOT TALK ECONOMY】</description>
