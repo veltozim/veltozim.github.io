@@ -4,13 +4,21 @@
     <title>配信録音</title>
     <description>ストリーミングサービスから録音した音声</description>
     <language>ja</language>
-    <author>Browser Audio Recorder</author>
-    <ns0:author>Browser Audio Recorder</ns0:author>
+    <author>YouTube Audio Downloader</author>
+    <ns0:author>YouTube Audio Downloader</ns0:author>
     <ns0:summary>ストリーミングサービスから録音した音声</ns0:summary>
     <ns0:explicit>no</ns0:explicit>
     <ns0:category text="Technology"/>
     <link>https://veltozim.github.io/streaming/feed.xml</link>
-    <lastBuildDate>Sun, 01 Feb 2026 05:21:07 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Feb 2026 05:34:28 +0000</lastBuildDate>
+    <item>
+      <title>SFL2025お疲れ様でした！激動のリーグ戦も一区切り、GFをふり返るボンちゃん【ボンちゃん切り抜き】</title>
+      <description>SFL2025お疲れ様でした！激動のリーグ戦も一区切り、GFをふり返るボンちゃん【ボンちゃん切り抜き】</description>
+      <pubDate>Sun, 01 Feb 2026 05:34:26 +0000</pubDate>
+      <guid>https://pub-818f368ffb1343438308791361fbe938.r2.dev/SFL2025お疲れ様でした！激動のリーグ戦も一区切り、GFをふり返るボンちゃん【ボンちゃん切り抜き】.m4a</guid>
+      <enclosure url="https://pub-818f368ffb1343438308791361fbe938.r2.dev/SFL2025お疲れ様でした！激動のリーグ戦も一区切り、GFをふり返るボンちゃん【ボンちゃん切り抜き】.m4a" length="11167296" type="audio/mp4"/>
+      <ns0:title>SFL2025お疲れ様でした！激動のリーグ戦も一区切り、GFをふり返るボンちゃん【ボンちゃん切り抜き】</ns0:title>
+    </item>
     <item>
       <title>吉田豪×久田将義「今夜も下世話に斬ります！」居酒屋タックルズ1月号</title>
       <description>吉田豪×久田将義「今夜も下世話に斬ります！」居酒屋タックルズ1月号</description>
