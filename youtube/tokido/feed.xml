@@ -18,6 +18,15 @@
     <itunes:image href=""/>
 
     <item>
+        <title>SFLJP優勝のご報告( ･´ｰ･｀) 2026-02-01 ありがとうございま - 2026年02月02日</title>
+        <description>配信者: ときどch</description>
+        <link>https://www.youtube.com/@tokido</link>
+        <guid isPermaLink="false">02-02：SFLJP優勝のご報告( ･´ｰ･｀) 2026-02-01 ありがとうございま.m4a</guid>
+        <pubDate>Sun, 01 Feb 2026 20:03:55 +0000</pubDate>
+        <enclosure url="https://pub-96dbc39af9e0495e99e6279bf489a92d.r2.dev/tokido/02-02%EF%BC%9ASFLJP%E5%84%AA%E5%8B%9D%E3%81%AE%E3%81%94%E5%A0%B1%E5%91%8A%28%20%EF%BD%A5%C2%B4%EF%BD%B0%EF%BD%A5%EF%BD%80%29%202026-02-01%20%E3%81%82%E3%82%8A%E3%81%8C%E3%81%A8%E3%81%86%E3%81%94%E3%81%96%E3%81%84%E3%81%BE.m4a" length="86491196" type="audio/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
         <title>Tokido&#39;s Saturday morning ( ･´ｰ･｀) 2026- - 2026年01月24日</title>
         <description>配信者: ときどch</description>
         <link>https://www.youtube.com/@tokido</link>
@@ -42,15 +51,6 @@
         <guid isPermaLink="false">01-10：Tokido's Saturday morning ( ･´ｰ･｀) 2026-.m4a</guid>
         <pubDate>Sat, 10 Jan 2026 11:04:46 +0000</pubDate>
         <enclosure url="https://pub-96dbc39af9e0495e99e6279bf489a92d.r2.dev/tokido/01-10%EF%BC%9ATokido%27s%20Saturday%20morning%20%28%20%EF%BD%A5%C2%B4%EF%BD%B0%EF%BD%A5%EF%BD%80%29%202026-.m4a" length="93415500" type="audio/mp4"/>
-        <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-        <title>Tokido&#39;s Saturday morning ( ･´ｰ･｀) 2026- - 2026年01月03日</title>
-        <description>配信者: ときどch</description>
-        <link>https://www.youtube.com/@tokido</link>
-        <guid isPermaLink="false">01-03：Tokido's Saturday morning ( ･´ｰ･｀) 2026-.m4a</guid>
-        <pubDate>Tue, 06 Jan 2026 13:38:49 +0000</pubDate>
-        <enclosure url="https://pub-96dbc39af9e0495e99e6279bf489a92d.r2.dev/tokido/01-03%EF%BC%9ATokido%27s%20Saturday%20morning%20%28%20%EF%BD%A5%C2%B4%EF%BD%B0%EF%BD%A5%EF%BD%80%29%202026-.m4a" length="124261304" type="audio/mp4"/>
         <itunes:explicit>no</itunes:explicit>
     </item>
 </channel>
