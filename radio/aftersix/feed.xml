@@ -6,11 +6,11 @@
     <description>アトロク の音声Podcast (TBS)</description>
     <language>ja</language>
     <itunes:category text="News"/>
-    <lastBuildDate>Mon, 02 Feb 2026 22:28:24 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Feb 2026 22:48:18 -0000</lastBuildDate>
     
     <item>
       <title>アトロク - 2026年02月02日 (アトロク)</title>
-      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/aftersix/20260202_%E3%82%A2%E3%83%88%E3%83%AD%E3%82%AF.aac" length="233280299" type="audio/aac" />
+      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/aftersix/20260202_%E3%82%A2%E3%83%88%E3%83%AD%E3%82%AF.aac" length="44381250" type="audio/aac" />
       <guid isPermaLink="false">20260202_アトロク.aac</guid>
       <pubDate>Mon, 02 Feb 2026 00:00:00 -0000</pubDate>
       <itunes:duration>02:00:00</itunes:duration>
