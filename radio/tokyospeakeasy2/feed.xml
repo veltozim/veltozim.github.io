@@ -6,8 +6,15 @@
     <description>tokyospeakeasy の音声Podcast (FMT)</description>
     <language>ja</language>
     <itunes:category text="News"/>
-    <lastBuildDate>Mon, 02 Feb 2026 22:48:18 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Feb 2026 18:19:10 -0000</lastBuildDate>
     
+    <item>
+      <title>tokyospeakeasy - 2026年02月04日 (村上隆＆新木優子)</title>
+      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20260204_tokyospeakeasy_%E6%9D%91%E4%B8%8A%E9%9A%86%EF%BC%86%E6%96%B0%E6%9C%A8%E5%84%AA%E5%AD%90.aac" length="22219627" type="audio/aac" />
+      <guid isPermaLink="false">20260204_tokyospeakeasy_村上隆＆新木優子.aac</guid>
+      <pubDate>Wed, 04 Feb 2026 00:00:00 -0000</pubDate>
+      <itunes:duration>01:00:00</itunes:duration>
+    </item>
     <item>
       <title>tokyospeakeasy - 2026年02月03日 (宮迫博之＆鈴木おさむ)</title>
       <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20260203_tokyospeakeasy_%E5%AE%AE%E8%BF%AB%E5%8D%9A%E4%B9%8B%EF%BC%86%E9%88%B4%E6%9C%A8%E3%81%8A%E3%81%95%E3%82%80.aac" length="22190625" type="audio/aac" />
