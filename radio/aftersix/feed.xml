@@ -6,8 +6,15 @@
     <description>アトロク の音声Podcast (TBS)</description>
     <language>ja</language>
     <itunes:category text="News"/>
-    <lastBuildDate>Wed, 04 Feb 2026 18:01:56 -0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Feb 2026 11:09:53 -0000</lastBuildDate>
     
+    <item>
+      <title>アトロク - 2026年02月05日 (映画『万事快調　＜オール・グリーンズ＞』評論_【DJ】出口博之（モノブライト）／スーパー戦隊楽曲オンリーセット)</title>
+      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/aftersix/20260205_%E6%98%A0%E7%94%BB%E3%80%8E%E4%B8%87%E4%BA%8B%E5%BF%AB%E8%AA%BF%E3%80%80%EF%BC%9C%E3%82%AA%E3%83%BC%E3%83%AB%E3%83%BB%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%BA%EF%BC%9E%E3%80%8F%E8%A9%95%E8%AB%96_%E3%80%90DJ%E3%80%91%E5%87%BA%E5%8F%A3%E5%8D%9A%E4%B9%8B%EF%BC%88%E3%83%A2%E3%83%8E%E3%83%96%E3%83%A9%E3%82%A4%E3%83%88%EF%BC%89%EF%BC%8F%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E6%88%A6%E9%9A%8A%E6%A5%BD%E6%9B%B2%E3%82%AA%E3%83%B3%E3%83%AA%E3%83%BC%E3%82%BB%E3%83%83%E3%83%88.aac" length="44412874" type="audio/aac" />
+      <guid isPermaLink="false">20260205_映画『万事快調　＜オール・グリーンズ＞』評論_【DJ】出口博之（モノブライト）／スーパー戦隊楽曲オンリーセット.aac</guid>
+      <pubDate>Thu, 05 Feb 2026 00:00:00 -0000</pubDate>
+      <itunes:duration>02:00:00</itunes:duration>
+    </item>
     <item>
       <title>アトロク - 2026年02月04日 (「わたしとスーパー戦隊」作文発表大会（鈴木美潮×渡辺範明×ガイガン山崎）)</title>
       <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/aftersix/20260204_%E3%80%8C%E3%82%8F%E3%81%9F%E3%81%97%E3%81%A8%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E6%88%A6%E9%9A%8A%E3%80%8D%E4%BD%9C%E6%96%87%E7%99%BA%E8%A1%A8%E5%A4%A7%E4%BC%9A%EF%BC%88%E9%88%B4%E6%9C%A8%E7%BE%8E%E6%BD%AE%C3%97%E6%B8%A1%E8%BE%BA%E7%AF%84%E6%98%8E%C3%97%E3%82%AC%E3%82%A4%E3%82%AC%E3%83%B3%E5%B1%B1%E5%B4%8E%EF%BC%89.aac" length="44412722" type="audio/aac" />
@@ -139,13 +146,6 @@
       <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/aftersix/20260106_%E3%83%9E%E3%83%96%E8%AB%96%EF%BC%88%E6%A3%AE%E7%94%B0%E7%A7%80%E4%B8%80%EF%BC%89_%E6%B7%B1%E7%94%B0%E6%99%83%E5%8F%B8%E7%9B%A3%E7%9D%A3%EF%BC%88%E5%9B%BD%E9%9A%9B%E4%BA%A4%E6%B5%81%E5%9F%BA%E9%87%91%E3%82%B3%E3%83%A9%E3%83%9C%E4%BC%81%E7%94%BB%EF%BC%89.aac" length="1835008" type="audio/aac" />
       <guid isPermaLink="false">20260106_マブ論（森田秀一）_深田晃司監督（国際交流基金コラボ企画）.aac</guid>
       <pubDate>Tue, 06 Jan 2026 00:00:00 -0000</pubDate>
-      <itunes:duration>02:00:00</itunes:duration>
-    </item>
-    <item>
-      <title>アトロク - 2026年01月05日 (初夢特集 2026_山本匠晃アナウンサーの「シネマランキング2025」)</title>
-      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/aftersix/20260105_%E5%88%9D%E5%A4%A2%E7%89%B9%E9%9B%86%202026_%E5%B1%B1%E6%9C%AC%E5%8C%A0%E6%99%83%E3%82%A2%E3%83%8A%E3%82%A6%E3%83%B3%E3%82%B5%E3%83%BC%E3%81%AE%E3%80%8C%E3%82%B7%E3%83%8D%E3%83%9E%E3%83%A9%E3%83%B3%E3%82%AD%E3%83%B3%E3%82%B02025%E3%80%8D.aac" length="43198976" type="audio/aac" />
-      <guid isPermaLink="false">20260105_初夢特集 2026_山本匠晃アナウンサーの「シネマランキング2025」.aac</guid>
-      <pubDate>Mon, 05 Jan 2026 00:00:00 -0000</pubDate>
       <itunes:duration>02:00:00</itunes:duration>
     </item>
   </channel>
