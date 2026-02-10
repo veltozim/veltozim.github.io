@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" 
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     version="2.0">
+<channel>
+    <title>ゲーム会社史 ポッドキャスト</title>
+    <description>ゲーム会社史の音声版</description>
+    <link>https://www.youtube.com/@game_history</link>
+    <language>ja</language>
+    <copyright>© 2025 ゲーム会社史</copyright>
+    <itunes:author>ゲーム会社史</itunes:author>
+    <itunes:summary>ゲーム会社史の音声版</itunes:summary>
+    <itunes:owner>
+        <itunes:name>ゲーム会社史</itunes:name>
+    </itunes:owner>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:category text="Entertainment"/>
+    <itunes:image href=""/>
+
+    <item>
+        <title>【完全解説】よくわかる『SNK』崩壊と復活の50年史  1978～2026【保存 - 2026年02月02日</title>
+        <description>配信者: ゲーム会社史</description>
+        <link>https://www.youtube.com/@game_history</link>
+        <guid isPermaLink="false">02-02：【完全解説】よくわかる『SNK』崩壊と復活の50年史  1978～2026【保存.m4a</guid>
+        <pubDate>Tue, 10 Feb 2026 13:47:44 +0000</pubDate>
+        <enclosure url="https://pub-96dbc39af9e0495e99e6279bf489a92d.r2.dev/game_history/02-02%EF%BC%9A%E3%80%90%E5%AE%8C%E5%85%A8%E8%A7%A3%E8%AA%AC%E3%80%91%E3%82%88%E3%81%8F%E3%82%8F%E3%81%8B%E3%82%8B%E3%80%8ESNK%E3%80%8F%E5%B4%A9%E5%A3%8A%E3%81%A8%E5%BE%A9%E6%B4%BB%E3%81%AE50%E5%B9%B4%E5%8F%B2%20%201978%EF%BD%9E2026%E3%80%90%E4%BF%9D%E5%AD%98.m4a" length="29906450" type="audio/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+</channel>
+</rss>
