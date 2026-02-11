@@ -6,8 +6,15 @@
     <description>tokyospeakeasy の音声Podcast (FMT)</description>
     <language>ja</language>
     <itunes:category text="News"/>
-    <lastBuildDate>Wed, 11 Feb 2026 02:46:00 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Feb 2026 18:02:00 -0000</lastBuildDate>
     
+    <item>
+      <title>tokyospeakeasy - 2026年02月12日 (カンニング竹山＆鳥居みゆき)</title>
+      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20260212_tokyospeakeasy_%E3%82%AB%E3%83%B3%E3%83%8B%E3%83%B3%E3%82%B0%E7%AB%B9%E5%B1%B1%EF%BC%86%E9%B3%A5%E5%B1%85%E3%81%BF%E3%82%86%E3%81%8D.aac" length="22190648" type="audio/aac" />
+      <guid isPermaLink="false">20260212_tokyospeakeasy_カンニング竹山＆鳥居みゆき.aac</guid>
+      <pubDate>Thu, 12 Feb 2026 00:00:00 -0000</pubDate>
+      <itunes:duration>01:00:00</itunes:duration>
+    </item>
     <item>
       <title>tokyospeakeasy - 2026年02月11日 (鈴木敏夫＆風間俊介)</title>
       <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20260211_tokyospeakeasy_%E9%88%B4%E6%9C%A8%E6%95%8F%E5%A4%AB%EF%BC%86%E9%A2%A8%E9%96%93%E4%BF%8A%E4%BB%8B.aac" length="22219571" type="audio/aac" />
