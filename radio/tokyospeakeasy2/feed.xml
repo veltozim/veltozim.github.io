@@ -6,7 +6,7 @@
     <description>tokyospeakeasy の音声Podcast (FMT)</description>
     <language>ja</language>
     <itunes:category text="News"/>
-    <lastBuildDate>Thu, 12 Feb 2026 18:01:45 -0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Feb 2026 18:01:47 -0000</lastBuildDate>
     
     <item>
       <title>tokyospeakeasy - 2026年02月13日 (高野正成＆日本一おもしろい大崎)</title>
@@ -132,13 +132,6 @@
       <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20260115_tokyospeakeasy_%E7%AF%A0%E7%94%B0%E9%BA%BB%E9%87%8C%E5%AD%90%EF%BC%86MOMO%EF%BC%88WHITE_SCORPION%EF%BC%89%EF%BC%86NICO%EF%BC%88WHITE_SCORPION%EF%BC%89.aac" length="21599232" type="audio/aac" />
       <guid isPermaLink="false">20260115_tokyospeakeasy_篠田麻里子＆MOMO（WHITE_SCORPION）＆NICO（WHITE_SCORPION）.aac</guid>
       <pubDate>Thu, 15 Jan 2026 00:00:00 -0000</pubDate>
-      <itunes:duration>01:00:00</itunes:duration>
-    </item>
-    <item>
-      <title>tokyospeakeasy - 2026年01月14日 (すがちゃん最高No.1（ぱーてぃーちゃん）＆本田康祐)</title>
-      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20260114_tokyospeakeasy_%E3%81%99%E3%81%8C%E3%81%A1%E3%82%83%E3%82%93%E6%9C%80%E9%AB%98No.1%EF%BC%88%E3%81%B1%E3%83%BC%E3%81%A6%E3%81%83%E3%83%BC%E3%81%A1%E3%82%83%E3%82%93%EF%BC%89%EF%BC%86%E6%9C%AC%E7%94%B0%E5%BA%B7%E7%A5%90.aac" length="21599744" type="audio/aac" />
-      <guid isPermaLink="false">20260114_tokyospeakeasy_すがちゃん最高No.1（ぱーてぃーちゃん）＆本田康祐.aac</guid>
-      <pubDate>Wed, 14 Jan 2026 00:00:00 -0000</pubDate>
       <itunes:duration>01:00:00</itunes:duration>
     </item>
   </channel>
