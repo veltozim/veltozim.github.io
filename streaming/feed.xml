@@ -4,13 +4,21 @@
     <title>配信録音</title>
     <description>ストリーミングサービスから録音した音声</description>
     <language>ja</language>
-    <author>YouTube Audio Downloader</author>
-    <ns0:author>YouTube Audio Downloader</ns0:author>
+    <author>Browser Audio Recorder</author>
+    <ns0:author>Browser Audio Recorder</ns0:author>
     <ns0:summary>ストリーミングサービスから録音した音声</ns0:summary>
     <ns0:explicit>no</ns0:explicit>
     <ns0:category text="Technology"/>
     <link>https://veltozim.github.io/streaming/feed.xml</link>
-    <lastBuildDate>Fri, 13 Feb 2026 13:13:49 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Feb 2026 17:02:16 +0000</lastBuildDate>
+    <item>
+      <title>【配信】えらそうなヤツ、だいたい...TABLOナイト』第25夜</title>
+      <description>【配信】えらそうなヤツ、だいたい...TABLOナイト』第25夜</description>
+      <pubDate>Fri, 13 Feb 2026 17:02:15 +0000</pubDate>
+      <guid>https://pub-818f368ffb1343438308791361fbe938.r2.dev/【配信】えらそうなヤツ、だいたい...TABLOナイト』第25夜.m4a</guid>
+      <enclosure url="https://pub-818f368ffb1343438308791361fbe938.r2.dev/【配信】えらそうなヤツ、だいたい...TABLOナイト』第25夜.m4a" length="195843662" type="audio/mp4"/>
+      <ns0:title>【配信】えらそうなヤツ、だいたい...TABLOナイト』第25夜</ns0:title>
+    </item>
     <item>
       <title>【ChatGPTの野望は“全知全能”への進化】今井翔太「いまさらAI開発レースを止められない」／OpenAIは評価額「100兆円」でも大赤字／「人類の利益」より広告でカネ儲け【AI QUEST】</title>
       <description>【ChatGPTの野望は“全知全能”への進化】今井翔太「いまさらAI開発レースを止められない」／OpenAIは評価額「100兆円」でも大赤字／「人類の利益」より広告でカネ儲け【AI QUEST】</description>
