@@ -6,8 +6,15 @@
     <description>tokyospeakeasy の音声Podcast (FMT)</description>
     <language>ja</language>
     <itunes:category text="News"/>
-    <lastBuildDate>Tue, 17 Feb 2026 18:03:00 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Feb 2026 18:02:27 -0000</lastBuildDate>
     
+    <item>
+      <title>tokyospeakeasy - 2026年02月19日 (ダンカン＆千秋)</title>
+      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20260219_tokyospeakeasy_%E3%83%80%E3%83%B3%E3%82%AB%E3%83%B3%EF%BC%86%E5%8D%83%E7%A7%8B.aac" length="22190604" type="audio/aac" />
+      <guid isPermaLink="false">20260219_tokyospeakeasy_ダンカン＆千秋.aac</guid>
+      <pubDate>Thu, 19 Feb 2026 00:00:00 -0000</pubDate>
+      <itunes:duration>01:00:00</itunes:duration>
+    </item>
     <item>
       <title>tokyospeakeasy - 2026年02月18日 (元木大介＆岩橋玄樹)</title>
       <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20260218_tokyospeakeasy_%E5%85%83%E6%9C%A8%E5%A4%A7%E4%BB%8B%EF%BC%86%E5%B2%A9%E6%A9%8B%E7%8E%84%E6%A8%B9.aac" length="22190696" type="audio/aac" />
