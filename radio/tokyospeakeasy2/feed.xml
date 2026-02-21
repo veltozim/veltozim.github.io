@@ -6,7 +6,7 @@
     <description>tokyospeakeasy の音声Podcast (FMT)</description>
     <language>ja</language>
     <itunes:category text="News"/>
-    <lastBuildDate>Fri, 20 Feb 2026 18:03:15 -0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Feb 2026 18:01:16 -0000</lastBuildDate>
     
     <item>
       <title>tokyospeakeasy - 2026年02月20日 (つるの剛士＆ユージ)</title>
@@ -125,13 +125,6 @@
       <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20260123_tokyospeakeasy_%E6%9F%8F%E6%9C%A8%E7%94%B1%E7%B4%80%EF%BC%86%E9%81%A0%E8%97%A4%E8%8E%89%E4%B9%83%EF%BC%86%E7%89%87%E7%80%AC%E7%9C%9F%E8%8A%B1.aac" length="21599232" type="audio/aac" />
       <guid isPermaLink="false">20260123_tokyospeakeasy_柏木由紀＆遠藤莉乃＆片瀬真花.aac</guid>
       <pubDate>Fri, 23 Jan 2026 00:00:00 -0000</pubDate>
-      <itunes:duration>01:00:00</itunes:duration>
-    </item>
-    <item>
-      <title>tokyospeakeasy - 2026年01月22日 (矢口真里＆石川梨華)</title>
-      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20260122_tokyospeakeasy_%E7%9F%A2%E5%8F%A3%E7%9C%9F%E9%87%8C%EF%BC%86%E7%9F%B3%E5%B7%9D%E6%A2%A8%E8%8F%AF.aac" length="21600511" type="audio/aac" />
-      <guid isPermaLink="false">20260122_tokyospeakeasy_矢口真里＆石川梨華.aac</guid>
-      <pubDate>Thu, 22 Jan 2026 00:00:00 -0000</pubDate>
       <itunes:duration>01:00:00</itunes:duration>
     </item>
   </channel>
