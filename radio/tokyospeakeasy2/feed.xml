@@ -6,8 +6,15 @@
     <description>tokyospeakeasy の音声Podcast (FMT)</description>
     <language>ja</language>
     <itunes:category text="News"/>
-    <lastBuildDate>Sun, 22 Feb 2026 18:03:06 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Feb 2026 18:02:02 -0000</lastBuildDate>
     
+    <item>
+      <title>tokyospeakeasy - 2026年02月24日 (ミッツ・マングローブ＆ナジャ・グランディーバ)</title>
+      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20260224_tokyospeakeasy_%E3%83%9F%E3%83%83%E3%83%84%E3%83%BB%E3%83%9E%E3%83%B3%E3%82%B0%E3%83%AD%E3%83%BC%E3%83%96%EF%BC%86%E3%83%8A%E3%82%B8%E3%83%A3%E3%83%BB%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BC%E3%83%90.aac" length="22190652" type="audio/aac" />
+      <guid isPermaLink="false">20260224_tokyospeakeasy_ミッツ・マングローブ＆ナジャ・グランディーバ.aac</guid>
+      <pubDate>Tue, 24 Feb 2026 00:00:00 -0000</pubDate>
+      <itunes:duration>01:00:00</itunes:duration>
+    </item>
     <item>
       <title>tokyospeakeasy - 2026年02月20日 (つるの剛士＆ユージ)</title>
       <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20260220_tokyospeakeasy_%E3%81%A4%E3%82%8B%E3%81%AE%E5%89%9B%E5%A3%AB%EF%BC%86%E3%83%A6%E3%83%BC%E3%82%B8.aac" length="22190709" type="audio/aac" />
