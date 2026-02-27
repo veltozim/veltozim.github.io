@@ -6,7 +6,7 @@
     <description>tokyospeakeasy の音声Podcast (FMT)</description>
     <language>ja</language>
     <itunes:category text="News"/>
-    <lastBuildDate>Thu, 26 Feb 2026 18:01:54 -0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Feb 2026 18:02:03 -0000</lastBuildDate>
     
     <item>
       <title>tokyospeakeasy - 2026年02月27日 (小川菜摘＆馬場園梓)</title>
@@ -132,13 +132,6 @@
       <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20260129_tokyospeakeasy_%E5%B1%B1%E5%8F%A3%E3%82%82%E3%81%88%EF%BC%86%E3%82%AE%E3%83%A3%E3%83%AB%E6%9B%BD%E6%A0%B9.aac" length="22190575" type="audio/aac" />
       <guid isPermaLink="false">20260129_tokyospeakeasy_山口もえ＆ギャル曽根.aac</guid>
       <pubDate>Thu, 29 Jan 2026 00:00:00 -0000</pubDate>
-      <itunes:duration>01:00:00</itunes:duration>
-    </item>
-    <item>
-      <title>tokyospeakeasy - 2026年01月28日 (藤井隆＆堂島孝平)</title>
-      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20260128_tokyospeakeasy_%E8%97%A4%E4%BA%95%E9%9A%86%EF%BC%86%E5%A0%82%E5%B3%B6%E5%AD%9D%E5%B9%B3.aac" length="22190658" type="audio/aac" />
-      <guid isPermaLink="false">20260128_tokyospeakeasy_藤井隆＆堂島孝平.aac</guid>
-      <pubDate>Wed, 28 Jan 2026 00:00:00 -0000</pubDate>
       <itunes:duration>01:00:00</itunes:duration>
     </item>
   </channel>
