@@ -4,13 +4,21 @@
     <title>配信録音</title>
     <description>ストリーミングサービスから録音した音声</description>
     <language>ja</language>
-    <author>YouTube Audio Downloader</author>
-    <ns0:author>YouTube Audio Downloader</ns0:author>
+    <author>Browser Audio Recorder</author>
+    <ns0:author>Browser Audio Recorder</ns0:author>
     <ns0:summary>ストリーミングサービスから録音した音声</ns0:summary>
     <ns0:explicit>no</ns0:explicit>
     <ns0:category text="Technology"/>
     <link>https://veltozim.github.io/streaming/feed.xml</link>
-    <lastBuildDate>Sat, 28 Feb 2026 22:33:52 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Mar 2026 01:59:38 +0000</lastBuildDate>
+    <item>
+      <title>吉田豪×久田将義「今夜も下世話に斬ります！」居酒屋タックルズ2月号</title>
+      <description>吉田豪×久田将義「今夜も下世話に斬ります！」居酒屋タックルズ2月号</description>
+      <pubDate>Sun, 01 Mar 2026 01:59:38 +0000</pubDate>
+      <guid>https://pub-818f368ffb1343438308791361fbe938.r2.dev/吉田豪×久田将義「今夜も下世話に斬ります！」居酒屋タックルズ2月号.m4a</guid>
+      <enclosure url="https://pub-818f368ffb1343438308791361fbe938.r2.dev/吉田豪×久田将義「今夜も下世話に斬ります！」居酒屋タックルズ2月号.m4a" length="179743105" type="audio/mp4"/>
+      <ns0:title>吉田豪×久田将義「今夜も下世話に斬ります！」居酒屋タックルズ2月号</ns0:title>
+    </item>
     <item>
       <title>【緊急】カプコンカップ12出場決定</title>
       <description>【緊急】カプコンカップ12出場決定</description>
@@ -18,70 +26,6 @@
       <guid>https://pub-818f368ffb1343438308791361fbe938.r2.dev/【緊急】カプコンカップ12出場決定.m4a</guid>
       <enclosure url="https://pub-818f368ffb1343438308791361fbe938.r2.dev/【緊急】カプコンカップ12出場決定.m4a" length="5092681" type="audio/mp4"/>
       <ns0:title>【緊急】カプコンカップ12出場決定</ns0:title>
-    </item>
-    <item>
-      <title>ここでしか聞けない豪さんの生放送!! 【平熱大陸】2026年2月号</title>
-      <description>ここでしか聞けない豪さんの生放送!! 【平熱大陸】2026年2月号</description>
-      <pubDate>Sun, 22 Feb 2026 14:57:46 +0000</pubDate>
-      <guid>https://pub-818f368ffb1343438308791361fbe938.r2.dev/ここでしか聞けない豪さんの生放送!! 【平熱大陸】2026年2月号.m4a</guid>
-      <enclosure url="https://pub-818f368ffb1343438308791361fbe938.r2.dev/ここでしか聞けない豪さんの生放送!! 【平熱大陸】2026年2月号.m4a" length="189920577" type="audio/mp4"/>
-      <ns0:title>ここでしか聞けない豪さんの生放送!! 【平熱大陸】2026年2月号</ns0:title>
-    </item>
-    <item>
-      <title>吉田豪と久田将義の噂のワイドショー2月号</title>
-      <description>吉田豪と久田将義の噂のワイドショー2月号</description>
-      <pubDate>Sat, 21 Feb 2026 12:14:10 +0000</pubDate>
-      <guid>https://pub-818f368ffb1343438308791361fbe938.r2.dev/吉田豪と久田将義の噂のワイドショー2月号.m4a</guid>
-      <enclosure url="https://pub-818f368ffb1343438308791361fbe938.r2.dev/吉田豪と久田将義の噂のワイドショー2月号.m4a" length="116595376" type="audio/mp4"/>
-      <ns0:title>吉田豪と久田将義の噂のワイドショー2月号</ns0:title>
-    </item>
-    <item>
-      <title>【衝撃のラスト】松竹から干されてる男</title>
-      <description>【衝撃のラスト】松竹から干されてる男</description>
-      <pubDate>Sun, 15 Feb 2026 10:18:59 +0000</pubDate>
-      <guid>https://pub-818f368ffb1343438308791361fbe938.r2.dev/【衝撃のラスト】松竹から干されてる男.m4a</guid>
-      <enclosure url="https://pub-818f368ffb1343438308791361fbe938.r2.dev/【衝撃のラスト】松竹から干されてる男.m4a" length="24725990" type="audio/mp4"/>
-      <ns0:title>【衝撃のラスト】松竹から干されてる男</ns0:title>
-    </item>
-    <item>
-      <title>【配信】えらそうなヤツ、だいたい...TABLOナイト』第25夜</title>
-      <description>【配信】えらそうなヤツ、だいたい...TABLOナイト』第25夜</description>
-      <pubDate>Fri, 13 Feb 2026 17:02:15 +0000</pubDate>
-      <guid>https://pub-818f368ffb1343438308791361fbe938.r2.dev/【配信】えらそうなヤツ、だいたい...TABLOナイト』第25夜.m4a</guid>
-      <enclosure url="https://pub-818f368ffb1343438308791361fbe938.r2.dev/【配信】えらそうなヤツ、だいたい...TABLOナイト』第25夜.m4a" length="195843662" type="audio/mp4"/>
-      <ns0:title>【配信】えらそうなヤツ、だいたい...TABLOナイト』第25夜</ns0:title>
-    </item>
-    <item>
-      <title>【ChatGPTの野望は“全知全能”への進化】今井翔太「いまさらAI開発レースを止められない」／OpenAIは評価額「100兆円」でも大赤字／「人類の利益」より広告でカネ儲け【AI QUEST】</title>
-      <description>【ChatGPTの野望は“全知全能”への進化】今井翔太「いまさらAI開発レースを止められない」／OpenAIは評価額「100兆円」でも大赤字／「人類の利益」より広告でカネ儲け【AI QUEST】</description>
-      <pubDate>Fri, 13 Feb 2026 13:13:48 +0000</pubDate>
-      <guid>https://pub-818f368ffb1343438308791361fbe938.r2.dev/【ChatGPTの野望は“全知全能”への進化】今井翔太「いまさらAI開発レースを止められない」／OpenAIは評価額「100兆円」でも大赤字／「人類の利益」より広告でカネ儲け【AI QUEST】.m4a</guid>
-      <enclosure url="https://pub-818f368ffb1343438308791361fbe938.r2.dev/【ChatGPTの野望は“全知全能”への進化】今井翔太「いまさらAI開発レースを止められない」／OpenAIは評価額「100兆円」でも大赤字／「人類の利益」より広告でカネ儲け【AI QUEST】.m4a" length="38301273" type="audio/mp4"/>
-      <ns0:title>【ChatGPTの野望は“全知全能”への進化】今井翔太「いまさらAI開発レースを止められない」／OpenAIは評価額「100兆円」でも大赤字／「人類の利益」より広告でカネ儲け【AI QUEST】</ns0:title>
-    </item>
-    <item>
-      <title>【オワコン】茂木健一郎の言葉を受け止めたい</title>
-      <description>【オワコン】茂木健一郎の言葉を受け止めたい</description>
-      <pubDate>Sun, 08 Feb 2026 09:20:36 +0000</pubDate>
-      <guid>https://pub-818f368ffb1343438308791361fbe938.r2.dev/【オワコン】茂木健一郎の言葉を受け止めたい.m4a</guid>
-      <enclosure url="https://pub-818f368ffb1343438308791361fbe938.r2.dev/【オワコン】茂木健一郎の言葉を受け止めたい.m4a" length="13099023" type="audio/mp4"/>
-      <ns0:title>【オワコン】茂木健一郎の言葉を受け止めたい</ns0:title>
-    </item>
-    <item>
-      <title>【きんちょ】本書けるくらいエピソードある ｜ ぶっぱなしCROSSTALK9【出張編】</title>
-      <description>【きんちょ】本書けるくらいエピソードある ｜ ぶっぱなしCROSSTALK9【出張編】</description>
-      <pubDate>Sat, 07 Feb 2026 14:46:03 +0000</pubDate>
-      <guid>https://pub-818f368ffb1343438308791361fbe938.r2.dev/【きんちょ】本書けるくらいエピソードある ｜ ぶっぱなしCROSSTALK9【出張編】.m4a</guid>
-      <enclosure url="https://pub-818f368ffb1343438308791361fbe938.r2.dev/【きんちょ】本書けるくらいエピソードある ｜ ぶっぱなしCROSSTALK9【出張編】.m4a" length="43175572" type="audio/mp4"/>
-      <ns0:title>【きんちょ】本書けるくらいエピソードある ｜ ぶっぱなしCROSSTALK9【出張編】</ns0:title>
-    </item>
-    <item>
-      <title>【こたけ正義感へ】弁論を完全攻略</title>
-      <description>【こたけ正義感へ】弁論を完全攻略</description>
-      <pubDate>Mon, 02 Feb 2026 12:47:41 +0000</pubDate>
-      <guid>https://pub-818f368ffb1343438308791361fbe938.r2.dev/【こたけ正義感へ】弁論を完全攻略.m4a</guid>
-      <enclosure url="https://pub-818f368ffb1343438308791361fbe938.r2.dev/【こたけ正義感へ】弁論を完全攻略.m4a" length="20818747" type="audio/mp4"/>
-      <ns0:title>【こたけ正義感へ】弁論を完全攻略</ns0:title>
     </item>
     <item>
       <title>【財政健全化の指標】政府債務残高対GDP比という視点／20年間忘れられてきた目標／プライマリーバランスとの違い／財政健全化か経済成長か／上智大・中里透氏【PIVOT TALK ECONOMY】</title>
@@ -92,36 +36,12 @@
       <ns0:title>【財政健全化の指標】政府債務残高対GDP比という視点／20年間忘れられてきた目標／プライマリーバランスとの違い／財政健全化か経済成長か／上智大・中里透氏【PIVOT TALK ECONOMY】</ns0:title>
     </item>
     <item>
-      <title>【歴史を“レスバ”の武器にするな】辻田真佐憲／わざとSNSで炎上させる「闇落ち研究者」が急増／AIで歴史の矛盾を看破せよ／日本の常識が海外で“嘘”／これからは「令和人文主義」と「戦後史」【1on1】</title>
-      <description>【歴史を“レスバ”の武器にするな】辻田真佐憲／わざとSNSで炎上させる「闇落ち研究者」が急増／AIで歴史の矛盾を看破せよ／日本の常識が海外で“嘘”／これからは「令和人文主義」と「戦後史」【1on1】</description>
-      <pubDate>Fri, 30 Jan 2026 05:33:00 +0000</pubDate>
-      <guid>https://pub-818f368ffb1343438308791361fbe938.r2.dev/【歴史を“レスバ”の武器にするな】辻田真佐憲／わざとSNSで炎上させる「闇落ち研究者」が急増／AIで歴史の矛盾を看破せよ／日本の常識が海外で“嘘”／これからは「令和人文主義」と「戦後史」【1on1】.m4a</guid>
-      <enclosure url="https://pub-818f368ffb1343438308791361fbe938.r2.dev/【歴史を“レスバ”の武器にするな】辻田真佐憲／わざとSNSで炎上させる「闇落ち研究者」が急増／AIで歴史の矛盾を看破せよ／日本の常識が海外で“嘘”／これからは「令和人文主義」と「戦後史」【1on1】.m4a" length="27251944" type="audio/mp4"/>
-      <ns0:title>【歴史を“レスバ”の武器にするな】辻田真佐憲／わざとSNSで炎上させる「闇落ち研究者」が急増／AIで歴史の矛盾を看破せよ／日本の常識が海外で“嘘”／これからは「令和人文主義」と「戦後史」【1on1】</ns0:title>
-    </item>
-    <item>
-      <title>【言語化プレッシャーの正体】“言語化強者”がトクする社会／ゆる言語学ラジオ・水野太貴／「スラスラ喋れない＝無能」はウソ／0.2秒で理解“会話は奇跡”／「あのー」や「えーと」には意味がある【1on1】</title>
-      <description>【言語化プレッシャーの正体】“言語化強者”がトクする社会／ゆる言語学ラジオ・水野太貴／「スラスラ喋れない＝無能」はウソ／0.2秒で理解“会話は奇跡”／「あのー」や「えーと」には意味がある【1on1】</description>
-      <pubDate>Thu, 22 Jan 2026 05:43:27 +0000</pubDate>
-      <guid>https://pub-818f368ffb1343438308791361fbe938.r2.dev/【言語化プレッシャーの正体】“言語化強者”がトクする社会／ゆる言語学ラジオ・水野太貴／「スラスラ喋れない＝無能」はウソ／0.2秒で理解“会話は奇跡”／「あのー」や「えーと」には意味がある【1on1】.m4a</guid>
-      <enclosure url="https://pub-818f368ffb1343438308791361fbe938.r2.dev/【言語化プレッシャーの正体】“言語化強者”がトクする社会／ゆる言語学ラジオ・水野太貴／「スラスラ喋れない＝無能」はウソ／0.2秒で理解“会話は奇跡”／「あのー」や「えーと」には意味がある【1on1】.m4a" length="24797816" type="audio/mp4"/>
-      <ns0:title>【言語化プレッシャーの正体】“言語化強者”がトクする社会／ゆる言語学ラジオ・水野太貴／「スラスラ喋れない＝無能」はウソ／0.2秒で理解“会話は奇跡”／「あのー」や「えーと」には意味がある【1on1】</ns0:title>
-    </item>
-    <item>
       <title>【ナショナリズムを科学する】愛国心・排外意識・帰属意識“３つの次元”で分析／政治に“少し”詳しい人ほど引っ張られる／国際関係の悪化で高まる“負の側面”／ワールドカップと戦争の意外な相関【1on1】</title>
       <description>【ナショナリズムを科学する】愛国心・排外意識・帰属意識“３つの次元”で分析／政治に“少し”詳しい人ほど引っ張られる／国際関係の悪化で高まる“負の側面”／ワールドカップと戦争の意外な相関【1on1】</description>
       <pubDate>Sun, 18 Jan 2026 13:46:27 +0000</pubDate>
       <guid>https://pub-818f368ffb1343438308791361fbe938.r2.dev/【ナショナリズムを科学する】愛国心・排外意識・帰属意識“３つの次元”で分析／政治に“少し”詳しい人ほど引っ張られる／国際関係の悪化で高まる“負の側面”／ワールドカップと戦争の意外な相関【1on1】.m4a</guid>
       <enclosure url="https://pub-818f368ffb1343438308791361fbe938.r2.dev/【ナショナリズムを科学する】愛国心・排外意識・帰属意識“３つの次元”で分析／政治に“少し”詳しい人ほど引っ張られる／国際関係の悪化で高まる“負の側面”／ワールドカップと戦争の意外な相関【1on1】.m4a" length="25296040" type="audio/mp4"/>
       <ns0:title>【ナショナリズムを科学する】愛国心・排外意識・帰属意識“３つの次元”で分析／政治に“少し”詳しい人ほど引っ張られる／国際関係の悪化で高まる“負の側面”／ワールドカップと戦争の意外な相関【1on1】</ns0:title>
-    </item>
-    <item>
-      <title>年末だよ！ニュースヤミ鍋プラスワン2025 三浦マイルド</title>
-      <description>年末だよ！ニュースヤミ鍋プラスワン2025 三浦マイルド</description>
-      <pubDate>Thu, 01 Jan 2026 13:35:56 +0000</pubDate>
-      <guid>https://pub-818f368ffb1343438308791361fbe938.r2.dev/年末だよ！ニュースヤミ鍋プラスワン2025 三浦マイルド.m4a</guid>
-      <enclosure url="https://pub-818f368ffb1343438308791361fbe938.r2.dev/年末だよ！ニュースヤミ鍋プラスワン2025 三浦マイルド.m4a" length="211563880" type="audio/mp4"/>
-      <ns0:title>年末だよ！ニュースヤミ鍋プラスワン2025 三浦マイルド</ns0:title>
     </item>
   </channel>
 </rss>
