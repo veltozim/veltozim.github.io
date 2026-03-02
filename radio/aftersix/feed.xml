@@ -6,8 +6,15 @@
     <description>アトロク の音声Podcast (TBS)</description>
     <language>ja</language>
     <itunes:category text="News"/>
-    <lastBuildDate>Sun, 01 Mar 2026 18:02:10 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Mar 2026 18:01:23 -0000</lastBuildDate>
     
+    <item>
+      <title>アトロク - 2026年03月02日 (世界的バリスタ・鈴木樹が語る コーヒー業界 最前線 2026！ with 三浦大知_いとうせいこう（書籍『日日是植物』について）)</title>
+      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/aftersix/20260302_%E4%B8%96%E7%95%8C%E7%9A%84%E3%83%90%E3%83%AA%E3%82%B9%E3%82%BF%E3%83%BB%E9%88%B4%E6%9C%A8%E6%A8%B9%E3%81%8C%E8%AA%9E%E3%82%8B%20%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E6%A5%AD%E7%95%8C%20%E6%9C%80%E5%89%8D%E7%B7%9A%202026%EF%BC%81%20with%20%E4%B8%89%E6%B5%A6%E5%A4%A7%E7%9F%A5_%E3%81%84%E3%81%A8%E3%81%86%E3%81%9B%E3%81%84%E3%81%93%E3%81%86%EF%BC%88%E6%9B%B8%E7%B1%8D%E3%80%8E%E6%97%A5%E6%97%A5%E6%98%AF%E6%A4%8D%E7%89%A9%E3%80%8F%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%EF%BC%89.aac" length="44412753" type="audio/aac" />
+      <guid isPermaLink="false">20260302_世界的バリスタ・鈴木樹が語る コーヒー業界 最前線 2026！ with 三浦大知_いとうせいこう（書籍『日日是植物』について）.aac</guid>
+      <pubDate>Mon, 02 Mar 2026 00:00:00 -0000</pubDate>
+      <itunes:duration>02:00:00</itunes:duration>
+    </item>
     <item>
       <title>アトロク - 2026年02月26日 (映画「おさるのベン」評論_valknee スタジオライブ)</title>
       <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/aftersix/20260226_%E6%98%A0%E7%94%BB%E3%80%8C%E3%81%8A%E3%81%95%E3%82%8B%E3%81%AE%E3%83%99%E3%83%B3%E3%80%8D%E8%A9%95%E8%AB%96_valknee%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%E3%83%A9%E3%82%A4%E3%83%96.aac" length="44381250" type="audio/aac" />
@@ -139,13 +146,6 @@
       <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/aftersix/20260128_%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%BC%E8%B3%9E%E5%B1%95%E6%9C%9B%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%EF%BC%88%E9%AB%98%E6%A9%8B%E8%8A%B3%E6%9C%97%EF%BC%89_%E3%81%8A%E3%82%B9%E3%82%B9%E3%83%A1%E6%96%B0%E8%AD%9C%E7%B4%B9%E4%BB%8B.aac" length="44381250" type="audio/aac" />
       <guid isPermaLink="false">20260128_グラミー賞展望スペシャル（高橋芳朗）_おススメ新譜紹介.aac</guid>
       <pubDate>Wed, 28 Jan 2026 00:00:00 -0000</pubDate>
-      <itunes:duration>02:00:00</itunes:duration>
-    </item>
-    <item>
-      <title>アトロク - 2026年01月27日 (ライムスター宇多丸の聴くマブ論 SPECIAL 2025年ベストソングはこれだ！！特集)</title>
-      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/aftersix/20260127_%E3%83%A9%E3%82%A4%E3%83%A0%E3%82%B9%E3%82%BF%E3%83%BC%E5%AE%87%E5%A4%9A%E4%B8%B8%E3%81%AE%E8%81%B4%E3%81%8F%E3%83%9E%E3%83%96%E8%AB%96%20SPECIAL%202025%E5%B9%B4%E3%83%99%E3%82%B9%E3%83%88%E3%82%BD%E3%83%B3%E3%82%B0%E3%81%AF%E3%81%93%E3%82%8C%E3%81%A0%EF%BC%81%EF%BC%81%E7%89%B9%E9%9B%86.aac" length="44381250" type="audio/aac" />
-      <guid isPermaLink="false">20260127_ライムスター宇多丸の聴くマブ論 SPECIAL 2025年ベストソングはこれだ！！特集.aac</guid>
-      <pubDate>Tue, 27 Jan 2026 00:00:00 -0000</pubDate>
       <itunes:duration>02:00:00</itunes:duration>
     </item>
   </channel>
