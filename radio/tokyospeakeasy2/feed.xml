@@ -6,7 +6,7 @@
     <description>tokyospeakeasy の音声Podcast (FMT)</description>
     <language>ja</language>
     <itunes:category text="News"/>
-    <lastBuildDate>Sat, 07 Mar 2026 18:00:11 -0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Mar 2026 18:02:15 -0000</lastBuildDate>
     
     <item>
       <title>tokyospeakeasy - 2026年03月06日 (関根勤＆岩井ジョニ男)</title>
@@ -118,13 +118,6 @@
       <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20260210_tokyospeakeasy_%E5%9C%9F%E5%B1%8B%E6%95%8F%E7%94%B7%EF%BC%86%E6%A3%AE%E8%84%87%E5%92%8C%E6%88%90.aac" length="22190642" type="audio/aac" />
       <guid isPermaLink="false">20260210_tokyospeakeasy_土屋敏男＆森脇和成.aac</guid>
       <pubDate>Tue, 10 Feb 2026 00:00:00 -0000</pubDate>
-      <itunes:duration>01:00:00</itunes:duration>
-    </item>
-    <item>
-      <title>tokyospeakeasy - 2026年02月06日 (千原ジュニア＆三又又三)</title>
-      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20260206_tokyospeakeasy_%E5%8D%83%E5%8E%9F%E3%82%B8%E3%83%A5%E3%83%8B%E3%82%A2%EF%BC%86%E4%B8%89%E5%8F%88%E5%8F%88%E4%B8%89.aac" length="22190680" type="audio/aac" />
-      <guid isPermaLink="false">20260206_tokyospeakeasy_千原ジュニア＆三又又三.aac</guid>
-      <pubDate>Fri, 06 Feb 2026 00:00:00 -0000</pubDate>
       <itunes:duration>01:00:00</itunes:duration>
     </item>
   </channel>
