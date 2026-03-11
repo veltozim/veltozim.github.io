@@ -6,8 +6,15 @@
     <description>KING_OF_DIGGIN の音声Podcast (FMT)</description>
     <language>ja</language>
     <itunes:category text="News"/>
-    <lastBuildDate>Tue, 10 Mar 2026 18:01:56 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Mar 2026 18:01:31 -0000</lastBuildDate>
     
+    <item>
+      <title>KING_OF_DIGGIN - 2026年03月11日</title>
+      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/KING_OF_DIGGIN/20260311_KING_OF_DIGGIN.aac" length="11095213" type="audio/aac" />
+      <guid isPermaLink="false">20260311_KING_OF_DIGGIN.aac</guid>
+      <pubDate>Wed, 11 Mar 2026 00:00:00 -0000</pubDate>
+      <itunes:duration>00:30:00</itunes:duration>
+    </item>
     <item>
       <title>KING_OF_DIGGIN - 2026年03月04日</title>
       <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/KING_OF_DIGGIN/20260304_KING_OF_DIGGIN.aac" length="11095157" type="audio/aac" />
