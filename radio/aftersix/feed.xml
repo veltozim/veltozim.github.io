@@ -6,8 +6,15 @@
     <description>アトロク の音声Podcast (TBS)</description>
     <language>ja</language>
     <itunes:category text="News"/>
-    <lastBuildDate>Wed, 11 Mar 2026 18:01:34 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Mar 2026 18:01:23 -0000</lastBuildDate>
     
+    <item>
+      <title>アトロク - 2026年03月12日 (映画『レンタル・ファミリー』評論_SHOW-WA（スタジオLIVE）)</title>
+      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/aftersix/20260312_%E6%98%A0%E7%94%BB%E3%80%8E%E3%83%AC%E3%83%B3%E3%82%BF%E3%83%AB%E3%83%BB%E3%83%95%E3%82%A1%E3%83%9F%E3%83%AA%E3%83%BC%E3%80%8F%E8%A9%95%E8%AB%96_SHOW-WA%EF%BC%88%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AALIVE%EF%BC%89.aac" length="44375152" type="audio/aac" />
+      <guid isPermaLink="false">20260312_映画『レンタル・ファミリー』評論_SHOW-WA（スタジオLIVE）.aac</guid>
+      <pubDate>Thu, 12 Mar 2026 00:00:00 -0000</pubDate>
+      <itunes:duration>02:00:00</itunes:duration>
+    </item>
     <item>
       <title>アトロク - 2026年03月11日 (アトロク)</title>
       <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/aftersix/20260311_%E3%82%A2%E3%83%88%E3%83%AD%E3%82%AF.aac" length="44373861" type="audio/aac" />
@@ -139,13 +146,6 @@
       <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/aftersix/20260209_%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%83%BB%E3%82%B5%E3%82%B5%E3%83%80%E3%83%B3%E3%82%B4%E3%83%BB%E3%83%9E%E3%82%B7%E3%83%B3%E3%81%AE%E9%96%A2%E6%9D%B1%E3%81%B5%E3%81%97%E3%81%8E%E7%99%BA%E8%A6%8B%EF%BC%81%20%E5%A4%A7%E4%BA%95%E7%94%BA%20%E7%B7%A8_%EF%BC%9C%E3%82%A2%E3%83%88%E3%83%AD%E3%82%AF%E6%8E%A8%E8%96%A6%E5%9B%B3%E6%9B%B8%E7%A5%AD%E3%82%8A%EF%BC%9E2026%20%E6%8E%A8%E8%96%A6%E4%BA%BA%EF%BC%9A%E3%81%93%E3%81%9F%E3%81%91%E6%AD%A3%E7%BE%A9%E6%84%9F%E3%80%81%E6%9C%A8%E4%B8%8B%E9%BE%8D%E4%B9%9F.aac" length="44381250" type="audio/aac" />
       <guid isPermaLink="false">20260209_スーパー・ササダンゴ・マシンの関東ふしぎ発見！ 大井町 編_＜アトロク推薦図書祭り＞2026 推薦人：こたけ正義感、木下龍也.aac</guid>
       <pubDate>Mon, 09 Feb 2026 00:00:00 -0000</pubDate>
-      <itunes:duration>02:00:00</itunes:duration>
-    </item>
-    <item>
-      <title>アトロク - 2026年02月05日 (映画『万事快調　＜オール・グリーンズ＞』評論_【DJ】出口博之（モノブライト）／スーパー戦隊楽曲オンリーセット)</title>
-      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/aftersix/20260205_%E6%98%A0%E7%94%BB%E3%80%8E%E4%B8%87%E4%BA%8B%E5%BF%AB%E8%AA%BF%E3%80%80%EF%BC%9C%E3%82%AA%E3%83%BC%E3%83%AB%E3%83%BB%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%BA%EF%BC%9E%E3%80%8F%E8%A9%95%E8%AB%96_%E3%80%90DJ%E3%80%91%E5%87%BA%E5%8F%A3%E5%8D%9A%E4%B9%8B%EF%BC%88%E3%83%A2%E3%83%8E%E3%83%96%E3%83%A9%E3%82%A4%E3%83%88%EF%BC%89%EF%BC%8F%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E6%88%A6%E9%9A%8A%E6%A5%BD%E6%9B%B2%E3%82%AA%E3%83%B3%E3%83%AA%E3%83%BC%E3%82%BB%E3%83%83%E3%83%88.aac" length="44412874" type="audio/aac" />
-      <guid isPermaLink="false">20260205_映画『万事快調　＜オール・グリーンズ＞』評論_【DJ】出口博之（モノブライト）／スーパー戦隊楽曲オンリーセット.aac</guid>
-      <pubDate>Thu, 05 Feb 2026 00:00:00 -0000</pubDate>
       <itunes:duration>02:00:00</itunes:duration>
     </item>
   </channel>
