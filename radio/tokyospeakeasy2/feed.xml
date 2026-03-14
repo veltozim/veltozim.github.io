@@ -6,7 +6,7 @@
     <description>tokyospeakeasy の音声Podcast (FMT)</description>
     <language>ja</language>
     <itunes:category text="News"/>
-    <lastBuildDate>Fri, 13 Mar 2026 18:01:25 -0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Mar 2026 18:00:13 -0000</lastBuildDate>
     
     <item>
       <title>tokyospeakeasy - 2026年03月13日 (豊ノ島＆ウルフアロン)</title>
@@ -125,13 +125,6 @@
       <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20260213_tokyospeakeasy_%E9%AB%98%E9%87%8E%E6%AD%A3%E6%88%90%EF%BC%86%E6%97%A5%E6%9C%AC%E4%B8%80%E3%81%8A%E3%82%82%E3%81%97%E3%82%8D%E3%81%84%E5%A4%A7%E5%B4%8E.aac" length="22190677" type="audio/aac" />
       <guid isPermaLink="false">20260213_tokyospeakeasy_高野正成＆日本一おもしろい大崎.aac</guid>
       <pubDate>Fri, 13 Feb 2026 00:00:00 -0000</pubDate>
-      <itunes:duration>01:00:00</itunes:duration>
-    </item>
-    <item>
-      <title>tokyospeakeasy - 2026年02月12日 (カンニング竹山＆鳥居みゆき)</title>
-      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20260212_tokyospeakeasy_%E3%82%AB%E3%83%B3%E3%83%8B%E3%83%B3%E3%82%B0%E7%AB%B9%E5%B1%B1%EF%BC%86%E9%B3%A5%E5%B1%85%E3%81%BF%E3%82%86%E3%81%8D.aac" length="22190648" type="audio/aac" />
-      <guid isPermaLink="false">20260212_tokyospeakeasy_カンニング竹山＆鳥居みゆき.aac</guid>
-      <pubDate>Thu, 12 Feb 2026 00:00:00 -0000</pubDate>
       <itunes:duration>01:00:00</itunes:duration>
     </item>
   </channel>
