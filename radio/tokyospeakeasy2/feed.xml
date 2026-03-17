@@ -6,8 +6,15 @@
     <description>tokyospeakeasy の音声Podcast (FMT)</description>
     <language>ja</language>
     <itunes:category text="News"/>
-    <lastBuildDate>Mon, 16 Mar 2026 18:01:23 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Mar 2026 18:15:06 -0000</lastBuildDate>
     
+    <item>
+      <title>tokyospeakeasy - 2026年03月18日 (シューヤ（超特急）＆本田康祐（OWV）)</title>
+      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20260318_tokyospeakeasy_%E3%82%B7%E3%83%A5%E3%83%BC%E3%83%A4%EF%BC%88%E8%B6%85%E7%89%B9%E6%80%A5%EF%BC%89%EF%BC%86%E6%9C%AC%E7%94%B0%E5%BA%B7%E7%A5%90%EF%BC%88OWV%EF%BC%89.aac" length="22177352" type="audio/aac" />
+      <guid isPermaLink="false">20260318_tokyospeakeasy_シューヤ（超特急）＆本田康祐（OWV）.aac</guid>
+      <pubDate>Wed, 18 Mar 2026 00:00:00 -0000</pubDate>
+      <itunes:duration>01:00:00</itunes:duration>
+    </item>
     <item>
       <title>tokyospeakeasy - 2026年03月17日 (泉ピン子＆テリー伊藤)</title>
       <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20260317_tokyospeakeasy_%E6%B3%89%E3%83%94%E3%83%B3%E5%AD%90%EF%BC%86%E3%83%86%E3%83%AA%E3%83%BC%E4%BC%8A%E8%97%A4.aac" length="22188070" type="audio/aac" />
