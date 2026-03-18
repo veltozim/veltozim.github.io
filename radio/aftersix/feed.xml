@@ -6,8 +6,15 @@
     <description>アトロク の音声Podcast (TBS)</description>
     <language>ja</language>
     <itunes:category text="News"/>
-    <lastBuildDate>Tue, 17 Mar 2026 18:15:05 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Mar 2026 18:01:33 -0000</lastBuildDate>
     
+    <item>
+      <title>アトロク - 2026年03月18日 (アトロク)</title>
+      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/aftersix/20260318_%E3%82%A2%E3%83%88%E3%83%AD%E3%82%AF.aac" length="44381250" type="audio/aac" />
+      <guid isPermaLink="false">20260318_アトロク.aac</guid>
+      <pubDate>Wed, 18 Mar 2026 00:00:00 -0000</pubDate>
+      <itunes:duration>02:00:00</itunes:duration>
+    </item>
     <item>
       <title>アトロク - 2026年03月17日 (ラテン音楽入門特集！ by 音楽ライター・伊藤嘉章_映画ライター・飯塚克味（春休みにじっくり観て欲しい映画ソフト）)</title>
       <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/aftersix/20260317_%E3%83%A9%E3%83%86%E3%83%B3%E9%9F%B3%E6%A5%BD%E5%85%A5%E9%96%80%E7%89%B9%E9%9B%86%EF%BC%81%20by%20%E9%9F%B3%E6%A5%BD%E3%83%A9%E3%82%A4%E3%82%BF%E3%83%BC%E3%83%BB%E4%BC%8A%E8%97%A4%E5%98%89%E7%AB%A0_%E6%98%A0%E7%94%BB%E3%83%A9%E3%82%A4%E3%82%BF%E3%83%BC%E3%83%BB%E9%A3%AF%E5%A1%9A%E5%85%8B%E5%91%B3%EF%BC%88%E6%98%A5%E4%BC%91%E3%81%BF%E3%81%AB%E3%81%98%E3%81%A3%E3%81%8F%E3%82%8A%E8%A6%B3%E3%81%A6%E6%AC%B2%E3%81%97%E3%81%84%E6%98%A0%E7%94%BB%E3%82%BD%E3%83%95%E3%83%88%EF%BC%89.aac" length="44381250" type="audio/aac" />
@@ -139,13 +146,6 @@
       <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/aftersix/20260212_%E6%98%A0%E7%94%BB%E3%80%8EHELP%20%E5%BE%A9%E8%AE%90%E5%B3%B6%E3%80%8F%E8%A9%95%E8%AB%96_MONTIEN%28Tina%2CSUIKEN%2CMACKA-CHIN%29%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%E3%83%A9%E3%82%A4%E3%83%96.aac" length="44381250" type="audio/aac" />
       <guid isPermaLink="false">20260212_映画『HELP 復讐島』評論_MONTIEN(Tina,SUIKEN,MACKA-CHIN) スタジオライブ.aac</guid>
       <pubDate>Thu, 12 Feb 2026 00:00:00 -0000</pubDate>
-      <itunes:duration>02:00:00</itunes:duration>
-    </item>
-    <item>
-      <title>アトロク - 2026年02月11日 (グラミー賞総括特集（高橋芳朗）_＜アトロク推薦図書祭り＞深田晃司×岸本佐知子)</title>
-      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/aftersix/20260211_%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%BC%E8%B3%9E%E7%B7%8F%E6%8B%AC%E7%89%B9%E9%9B%86%EF%BC%88%E9%AB%98%E6%A9%8B%E8%8A%B3%E6%9C%97%EF%BC%89_%EF%BC%9C%E3%82%A2%E3%83%88%E3%83%AD%E3%82%AF%E6%8E%A8%E8%96%A6%E5%9B%B3%E6%9B%B8%E7%A5%AD%E3%82%8A%EF%BC%9E%E6%B7%B1%E7%94%B0%E6%99%83%E5%8F%B8%C3%97%E5%B2%B8%E6%9C%AC%E4%BD%90%E7%9F%A5%E5%AD%90.aac" length="44381250" type="audio/aac" />
-      <guid isPermaLink="false">20260211_グラミー賞総括特集（高橋芳朗）_＜アトロク推薦図書祭り＞深田晃司×岸本佐知子.aac</guid>
-      <pubDate>Wed, 11 Feb 2026 00:00:00 -0000</pubDate>
       <itunes:duration>02:00:00</itunes:duration>
     </item>
   </channel>
