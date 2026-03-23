@@ -6,8 +6,15 @@
     <description>tokyospeakeasy の音声Podcast (FMT)</description>
     <language>ja</language>
     <itunes:category text="News"/>
-    <lastBuildDate>Sun, 22 Mar 2026 18:02:34 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Mar 2026 18:01:44 -0000</lastBuildDate>
     
+    <item>
+      <title>tokyospeakeasy - 2026年03月24日 (イワクラ（蛙亭）＆吉田結衣（カーネーション）)</title>
+      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20260324_tokyospeakeasy_%E3%82%A4%E3%83%AF%E3%82%AF%E3%83%A9%EF%BC%88%E8%9B%99%E4%BA%AD%EF%BC%89%EF%BC%86%E5%90%89%E7%94%B0%E7%B5%90%E8%A1%A3%EF%BC%88%E3%82%AB%E3%83%BC%E3%83%8D%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%EF%BC%89.aac" length="22190646" type="audio/aac" />
+      <guid isPermaLink="false">20260324_tokyospeakeasy_イワクラ（蛙亭）＆吉田結衣（カーネーション）.aac</guid>
+      <pubDate>Tue, 24 Mar 2026 00:00:00 -0000</pubDate>
+      <itunes:duration>01:00:00</itunes:duration>
+    </item>
     <item>
       <title>tokyospeakeasy - 2026年03月20日 (野村義男＆ROLLY)</title>
       <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20260320_tokyospeakeasy_%E9%87%8E%E6%9D%91%E7%BE%A9%E7%94%B7%EF%BC%86ROLLY.aac" length="22190610" type="audio/aac" />
