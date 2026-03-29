@@ -6,8 +6,15 @@
     <description>TokioHot100 の音声Podcast (FMJ)</description>
     <language>ja</language>
     <itunes:category text="News"/>
-    <lastBuildDate>Sat, 28 Mar 2026 18:00:12 -0000</lastBuildDate>
+    <lastBuildDate>Sun, 29 Mar 2026 18:02:41 -0000</lastBuildDate>
     
+    <item>
+      <title>TokioHot100 - 2026年03月29日 (STARGLOW：KANON, GOICHI, ADAM（14時頃〜）_ふみの（15時20分頃〜）)</title>
+      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/TokioHot100/20260329_TokioHot100_STARGLOW%EF%BC%9AKANON%2C%20GOICHI%2C%20ADAM%EF%BC%8814%E6%99%82%E9%A0%83%E3%80%9C%EF%BC%89_%E3%81%B5%E3%81%BF%E3%81%AE%EF%BC%8815%E6%99%8220%E5%88%86%E9%A0%83%E3%80%9C%EF%BC%89.aac" length="86543603" type="audio/aac" />
+      <guid isPermaLink="false">20260329_TokioHot100_STARGLOW：KANON, GOICHI, ADAM（14時頃〜）_ふみの（15時20分頃〜）.aac</guid>
+      <pubDate>Sun, 29 Mar 2026 00:00:00 -0000</pubDate>
+      <itunes:duration>03:54:00</itunes:duration>
+    </item>
     <item>
       <title>TokioHot100 - 2026年03月22日 (BE：FIRST（14時頃〜）_MITSKI（15時20分頃〜）)</title>
       <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/TokioHot100/20260322_TokioHot100_BE%EF%BC%9AFIRST%EF%BC%8814%E6%99%82%E9%A0%83%E3%80%9C%EF%BC%89_MITSKI%EF%BC%8815%E6%99%8220%E5%88%86%E9%A0%83%E3%80%9C%EF%BC%89.aac" length="86543782" type="audio/aac" />
