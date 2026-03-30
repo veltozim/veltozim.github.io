@@ -6,8 +6,15 @@
     <description>tokyospeakeasy の音声Podcast (FMT)</description>
     <language>ja</language>
     <itunes:category text="News"/>
-    <lastBuildDate>Sun, 29 Mar 2026 18:02:43 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 30 Mar 2026 18:01:50 -0000</lastBuildDate>
     
+    <item>
+      <title>tokyospeakeasy - 2026年03月31日 (LINKL_PLANET)</title>
+      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20260331_tokyospeakeasy_LINKL_PLANET.aac" length="22190560" type="audio/aac" />
+      <guid isPermaLink="false">20260331_tokyospeakeasy_LINKL_PLANET.aac</guid>
+      <pubDate>Tue, 31 Mar 2026 00:00:00 -0000</pubDate>
+      <itunes:duration>01:00:00</itunes:duration>
+    </item>
     <item>
       <title>tokyospeakeasy - 2026年03月27日 (クロちゃん＆小田原ドラゴン)</title>
       <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20260327_tokyospeakeasy_%E3%82%AF%E3%83%AD%E3%81%A1%E3%82%83%E3%82%93%EF%BC%86%E5%B0%8F%E7%94%B0%E5%8E%9F%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3.aac" length="22190642" type="audio/aac" />
