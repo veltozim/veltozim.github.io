@@ -6,7 +6,7 @@
     <description>tokyospeakeasy の音声Podcast (FMT)</description>
     <language>ja</language>
     <itunes:category text="News"/>
-    <lastBuildDate>Fri, 03 Apr 2026 18:02:02 -0000</lastBuildDate>
+    <lastBuildDate>Sat, 04 Apr 2026 18:00:16 -0000</lastBuildDate>
     
     <item>
       <title>tokyospeakeasy - 2026年04月03日 (藤原喜明＆プチ鹿島)</title>
@@ -125,13 +125,6 @@
       <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20260306_tokyospeakeasy_%E9%96%A2%E6%A0%B9%E5%8B%A4%EF%BC%86%E5%B2%A9%E4%BA%95%E3%82%B8%E3%83%A7%E3%83%8B%E7%94%B7.aac" length="22187943" type="audio/aac" />
       <guid isPermaLink="false">20260306_tokyospeakeasy_関根勤＆岩井ジョニ男.aac</guid>
       <pubDate>Fri, 06 Mar 2026 00:00:00 -0000</pubDate>
-      <itunes:duration>01:00:00</itunes:duration>
-    </item>
-    <item>
-      <title>tokyospeakeasy - 2026年03月05日 (大槻ケンヂ＆大森靖子)</title>
-      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20260305_tokyospeakeasy_%E5%A4%A7%E6%A7%BB%E3%82%B1%E3%83%B3%E3%83%82%EF%BC%86%E5%A4%A7%E6%A3%AE%E9%9D%96%E5%AD%90.aac" length="22190597" type="audio/aac" />
-      <guid isPermaLink="false">20260305_tokyospeakeasy_大槻ケンヂ＆大森靖子.aac</guid>
-      <pubDate>Thu, 05 Mar 2026 00:00:00 -0000</pubDate>
       <itunes:duration>01:00:00</itunes:duration>
     </item>
   </channel>
