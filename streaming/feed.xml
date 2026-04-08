@@ -4,44 +4,20 @@
     <title>配信録音</title>
     <description>ストリーミングサービスから録音した音声</description>
     <language>ja</language>
-    <author>Browser Audio Recorder</author>
-    <ns0:author>Browser Audio Recorder</ns0:author>
+    <author>YouTube Audio Downloader</author>
+    <ns0:author>YouTube Audio Downloader</ns0:author>
     <ns0:summary>ストリーミングサービスから録音した音声</ns0:summary>
     <ns0:explicit>no</ns0:explicit>
     <ns0:category text="Technology"/>
     <link>https://veltozim.github.io/streaming/feed.xml</link>
-    <lastBuildDate>Wed, 01 Apr 2026 14:37:23 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Apr 2026 11:08:47 +0000</lastBuildDate>
     <item>
-      <title>久田将義＆吉田豪のハードコアトーク -ゲスト 細田昌志さん</title>
-      <description>久田将義＆吉田豪のハードコアトーク -ゲスト 細田昌志さん</description>
-      <pubDate>Wed, 01 Apr 2026 14:37:23 +0000</pubDate>
-      <guid>https://pub-818f368ffb1343438308791361fbe938.r2.dev/久田将義＆吉田豪のハードコアトーク -ゲスト 細田昌志さん.m4a</guid>
-      <enclosure url="https://pub-818f368ffb1343438308791361fbe938.r2.dev/久田将義＆吉田豪のハードコアトーク -ゲスト 細田昌志さん.m4a" length="173169831" type="audio/mp4"/>
-      <ns0:title>久田将義＆吉田豪のハードコアトーク -ゲスト 細田昌志さん</ns0:title>
-    </item>
-    <item>
-      <title>【2026年3月号】吉田豪×久田将義「今夜も下世話に斬ります！」居酒屋タックルズ</title>
-      <description>【2026年3月号】吉田豪×久田将義「今夜も下世話に斬ります！」居酒屋タックルズ</description>
-      <pubDate>Wed, 01 Apr 2026 08:01:34 +0000</pubDate>
-      <guid>https://pub-818f368ffb1343438308791361fbe938.r2.dev/【2026年3月号】吉田豪×久田将義「今夜も下世話に斬ります！」居酒屋タックルズ.m4a</guid>
-      <enclosure url="https://pub-818f368ffb1343438308791361fbe938.r2.dev/【2026年3月号】吉田豪×久田将義「今夜も下世話に斬ります！」居酒屋タックルズ.m4a" length="173164327" type="audio/mp4"/>
-      <ns0:title>【2026年3月号】吉田豪×久田将義「今夜も下世話に斬ります！」居酒屋タックルズ</ns0:title>
-    </item>
-    <item>
-      <title>【The W王者】みなみかわにガチ悩み告白！！</title>
-      <description>【The W王者】みなみかわにガチ悩み告白！！</description>
-      <pubDate>Sun, 29 Mar 2026 10:14:23 +0000</pubDate>
-      <guid>https://pub-818f368ffb1343438308791361fbe938.r2.dev/【The W王者】みなみかわにガチ悩み告白！！.m4a</guid>
-      <enclosure url="https://pub-818f368ffb1343438308791361fbe938.r2.dev/【The W王者】みなみかわにガチ悩み告白！！.m4a" length="28758450" type="audio/mp4"/>
-      <ns0:title>【The W王者】みなみかわにガチ悩み告白！！</ns0:title>
-    </item>
-    <item>
-      <title>【大喧嘩】みなみかわVSモグライダーともしげ反省会</title>
-      <description>【大喧嘩】みなみかわVSモグライダーともしげ反省会</description>
-      <pubDate>Sun, 08 Mar 2026 22:10:46 +0000</pubDate>
-      <guid>https://pub-818f368ffb1343438308791361fbe938.r2.dev/【大喧嘩】みなみかわVSモグライダーともしげ反省会.m4a</guid>
-      <enclosure url="https://pub-818f368ffb1343438308791361fbe938.r2.dev/【大喧嘩】みなみかわVSモグライダーともしげ反省会.m4a" length="24477868" type="audio/mp4"/>
-      <ns0:title>【大喧嘩】みなみかわVSモグライダーともしげ反省会</ns0:title>
+      <title>【トーク】立野沙紀が眩しすぎて見れなかった芸能人ベスト5！渡辺麻友・白石麻衣・井上真央 など</title>
+      <description>【トーク】立野沙紀が眩しすぎて見れなかった芸能人ベスト5！渡辺麻友・白石麻衣・井上真央 など</description>
+      <pubDate>Wed, 08 Apr 2026 11:08:47 +0000</pubDate>
+      <guid>https://pub-818f368ffb1343438308791361fbe938.r2.dev/【トーク】立野沙紀が眩しすぎて見れなかった芸能人ベスト5！渡辺麻友・白石麻衣・井上真央 など.m4a</guid>
+      <enclosure url="https://pub-818f368ffb1343438308791361fbe938.r2.dev/【トーク】立野沙紀が眩しすぎて見れなかった芸能人ベスト5！渡辺麻友・白石麻衣・井上真央 など.m4a" length="19329391" type="audio/mp4"/>
+      <ns0:title>【トーク】立野沙紀が眩しすぎて見れなかった芸能人ベスト5！渡辺麻友・白石麻衣・井上真央 など</ns0:title>
     </item>
     <item>
       <title>【ナショナリズムを科学する】愛国心・排外意識・帰属意識“３つの次元”で分析／政治に“少し”詳しい人ほど引っ張られる／国際関係の悪化で高まる“負の側面”／ワールドカップと戦争の意外な相関【1on1】</title>
