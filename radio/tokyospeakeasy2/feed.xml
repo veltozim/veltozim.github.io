@@ -6,8 +6,15 @@
     <description>tokyospeakeasy の音声Podcast (FMT)</description>
     <language>ja</language>
     <itunes:category text="News"/>
-    <lastBuildDate>Wed, 08 Apr 2026 18:02:12 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Apr 2026 18:01:49 -0000</lastBuildDate>
     
+    <item>
+      <title>tokyospeakeasy - 2026年04月10日 (南こうせつ＆秋元康)</title>
+      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20260410_tokyospeakeasy_%E5%8D%97%E3%81%93%E3%81%86%E3%81%9B%E3%81%A4%EF%BC%86%E7%A7%8B%E5%85%83%E5%BA%B7.aac" length="22190622" type="audio/aac" />
+      <guid isPermaLink="false">20260410_tokyospeakeasy_南こうせつ＆秋元康.aac</guid>
+      <pubDate>Fri, 10 Apr 2026 00:00:00 -0000</pubDate>
+      <itunes:duration>01:00:00</itunes:duration>
+    </item>
     <item>
       <title>tokyospeakeasy - 2026年04月09日 (河本準一（次長課長）＆吉村崇（平成ノブシコブシ）)</title>
       <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20260409_tokyospeakeasy_%E6%B2%B3%E6%9C%AC%E6%BA%96%E4%B8%80%EF%BC%88%E6%AC%A1%E9%95%B7%E8%AA%B2%E9%95%B7%EF%BC%89%EF%BC%86%E5%90%89%E6%9D%91%E5%B4%87%EF%BC%88%E5%B9%B3%E6%88%90%E3%83%8E%E3%83%96%E3%82%B7%E3%82%B3%E3%83%96%E3%82%B7%EF%BC%89.aac" length="22190660" type="audio/aac" />
@@ -132,13 +139,6 @@
       <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20260311_tokyospeakeasy_%E7%9F%B3%E5%A1%9A%E8%8B%B1%E5%BD%A6%EF%BC%88%E3%83%9B%E3%83%B3%E3%82%B8%E3%83%A3%E3%83%9E%E3%82%AB%EF%BC%89%EF%BC%86%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%9C%E3%81%9F%E3%81%8B%E3%81%8A%EF%BC%88%E3%83%AC%E3%82%A4%E3%83%B3%E3%83%9C%E3%83%BC%EF%BC%89.aac" length="22189330" type="audio/aac" />
       <guid isPermaLink="false">20260311_tokyospeakeasy_石塚英彦（ホンジャマカ）＆ジャンボたかお（レインボー）.aac</guid>
       <pubDate>Wed, 11 Mar 2026 00:00:00 -0000</pubDate>
-      <itunes:duration>01:00:00</itunes:duration>
-    </item>
-    <item>
-      <title>tokyospeakeasy - 2026年03月10日 (小宮山雄飛（ホフディラン）＆辛酸なめ子)</title>
-      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20260310_tokyospeakeasy_%E5%B0%8F%E5%AE%AE%E5%B1%B1%E9%9B%84%E9%A3%9B%EF%BC%88%E3%83%9B%E3%83%95%E3%83%87%E3%82%A3%E3%83%A9%E3%83%B3%EF%BC%89%EF%BC%86%E8%BE%9B%E9%85%B8%E3%81%AA%E3%82%81%E5%AD%90.aac" length="22181281" type="audio/aac" />
-      <guid isPermaLink="false">20260310_tokyospeakeasy_小宮山雄飛（ホフディラン）＆辛酸なめ子.aac</guid>
-      <pubDate>Tue, 10 Mar 2026 00:00:00 -0000</pubDate>
       <itunes:duration>01:00:00</itunes:duration>
     </item>
   </channel>
