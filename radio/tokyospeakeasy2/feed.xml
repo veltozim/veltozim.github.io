@@ -6,7 +6,7 @@
     <description>tokyospeakeasy の音声Podcast (FMT)</description>
     <language>ja</language>
     <itunes:category text="News"/>
-    <lastBuildDate>Sat, 11 Apr 2026 18:00:14 -0000</lastBuildDate>
+    <lastBuildDate>Sun, 12 Apr 2026 18:02:32 -0000</lastBuildDate>
     
     <item>
       <title>tokyospeakeasy - 2026年04月10日 (南こうせつ＆秋元康)</title>
@@ -118,13 +118,6 @@
       <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20260317_tokyospeakeasy_%E6%B3%89%E3%83%94%E3%83%B3%E5%AD%90%EF%BC%86%E3%83%86%E3%83%AA%E3%83%BC%E4%BC%8A%E8%97%A4.aac" length="22188070" type="audio/aac" />
       <guid isPermaLink="false">20260317_tokyospeakeasy_泉ピン子＆テリー伊藤.aac</guid>
       <pubDate>Tue, 17 Mar 2026 00:00:00 -0000</pubDate>
-      <itunes:duration>01:00:00</itunes:duration>
-    </item>
-    <item>
-      <title>tokyospeakeasy - 2026年03月13日 (豊ノ島＆ウルフアロン)</title>
-      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20260313_tokyospeakeasy_%E8%B1%8A%E3%83%8E%E5%B3%B6%EF%BC%86%E3%82%A6%E3%83%AB%E3%83%95%E3%82%A2%E3%83%AD%E3%83%B3.aac" length="22175921" type="audio/aac" />
-      <guid isPermaLink="false">20260313_tokyospeakeasy_豊ノ島＆ウルフアロン.aac</guid>
-      <pubDate>Fri, 13 Mar 2026 00:00:00 -0000</pubDate>
       <itunes:duration>01:00:00</itunes:duration>
     </item>
   </channel>
