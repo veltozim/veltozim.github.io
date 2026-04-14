@@ -6,8 +6,15 @@
     <description>アトロク の音声Podcast (TBS)</description>
     <language>ja</language>
     <itunes:category text="News"/>
-    <lastBuildDate>Mon, 13 Apr 2026 18:01:39 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Apr 2026 18:02:59 -0000</lastBuildDate>
     
+    <item>
+      <title>アトロク - 2026年04月14日 (新書「トム・クルーズの真髄」刊行記念！ メラニーさんが選ぶ、トム・クルーズ入門映画あいうえお！_ライター・DJ・年表制作者のパンス（新刊『「いまどきの若者」の150年史』)</title>
+      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/aftersix/20260414_%E6%96%B0%E6%9B%B8%E3%80%8C%E3%83%88%E3%83%A0%E3%83%BB%E3%82%AF%E3%83%AB%E3%83%BC%E3%82%BA%E3%81%AE%E7%9C%9F%E9%AB%84%E3%80%8D%E5%88%8A%E8%A1%8C%E8%A8%98%E5%BF%B5%EF%BC%81%20%E3%83%A1%E3%83%A9%E3%83%8B%E3%83%BC%E3%81%95%E3%82%93%E3%81%8C%E9%81%B8%E3%81%B6%E3%80%81%E3%83%88%E3%83%A0%E3%83%BB%E3%82%AF%E3%83%AB%E3%83%BC%E3%82%BA%E5%85%A5%E9%96%80%E6%98%A0%E7%94%BB%E3%81%82%E3%81%84%E3%81%86%E3%81%88%E3%81%8A%EF%BC%81_%E3%83%A9%E3%82%A4%E3%82%BF%E3%83%BC%E3%83%BBDJ%E3%83%BB%E5%B9%B4%E8%A1%A8%E5%88%B6%E4%BD%9C%E8%80%85%E3%81%AE%E3%83%91%E3%83%B3%E3%82%B9%EF%BC%88%E6%96%B0%E5%88%8A%E3%80%8E%E3%80%8C%E3%81%84%E3%81%BE%E3%81%A9%E3%81%8D%E3%81%AE%E8%8B%A5%E8%80%85%E3%80%8D%E3%81%AE150%E5%B9%B4%E5%8F%B2%E3%80%8F.aac" length="44381250" type="audio/aac" />
+      <guid isPermaLink="false">20260414_新書「トム・クルーズの真髄」刊行記念！ メラニーさんが選ぶ、トム・クルーズ入門映画あいうえお！_ライター・DJ・年表制作者のパンス（新刊『「いまどきの若者」の150年史』.aac</guid>
+      <pubDate>Tue, 14 Apr 2026 00:00:00 -0000</pubDate>
+      <itunes:duration>02:00:00</itunes:duration>
+    </item>
     <item>
       <title>アトロク - 2026年04月13日 (追悼・つげ義春 今のマンガ研究は、つげ義春から始まった！？ 特集 by 伊藤遊_武田砂鉄 「リアルタイム・エッセイ・チャレンジ！」)</title>
       <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/aftersix/20260413_%E8%BF%BD%E6%82%BC%E3%83%BB%E3%81%A4%E3%81%92%E7%BE%A9%E6%98%A5%20%E4%BB%8A%E3%81%AE%E3%83%9E%E3%83%B3%E3%82%AC%E7%A0%94%E7%A9%B6%E3%81%AF%E3%80%81%E3%81%A4%E3%81%92%E7%BE%A9%E6%98%A5%E3%81%8B%E3%82%89%E5%A7%8B%E3%81%BE%E3%81%A3%E3%81%9F%EF%BC%81%EF%BC%9F%20%E7%89%B9%E9%9B%86%20by%20%E4%BC%8A%E8%97%A4%E9%81%8A_%E6%AD%A6%E7%94%B0%E7%A0%82%E9%89%84%20%E3%80%8C%E3%83%AA%E3%82%A2%E3%83%AB%E3%82%BF%E3%82%A4%E3%83%A0%E3%83%BB%E3%82%A8%E3%83%83%E3%82%BB%E3%82%A4%E3%83%BB%E3%83%81%E3%83%A3%E3%83%AC%E3%83%B3%E3%82%B8%EF%BC%81%E3%80%8D.aac" length="44412734" type="audio/aac" />
@@ -139,13 +146,6 @@
       <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/aftersix/20260311_%E3%82%A2%E3%83%88%E3%83%AD%E3%82%AF.aac" length="44373861" type="audio/aac" />
       <guid isPermaLink="false">20260311_アトロク.aac</guid>
       <pubDate>Wed, 11 Mar 2026 00:00:00 -0000</pubDate>
-      <itunes:duration>02:00:00</itunes:duration>
-    </item>
-    <item>
-      <title>アトロク - 2026年03月10日 (THE しまおアワー2！春のコマワングランプリ！_演劇評論家、読売演劇大賞選考委員の森元隆樹（岸田戯曲賞と読売演劇大賞の受賞作をはじめとした、 この1年の演劇シーンについて)</title>
-      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/aftersix/20260310_THE%20%E3%81%97%E3%81%BE%E3%81%8A%E3%82%A2%E3%83%AF%E3%83%BC2%EF%BC%81%E6%98%A5%E3%81%AE%E3%82%B3%E3%83%9E%E3%83%AF%E3%83%B3%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%97%E3%83%AA%EF%BC%81_%E6%BC%94%E5%8A%87%E8%A9%95%E8%AB%96%E5%AE%B6%E3%80%81%E8%AA%AD%E5%A3%B2%E6%BC%94%E5%8A%87%E5%A4%A7%E8%B3%9E%E9%81%B8%E8%80%83%E5%A7%94%E5%93%A1%E3%81%AE%E6%A3%AE%E5%85%83%E9%9A%86%E6%A8%B9%EF%BC%88%E5%B2%B8%E7%94%B0%E6%88%AF%E6%9B%B2%E8%B3%9E%E3%81%A8%E8%AA%AD%E5%A3%B2%E6%BC%94%E5%8A%87%E5%A4%A7%E8%B3%9E%E3%81%AE%E5%8F%97%E8%B3%9E%E4%BD%9C%E3%82%92%E3%81%AF%E3%81%98%E3%82%81%E3%81%A8%E3%81%97%E3%81%9F%E3%80%81%20%E3%81%93%E3%81%AE1%E5%B9%B4%E3%81%AE%E6%BC%94%E5%8A%87%E3%82%B7%E3%83%BC%E3%83%B3%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6.aac" length="44381250" type="audio/aac" />
-      <guid isPermaLink="false">20260310_THE しまおアワー2！春のコマワングランプリ！_演劇評論家、読売演劇大賞選考委員の森元隆樹（岸田戯曲賞と読売演劇大賞の受賞作をはじめとした、 この1年の演劇シーンについて.aac</guid>
-      <pubDate>Tue, 10 Mar 2026 00:00:00 -0000</pubDate>
       <itunes:duration>02:00:00</itunes:duration>
     </item>
   </channel>
