@@ -4,13 +4,21 @@
     <title>配信録音</title>
     <description>ストリーミングサービスから録音した音声</description>
     <language>ja</language>
-    <author>YouTube Audio Downloader</author>
-    <ns0:author>YouTube Audio Downloader</ns0:author>
+    <author>Browser Audio Recorder</author>
+    <ns0:author>Browser Audio Recorder</ns0:author>
     <ns0:summary>ストリーミングサービスから録音した音声</ns0:summary>
     <ns0:explicit>no</ns0:explicit>
     <ns0:category text="Technology"/>
     <link>https://veltozim.github.io/streaming/feed.xml</link>
-    <lastBuildDate>Wed, 15 Apr 2026 10:39:01 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Apr 2026 13:47:23 +0000</lastBuildDate>
+    <item>
+      <title>牧野アンナ × 吉田豪</title>
+      <description>牧野アンナ × 吉田豪</description>
+      <pubDate>Wed, 15 Apr 2026 13:47:23 +0000</pubDate>
+      <guid>https://pub-818f368ffb1343438308791361fbe938.r2.dev/牧野アンナ × 吉田豪.m4a</guid>
+      <enclosure url="https://pub-818f368ffb1343438308791361fbe938.r2.dev/牧野アンナ × 吉田豪.m4a" length="170908251" type="audio/mp4"/>
+      <ns0:title>牧野アンナ × 吉田豪</ns0:title>
+    </item>
     <item>
       <title>獅白杯オフラインDay1ミラー中ハイタニ雑談まとめ【2026⧸4⧸11】【SF6 ストリートファイター6 スト6】</title>
       <description>獅白杯オフラインDay1ミラー中ハイタニ雑談まとめ【2026⧸4⧸11】【SF6 ストリートファイター6 スト6】</description>
