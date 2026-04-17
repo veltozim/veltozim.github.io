@@ -6,8 +6,15 @@
     <description>常盤響のニューレコード の音声Podcast (LOVEFM)</description>
     <language>ja</language>
     <itunes:category text="News"/>
-    <lastBuildDate>Thu, 16 Apr 2026 18:01:05 -0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Apr 2026 18:01:49 -0000</lastBuildDate>
     
+    <item>
+      <title>常盤響のニューレコード - 2026年04月17日</title>
+      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/NewRecord/20260417_%E5%B8%B8%E7%9B%A4%E9%9F%BF%E3%81%AE%E3%83%8B%E3%83%A5%E3%83%BC%E3%83%AC%E3%82%B3%E3%83%BC%E3%83%89.aac" length="33285842" type="audio/aac" />
+      <guid isPermaLink="false">20260417_常盤響のニューレコード.aac</guid>
+      <pubDate>Fri, 17 Apr 2026 00:00:00 -0000</pubDate>
+      <itunes:duration>01:30:00</itunes:duration>
+    </item>
     <item>
       <title>常盤響のニューレコード - 2026年04月10日</title>
       <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/NewRecord/20260410_%E5%B8%B8%E7%9B%A4%E9%9F%BF%E3%81%AE%E3%83%8B%E3%83%A5%E3%83%BC%E3%83%AC%E3%82%B3%E3%83%BC%E3%83%89.aac" length="33285843" type="audio/aac" />
