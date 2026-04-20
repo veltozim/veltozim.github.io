@@ -6,8 +6,15 @@
     <description>tokyospeakeasy の音声Podcast (FMT)</description>
     <language>ja</language>
     <itunes:category text="News"/>
-    <lastBuildDate>Sun, 19 Apr 2026 18:02:54 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Apr 2026 18:01:38 -0000</lastBuildDate>
     
+    <item>
+      <title>tokyospeakeasy - 2026年04月21日 (永野＆井口浩之（ウエストランド）)</title>
+      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20260421_tokyospeakeasy_%E6%B0%B8%E9%87%8E%EF%BC%86%E4%BA%95%E5%8F%A3%E6%B5%A9%E4%B9%8B%EF%BC%88%E3%82%A6%E3%82%A8%E3%82%B9%E3%83%88%E3%83%A9%E3%83%B3%E3%83%89%EF%BC%89.aac" length="22190649" type="audio/aac" />
+      <guid isPermaLink="false">20260421_tokyospeakeasy_永野＆井口浩之（ウエストランド）.aac</guid>
+      <pubDate>Tue, 21 Apr 2026 00:00:00 -0000</pubDate>
+      <itunes:duration>01:00:00</itunes:duration>
+    </item>
     <item>
       <title>tokyospeakeasy - 2026年04月16日 (水森かおり＆原田龍二)</title>
       <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20260416_tokyospeakeasy_%E6%B0%B4%E6%A3%AE%E3%81%8B%E3%81%8A%E3%82%8A%EF%BC%86%E5%8E%9F%E7%94%B0%E9%BE%8D%E4%BA%8C.aac" length="22190612" type="audio/aac" />
