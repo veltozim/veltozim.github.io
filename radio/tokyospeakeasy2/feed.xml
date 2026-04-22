@@ -6,8 +6,15 @@
     <description>tokyospeakeasy の音声Podcast (FMT)</description>
     <language>ja</language>
     <itunes:category text="News"/>
-    <lastBuildDate>Tue, 21 Apr 2026 18:03:29 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Apr 2026 18:01:49 -0000</lastBuildDate>
     
+    <item>
+      <title>tokyospeakeasy - 2026年04月23日 (小室哲哉＆落合陽一)</title>
+      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20260423_tokyospeakeasy_%E5%B0%8F%E5%AE%A4%E5%93%B2%E5%93%89%EF%BC%86%E8%90%BD%E5%90%88%E9%99%BD%E4%B8%80.aac" length="22190611" type="audio/aac" />
+      <guid isPermaLink="false">20260423_tokyospeakeasy_小室哲哉＆落合陽一.aac</guid>
+      <pubDate>Thu, 23 Apr 2026 00:00:00 -0000</pubDate>
+      <itunes:duration>01:00:00</itunes:duration>
+    </item>
     <item>
       <title>tokyospeakeasy - 2026年04月22日 (秋元康＆木村ミサ)</title>
       <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20260422_tokyospeakeasy_%E7%A7%8B%E5%85%83%E5%BA%B7%EF%BC%86%E6%9C%A8%E6%9D%91%E3%83%9F%E3%82%B5.aac" length="22190642" type="audio/aac" />

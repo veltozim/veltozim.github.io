@@ -6,7 +6,7 @@
     <description>大友良英JAMJAMラジオ の音声Podcast (KBS)</description>
     <language>ja</language>
     <itunes:category text="News"/>
-    <lastBuildDate>Tue, 21 Apr 2026 18:03:26 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Apr 2026 18:01:46 -0000</lastBuildDate>
     
     <item>
       <title>大友良英JAMJAMラジオ - 2026年04月18日</title>
@@ -62,13 +62,6 @@
       <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/JAMJAM/20260228_%E5%A4%A7%E5%8F%8B%E8%89%AF%E8%8B%B1JAMJAM%E3%83%A9%E3%82%B8%E3%82%AA.aac" length="11095366" type="audio/aac" />
       <guid isPermaLink="false">20260228_大友良英JAMJAMラジオ.aac</guid>
       <pubDate>Sat, 28 Feb 2026 00:00:00 -0000</pubDate>
-      <itunes:duration>00:30:00</itunes:duration>
-    </item>
-    <item>
-      <title>大友良英JAMJAMラジオ - 2026年02月21日</title>
-      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/JAMJAM/20260221_%E5%A4%A7%E5%8F%8B%E8%89%AF%E8%8B%B1JAMJAM%E3%83%A9%E3%82%B8%E3%82%AA.aac" length="11095426" type="audio/aac" />
-      <guid isPermaLink="false">20260221_大友良英JAMJAMラジオ.aac</guid>
-      <pubDate>Sat, 21 Feb 2026 00:00:00 -0000</pubDate>
       <itunes:duration>00:30:00</itunes:duration>
     </item>
   </channel>
