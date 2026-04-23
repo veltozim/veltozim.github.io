@@ -6,8 +6,15 @@
     <description>tokyospeakeasy の音声Podcast (FMT)</description>
     <language>ja</language>
     <itunes:category text="News"/>
-    <lastBuildDate>Wed, 22 Apr 2026 18:01:49 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Apr 2026 18:01:40 -0000</lastBuildDate>
     
+    <item>
+      <title>tokyospeakeasy - 2026年04月24日 (秋元真夏＆梅澤美波（乃木坂46）)</title>
+      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20260424_tokyospeakeasy_%E7%A7%8B%E5%85%83%E7%9C%9F%E5%A4%8F%EF%BC%86%E6%A2%85%E6%BE%A4%E7%BE%8E%E6%B3%A2%EF%BC%88%E4%B9%83%E6%9C%A8%E5%9D%8246%EF%BC%89.aac" length="22190672" type="audio/aac" />
+      <guid isPermaLink="false">20260424_tokyospeakeasy_秋元真夏＆梅澤美波（乃木坂46）.aac</guid>
+      <pubDate>Fri, 24 Apr 2026 00:00:00 -0000</pubDate>
+      <itunes:duration>01:00:00</itunes:duration>
+    </item>
     <item>
       <title>tokyospeakeasy - 2026年04月23日 (小室哲哉＆落合陽一)</title>
       <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20260423_tokyospeakeasy_%E5%B0%8F%E5%AE%A4%E5%93%B2%E5%93%89%EF%BC%86%E8%90%BD%E5%90%88%E9%99%BD%E4%B8%80.aac" length="22190611" type="audio/aac" />
@@ -125,13 +132,6 @@
       <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20260325_tokyospeakeasy_%E7%80%AC%E6%88%B8%E5%BA%B7%E5%8F%B2%EF%BC%86%E7%80%AC%E6%88%B8%E3%81%95%E3%81%8A%E3%82%8A.aac" length="22183779" type="audio/aac" />
       <guid isPermaLink="false">20260325_tokyospeakeasy_瀬戸康史＆瀬戸さおり.aac</guid>
       <pubDate>Wed, 25 Mar 2026 00:00:00 -0000</pubDate>
-      <itunes:duration>01:00:00</itunes:duration>
-    </item>
-    <item>
-      <title>tokyospeakeasy - 2026年03月24日 (イワクラ（蛙亭）＆吉田結衣（カーネーション）)</title>
-      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20260324_tokyospeakeasy_%E3%82%A4%E3%83%AF%E3%82%AF%E3%83%A9%EF%BC%88%E8%9B%99%E4%BA%AD%EF%BC%89%EF%BC%86%E5%90%89%E7%94%B0%E7%B5%90%E8%A1%A3%EF%BC%88%E3%82%AB%E3%83%BC%E3%83%8D%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%EF%BC%89.aac" length="22190646" type="audio/aac" />
-      <guid isPermaLink="false">20260324_tokyospeakeasy_イワクラ（蛙亭）＆吉田結衣（カーネーション）.aac</guid>
-      <pubDate>Tue, 24 Mar 2026 00:00:00 -0000</pubDate>
       <itunes:duration>01:00:00</itunes:duration>
     </item>
   </channel>
