@@ -4,13 +4,21 @@
     <title>配信録音</title>
     <description>ストリーミングサービスから録音した音声</description>
     <language>ja</language>
-    <author>Browser Audio Recorder</author>
-    <ns0:author>Browser Audio Recorder</ns0:author>
+    <author>YouTube Audio Downloader</author>
+    <ns0:author>YouTube Audio Downloader</ns0:author>
     <ns0:summary>ストリーミングサービスから録音した音声</ns0:summary>
     <ns0:explicit>no</ns0:explicit>
     <ns0:category text="Technology"/>
     <link>https://veltozim.github.io/streaming/feed.xml</link>
-    <lastBuildDate>Thu, 23 Apr 2026 03:21:49 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Apr 2026 06:00:43 +0000</lastBuildDate>
+    <item>
+      <title>【「疲れた」と感じたら脳は手遅れ】脳疲労の研究者・松井崇／疲労を感じる前にパフォーマンスは落ちている／サインは瞳孔の縮みと指の冷え／対策は「運動・プロテイン・炭酸水・絆」【Human Insight】</title>
+      <description>【「疲れた」と感じたら脳は手遅れ】脳疲労の研究者・松井崇／疲労を感じる前にパフォーマンスは落ちている／サインは瞳孔の縮みと指の冷え／対策は「運動・プロテイン・炭酸水・絆」【Human Insight】</description>
+      <pubDate>Thu, 23 Apr 2026 06:00:43 +0000</pubDate>
+      <guid>https://pub-818f368ffb1343438308791361fbe938.r2.dev/【「疲れた」と感じたら脳は手遅れ】脳疲労の研究者・松井崇／疲労を感じる前にパフォーマンスは落ちている／サインは瞳孔の縮みと指の冷え／対策は「運動・プロテイン・炭酸水・絆」【Human Insight】.m4a</guid>
+      <enclosure url="https://pub-818f368ffb1343438308791361fbe938.r2.dev/【「疲れた」と感じたら脳は手遅れ】脳疲労の研究者・松井崇／疲労を感じる前にパフォーマンスは落ちている／サインは瞳孔の縮みと指の冷え／対策は「運動・プロテイン・炭酸水・絆」【Human Insight】.m4a" length="39117927" type="audio/mp4"/>
+      <ns0:title>【「疲れた」と感じたら脳は手遅れ】脳疲労の研究者・松井崇／疲労を感じる前にパフォーマンスは落ちている／サインは瞳孔の縮みと指の冷え／対策は「運動・プロテイン・炭酸水・絆」【Human Insight】</ns0:title>
+    </item>
     <item>
       <title>【2026年4月号】吉田豪と久田将義の噂のワイドショー</title>
       <description>【2026年4月号】吉田豪と久田将義の噂のワイドショー</description>
@@ -28,14 +36,6 @@
       <ns0:title>コトブキツカサ×吉田豪『ラジオ業界スキャンダル列伝！』</ns0:title>
     </item>
     <item>
-      <title>【ふ～ど × ぷげら × こばやん × ふり〜だ】ふ〜ど遂に撃沈！スト6のバランス調整について本音で語ります（2⧸2）【ストリートファイター6】</title>
-      <description>【ふ～ど × ぷげら × こばやん × ふり〜だ】ふ〜ど遂に撃沈！スト6のバランス調整について本音で語ります（2⧸2）【ストリートファイター6】</description>
-      <pubDate>Sun, 19 Apr 2026 12:22:59 +0000</pubDate>
-      <guid>https://pub-818f368ffb1343438308791361fbe938.r2.dev/【ふ～ど × ぷげら × こばやん × ふり〜だ】ふ〜ど遂に撃沈！スト6のバランス調整について本音で語ります（2⧸2）【ストリートファイター6】.m4a</guid>
-      <enclosure url="https://pub-818f368ffb1343438308791361fbe938.r2.dev/【ふ～ど × ぷげら × こばやん × ふり〜だ】ふ〜ど遂に撃沈！スト6のバランス調整について本音で語ります（2⧸2）【ストリートファイター6】.m4a" length="18178764" type="audio/mp4"/>
-      <ns0:title>【ふ～ど × ぷげら × こばやん × ふり〜だ】ふ〜ど遂に撃沈！スト6のバランス調整について本音で語ります（2⧸2）【ストリートファイター6】</ns0:title>
-    </item>
-    <item>
       <title>【水ダウ寿司合戦！！】アンチコメントに直接反論！！</title>
       <description>【水ダウ寿司合戦！！】アンチコメントに直接反論！！</description>
       <pubDate>Sun, 19 Apr 2026 12:22:57 +0000</pubDate>
@@ -50,46 +50,6 @@
       <guid>https://pub-818f368ffb1343438308791361fbe938.r2.dev/【ゲスト ： Laggia &amp; ときど】2億円の男！兼業プロ！マルチタイトル！超ストイックな男の素顔に迫る ｜ りじぇぽ10.m4a</guid>
       <enclosure url="https://pub-818f368ffb1343438308791361fbe938.r2.dev/【ゲスト ： Laggia &amp; ときど】2億円の男！兼業プロ！マルチタイトル！超ストイックな男の素顔に迫る ｜ りじぇぽ10.m4a" length="46366511" type="audio/mp4"/>
       <ns0:title>【ゲスト ： Laggia &amp; ときど】2億円の男！兼業プロ！マルチタイトル！超ストイックな男の素顔に迫る ｜ りじぇぽ10</ns0:title>
-    </item>
-    <item>
-      <title>SFL新規参入チームがRIDDLEに決定！現在の心境を語るりゅうせい【スト6】</title>
-      <description>SFL新規参入チームがRIDDLEに決定！現在の心境を語るりゅうせい【スト6】</description>
-      <pubDate>Fri, 17 Apr 2026 13:42:10 +0000</pubDate>
-      <guid>https://pub-818f368ffb1343438308791361fbe938.r2.dev/SFL新規参入チームがRIDDLEに決定！現在の心境を語るりゅうせい【スト6】.m4a</guid>
-      <enclosure url="https://pub-818f368ffb1343438308791361fbe938.r2.dev/SFL新規参入チームがRIDDLEに決定！現在の心境を語るりゅうせい【スト6】.m4a" length="7368102" type="audio/mp4"/>
-      <ns0:title>SFL新規参入チームがRIDDLEに決定！現在の心境を語るりゅうせい【スト6】</ns0:title>
-    </item>
-    <item>
-      <title>【スト6、SF6】SFL新規参戦チームはRIDDLEに決定！おめでとう…ッ！</title>
-      <description>【スト6、SF6】SFL新規参戦チームはRIDDLEに決定！おめでとう…ッ！</description>
-      <pubDate>Fri, 17 Apr 2026 13:42:07 +0000</pubDate>
-      <guid>https://pub-818f368ffb1343438308791361fbe938.r2.dev/【スト6、SF6】SFL新規参戦チームはRIDDLEに決定！おめでとう…ッ！.m4a</guid>
-      <enclosure url="https://pub-818f368ffb1343438308791361fbe938.r2.dev/【スト6、SF6】SFL新規参戦チームはRIDDLEに決定！おめでとう…ッ！.m4a" length="5990621" type="audio/mp4"/>
-      <ns0:title>【スト6、SF6】SFL新規参戦チームはRIDDLEに決定！おめでとう…ッ！</ns0:title>
-    </item>
-    <item>
-      <title>SFL新規参入チームが決定し各チームの動向が気になる中、今年ひぐちは…【ストリートファイター6】</title>
-      <description>SFL新規参入チームが決定し各チームの動向が気になる中、今年ひぐちは…【ストリートファイター6】</description>
-      <pubDate>Fri, 17 Apr 2026 13:42:05 +0000</pubDate>
-      <guid>https://pub-818f368ffb1343438308791361fbe938.r2.dev/SFL新規参入チームが決定し各チームの動向が気になる中、今年ひぐちは…【ストリートファイター6】.m4a</guid>
-      <enclosure url="https://pub-818f368ffb1343438308791361fbe938.r2.dev/SFL新規参入チームが決定し各チームの動向が気になる中、今年ひぐちは…【ストリートファイター6】.m4a" length="7563300" type="audio/mp4"/>
-      <ns0:title>SFL新規参入チームが決定し各チームの動向が気になる中、今年ひぐちは…【ストリートファイター6】</ns0:title>
-    </item>
-    <item>
-      <title>牧野アンナ × 吉田豪</title>
-      <description>牧野アンナ × 吉田豪</description>
-      <pubDate>Wed, 15 Apr 2026 13:47:23 +0000</pubDate>
-      <guid>https://pub-818f368ffb1343438308791361fbe938.r2.dev/牧野アンナ × 吉田豪.m4a</guid>
-      <enclosure url="https://pub-818f368ffb1343438308791361fbe938.r2.dev/牧野アンナ × 吉田豪.m4a" length="170908251" type="audio/mp4"/>
-      <ns0:title>牧野アンナ × 吉田豪</ns0:title>
-    </item>
-    <item>
-      <title>【ふ～ど × ぷげら × こばやん × ふり〜だ】お酒の勢いで本音談義！カプコンカップ12振り返り&amp;裏話（1⧸2）【スト6 ⧸ ストリートファイター6】</title>
-      <description>【ふ～ど × ぷげら × こばやん × ふり〜だ】お酒の勢いで本音談義！カプコンカップ12振り返り&amp;裏話（1⧸2）【スト6 ⧸ ストリートファイター6】</description>
-      <pubDate>Wed, 15 Apr 2026 10:38:56 +0000</pubDate>
-      <guid>https://pub-818f368ffb1343438308791361fbe938.r2.dev/【ふ～ど × ぷげら × こばやん × ふり〜だ】お酒の勢いで本音談義！カプコンカップ12振り返り&amp;裏話（1⧸2）【スト6 ⧸ ストリートファイター6】.m4a</guid>
-      <enclosure url="https://pub-818f368ffb1343438308791361fbe938.r2.dev/【ふ～ど × ぷげら × こばやん × ふり〜だ】お酒の勢いで本音談義！カプコンカップ12振り返り&amp;裏話（1⧸2）【スト6 ⧸ ストリートファイター6】.m4a" length="25101104" type="audio/mp4"/>
-      <ns0:title>【ふ～ど × ぷげら × こばやん × ふり〜だ】お酒の勢いで本音談義！カプコンカップ12振り返り&amp;裏話（1⧸2）【スト6 ⧸ ストリートファイター6】</ns0:title>
     </item>
     <item>
       <title>【ナショナリズムを科学する】愛国心・排外意識・帰属意識“３つの次元”で分析／政治に“少し”詳しい人ほど引っ張られる／国際関係の悪化で高まる“負の側面”／ワールドカップと戦争の意外な相関【1on1】</title>
