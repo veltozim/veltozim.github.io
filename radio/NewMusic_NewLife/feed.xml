@@ -6,8 +6,15 @@
     <description>堀込高樹NewMusicNewLife の音声Podcast (ALPHA-STATION)</description>
     <language>ja</language>
     <itunes:category text="News"/>
-    <lastBuildDate>Sat, 25 Apr 2026 18:00:08 -0000</lastBuildDate>
+    <lastBuildDate>Sun, 26 Apr 2026 18:02:17 -0000</lastBuildDate>
     
+    <item>
+      <title>堀込高樹NewMusicNewLife - 2026年04月26日</title>
+      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/NewMusic_NewLife/20260426_%E5%A0%80%E8%BE%BC%E9%AB%98%E6%A8%B9NewMusicNewLife.aac" length="22190732" type="audio/aac" />
+      <guid isPermaLink="false">20260426_堀込高樹NewMusicNewLife.aac</guid>
+      <pubDate>Sun, 26 Apr 2026 00:00:00 -0000</pubDate>
+      <itunes:duration>01:00:00</itunes:duration>
+    </item>
     <item>
       <title>堀込高樹NewMusicNewLife - 2026年04月19日</title>
       <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/NewMusic_NewLife/20260419_%E5%A0%80%E8%BE%BC%E9%AB%98%E6%A8%B9NewMusicNewLife.aac" length="22190788" type="audio/aac" />
