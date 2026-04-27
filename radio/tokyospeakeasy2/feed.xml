@@ -6,8 +6,15 @@
     <description>tokyospeakeasy の音声Podcast (FMT)</description>
     <language>ja</language>
     <itunes:category text="News"/>
-    <lastBuildDate>Sun, 26 Apr 2026 18:02:22 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Apr 2026 18:01:33 -0000</lastBuildDate>
     
+    <item>
+      <title>tokyospeakeasy - 2026年04月28日 (勝俣州和＆ラッシャー板前)</title>
+      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20260428_tokyospeakeasy_%E5%8B%9D%E4%BF%A3%E5%B7%9E%E5%92%8C%EF%BC%86%E3%83%A9%E3%83%83%E3%82%B7%E3%83%A3%E3%83%BC%E6%9D%BF%E5%89%8D.aac" length="22190600" type="audio/aac" />
+      <guid isPermaLink="false">20260428_tokyospeakeasy_勝俣州和＆ラッシャー板前.aac</guid>
+      <pubDate>Tue, 28 Apr 2026 00:00:00 -0000</pubDate>
+      <itunes:duration>01:00:00</itunes:duration>
+    </item>
     <item>
       <title>tokyospeakeasy - 2026年04月24日 (秋元真夏＆梅澤美波（乃木坂46）)</title>
       <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20260424_tokyospeakeasy_%E7%A7%8B%E5%85%83%E7%9C%9F%E5%A4%8F%EF%BC%86%E6%A2%85%E6%BE%A4%E7%BE%8E%E6%B3%A2%EF%BC%88%E4%B9%83%E6%9C%A8%E5%9D%8246%EF%BC%89.aac" length="22190672" type="audio/aac" />
