@@ -6,7 +6,7 @@
     <description>tokyospeakeasy の音声Podcast (FMT)</description>
     <language>ja</language>
     <itunes:category text="News"/>
-    <lastBuildDate>Fri, 01 May 2026 18:01:36 -0000</lastBuildDate>
+    <lastBuildDate>Sat, 02 May 2026 18:00:13 -0000</lastBuildDate>
     
     <item>
       <title>tokyospeakeasy - 2026年05月01日 (中山秀征＆木村祐一)</title>
@@ -118,13 +118,6 @@
       <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20260403_tokyospeakeasy_%E8%97%A4%E5%8E%9F%E5%96%9C%E6%98%8E%EF%BC%86%E3%83%97%E3%83%81%E9%B9%BF%E5%B3%B6.aac" length="22190642" type="audio/aac" />
       <guid isPermaLink="false">20260403_tokyospeakeasy_藤原喜明＆プチ鹿島.aac</guid>
       <pubDate>Fri, 03 Apr 2026 00:00:00 -0000</pubDate>
-      <itunes:duration>01:00:00</itunes:duration>
-    </item>
-    <item>
-      <title>tokyospeakeasy - 2026年04月02日 (渡辺満里奈＆辺見えみり)</title>
-      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20260402_tokyospeakeasy_%E6%B8%A1%E8%BE%BA%E6%BA%80%E9%87%8C%E5%A5%88%EF%BC%86%E8%BE%BA%E8%A6%8B%E3%81%88%E3%81%BF%E3%82%8A.aac" length="22190512" type="audio/aac" />
-      <guid isPermaLink="false">20260402_tokyospeakeasy_渡辺満里奈＆辺見えみり.aac</guid>
-      <pubDate>Thu, 02 Apr 2026 00:00:00 -0000</pubDate>
       <itunes:duration>01:00:00</itunes:duration>
     </item>
   </channel>
