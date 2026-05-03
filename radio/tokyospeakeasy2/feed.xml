@@ -6,7 +6,7 @@
     <description>tokyospeakeasy の音声Podcast (FMT)</description>
     <language>ja</language>
     <itunes:category text="News"/>
-    <lastBuildDate>Sat, 02 May 2026 18:00:13 -0000</lastBuildDate>
+    <lastBuildDate>Sun, 03 May 2026 18:02:25 -0000</lastBuildDate>
     
     <item>
       <title>tokyospeakeasy - 2026年05月01日 (中山秀征＆木村祐一)</title>
@@ -111,13 +111,6 @@
       <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20260407_tokyospeakeasy_%E5%93%81%E5%B7%9D%E7%A5%90%EF%BC%88%E5%93%81%E5%B7%9D%E5%BA%84%E5%8F%B8%EF%BC%89%EF%BC%86%E3%83%8F%E3%83%81%E3%83%9F%E3%83%84%E4%BA%8C%E9%83%8E%EF%BC%88%E6%9D%B1%E4%BA%AC%E3%83%80%E3%82%A4%E3%83%8A%E3%83%9E%E3%82%A4%E3%83%88%EF%BC%89.aac" length="22190592" type="audio/aac" />
       <guid isPermaLink="false">20260407_tokyospeakeasy_品川祐（品川庄司）＆ハチミツ二郎（東京ダイナマイト）.aac</guid>
       <pubDate>Tue, 07 Apr 2026 00:00:00 -0000</pubDate>
-      <itunes:duration>01:00:00</itunes:duration>
-    </item>
-    <item>
-      <title>tokyospeakeasy - 2026年04月03日 (藤原喜明＆プチ鹿島)</title>
-      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20260403_tokyospeakeasy_%E8%97%A4%E5%8E%9F%E5%96%9C%E6%98%8E%EF%BC%86%E3%83%97%E3%83%81%E9%B9%BF%E5%B3%B6.aac" length="22190642" type="audio/aac" />
-      <guid isPermaLink="false">20260403_tokyospeakeasy_藤原喜明＆プチ鹿島.aac</guid>
-      <pubDate>Fri, 03 Apr 2026 00:00:00 -0000</pubDate>
       <itunes:duration>01:00:00</itunes:duration>
     </item>
   </channel>
