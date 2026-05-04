@@ -6,8 +6,15 @@
     <description>tokyospeakeasy の音声Podcast (FMT)</description>
     <language>ja</language>
     <itunes:category text="News"/>
-    <lastBuildDate>Sun, 03 May 2026 18:02:25 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 04 May 2026 18:01:33 -0000</lastBuildDate>
     
+    <item>
+      <title>tokyospeakeasy - 2026年05月05日 (高橋真麻＆平野ノラ（お笑いタレント）)</title>
+      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20260505_tokyospeakeasy_%E9%AB%98%E6%A9%8B%E7%9C%9F%E9%BA%BB%EF%BC%86%E5%B9%B3%E9%87%8E%E3%83%8E%E3%83%A9%EF%BC%88%E3%81%8A%E7%AC%91%E3%81%84%E3%82%BF%E3%83%AC%E3%83%B3%E3%83%88%EF%BC%89.aac" length="22190640" type="audio/aac" />
+      <guid isPermaLink="false">20260505_tokyospeakeasy_高橋真麻＆平野ノラ（お笑いタレント）.aac</guid>
+      <pubDate>Tue, 05 May 2026 00:00:00 -0000</pubDate>
+      <itunes:duration>01:00:00</itunes:duration>
+    </item>
     <item>
       <title>tokyospeakeasy - 2026年05月01日 (中山秀征＆木村祐一)</title>
       <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20260501_tokyospeakeasy_%E4%B8%AD%E5%B1%B1%E7%A7%80%E5%BE%81%EF%BC%86%E6%9C%A8%E6%9D%91%E7%A5%90%E4%B8%80.aac" length="22190625" type="audio/aac" />
