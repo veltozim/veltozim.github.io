@@ -6,8 +6,15 @@
     <description>tokyospeakeasy の音声Podcast (FMT)</description>
     <language>ja</language>
     <itunes:category text="News"/>
-    <lastBuildDate>Mon, 04 May 2026 18:01:33 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 05 May 2026 18:02:27 -0000</lastBuildDate>
     
+    <item>
+      <title>tokyospeakeasy - 2026年05月06日 (根本宗子＆蓮見翔（ダウ90000）)</title>
+      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20260506_tokyospeakeasy_%E6%A0%B9%E6%9C%AC%E5%AE%97%E5%AD%90%EF%BC%86%E8%93%AE%E8%A6%8B%E7%BF%94%EF%BC%88%E3%83%80%E3%82%A690000%EF%BC%89.aac" length="22190598" type="audio/aac" />
+      <guid isPermaLink="false">20260506_tokyospeakeasy_根本宗子＆蓮見翔（ダウ90000）.aac</guid>
+      <pubDate>Wed, 06 May 2026 00:00:00 -0000</pubDate>
+      <itunes:duration>01:00:00</itunes:duration>
+    </item>
     <item>
       <title>tokyospeakeasy - 2026年05月05日 (高橋真麻＆平野ノラ（お笑いタレント）)</title>
       <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20260505_tokyospeakeasy_%E9%AB%98%E6%A9%8B%E7%9C%9F%E9%BA%BB%EF%BC%86%E5%B9%B3%E9%87%8E%E3%83%8E%E3%83%A9%EF%BC%88%E3%81%8A%E7%AC%91%E3%81%84%E3%82%BF%E3%83%AC%E3%83%B3%E3%83%88%EF%BC%89.aac" length="22190640" type="audio/aac" />

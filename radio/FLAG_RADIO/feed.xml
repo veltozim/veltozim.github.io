@@ -6,8 +6,15 @@
     <description>京都FLAG_RADIO の音声Podcast (ALPHA-STATION)</description>
     <language>ja</language>
     <itunes:category text="News"/>
-    <lastBuildDate>Mon, 04 May 2026 18:01:30 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 05 May 2026 18:02:22 -0000</lastBuildDate>
     
+    <item>
+      <title>京都FLAG_RADIO - 2026年05月05日</title>
+      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/FLAG_RADIO/20260505_%E4%BA%AC%E9%83%BDFLAG_RADIO.aac" length="22190176" type="audio/aac" />
+      <guid isPermaLink="false">20260505_京都FLAG_RADIO.aac</guid>
+      <pubDate>Tue, 05 May 2026 00:00:00 -0000</pubDate>
+      <itunes:duration>01:00:00</itunes:duration>
+    </item>
     <item>
       <title>京都FLAG_RADIO - 2026年04月28日</title>
       <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/FLAG_RADIO/20260428_%E4%BA%AC%E9%83%BDFLAG_RADIO.aac" length="22190746" type="audio/aac" />
