@@ -6,8 +6,15 @@
     <description>アトロク の音声Podcast (TBS)</description>
     <language>ja</language>
     <itunes:category text="News"/>
-    <lastBuildDate>Tue, 05 May 2026 18:02:25 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 06 May 2026 18:02:00 -0000</lastBuildDate>
     
+    <item>
+      <title>アトロク - 2026年05月06日 (聴くマブ論（森田秀一）_東京藝術大学でゲームを教える意味（Jini）)</title>
+      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/aftersix/20260506_%E8%81%B4%E3%81%8F%E3%83%9E%E3%83%96%E8%AB%96%EF%BC%88%E6%A3%AE%E7%94%B0%E7%A7%80%E4%B8%80%EF%BC%89_%E6%9D%B1%E4%BA%AC%E8%97%9D%E8%A1%93%E5%A4%A7%E5%AD%A6%E3%81%A7%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%92%E6%95%99%E3%81%88%E3%82%8B%E6%84%8F%E5%91%B3%EF%BC%88Jini%EF%BC%89.aac" length="44381250" type="audio/aac" />
+      <guid isPermaLink="false">20260506_聴くマブ論（森田秀一）_東京藝術大学でゲームを教える意味（Jini）.aac</guid>
+      <pubDate>Wed, 06 May 2026 00:00:00 -0000</pubDate>
+      <itunes:duration>02:00:00</itunes:duration>
+    </item>
     <item>
       <title>アトロク - 2026年05月05日 (アトロク)</title>
       <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/aftersix/20260505_%E3%82%A2%E3%83%88%E3%83%AD%E3%82%AF.aac" length="44381250" type="audio/aac" />
@@ -139,13 +146,6 @@
       <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/aftersix/20260406_%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%83%BB%E3%82%B5%E3%82%B5%E3%83%80%E3%83%B3%E3%82%B4%E3%83%BB%E3%83%9E%E3%82%B7%E3%83%B3%E3%81%AE%E9%96%A2%E6%9D%B1%E3%81%B5%E3%81%97%E3%81%8E%E7%99%BA%E8%A6%8B%EF%BC%81%20%E5%BA%9C%E4%B8%AD%20%E7%B7%A8_%E3%80%8C%E3%82%A2%E3%82%B8%E3%82%A2%E3%83%B3%E3%83%89%E3%82%AD%E3%83%A5%E3%83%A1%E3%83%B3%E3%82%BF%E3%83%AA%E3%83%BC%E3%82%BA%E3%80%8D%E4%BB%A3%E8%A1%A8%E3%83%BB%E4%BC%B4%E9%87%8E%E6%99%BA%EF%BC%88%E5%90%8D%E4%BD%9C%E3%83%89%E3%82%AD%E3%83%A5%E3%83%A1%E3%83%B3%E3%82%BF%E3%83%AA%E3%83%BC%EF%BC%89.aac" length="44381250" type="audio/aac" />
       <guid isPermaLink="false">20260406_スーパー・ササダンゴ・マシンの関東ふしぎ発見！ 府中 編_「アジアンドキュメンタリーズ」代表・伴野智（名作ドキュメンタリー）.aac</guid>
       <pubDate>Mon, 06 Apr 2026 00:00:00 -0000</pubDate>
-      <itunes:duration>02:00:00</itunes:duration>
-    </item>
-    <item>
-      <title>アトロク - 2026年04月02日 (映画『プロジェクト・ヘイル・メアリー』評論_フィロソフィーのダンス（スタジオLIVE）)</title>
-      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/aftersix/20260402_%E6%98%A0%E7%94%BB%E3%80%8E%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E3%83%BB%E3%83%98%E3%82%A4%E3%83%AB%E3%83%BB%E3%83%A1%E3%82%A2%E3%83%AA%E3%83%BC%E3%80%8F%E8%A9%95%E8%AB%96_%E3%83%95%E3%82%A3%E3%83%AD%E3%82%BD%E3%83%95%E3%82%A3%E3%83%BC%E3%81%AE%E3%83%80%E3%83%B3%E3%82%B9%EF%BC%88%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AALIVE%EF%BC%89.aac" length="44381250" type="audio/aac" />
-      <guid isPermaLink="false">20260402_映画『プロジェクト・ヘイル・メアリー』評論_フィロソフィーのダンス（スタジオLIVE）.aac</guid>
-      <pubDate>Thu, 02 Apr 2026 00:00:00 -0000</pubDate>
       <itunes:duration>02:00:00</itunes:duration>
     </item>
   </channel>
