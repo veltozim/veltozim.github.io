@@ -6,13 +6,27 @@
     <description>アトロク の音声Podcast (TBS)</description>
     <language>ja</language>
     <itunes:category text="News"/>
-    <lastBuildDate>Wed, 06 May 2026 18:02:00 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2026 18:02:49 -0000</lastBuildDate>
     
+    <item>
+      <title>アトロク - 2026年05月07日 (映画『オールド・オーク』評論_崎山蒼志（スタジオLIVE）)</title>
+      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/aftersix/20260507_%E6%98%A0%E7%94%BB%E3%80%8E%E3%82%AA%E3%83%BC%E3%83%AB%E3%83%89%E3%83%BB%E3%82%AA%E3%83%BC%E3%82%AF%E3%80%8F%E8%A9%95%E8%AB%96_%E5%B4%8E%E5%B1%B1%E8%92%BC%E5%BF%97%EF%BC%88%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AALIVE%EF%BC%89.aac" length="44381250" type="audio/aac" />
+      <guid isPermaLink="false">20260507_映画『オールド・オーク』評論_崎山蒼志（スタジオLIVE）.aac</guid>
+      <pubDate>Thu, 07 May 2026 00:00:00 -0000</pubDate>
+      <itunes:duration>02:00:00</itunes:duration>
+    </item>
     <item>
       <title>アトロク - 2026年05月06日 (聴くマブ論（森田秀一）_東京藝術大学でゲームを教える意味（Jini）)</title>
       <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/aftersix/20260506_%E8%81%B4%E3%81%8F%E3%83%9E%E3%83%96%E8%AB%96%EF%BC%88%E6%A3%AE%E7%94%B0%E7%A7%80%E4%B8%80%EF%BC%89_%E6%9D%B1%E4%BA%AC%E8%97%9D%E8%A1%93%E5%A4%A7%E5%AD%A6%E3%81%A7%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%92%E6%95%99%E3%81%88%E3%82%8B%E6%84%8F%E5%91%B3%EF%BC%88Jini%EF%BC%89.aac" length="44381250" type="audio/aac" />
       <guid isPermaLink="false">20260506_聴くマブ論（森田秀一）_東京藝術大学でゲームを教える意味（Jini）.aac</guid>
       <pubDate>Wed, 06 May 2026 00:00:00 -0000</pubDate>
+      <itunes:duration>02:00:00</itunes:duration>
+    </item>
+    <item>
+      <title>アトロク - 2026年05月05日 (「目覚めろ、その魂。『仮面ライダーアギト』名ゼリフ ３人総選挙！」with ガンドロヒョウリ_3人ライダー「アギト・ギルス・G3」について、徹底ディベート)</title>
+      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/aftersix/20260505_%E3%80%8C%E7%9B%AE%E8%A6%9A%E3%82%81%E3%82%8D%E3%80%81%E3%81%9D%E3%81%AE%E9%AD%82%E3%80%82%E3%80%8E%E4%BB%AE%E9%9D%A2%E3%83%A9%E3%82%A4%E3%83%80%E3%83%BC%E3%82%A2%E3%82%AE%E3%83%88%E3%80%8F%E5%90%8D%E3%82%BC%E3%83%AA%E3%83%95%20%EF%BC%93%E4%BA%BA%E7%B7%8F%E9%81%B8%E6%8C%99%EF%BC%81%E3%80%8Dwith%20%E3%82%AC%E3%83%B3%E3%83%89%E3%83%AD%E3%83%92%E3%83%A7%E3%82%A6%E3%83%AA_3%E4%BA%BA%E3%83%A9%E3%82%A4%E3%83%80%E3%83%BC%E3%80%8C%E3%82%A2%E3%82%AE%E3%83%88%E3%83%BB%E3%82%AE%E3%83%AB%E3%82%B9%E3%83%BBG3%E3%80%8D%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E3%80%81%E5%BE%B9%E5%BA%95%E3%83%87%E3%82%A3%E3%83%99%E3%83%BC%E3%83%88.aac" length="44381250" type="audio/aac" />
+      <guid isPermaLink="false">20260505_「目覚めろ、その魂。『仮面ライダーアギト』名ゼリフ ３人総選挙！」with ガンドロヒョウリ_3人ライダー「アギト・ギルス・G3」について、徹底ディベート.aac</guid>
+      <pubDate>Tue, 05 May 2026 00:00:00 -0000</pubDate>
       <itunes:duration>02:00:00</itunes:duration>
     </item>
     <item>
@@ -132,20 +146,6 @@
       <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/aftersix/20260408_%E6%98%A0%E7%94%BB%E5%A5%BD%E3%81%8D%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AE%E3%82%B7%E3%82%A7%E3%82%A4%E3%82%AF%E3%82%B9%E3%83%94%E3%82%A2%E5%85%A5%E9%96%80%EF%BC%88%E5%8C%97%E6%9D%91%E7%B4%97%E8%A1%A3%EF%BC%89_%E6%97%A5%E6%9C%AC%E7%BF%BB%E8%A8%B3%E5%A4%A7%E8%B3%9E%EF%BC%88%E5%B2%B8%E6%9C%AC%E4%BD%90%E7%9F%A5%E5%AD%90%C3%97%E6%9D%BE%E6%B0%B8%E7%BE%8E%E7%A9%82%EF%BC%89.aac" length="44409955" type="audio/aac" />
       <guid isPermaLink="false">20260408_映画好きのためのシェイクスピア入門（北村紗衣）_日本翻訳大賞（岸本佐知子×松永美穂）.aac</guid>
       <pubDate>Wed, 08 Apr 2026 00:00:00 -0000</pubDate>
-      <itunes:duration>02:00:00</itunes:duration>
-    </item>
-    <item>
-      <title>アトロク - 2026年04月07日 (みんなで作ろう！！究極のお品書き！ 新しい春の宴 特集 by パリッコ＆スズキナオ_アニメーション作家・伊藤有壱（「伊藤有壱展」について）)</title>
-      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/aftersix/20260407_%E3%81%BF%E3%82%93%E3%81%AA%E3%81%A7%E4%BD%9C%E3%82%8D%E3%81%86%EF%BC%81%EF%BC%81%E7%A9%B6%E6%A5%B5%E3%81%AE%E3%81%8A%E5%93%81%E6%9B%B8%E3%81%8D%EF%BC%81%20%E6%96%B0%E3%81%97%E3%81%84%E6%98%A5%E3%81%AE%E5%AE%B4%20%E7%89%B9%E9%9B%86%20by%20%E3%83%91%E3%83%AA%E3%83%83%E3%82%B3%EF%BC%86%E3%82%B9%E3%82%BA%E3%82%AD%E3%83%8A%E3%82%AA_%E3%82%A2%E3%83%8B%E3%83%A1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E4%BD%9C%E5%AE%B6%E3%83%BB%E4%BC%8A%E8%97%A4%E6%9C%89%E5%A3%B1%EF%BC%88%E3%80%8C%E4%BC%8A%E8%97%A4%E6%9C%89%E5%A3%B1%E5%B1%95%E3%80%8D%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%EF%BC%89.aac" length="44381250" type="audio/aac" />
-      <guid isPermaLink="false">20260407_みんなで作ろう！！究極のお品書き！ 新しい春の宴 特集 by パリッコ＆スズキナオ_アニメーション作家・伊藤有壱（「伊藤有壱展」について）.aac</guid>
-      <pubDate>Tue, 07 Apr 2026 00:00:00 -0000</pubDate>
-      <itunes:duration>02:00:00</itunes:duration>
-    </item>
-    <item>
-      <title>アトロク - 2026年04月06日 (スーパー・ササダンゴ・マシンの関東ふしぎ発見！ 府中 編_「アジアンドキュメンタリーズ」代表・伴野智（名作ドキュメンタリー）)</title>
-      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/aftersix/20260406_%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%83%BB%E3%82%B5%E3%82%B5%E3%83%80%E3%83%B3%E3%82%B4%E3%83%BB%E3%83%9E%E3%82%B7%E3%83%B3%E3%81%AE%E9%96%A2%E6%9D%B1%E3%81%B5%E3%81%97%E3%81%8E%E7%99%BA%E8%A6%8B%EF%BC%81%20%E5%BA%9C%E4%B8%AD%20%E7%B7%A8_%E3%80%8C%E3%82%A2%E3%82%B8%E3%82%A2%E3%83%B3%E3%83%89%E3%82%AD%E3%83%A5%E3%83%A1%E3%83%B3%E3%82%BF%E3%83%AA%E3%83%BC%E3%82%BA%E3%80%8D%E4%BB%A3%E8%A1%A8%E3%83%BB%E4%BC%B4%E9%87%8E%E6%99%BA%EF%BC%88%E5%90%8D%E4%BD%9C%E3%83%89%E3%82%AD%E3%83%A5%E3%83%A1%E3%83%B3%E3%82%BF%E3%83%AA%E3%83%BC%EF%BC%89.aac" length="44381250" type="audio/aac" />
-      <guid isPermaLink="false">20260406_スーパー・ササダンゴ・マシンの関東ふしぎ発見！ 府中 編_「アジアンドキュメンタリーズ」代表・伴野智（名作ドキュメンタリー）.aac</guid>
-      <pubDate>Mon, 06 Apr 2026 00:00:00 -0000</pubDate>
       <itunes:duration>02:00:00</itunes:duration>
     </item>
   </channel>
