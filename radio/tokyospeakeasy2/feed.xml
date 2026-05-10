@@ -6,7 +6,7 @@
     <description>tokyospeakeasy の音声Podcast (FMT)</description>
     <language>ja</language>
     <itunes:category text="News"/>
-    <lastBuildDate>Sat, 09 May 2026 18:00:16 -0000</lastBuildDate>
+    <lastBuildDate>Sun, 10 May 2026 18:02:27 -0000</lastBuildDate>
     
     <item>
       <title>tokyospeakeasy - 2026年05月08日 (すがちゃん最高No.1（ぱーてぃーちゃん）＆井筒雄太)</title>
@@ -111,13 +111,6 @@
       <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20260414_tokyospeakeasy_%E8%A1%97%E8%A3%8F%E3%81%B4%E3%82%93%E3%81%8F%EF%BC%86%E5%8F%8B%E7%94%B0%E3%82%AA%E3%83%AC.aac" length="22190606" type="audio/aac" />
       <guid isPermaLink="false">20260414_tokyospeakeasy_街裏ぴんく＆友田オレ.aac</guid>
       <pubDate>Tue, 14 Apr 2026 00:00:00 -0000</pubDate>
-      <itunes:duration>01:00:00</itunes:duration>
-    </item>
-    <item>
-      <title>tokyospeakeasy - 2026年04月10日 (南こうせつ＆秋元康)</title>
-      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20260410_tokyospeakeasy_%E5%8D%97%E3%81%93%E3%81%86%E3%81%9B%E3%81%A4%EF%BC%86%E7%A7%8B%E5%85%83%E5%BA%B7.aac" length="22190622" type="audio/aac" />
-      <guid isPermaLink="false">20260410_tokyospeakeasy_南こうせつ＆秋元康.aac</guid>
-      <pubDate>Fri, 10 Apr 2026 00:00:00 -0000</pubDate>
       <itunes:duration>01:00:00</itunes:duration>
     </item>
   </channel>
