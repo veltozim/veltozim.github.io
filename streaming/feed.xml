@@ -4,13 +4,21 @@
     <title>配信録音</title>
     <description>ストリーミングサービスから録音した音声</description>
     <language>ja</language>
-    <author>YouTube Audio Downloader</author>
-    <ns0:author>YouTube Audio Downloader</ns0:author>
+    <author>Browser Audio Recorder</author>
+    <ns0:author>Browser Audio Recorder</ns0:author>
     <ns0:summary>ストリーミングサービスから録音した音声</ns0:summary>
     <ns0:explicit>no</ns0:explicit>
     <ns0:category text="Technology"/>
     <link>https://veltozim.github.io/streaming/feed.xml</link>
-    <lastBuildDate>Wed, 06 May 2026 09:55:48 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 12 May 2026 02:55:30 +0000</lastBuildDate>
+    <item>
+      <title>吉田豪の新・雑談天国 vol.36 –ゲスト 浅野いにおさん</title>
+      <description>吉田豪の新・雑談天国 vol.36 –ゲスト 浅野いにおさん</description>
+      <pubDate>Tue, 12 May 2026 02:55:30 +0000</pubDate>
+      <guid>https://pub-818f368ffb1343438308791361fbe938.r2.dev/吉田豪の新・雑談天国 vol.36 –ゲスト 浅野いにおさん.m4a</guid>
+      <enclosure url="https://pub-818f368ffb1343438308791361fbe938.r2.dev/吉田豪の新・雑談天国 vol.36 –ゲスト 浅野いにおさん.m4a" length="130117539" type="audio/mp4"/>
+      <ns0:title>吉田豪の新・雑談天国 vol.36 –ゲスト 浅野いにおさん</ns0:title>
+    </item>
     <item>
       <title>今の格ゲー界隈は…。プロ格闘ゲーマーたちの裏の顔を総師範KSKが語る【後編】</title>
       <description>今の格ゲー界隈は…。プロ格闘ゲーマーたちの裏の顔を総師範KSKが語る【後編】</description>
