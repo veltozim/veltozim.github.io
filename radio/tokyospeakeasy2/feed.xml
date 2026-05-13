@@ -6,8 +6,15 @@
     <description>tokyospeakeasy の音声Podcast (FMT)</description>
     <language>ja</language>
     <itunes:category text="News"/>
-    <lastBuildDate>Tue, 12 May 2026 18:03:29 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 13 May 2026 18:02:18 -0000</lastBuildDate>
     
+    <item>
+      <title>tokyospeakeasy - 2026年05月14日 (いとうせいこう＆倉本美津留)</title>
+      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20260514_tokyospeakeasy_%E3%81%84%E3%81%A8%E3%81%86%E3%81%9B%E3%81%84%E3%81%93%E3%81%86%EF%BC%86%E5%80%89%E6%9C%AC%E7%BE%8E%E6%B4%A5%E7%95%99.aac" length="22181183" type="audio/aac" />
+      <guid isPermaLink="false">20260514_tokyospeakeasy_いとうせいこう＆倉本美津留.aac</guid>
+      <pubDate>Thu, 14 May 2026 00:00:00 -0000</pubDate>
+      <itunes:duration>01:00:00</itunes:duration>
+    </item>
     <item>
       <title>tokyospeakeasy - 2026年05月13日 (山﨑ケイ（相席スタート）＆CRAZY_COCO)</title>
       <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20260513_tokyospeakeasy_%E5%B1%B1%EF%A8%91%E3%82%B1%E3%82%A4%EF%BC%88%E7%9B%B8%E5%B8%AD%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88%EF%BC%89%EF%BC%86CRAZY_COCO.aac" length="22190616" type="audio/aac" />
