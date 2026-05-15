@@ -6,8 +6,15 @@
     <description>沖野修也TokyoCrossoverRadio の音声Podcast (INT)</description>
     <language>ja</language>
     <itunes:category text="News"/>
-    <lastBuildDate>Thu, 14 May 2026 18:01:39 -0000</lastBuildDate>
+    <lastBuildDate>Fri, 15 May 2026 18:01:38 -0000</lastBuildDate>
     
+    <item>
+      <title>沖野修也TokyoCrossoverRadio - 2026年05月15日</title>
+      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/TokyoCrossoverRadio/20260515_%E6%B2%96%E9%87%8E%E4%BF%AE%E4%B9%9FTokyoCrossoverRadio.aac" length="22190582" type="audio/aac" />
+      <guid isPermaLink="false">20260515_沖野修也TokyoCrossoverRadio.aac</guid>
+      <pubDate>Fri, 15 May 2026 00:00:00 -0000</pubDate>
+      <itunes:duration>01:00:00</itunes:duration>
+    </item>
     <item>
       <title>沖野修也TokyoCrossoverRadio - 2026年05月08日</title>
       <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/TokyoCrossoverRadio/20260508_%E6%B2%96%E9%87%8E%E4%BF%AE%E4%B9%9FTokyoCrossoverRadio.aac" length="22190245" type="audio/aac" />
