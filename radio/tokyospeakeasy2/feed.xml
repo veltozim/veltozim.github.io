@@ -6,7 +6,7 @@
     <description>tokyospeakeasy の音声Podcast (FMT)</description>
     <language>ja</language>
     <itunes:category text="News"/>
-    <lastBuildDate>Fri, 22 May 2026 18:02:55 -0000</lastBuildDate>
+    <lastBuildDate>Sat, 23 May 2026 18:00:12 -0000</lastBuildDate>
     
     <item>
       <title>tokyospeakeasy - 2026年05月22日 (秋元康＆岩崎良美)</title>
@@ -125,13 +125,6 @@
       <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20260424_tokyospeakeasy_%E7%A7%8B%E5%85%83%E7%9C%9F%E5%A4%8F%EF%BC%86%E6%A2%85%E6%BE%A4%E7%BE%8E%E6%B3%A2%EF%BC%88%E4%B9%83%E6%9C%A8%E5%9D%8246%EF%BC%89.aac" length="22190672" type="audio/aac" />
       <guid isPermaLink="false">20260424_tokyospeakeasy_秋元真夏＆梅澤美波（乃木坂46）.aac</guid>
       <pubDate>Fri, 24 Apr 2026 00:00:00 -0000</pubDate>
-      <itunes:duration>01:00:00</itunes:duration>
-    </item>
-    <item>
-      <title>tokyospeakeasy - 2026年04月23日 (小室哲哉＆落合陽一)</title>
-      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20260423_tokyospeakeasy_%E5%B0%8F%E5%AE%A4%E5%93%B2%E5%93%89%EF%BC%86%E8%90%BD%E5%90%88%E9%99%BD%E4%B8%80.aac" length="22190611" type="audio/aac" />
-      <guid isPermaLink="false">20260423_tokyospeakeasy_小室哲哉＆落合陽一.aac</guid>
-      <pubDate>Thu, 23 Apr 2026 00:00:00 -0000</pubDate>
       <itunes:duration>01:00:00</itunes:duration>
     </item>
   </channel>
