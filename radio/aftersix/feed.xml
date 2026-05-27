@@ -6,8 +6,15 @@
     <description>アトロク の音声Podcast (TBS)</description>
     <language>ja</language>
     <itunes:category text="News"/>
-    <lastBuildDate>Tue, 26 May 2026 18:01:55 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 27 May 2026 18:01:56 -0000</lastBuildDate>
     
+    <item>
+      <title>アトロク - 2026年05月27日 (アトロク)</title>
+      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/aftersix/20260527_%E3%82%A2%E3%83%88%E3%83%AD%E3%82%AF.aac" length="44412868" type="audio/aac" />
+      <guid isPermaLink="false">20260527_アトロク.aac</guid>
+      <pubDate>Wed, 27 May 2026 00:00:00 -0000</pubDate>
+      <itunes:duration>02:00:00</itunes:duration>
+    </item>
     <item>
       <title>アトロク - 2026年05月26日 (アトロク)</title>
       <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/aftersix/20260526_%E3%82%A2%E3%83%88%E3%83%AD%E3%82%AF.aac" length="44381250" type="audio/aac" />
@@ -139,13 +146,6 @@
       <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/aftersix/20260428_THE%E3%81%97%E3%81%BE%E3%81%8A%E3%82%A2%E3%83%AF%E3%83%BC2%EF%BC%81%E8%A6%8B%E3%81%9F%E3%81%84%EF%BC%81%E8%81%B4%E3%81%8D%E3%81%9F%E3%81%84%EF%BC%81%E8%98%87%E3%82%89%E3%81%9B%E3%81%9F%E3%81%84%EF%BC%81%E7%89%B9%E9%9B%86_%E6%9C%AC%E7%A7%80%E5%BA%B7%EF%BC%88%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%E3%83%AC%E3%83%BC%E3%82%BF%E3%83%BC%EF%BC%8F%E6%BC%AB%E7%94%BB%E5%AE%B6%EF%BC%89.aac" length="44381250" type="audio/aac" />
       <guid isPermaLink="false">20260428_THEしまおアワー2！見たい！聴きたい！蘇らせたい！特集_本秀康（イラストレーター／漫画家）.aac</guid>
       <pubDate>Tue, 28 Apr 2026 00:00:00 -0000</pubDate>
-      <itunes:duration>02:00:00</itunes:duration>
-    </item>
-    <item>
-      <title>アトロク - 2026年04月27日 (アニメ放送まで待てないので勝手に盛り上げ企画！ 漫画『鉄鍋のジャン』最凶料理総選挙_ぐんぴぃ（「お墓エンタメ」の世界 ）)</title>
-      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/aftersix/20260427_%E3%82%A2%E3%83%8B%E3%83%A1%E6%94%BE%E9%80%81%E3%81%BE%E3%81%A7%E5%BE%85%E3%81%A6%E3%81%AA%E3%81%84%E3%81%AE%E3%81%A7%E5%8B%9D%E6%89%8B%E3%81%AB%E7%9B%9B%E3%82%8A%E4%B8%8A%E3%81%92%E4%BC%81%E7%94%BB%EF%BC%81%20%E6%BC%AB%E7%94%BB%E3%80%8E%E9%89%84%E9%8D%8B%E3%81%AE%E3%82%B8%E3%83%A3%E3%83%B3%E3%80%8F%E6%9C%80%E5%87%B6%E6%96%99%E7%90%86%E7%B7%8F%E9%81%B8%E6%8C%99_%E3%81%90%E3%82%93%E3%81%B4%E3%81%83%EF%BC%88%E3%80%8C%E3%81%8A%E5%A2%93%E3%82%A8%E3%83%B3%E3%82%BF%E3%83%A1%E3%80%8D%E3%81%AE%E4%B8%96%E7%95%8C%20%EF%BC%89.aac" length="44381250" type="audio/aac" />
-      <guid isPermaLink="false">20260427_アニメ放送まで待てないので勝手に盛り上げ企画！ 漫画『鉄鍋のジャン』最凶料理総選挙_ぐんぴぃ（「お墓エンタメ」の世界 ）.aac</guid>
-      <pubDate>Mon, 27 Apr 2026 00:00:00 -0000</pubDate>
       <itunes:duration>02:00:00</itunes:duration>
     </item>
   </channel>
