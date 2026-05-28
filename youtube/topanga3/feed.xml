@@ -89,23 +89,5 @@
         <enclosure url="https://pub-96dbc39af9e0495e99e6279bf489a92d.r2.dev/topanga3/05-02%EF%BC%9A%E5%87%BA%E5%BC%B5%E7%89%88%20TOPANGA%20TV%20EVOJapan2026.m4a" length="68366787" type="audio/mp4"/>
         <itunes:explicit>no</itunes:explicit>
     </item>
-    <item>
-        <title>TOPANGA TV 708 今週末はEVO Japan！ - 2026年04月29日</title>
-        <description>配信者: トパンガ</description>
-        <link>https://www.youtube.com/@topanga3</link>
-        <guid isPermaLink="false">04-29：TOPANGA TV 708 今週末はEVO Japan！.m4a</guid>
-        <pubDate>Tue, 28 Apr 2026 13:07:37 +0000</pubDate>
-        <enclosure url="https://pub-96dbc39af9e0495e99e6279bf489a92d.r2.dev/topanga3/04-29%EF%BC%9ATOPANGA%20TV%20708%20%E4%BB%8A%E9%80%B1%E6%9C%AB%E3%81%AFEVO%20Japan%EF%BC%81.m4a" length="94301909" type="audio/mp4"/>
-        <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-        <title>勝ちたがりTV 644 明日は獣道 - 2026年04月29日</title>
-        <description>配信者: トパンガ</description>
-        <link>https://www.youtube.com/@topanga3</link>
-        <guid isPermaLink="false">04-29：勝ちたがりTV 644 明日は獣道.m4a</guid>
-        <pubDate>Tue, 28 Apr 2026 20:02:43 +0000</pubDate>
-        <enclosure url="https://pub-96dbc39af9e0495e99e6279bf489a92d.r2.dev/topanga3/04-29%EF%BC%9A%E5%8B%9D%E3%81%A1%E3%81%9F%E3%81%8C%E3%82%8ATV%20644%20%E6%98%8E%E6%97%A5%E3%81%AF%E7%8D%A3%E9%81%93.m4a" length="61714525" type="audio/mp4"/>
-        <itunes:explicit>no</itunes:explicit>
-    </item>
 </channel>
 </rss>
