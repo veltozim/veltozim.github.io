@@ -6,7 +6,7 @@
     <description>tokyospeakeasy の音声Podcast (FMT)</description>
     <language>ja</language>
     <itunes:category text="News"/>
-    <lastBuildDate>Fri, 29 May 2026 18:01:39 -0000</lastBuildDate>
+    <lastBuildDate>Sat, 30 May 2026 18:00:13 -0000</lastBuildDate>
     
     <item>
       <title>tokyospeakeasy - 2026年05月29日 (ベッキー＆松井ケムリ)</title>
@@ -118,13 +118,6 @@
       <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20260501_tokyospeakeasy_%E4%B8%AD%E5%B1%B1%E7%A7%80%E5%BE%81%EF%BC%86%E6%9C%A8%E6%9D%91%E7%A5%90%E4%B8%80.aac" length="22190625" type="audio/aac" />
       <guid isPermaLink="false">20260501_tokyospeakeasy_中山秀征＆木村祐一.aac</guid>
       <pubDate>Fri, 01 May 2026 00:00:00 -0000</pubDate>
-      <itunes:duration>01:00:00</itunes:duration>
-    </item>
-    <item>
-      <title>tokyospeakeasy - 2026年04月30日 (大家志津香＆佐藤莉華（Rain_Tree）＆水野乃愛（Rain_Tree）)</title>
-      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20260430_tokyospeakeasy_%E5%A4%A7%E5%AE%B6%E5%BF%97%E6%B4%A5%E9%A6%99%EF%BC%86%E4%BD%90%E8%97%A4%E8%8E%89%E8%8F%AF%EF%BC%88Rain_Tree%EF%BC%89%EF%BC%86%E6%B0%B4%E9%87%8E%E4%B9%83%E6%84%9B%EF%BC%88Rain_Tree%EF%BC%89.aac" length="22190640" type="audio/aac" />
-      <guid isPermaLink="false">20260430_tokyospeakeasy_大家志津香＆佐藤莉華（Rain_Tree）＆水野乃愛（Rain_Tree）.aac</guid>
-      <pubDate>Thu, 30 Apr 2026 00:00:00 -0000</pubDate>
       <itunes:duration>01:00:00</itunes:duration>
     </item>
   </channel>
