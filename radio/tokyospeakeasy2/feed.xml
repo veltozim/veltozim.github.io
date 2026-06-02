@@ -6,8 +6,15 @@
     <description>tokyospeakeasy の音声Podcast (FMT)</description>
     <language>ja</language>
     <itunes:category text="News"/>
-    <lastBuildDate>Mon, 01 Jun 2026 18:01:50 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jun 2026 18:02:31 -0000</lastBuildDate>
     
+    <item>
+      <title>tokyospeakeasy - 2026年06月03日 (安達祐実＆柄本時生)</title>
+      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20260603_tokyospeakeasy_%E5%AE%89%E9%81%94%E7%A5%90%E5%AE%9F%EF%BC%86%E6%9F%84%E6%9C%AC%E6%99%82%E7%94%9F.aac" length="22219190" type="audio/aac" />
+      <guid isPermaLink="false">20260603_tokyospeakeasy_安達祐実＆柄本時生.aac</guid>
+      <pubDate>Wed, 03 Jun 2026 00:00:00 -0000</pubDate>
+      <itunes:duration>01:00:00</itunes:duration>
+    </item>
     <item>
       <title>tokyospeakeasy - 2026年06月02日 (ピエール瀧（電気グルーヴ）＆ハリウッドザコシショウ)</title>
       <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20260602_tokyospeakeasy_%E3%83%94%E3%82%A8%E3%83%BC%E3%83%AB%E7%80%A7%EF%BC%88%E9%9B%BB%E6%B0%97%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%B4%EF%BC%89%EF%BC%86%E3%83%8F%E3%83%AA%E3%82%A6%E3%83%83%E3%83%89%E3%82%B6%E3%82%B3%E3%82%B7%E3%82%B7%E3%83%A7%E3%82%A6.aac" length="22190665" type="audio/aac" />
