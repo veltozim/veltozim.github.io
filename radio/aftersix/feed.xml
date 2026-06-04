@@ -6,8 +6,15 @@
     <description>アトロク の音声Podcast (TBS)</description>
     <language>ja</language>
     <itunes:category text="News"/>
-    <lastBuildDate>Wed, 03 Jun 2026 18:02:04 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jun 2026 18:01:43 -0000</lastBuildDate>
     
+    <item>
+      <title>アトロク - 2026年06月04日 (映画『スター・ウォーズ／マンダロリアン・アンド・グローグー』評論_西寺郷太（マイケルジャクソンSPトリビュートLIVE）)</title>
+      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/aftersix/20260604_%E6%98%A0%E7%94%BB%E3%80%8E%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%BB%E3%82%A6%E3%82%A9%E3%83%BC%E3%82%BA%EF%BC%8F%E3%83%9E%E3%83%B3%E3%83%80%E3%83%AD%E3%83%AA%E3%82%A2%E3%83%B3%E3%83%BB%E3%82%A2%E3%83%B3%E3%83%89%E3%83%BB%E3%82%B0%E3%83%AD%E3%83%BC%E3%82%B0%E3%83%BC%E3%80%8F%E8%A9%95%E8%AB%96_%E8%A5%BF%E5%AF%BA%E9%83%B7%E5%A4%AA%EF%BC%88%E3%83%9E%E3%82%A4%E3%82%B1%E3%83%AB%E3%82%B8%E3%83%A3%E3%82%AF%E3%82%BD%E3%83%B3SP%E3%83%88%E3%83%AA%E3%83%93%E3%83%A5%E3%83%BC%E3%83%88LIVE%EF%BC%89.aac" length="44381250" type="audio/aac" />
+      <guid isPermaLink="false">20260604_映画『スター・ウォーズ／マンダロリアン・アンド・グローグー』評論_西寺郷太（マイケルジャクソンSPトリビュートLIVE）.aac</guid>
+      <pubDate>Thu, 04 Jun 2026 00:00:00 -0000</pubDate>
+      <itunes:duration>02:00:00</itunes:duration>
+    </item>
     <item>
       <title>アトロク - 2026年06月03日 (アトロク)</title>
       <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/aftersix/20260603_%E3%82%A2%E3%83%88%E3%83%AD%E3%82%AF.aac" length="44381250" type="audio/aac" />
@@ -138,13 +145,6 @@
       <title>アトロク - 2026年05月05日 (「目覚めろ、その魂。『仮面ライダーアギト』名ゼリフ ３人総選挙！」with ガンドロヒョウリ_3人ライダー「アギト・ギルス・G3」について、徹底ディベート)</title>
       <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/aftersix/20260505_%E3%80%8C%E7%9B%AE%E8%A6%9A%E3%82%81%E3%82%8D%E3%80%81%E3%81%9D%E3%81%AE%E9%AD%82%E3%80%82%E3%80%8E%E4%BB%AE%E9%9D%A2%E3%83%A9%E3%82%A4%E3%83%80%E3%83%BC%E3%82%A2%E3%82%AE%E3%83%88%E3%80%8F%E5%90%8D%E3%82%BC%E3%83%AA%E3%83%95%20%EF%BC%93%E4%BA%BA%E7%B7%8F%E9%81%B8%E6%8C%99%EF%BC%81%E3%80%8Dwith%20%E3%82%AC%E3%83%B3%E3%83%89%E3%83%AD%E3%83%92%E3%83%A7%E3%82%A6%E3%83%AA_3%E4%BA%BA%E3%83%A9%E3%82%A4%E3%83%80%E3%83%BC%E3%80%8C%E3%82%A2%E3%82%AE%E3%83%88%E3%83%BB%E3%82%AE%E3%83%AB%E3%82%B9%E3%83%BBG3%E3%80%8D%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E3%80%81%E5%BE%B9%E5%BA%95%E3%83%87%E3%82%A3%E3%83%99%E3%83%BC%E3%83%88.aac" length="44381250" type="audio/aac" />
       <guid isPermaLink="false">20260505_「目覚めろ、その魂。『仮面ライダーアギト』名ゼリフ ３人総選挙！」with ガンドロヒョウリ_3人ライダー「アギト・ギルス・G3」について、徹底ディベート.aac</guid>
-      <pubDate>Tue, 05 May 2026 00:00:00 -0000</pubDate>
-      <itunes:duration>02:00:00</itunes:duration>
-    </item>
-    <item>
-      <title>アトロク - 2026年05月05日 (アトロク)</title>
-      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/aftersix/20260505_%E3%82%A2%E3%83%88%E3%83%AD%E3%82%AF.aac" length="44381250" type="audio/aac" />
-      <guid isPermaLink="false">20260505_アトロク.aac</guid>
       <pubDate>Tue, 05 May 2026 00:00:00 -0000</pubDate>
       <itunes:duration>02:00:00</itunes:duration>
     </item>
