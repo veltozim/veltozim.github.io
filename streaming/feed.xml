@@ -4,13 +4,21 @@
     <title>配信録音</title>
     <description>ストリーミングサービスから録音した音声</description>
     <language>ja</language>
-    <author>YouTube Audio Downloader</author>
-    <ns0:author>YouTube Audio Downloader</ns0:author>
+    <author>Browser Audio Recorder</author>
+    <ns0:author>Browser Audio Recorder</ns0:author>
     <ns0:summary>ストリーミングサービスから録音した音声</ns0:summary>
     <ns0:explicit>no</ns0:explicit>
     <ns0:category text="Technology"/>
     <link>https://veltozim.github.io/streaming/feed.xml</link>
-    <lastBuildDate>Thu, 04 Jun 2026 21:35:57 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 07 Jun 2026 08:13:54 +0000</lastBuildDate>
+    <item>
+      <title>久田将義＆吉田豪のハードコアトーク -ゲスト津田大介さん</title>
+      <description>久田将義＆吉田豪のハードコアトーク -ゲスト津田大介さん</description>
+      <pubDate>Sun, 07 Jun 2026 08:13:53 +0000</pubDate>
+      <guid>https://pub-818f368ffb1343438308791361fbe938.r2.dev/久田将義＆吉田豪のハードコアトーク -ゲスト津田大介さん.m4a</guid>
+      <enclosure url="https://pub-818f368ffb1343438308791361fbe938.r2.dev/久田将義＆吉田豪のハードコアトーク -ゲスト津田大介さん.m4a" length="187870554" type="audio/mp4"/>
+      <ns0:title>久田将義＆吉田豪のハードコアトーク -ゲスト津田大介さん</ns0:title>
+    </item>
     <item>
       <title>TOPANGA TV 711 DreamHack &amp; Combo Breakerおつかれさまでした</title>
       <description>TOPANGA TV 711 DreamHack &amp; Combo Breakerおつかれさまでした</description>
@@ -18,14 +26,6 @@
       <guid>https://pub-818f368ffb1343438308791361fbe938.r2.dev/TOPANGA TV 711 DreamHack &amp; Combo Breakerおつかれさまでした.m4a</guid>
       <enclosure url="https://pub-818f368ffb1343438308791361fbe938.r2.dev/TOPANGA TV 711 DreamHack &amp; Combo Breakerおつかれさまでした.m4a" length="85207351" type="audio/mp4"/>
       <ns0:title>TOPANGA TV 711 DreamHack &amp; Combo Breakerおつかれさまでした</ns0:title>
-    </item>
-    <item>
-      <title>【海外の反応】日本に慣れた中国人が語る“逆カルチャーショック”が衝撃だった！中国の給料ではやってられない！</title>
-      <description>【海外の反応】日本に慣れた中国人が語る“逆カルチャーショック”が衝撃だった！中国の給料ではやってられない！</description>
-      <pubDate>Wed, 03 Jun 2026 11:37:16 +0000</pubDate>
-      <guid>https://pub-818f368ffb1343438308791361fbe938.r2.dev/【海外の反応】日本に慣れた中国人が語る“逆カルチャーショック”が衝撃だった！中国の給料ではやってられない！.m4a</guid>
-      <enclosure url="https://pub-818f368ffb1343438308791361fbe938.r2.dev/【海外の反応】日本に慣れた中国人が語る“逆カルチャーショック”が衝撃だった！中国の給料ではやってられない！.m4a" length="9973744" type="audio/mp4"/>
-      <ns0:title>【海外の反応】日本に慣れた中国人が語る“逆カルチャーショック”が衝撃だった！中国の給料ではやってられない！</ns0:title>
     </item>
     <item>
       <title>【みなみかわ崇拝】THE YELLOW MONKEY</title>
