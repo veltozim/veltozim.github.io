@@ -6,7 +6,7 @@
     <description>tokyospeakeasy の音声Podcast (FMT)</description>
     <language>ja</language>
     <itunes:category text="News"/>
-    <lastBuildDate>Sat, 06 Jun 2026 18:00:11 -0000</lastBuildDate>
+    <lastBuildDate>Sun, 07 Jun 2026 18:02:46 -0000</lastBuildDate>
     
     <item>
       <title>tokyospeakeasy - 2026年06月05日 (タモリ＆秋元康)</title>
@@ -111,13 +111,6 @@
       <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20260512_tokyospeakeasy_Char%EF%BC%86%E9%87%8E%E6%9D%91%E7%BE%A9%E7%94%B7.aac" length="22190630" type="audio/aac" />
       <guid isPermaLink="false">20260512_tokyospeakeasy_Char＆野村義男.aac</guid>
       <pubDate>Tue, 12 May 2026 00:00:00 -0000</pubDate>
-      <itunes:duration>01:00:00</itunes:duration>
-    </item>
-    <item>
-      <title>tokyospeakeasy - 2026年05月08日 (すがちゃん最高No.1（ぱーてぃーちゃん）＆井筒雄太)</title>
-      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20260508_tokyospeakeasy_%E3%81%99%E3%81%8C%E3%81%A1%E3%82%83%E3%82%93%E6%9C%80%E9%AB%98No.1%EF%BC%88%E3%81%B1%E3%83%BC%E3%81%A6%E3%81%83%E3%83%BC%E3%81%A1%E3%82%83%E3%82%93%EF%BC%89%EF%BC%86%E4%BA%95%E7%AD%92%E9%9B%84%E5%A4%AA.aac" length="22190606" type="audio/aac" />
-      <guid isPermaLink="false">20260508_tokyospeakeasy_すがちゃん最高No.1（ぱーてぃーちゃん）＆井筒雄太.aac</guid>
-      <pubDate>Fri, 08 May 2026 00:00:00 -0000</pubDate>
       <itunes:duration>01:00:00</itunes:duration>
     </item>
   </channel>
