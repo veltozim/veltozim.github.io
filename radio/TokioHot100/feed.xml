@@ -6,7 +6,7 @@
     <description>TokioHot100 の音声Podcast (FMJ)</description>
     <language>ja</language>
     <itunes:category text="News"/>
-    <lastBuildDate>Mon, 08 Jun 2026 18:01:39 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jun 2026 18:02:23 -0000</lastBuildDate>
     
     <item>
       <title>TokioHot100 - 2026年06月07日 (AI（14時頃〜）)</title>
@@ -34,13 +34,6 @@
       <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/TokioHot100/20260517_TokioHot100_14%E6%99%82%E9%A0%83%E3%80%9CEXILE%20AKIRA_15%E6%99%82%E9%A0%83%E3%80%9CJI%20BLUE%20%E9%AB%99%E5%A1%9A%E5%A4%A7%E5%A4%A2%EF%BC%86%E6%B1%A0%EF%A8%91%E7%90%86%E4%BA%BA%EF%BC%88%E3%82%B3%E3%83%A1%E3%83%B3%E3%83%88%EF%BC%89.aac" length="86543779" type="audio/aac" />
       <guid isPermaLink="false">20260517_TokioHot100_14時頃〜EXILE AKIRA_15時頃〜JI BLUE 髙塚大夢＆池﨑理人（コメント）.aac</guid>
       <pubDate>Sun, 17 May 2026 00:00:00 -0000</pubDate>
-      <itunes:duration>03:54:00</itunes:duration>
-    </item>
-    <item>
-      <title>TokioHot100 - 2026年05月10日 (Julia Takada（14時頃〜）)</title>
-      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/TokioHot100/20260510_TokioHot100_Julia%20Takada%EF%BC%8814%E6%99%82%E9%A0%83%E3%80%9C%EF%BC%89.aac" length="86543539" type="audio/aac" />
-      <guid isPermaLink="false">20260510_TokioHot100_Julia Takada（14時頃〜）.aac</guid>
-      <pubDate>Sun, 10 May 2026 00:00:00 -0000</pubDate>
       <itunes:duration>03:54:00</itunes:duration>
     </item>
   </channel>
