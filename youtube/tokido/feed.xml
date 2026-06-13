@@ -18,12 +18,12 @@
     <itunes:image href=""/>
 
     <item>
-        <title>World Warrior Japan 1 ( ｰ`дｰ´) 2026-05-1 - 2026年05月11日</title>
+        <title>Tokido&#39;s Saturday morning( ｰ`дｰ´) 2026-0 - 2026年06月13日</title>
         <description>配信者: ときどch</description>
         <link>https://www.youtube.com/@tokido</link>
-        <guid isPermaLink="false">05-11：World Warrior Japan 1 ( ｰ`дｰ´) 2026-05-1.m4a</guid>
-        <pubDate>Sun, 10 May 2026 11:06:17 +0000</pubDate>
-        <enclosure url="https://pub-96dbc39af9e0495e99e6279bf489a92d.r2.dev/tokido/05-11%EF%BC%9AWorld%20Warrior%20Japan%201%20%28%20%EF%BD%B0%60%D0%B4%EF%BD%B0%C2%B4%29%202026-05-1.m4a" length="177471209" type="audio/mp4"/>
+        <guid isPermaLink="false">06-13：Tokido's Saturday morning( ｰ`дｰ´) 2026-0.m4a</guid>
+        <pubDate>Sat, 13 Jun 2026 11:02:58 +0000</pubDate>
+        <enclosure url="https://pub-96dbc39af9e0495e99e6279bf489a92d.r2.dev/tokido/06-13%EF%BC%9ATokido%27s%20Saturday%20morning%28%20%EF%BD%B0%60%D0%B4%EF%BD%B0%C2%B4%29%202026-0.m4a" length="60300573" type="audio/mp4"/>
         <itunes:explicit>no</itunes:explicit>
     </item>
 </channel>
