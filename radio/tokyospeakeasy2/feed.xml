@@ -6,8 +6,15 @@
     <description>tokyospeakeasy の音声Podcast (FMT)</description>
     <language>ja</language>
     <itunes:category text="News"/>
-    <lastBuildDate>Mon, 15 Jun 2026 18:01:43 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 18:02:16 -0000</lastBuildDate>
     
+    <item>
+      <title>tokyospeakeasy - 2026年06月17日 (ひょっこりはん＆松井玲奈)</title>
+      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20260617_tokyospeakeasy_%E3%81%B2%E3%82%87%E3%81%A3%E3%81%93%E3%82%8A%E3%81%AF%E3%82%93%EF%BC%86%E6%9D%BE%E4%BA%95%E7%8E%B2%E5%A5%88.aac" length="22190607" type="audio/aac" />
+      <guid isPermaLink="false">20260617_tokyospeakeasy_ひょっこりはん＆松井玲奈.aac</guid>
+      <pubDate>Wed, 17 Jun 2026 00:00:00 -0000</pubDate>
+      <itunes:duration>01:00:00</itunes:duration>
+    </item>
     <item>
       <title>tokyospeakeasy - 2026年06月16日 (大島麻衣＆ACE（WHITE_SCORPION）＆AOI（WHITE_SCORPION）)</title>
       <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20260616_tokyospeakeasy_%E5%A4%A7%E5%B3%B6%E9%BA%BB%E8%A1%A3%EF%BC%86ACE%EF%BC%88WHITE_SCORPION%EF%BC%89%EF%BC%86AOI%EF%BC%88WHITE_SCORPION%EF%BC%89.aac" length="22190580" type="audio/aac" />
