@@ -18,6 +18,15 @@
     <itunes:image href=""/>
 
     <item>
+        <title>【全編視聴は『Wizfan』】第7期TOPANGA CHAMPIONSHIP【B - 2026年06月18日</title>
+        <description>配信者: トパンガ</description>
+        <link>https://www.youtube.com/@topanga3</link>
+        <guid isPermaLink="false">06-18：【全編視聴は『Wizfan』】第7期TOPANGA CHAMPIONSHIP【B.m4a</guid>
+        <pubDate>Wed, 17 Jun 2026 20:13:25 +0000</pubDate>
+        <enclosure url="https://pub-96dbc39af9e0495e99e6279bf489a92d.r2.dev/topanga3/06-18%EF%BC%9A%E3%80%90%E5%85%A8%E7%B7%A8%E8%A6%96%E8%81%B4%E3%81%AF%E3%80%8EWizfan%E3%80%8F%E3%80%91%E7%AC%AC7%E6%9C%9FTOPANGA%20CHAMPIONSHIP%E3%80%90B.m4a" length="39089755" type="audio/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
         <title>【全編視聴は『Wizfan』】第7期TOPANGA CHAMPIONSHIP【B - 2026年06月17日</title>
         <description>配信者: トパンガ</description>
         <link>https://www.youtube.com/@topanga3</link>
@@ -78,15 +87,6 @@
         <guid isPermaLink="false">06-03：勝ちたがりTV 647 今週末はBlink Respawn【後半は『Wizfan.m4a</guid>
         <pubDate>Tue, 02 Jun 2026 20:07:04 +0000</pubDate>
         <enclosure url="https://pub-96dbc39af9e0495e99e6279bf489a92d.r2.dev/topanga3/06-03%EF%BC%9A%E5%8B%9D%E3%81%A1%E3%81%9F%E3%81%8C%E3%82%8ATV%20647%20%E4%BB%8A%E9%80%B1%E6%9C%AB%E3%81%AFBlink%20Respawn%E3%80%90%E5%BE%8C%E5%8D%8A%E3%81%AF%E3%80%8EWizfan.m4a" length="73041365" type="audio/mp4"/>
-        <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-        <title>第7期TOPANGA CHAMPIONSHIP【オンラインオープン予選｜DAY2 - 2026年05月19日</title>
-        <description>配信者: トパンガ</description>
-        <link>https://www.youtube.com/@topanga3</link>
-        <guid isPermaLink="false">05-19：第7期TOPANGA CHAMPIONSHIP【オンラインオープン予選｜DAY2.m4a</guid>
-        <pubDate>Mon, 18 May 2026 20:07:00 +0000</pubDate>
-        <enclosure url="https://pub-96dbc39af9e0495e99e6279bf489a92d.r2.dev/topanga3/05-19%EF%BC%9A%E7%AC%AC7%E6%9C%9FTOPANGA%20CHAMPIONSHIP%E3%80%90%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E4%BA%88%E9%81%B8%EF%BD%9CDAY2.m4a" length="126782775" type="audio/mp4"/>
         <itunes:explicit>no</itunes:explicit>
     </item>
 </channel>
