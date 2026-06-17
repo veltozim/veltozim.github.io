@@ -6,8 +6,15 @@
     <description>tokyospeakeasy の音声Podcast (FMT)</description>
     <language>ja</language>
     <itunes:category text="News"/>
-    <lastBuildDate>Tue, 16 Jun 2026 18:02:16 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2026 18:02:33 -0000</lastBuildDate>
     
+    <item>
+      <title>tokyospeakeasy - 2026年06月18日 (はるな愛＆鈴木奈々)</title>
+      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20260618_tokyospeakeasy_%E3%81%AF%E3%82%8B%E3%81%AA%E6%84%9B%EF%BC%86%E9%88%B4%E6%9C%A8%E5%A5%88%E3%80%85.aac" length="22190387" type="audio/aac" />
+      <guid isPermaLink="false">20260618_tokyospeakeasy_はるな愛＆鈴木奈々.aac</guid>
+      <pubDate>Thu, 18 Jun 2026 00:00:00 -0000</pubDate>
+      <itunes:duration>01:00:00</itunes:duration>
+    </item>
     <item>
       <title>tokyospeakeasy - 2026年06月17日 (ひょっこりはん＆松井玲奈)</title>
       <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20260617_tokyospeakeasy_%E3%81%B2%E3%82%87%E3%81%A3%E3%81%93%E3%82%8A%E3%81%AF%E3%82%93%EF%BC%86%E6%9D%BE%E4%BA%95%E7%8E%B2%E5%A5%88.aac" length="22190607" type="audio/aac" />
