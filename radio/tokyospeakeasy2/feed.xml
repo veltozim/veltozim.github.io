@@ -6,7 +6,7 @@
     <description>tokyospeakeasy の音声Podcast (FMT)</description>
     <language>ja</language>
     <itunes:category text="News"/>
-    <lastBuildDate>Fri, 19 Jun 2026 18:01:39 -0000</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jun 2026 18:00:13 -0000</lastBuildDate>
     
     <item>
       <title>tokyospeakeasy - 2026年06月19日 (秋元康＆松任谷由実)</title>
@@ -118,13 +118,6 @@
       <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20260522_tokyospeakeasy_%E7%A7%8B%E5%85%83%E5%BA%B7%EF%BC%86%E5%B2%A9%E5%B4%8E%E8%89%AF%E7%BE%8E.aac" length="22190683" type="audio/aac" />
       <guid isPermaLink="false">20260522_tokyospeakeasy_秋元康＆岩崎良美.aac</guid>
       <pubDate>Fri, 22 May 2026 00:00:00 -0000</pubDate>
-      <itunes:duration>01:00:00</itunes:duration>
-    </item>
-    <item>
-      <title>tokyospeakeasy - 2026年05月21日 (石塚英彦（ホンジャマカ）＆内山信二)</title>
-      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20260521_tokyospeakeasy_%E7%9F%B3%E5%A1%9A%E8%8B%B1%E5%BD%A6%EF%BC%88%E3%83%9B%E3%83%B3%E3%82%B8%E3%83%A3%E3%83%9E%E3%82%AB%EF%BC%89%EF%BC%86%E5%86%85%E5%B1%B1%E4%BF%A1%E4%BA%8C.aac" length="22190656" type="audio/aac" />
-      <guid isPermaLink="false">20260521_tokyospeakeasy_石塚英彦（ホンジャマカ）＆内山信二.aac</guid>
-      <pubDate>Thu, 21 May 2026 00:00:00 -0000</pubDate>
       <itunes:duration>01:00:00</itunes:duration>
     </item>
   </channel>
