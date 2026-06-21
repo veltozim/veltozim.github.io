@@ -4,13 +4,21 @@
     <title>配信録音</title>
     <description>ストリーミングサービスから録音した音声</description>
     <language>ja</language>
-    <author>YouTube Audio Downloader</author>
-    <ns0:author>YouTube Audio Downloader</ns0:author>
+    <author>Browser Audio Recorder</author>
+    <ns0:author>Browser Audio Recorder</ns0:author>
     <ns0:summary>ストリーミングサービスから録音した音声</ns0:summary>
     <ns0:explicit>no</ns0:explicit>
     <ns0:category text="Technology"/>
     <link>https://veltozim.github.io/streaming/feed.xml</link>
-    <lastBuildDate>Sun, 21 Jun 2026 01:25:40 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jun 2026 04:07:40 +0000</lastBuildDate>
+    <item>
+      <title>ここでしか聞けない豪さんの生放送!! 【平熱大陸】2026年6月号</title>
+      <description>ここでしか聞けない豪さんの生放送!! 【平熱大陸】2026年6月号</description>
+      <pubDate>Sun, 21 Jun 2026 04:07:35 +0000</pubDate>
+      <guid>https://pub-818f368ffb1343438308791361fbe938.r2.dev/ここでしか聞けない豪さんの生放送!! 【平熱大陸】2026年6月号.m4a</guid>
+      <enclosure url="https://pub-818f368ffb1343438308791361fbe938.r2.dev/ここでしか聞けない豪さんの生放送!! 【平熱大陸】2026年6月号.m4a" length="189985345" type="audio/mp4"/>
+      <ns0:title>ここでしか聞けない豪さんの生放送!! 【平熱大陸】2026年6月号</ns0:title>
+    </item>
     <item>
       <title>【スト6】格ゲー界に爆笑ミームと激ヤバ珍事件が多すぎて盛り上がってしまうどぐら・カワノ・シュートw【TOP ⧸ストリートファイター6】</title>
       <description>【スト6】格ゲー界に爆笑ミームと激ヤバ珍事件が多すぎて盛り上がってしまうどぐら・カワノ・シュートw【TOP ⧸ストリートファイター6】</description>
