@@ -6,8 +6,15 @@
     <description>TokioHot100 の音声Podcast (FMJ)</description>
     <language>ja</language>
     <itunes:category text="News"/>
-    <lastBuildDate>Sat, 20 Jun 2026 18:00:11 -0000</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jun 2026 18:02:43 -0000</lastBuildDate>
     
+    <item>
+      <title>TokioHot100 - 2026年06月21日 (STUTS（14時頃〜）_Laufey（15時20分頃〜）)</title>
+      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/TokioHot100/20260621_TokioHot100_STUTS%EF%BC%8814%E6%99%82%E9%A0%83%E3%80%9C%EF%BC%89_Laufey%EF%BC%8815%E6%99%8220%E5%88%86%E9%A0%83%E3%80%9C%EF%BC%89.aac" length="86543554" type="audio/aac" />
+      <guid isPermaLink="false">20260621_TokioHot100_STUTS（14時頃〜）_Laufey（15時20分頃〜）.aac</guid>
+      <pubDate>Sun, 21 Jun 2026 00:00:00 -0000</pubDate>
+      <itunes:duration>03:54:00</itunes:duration>
+    </item>
     <item>
       <title>TokioHot100 - 2026年06月14日 (GAKU-MC（14時頃～）_☆Taku Takahashi（15時20分頃〜）)</title>
       <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/TokioHot100/20260614_TokioHot100_GAKU-MC%EF%BC%8814%E6%99%82%E9%A0%83%EF%BD%9E%EF%BC%89_%E2%98%86Taku%20Takahashi%EF%BC%8815%E6%99%8220%E5%88%86%E9%A0%83%E3%80%9C%EF%BC%89.aac" length="86543672" type="audio/aac" />
