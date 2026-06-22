@@ -6,8 +6,15 @@
     <description>tokyospeakeasy の音声Podcast (FMT)</description>
     <language>ja</language>
     <itunes:category text="News"/>
-    <lastBuildDate>Sun, 21 Jun 2026 18:02:45 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2026 18:02:01 -0000</lastBuildDate>
     
+    <item>
+      <title>tokyospeakeasy - 2026年06月23日 (寺島進（俳優）＆青山隼（SHOW-WA）)</title>
+      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20260623_tokyospeakeasy_%E5%AF%BA%E5%B3%B6%E9%80%B2%EF%BC%88%E4%BF%B3%E5%84%AA%EF%BC%89%EF%BC%86%E9%9D%92%E5%B1%B1%E9%9A%BC%EF%BC%88SHOW-WA%EF%BC%89.aac" length="22190589" type="audio/aac" />
+      <guid isPermaLink="false">20260623_tokyospeakeasy_寺島進（俳優）＆青山隼（SHOW-WA）.aac</guid>
+      <pubDate>Tue, 23 Jun 2026 00:00:00 -0000</pubDate>
+      <itunes:duration>01:00:00</itunes:duration>
+    </item>
     <item>
       <title>tokyospeakeasy - 2026年06月19日 (秋元康＆松任谷由実)</title>
       <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20260619_tokyospeakeasy_%E7%A7%8B%E5%85%83%E5%BA%B7%EF%BC%86%E6%9D%BE%E4%BB%BB%E8%B0%B7%E7%94%B1%E5%AE%9F.aac" length="22190621" type="audio/aac" />
