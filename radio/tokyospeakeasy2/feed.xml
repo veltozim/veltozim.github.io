@@ -6,8 +6,15 @@
     <description>tokyospeakeasy の音声Podcast (FMT)</description>
     <language>ja</language>
     <itunes:category text="News"/>
-    <lastBuildDate>Wed, 24 Jun 2026 18:02:37 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 18:01:56 -0000</lastBuildDate>
     
+    <item>
+      <title>tokyospeakeasy - 2026年06月26日 (秋元康＆近藤真彦)</title>
+      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20260626_tokyospeakeasy_%E7%A7%8B%E5%85%83%E5%BA%B7%EF%BC%86%E8%BF%91%E8%97%A4%E7%9C%9F%E5%BD%A6.aac" length="22190665" type="audio/aac" />
+      <guid isPermaLink="false">20260626_tokyospeakeasy_秋元康＆近藤真彦.aac</guid>
+      <pubDate>Fri, 26 Jun 2026 00:00:00 -0000</pubDate>
+      <itunes:duration>01:00:00</itunes:duration>
+    </item>
     <item>
       <title>tokyospeakeasy - 2026年06月25日 (カンニング竹山＆安藤なつ)</title>
       <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20260625_tokyospeakeasy_%E3%82%AB%E3%83%B3%E3%83%8B%E3%83%B3%E3%82%B0%E7%AB%B9%E5%B1%B1%EF%BC%86%E5%AE%89%E8%97%A4%E3%81%AA%E3%81%A4.aac" length="22221097" type="audio/aac" />
@@ -125,13 +132,6 @@
       <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20260528_tokyospeakeasy_%E6%88%B8%E7%94%B0%E6%81%B5%E5%AD%90%EF%BC%86%E5%B1%B1%E5%AF%BA%E5%AE%8F%E4%B8%80.aac" length="22190597" type="audio/aac" />
       <guid isPermaLink="false">20260528_tokyospeakeasy_戸田恵子＆山寺宏一.aac</guid>
       <pubDate>Thu, 28 May 2026 00:00:00 -0000</pubDate>
-      <itunes:duration>01:00:00</itunes:duration>
-    </item>
-    <item>
-      <title>tokyospeakeasy - 2026年05月26日 (小沢仁志＆鈴木砂羽)</title>
-      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20260526_tokyospeakeasy_%E5%B0%8F%E6%B2%A2%E4%BB%81%E5%BF%97%EF%BC%86%E9%88%B4%E6%9C%A8%E7%A0%82%E7%BE%BD.aac" length="22190611" type="audio/aac" />
-      <guid isPermaLink="false">20260526_tokyospeakeasy_小沢仁志＆鈴木砂羽.aac</guid>
-      <pubDate>Tue, 26 May 2026 00:00:00 -0000</pubDate>
       <itunes:duration>01:00:00</itunes:duration>
     </item>
   </channel>
