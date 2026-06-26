@@ -6,12 +6,19 @@
     <description>アトロク の音声Podcast (TBS)</description>
     <language>ja</language>
     <itunes:category text="News"/>
-    <lastBuildDate>Thu, 25 Jun 2026 18:01:55 -0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jun 2026 18:03:04 -0000</lastBuildDate>
     
     <item>
       <title>アトロク - 2026年06月25日 (アトロク)</title>
       <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/aftersix/20260625_%E3%82%A2%E3%83%88%E3%83%AD%E3%82%AF.aac" length="44412778" type="audio/aac" />
       <guid isPermaLink="false">20260625_アトロク.aac</guid>
+      <pubDate>Thu, 25 Jun 2026 00:00:00 -0000</pubDate>
+      <itunes:duration>02:00:00</itunes:duration>
+    </item>
+    <item>
+      <title>アトロク - 2026年06月25日 (映画『黒牢城』評論_踊ってばかりの国（スタジオLIVE）)</title>
+      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/aftersix/20260625_%E6%98%A0%E7%94%BB%E3%80%8E%E9%BB%92%E7%89%A2%E5%9F%8E%E3%80%8F%E8%A9%95%E8%AB%96_%E8%B8%8A%E3%81%A3%E3%81%A6%E3%81%B0%E3%81%8B%E3%82%8A%E3%81%AE%E5%9B%BD%EF%BC%88%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AALIVE%EF%BC%89.aac" length="44412778" type="audio/aac" />
+      <guid isPermaLink="false">20260625_映画『黒牢城』評論_踊ってばかりの国（スタジオLIVE）.aac</guid>
       <pubDate>Thu, 25 Jun 2026 00:00:00 -0000</pubDate>
       <itunes:duration>02:00:00</itunes:duration>
     </item>
@@ -139,13 +146,6 @@
       <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/aftersix/20260526_%E3%82%A2%E3%83%88%E3%83%AD%E3%82%AF.aac" length="44381250" type="audio/aac" />
       <guid isPermaLink="false">20260526_アトロク.aac</guid>
       <pubDate>Tue, 26 May 2026 00:00:00 -0000</pubDate>
-      <itunes:duration>02:00:00</itunes:duration>
-    </item>
-    <item>
-      <title>アトロク - 2026年05月25日 (海外の音楽フェスでは今なにが起こってる!？特集_奥浜レイラがオススメする「女性が主人公の作品」)</title>
-      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/aftersix/20260525_%E6%B5%B7%E5%A4%96%E3%81%AE%E9%9F%B3%E6%A5%BD%E3%83%95%E3%82%A7%E3%82%B9%E3%81%A7%E3%81%AF%E4%BB%8A%E3%81%AA%E3%81%AB%E3%81%8C%E8%B5%B7%E3%81%93%E3%81%A3%E3%81%A6%E3%82%8B%21%EF%BC%9F%E7%89%B9%E9%9B%86_%E5%A5%A5%E6%B5%9C%E3%83%AC%E3%82%A4%E3%83%A9%E3%81%8C%E3%82%AA%E3%82%B9%E3%82%B9%E3%83%A1%E3%81%99%E3%82%8B%E3%80%8C%E5%A5%B3%E6%80%A7%E3%81%8C%E4%B8%BB%E4%BA%BA%E5%85%AC%E3%81%AE%E4%BD%9C%E5%93%81%E3%80%8D.aac" length="44381250" type="audio/aac" />
-      <guid isPermaLink="false">20260525_海外の音楽フェスでは今なにが起こってる!？特集_奥浜レイラがオススメする「女性が主人公の作品」.aac</guid>
-      <pubDate>Mon, 25 May 2026 00:00:00 -0000</pubDate>
       <itunes:duration>02:00:00</itunes:duration>
     </item>
   </channel>
