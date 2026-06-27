@@ -4,13 +4,21 @@
     <title>配信録音</title>
     <description>ストリーミングサービスから録音した音声</description>
     <language>ja</language>
-    <author>Browser Audio Recorder</author>
-    <ns0:author>Browser Audio Recorder</ns0:author>
+    <author>YouTube Audio Downloader</author>
+    <ns0:author>YouTube Audio Downloader</ns0:author>
     <ns0:summary>ストリーミングサービスから録音した音声</ns0:summary>
     <ns0:explicit>no</ns0:explicit>
     <ns0:category text="Technology"/>
     <link>https://veltozim.github.io/streaming/feed.xml</link>
-    <lastBuildDate>Sat, 27 Jun 2026 07:30:56 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jun 2026 09:23:18 +0000</lastBuildDate>
+    <item>
+      <title>【ふり〜だ】俺4歳から昇竜拳出してるからね ｜ ぶっぱなしCROSSTALK13-Supported by G TUNE-</title>
+      <description>【ふり〜だ】俺4歳から昇竜拳出してるからね ｜ ぶっぱなしCROSSTALK13-Supported by G TUNE-</description>
+      <pubDate>Sat, 27 Jun 2026 09:23:18 +0000</pubDate>
+      <guid>https://pub-818f368ffb1343438308791361fbe938.r2.dev/【ふり〜だ】俺4歳から昇竜拳出してるからね ｜ ぶっぱなしCROSSTALK13-Supported by G TUNE-.m4a</guid>
+      <enclosure url="https://pub-818f368ffb1343438308791361fbe938.r2.dev/【ふり〜だ】俺4歳から昇竜拳出してるからね ｜ ぶっぱなしCROSSTALK13-Supported by G TUNE-.m4a" length="24138894" type="audio/mp4"/>
+      <ns0:title>【ふり〜だ】俺4歳から昇竜拳出してるからね ｜ ぶっぱなしCROSSTALK13-Supported by G TUNE-</ns0:title>
+    </item>
     <item>
       <title>【2026年6月号】吉田豪と久田将義の噂のワイドショー</title>
       <description>【2026年6月号】吉田豪と久田将義の噂のワイドショー</description>
