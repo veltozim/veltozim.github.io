@@ -6,7 +6,7 @@
     <description>tokyospeakeasy の音声Podcast (FMT)</description>
     <language>ja</language>
     <itunes:category text="News"/>
-    <lastBuildDate>Fri, 26 Jun 2026 18:03:04 -0000</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jun 2026 18:00:13 -0000</lastBuildDate>
     
     <item>
       <title>tokyospeakeasy - 2026年06月26日 (秋元康＆近藤真彦)</title>
@@ -125,13 +125,6 @@
       <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20260529_tokyospeakeasy_%E3%83%99%E3%83%83%E3%82%AD%E3%83%BC%EF%BC%86%E6%9D%BE%E4%BA%95%E3%82%B1%E3%83%A0%E3%83%AA.aac" length="22190645" type="audio/aac" />
       <guid isPermaLink="false">20260529_tokyospeakeasy_ベッキー＆松井ケムリ.aac</guid>
       <pubDate>Fri, 29 May 2026 00:00:00 -0000</pubDate>
-      <itunes:duration>01:00:00</itunes:duration>
-    </item>
-    <item>
-      <title>tokyospeakeasy - 2026年05月28日 (戸田恵子＆山寺宏一)</title>
-      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20260528_tokyospeakeasy_%E6%88%B8%E7%94%B0%E6%81%B5%E5%AD%90%EF%BC%86%E5%B1%B1%E5%AF%BA%E5%AE%8F%E4%B8%80.aac" length="22190597" type="audio/aac" />
-      <guid isPermaLink="false">20260528_tokyospeakeasy_戸田恵子＆山寺宏一.aac</guid>
-      <pubDate>Thu, 28 May 2026 00:00:00 -0000</pubDate>
       <itunes:duration>01:00:00</itunes:duration>
     </item>
   </channel>
