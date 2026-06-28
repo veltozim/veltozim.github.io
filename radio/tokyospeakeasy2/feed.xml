@@ -6,7 +6,7 @@
     <description>tokyospeakeasy の音声Podcast (FMT)</description>
     <language>ja</language>
     <itunes:category text="News"/>
-    <lastBuildDate>Sat, 27 Jun 2026 18:00:13 -0000</lastBuildDate>
+    <lastBuildDate>Sun, 28 Jun 2026 18:02:43 -0000</lastBuildDate>
     
     <item>
       <title>tokyospeakeasy - 2026年06月26日 (秋元康＆近藤真彦)</title>
@@ -118,13 +118,6 @@
       <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20260602_tokyospeakeasy_%E3%83%94%E3%82%A8%E3%83%BC%E3%83%AB%E7%80%A7%EF%BC%88%E9%9B%BB%E6%B0%97%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%B4%EF%BC%89%EF%BC%86%E3%83%8F%E3%83%AA%E3%82%A6%E3%83%83%E3%83%89%E3%82%B6%E3%82%B3%E3%82%B7%E3%82%B7%E3%83%A7%E3%82%A6.aac" length="22190665" type="audio/aac" />
       <guid isPermaLink="false">20260602_tokyospeakeasy_ピエール瀧（電気グルーヴ）＆ハリウッドザコシショウ.aac</guid>
       <pubDate>Tue, 02 Jun 2026 00:00:00 -0000</pubDate>
-      <itunes:duration>01:00:00</itunes:duration>
-    </item>
-    <item>
-      <title>tokyospeakeasy - 2026年05月29日 (ベッキー＆松井ケムリ)</title>
-      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20260529_tokyospeakeasy_%E3%83%99%E3%83%83%E3%82%AD%E3%83%BC%EF%BC%86%E6%9D%BE%E4%BA%95%E3%82%B1%E3%83%A0%E3%83%AA.aac" length="22190645" type="audio/aac" />
-      <guid isPermaLink="false">20260529_tokyospeakeasy_ベッキー＆松井ケムリ.aac</guid>
-      <pubDate>Fri, 29 May 2026 00:00:00 -0000</pubDate>
       <itunes:duration>01:00:00</itunes:duration>
     </item>
   </channel>
