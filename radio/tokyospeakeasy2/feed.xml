@@ -6,8 +6,15 @@
     <description>tokyospeakeasy の音声Podcast (FMT)</description>
     <language>ja</language>
     <itunes:category text="News"/>
-    <lastBuildDate>Sun, 28 Jun 2026 18:02:43 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jun 2026 18:01:59 -0000</lastBuildDate>
     
+    <item>
+      <title>tokyospeakeasy - 2026年06月30日 (山口良一＆長江健次)</title>
+      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20260630_tokyospeakeasy_%E5%B1%B1%E5%8F%A3%E8%89%AF%E4%B8%80%EF%BC%86%E9%95%B7%E6%B1%9F%E5%81%A5%E6%AC%A1.aac" length="22190591" type="audio/aac" />
+      <guid isPermaLink="false">20260630_tokyospeakeasy_山口良一＆長江健次.aac</guid>
+      <pubDate>Tue, 30 Jun 2026 00:00:00 -0000</pubDate>
+      <itunes:duration>01:00:00</itunes:duration>
+    </item>
     <item>
       <title>tokyospeakeasy - 2026年06月26日 (秋元康＆近藤真彦)</title>
       <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20260626_tokyospeakeasy_%E7%A7%8B%E5%85%83%E5%BA%B7%EF%BC%86%E8%BF%91%E8%97%A4%E7%9C%9F%E5%BD%A6.aac" length="22190665" type="audio/aac" />

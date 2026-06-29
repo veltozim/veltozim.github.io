@@ -6,8 +6,15 @@
     <description>アトロク の音声Podcast (TBS)</description>
     <language>ja</language>
     <itunes:category text="News"/>
-    <lastBuildDate>Sun, 28 Jun 2026 18:02:43 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jun 2026 18:01:59 -0000</lastBuildDate>
     
+    <item>
+      <title>アトロク - 2026年06月29日 (あると涼しい《ハンディファン最前線》特集 by きだてたく特集_映画『四月の余白』？田恵輔監督インタビュー)</title>
+      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/aftersix/20260629_%E3%81%82%E3%82%8B%E3%81%A8%E6%B6%BC%E3%81%97%E3%81%84%E3%80%8A%E3%83%8F%E3%83%B3%E3%83%87%E3%82%A3%E3%83%95%E3%82%A1%E3%83%B3%E6%9C%80%E5%89%8D%E7%B7%9A%E3%80%8B%E7%89%B9%E9%9B%86%20by%20%E3%81%8D%E3%81%A0%E3%81%A6%E3%81%9F%E3%81%8F%E7%89%B9%E9%9B%86_%E6%98%A0%E7%94%BB%E3%80%8E%E5%9B%9B%E6%9C%88%E3%81%AE%E4%BD%99%E7%99%BD%E3%80%8F%EF%BC%9F%E7%94%B0%E6%81%B5%E8%BC%94%E7%9B%A3%E7%9D%A3%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%93%E3%83%A5%E3%83%BC.aac" length="44412746" type="audio/aac" />
+      <guid isPermaLink="false">20260629_あると涼しい《ハンディファン最前線》特集 by きだてたく特集_映画『四月の余白』？田恵輔監督インタビュー.aac</guid>
+      <pubDate>Mon, 29 Jun 2026 00:00:00 -0000</pubDate>
+      <itunes:duration>02:00:00</itunes:duration>
+    </item>
     <item>
       <title>アトロク - 2026年06月25日 (アトロク)</title>
       <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/aftersix/20260625_%E3%82%A2%E3%83%88%E3%83%AD%E3%82%AF.aac" length="44412778" type="audio/aac" />
@@ -139,13 +146,6 @@
       <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/aftersix/20260527_%E3%82%A2%E3%83%88%E3%83%AD%E3%82%AF.aac" length="44412868" type="audio/aac" />
       <guid isPermaLink="false">20260527_アトロク.aac</guid>
       <pubDate>Wed, 27 May 2026 00:00:00 -0000</pubDate>
-      <itunes:duration>02:00:00</itunes:duration>
-    </item>
-    <item>
-      <title>アトロク - 2026年05月26日 (アトロク)</title>
-      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/aftersix/20260526_%E3%82%A2%E3%83%88%E3%83%AD%E3%82%AF.aac" length="44381250" type="audio/aac" />
-      <guid isPermaLink="false">20260526_アトロク.aac</guid>
-      <pubDate>Tue, 26 May 2026 00:00:00 -0000</pubDate>
       <itunes:duration>02:00:00</itunes:duration>
     </item>
   </channel>
