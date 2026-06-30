@@ -6,8 +6,15 @@
     <description>tokyospeakeasy の音声Podcast (FMT)</description>
     <language>ja</language>
     <itunes:category text="News"/>
-    <lastBuildDate>Mon, 29 Jun 2026 18:01:59 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 18:02:41 -0000</lastBuildDate>
     
+    <item>
+      <title>tokyospeakeasy - 2026年07月01日 (金田朋子＆浦野秀太（OWV）)</title>
+      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20260701_tokyospeakeasy_%E9%87%91%E7%94%B0%E6%9C%8B%E5%AD%90%EF%BC%86%E6%B5%A6%E9%87%8E%E7%A7%80%E5%A4%AA%EF%BC%88OWV%EF%BC%89.aac" length="22190672" type="audio/aac" />
+      <guid isPermaLink="false">20260701_tokyospeakeasy_金田朋子＆浦野秀太（OWV）.aac</guid>
+      <pubDate>Wed, 01 Jul 2026 00:00:00 -0000</pubDate>
+      <itunes:duration>01:00:00</itunes:duration>
+    </item>
     <item>
       <title>tokyospeakeasy - 2026年06月30日 (山口良一＆長江健次)</title>
       <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20260630_tokyospeakeasy_%E5%B1%B1%E5%8F%A3%E8%89%AF%E4%B8%80%EF%BC%86%E9%95%B7%E6%B1%9F%E5%81%A5%E6%AC%A1.aac" length="22190591" type="audio/aac" />
