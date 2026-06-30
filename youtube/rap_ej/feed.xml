@@ -80,14 +80,5 @@
         <enclosure url="https://pub-96dbc39af9e0495e99e6279bf489a92d.r2.dev/rap_ej/06-08%EF%BC%9ABillboard%E3%81%8C%E9%81%B8%E3%81%B6%E5%8F%B2%E4%B8%8A%E6%9C%80%E9%AB%98%E3%81%AE%E3%83%A9%E3%83%83%E3%83%97%E3%82%A2%E3%83%AB%E3%83%90%E3%83%A0100%E6%9E%9A.m4a" length="17462958" type="audio/mp4"/>
         <itunes:explicit>no</itunes:explicit>
     </item>
-    <item>
-        <title>整形はしないと損 - 2026年06月01日</title>
-        <description>配信者: Rap_EJ</description>
-        <link>https://www.youtube.com/@rap_ej</link>
-        <guid isPermaLink="false">06-01：整形はしないと損.m4a</guid>
-        <pubDate>Sun, 31 May 2026 20:02:07 +0000</pubDate>
-        <enclosure url="https://pub-96dbc39af9e0495e99e6279bf489a92d.r2.dev/rap_ej/06-01%EF%BC%9A%E6%95%B4%E5%BD%A2%E3%81%AF%E3%81%97%E3%81%AA%E3%81%84%E3%81%A8%E6%90%8D.m4a" length="8139754" type="audio/mp4"/>
-        <itunes:explicit>no</itunes:explicit>
-    </item>
 </channel>
 </rss>
