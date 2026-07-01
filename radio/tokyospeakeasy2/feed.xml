@@ -6,8 +6,15 @@
     <description>tokyospeakeasy の音声Podcast (FMT)</description>
     <language>ja</language>
     <itunes:category text="News"/>
-    <lastBuildDate>Tue, 30 Jun 2026 18:02:41 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2026 18:03:52 -0000</lastBuildDate>
     
+    <item>
+      <title>tokyospeakeasy - 2026年07月02日 (お見送り芸人しんいち＆ゆきぽよ)</title>
+      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20260702_tokyospeakeasy_%E3%81%8A%E8%A6%8B%E9%80%81%E3%82%8A%E8%8A%B8%E4%BA%BA%E3%81%97%E3%82%93%E3%81%84%E3%81%A1%EF%BC%86%E3%82%86%E3%81%8D%E3%81%BD%E3%82%88.aac" length="22190633" type="audio/aac" />
+      <guid isPermaLink="false">20260702_tokyospeakeasy_お見送り芸人しんいち＆ゆきぽよ.aac</guid>
+      <pubDate>Thu, 02 Jul 2026 00:00:00 -0000</pubDate>
+      <itunes:duration>01:00:00</itunes:duration>
+    </item>
     <item>
       <title>tokyospeakeasy - 2026年07月01日 (金田朋子＆浦野秀太（OWV）)</title>
       <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20260701_tokyospeakeasy_%E9%87%91%E7%94%B0%E6%9C%8B%E5%AD%90%EF%BC%86%E6%B5%A6%E9%87%8E%E7%A7%80%E5%A4%AA%EF%BC%88OWV%EF%BC%89.aac" length="22190672" type="audio/aac" />
