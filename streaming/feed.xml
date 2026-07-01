@@ -4,13 +4,21 @@
     <title>配信録音</title>
     <description>ストリーミングサービスから録音した音声</description>
     <language>ja</language>
-    <author>YouTube Audio Downloader</author>
-    <ns0:author>YouTube Audio Downloader</ns0:author>
+    <author>Browser Audio Recorder</author>
+    <ns0:author>Browser Audio Recorder</ns0:author>
     <ns0:summary>ストリーミングサービスから録音した音声</ns0:summary>
     <ns0:explicit>no</ns0:explicit>
     <ns0:category text="Technology"/>
     <link>https://veltozim.github.io/streaming/feed.xml</link>
-    <lastBuildDate>Wed, 01 Jul 2026 07:47:10 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2026 07:57:53 +0000</lastBuildDate>
+    <item>
+      <title>【2026年6月号】吉田豪×久田将義「今夜も下世話に斬ります！」居酒屋タックルズ</title>
+      <description>【2026年6月号】吉田豪×久田将義「今夜も下世話に斬ります！」居酒屋タックルズ</description>
+      <pubDate>Wed, 01 Jul 2026 07:57:53 +0000</pubDate>
+      <guid>https://pub-818f368ffb1343438308791361fbe938.r2.dev/【2026年6月号】吉田豪×久田将義「今夜も下世話に斬ります！」居酒屋タックルズ.m4a</guid>
+      <enclosure url="https://pub-818f368ffb1343438308791361fbe938.r2.dev/【2026年6月号】吉田豪×久田将義「今夜も下世話に斬ります！」居酒屋タックルズ.m4a" length="152210783" type="audio/mp4"/>
+      <ns0:title>【2026年6月号】吉田豪×久田将義「今夜も下世話に斬ります！」居酒屋タックルズ</ns0:title>
+    </item>
     <item>
       <title>【雑談ダイジェスト】帰国【2026⧸06⧸30】</title>
       <description>【雑談ダイジェスト】帰国【2026⧸06⧸30】</description>
