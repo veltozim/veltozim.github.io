@@ -6,7 +6,7 @@
     <description>tokyospeakeasy の音声Podcast (FMT)</description>
     <language>ja</language>
     <itunes:category text="News"/>
-    <lastBuildDate>Fri, 03 Jul 2026 18:01:59 -0000</lastBuildDate>
+    <lastBuildDate>Sat, 04 Jul 2026 18:00:15 -0000</lastBuildDate>
     
     <item>
       <title>tokyospeakeasy - 2026年07月03日 (天野ひろゆき（キャイ〜ン）＆ビビる大木)</title>
@@ -125,13 +125,6 @@
       <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20260605_tokyospeakeasy_%E3%82%BF%E3%83%A2%E3%83%AA%EF%BC%86%E7%A7%8B%E5%85%83%E5%BA%B7.aac" length="22190592" type="audio/aac" />
       <guid isPermaLink="false">20260605_tokyospeakeasy_タモリ＆秋元康.aac</guid>
       <pubDate>Fri, 05 Jun 2026 00:00:00 -0000</pubDate>
-      <itunes:duration>01:00:00</itunes:duration>
-    </item>
-    <item>
-      <title>tokyospeakeasy - 2026年06月04日 (林真理子＆古市憲寿)</title>
-      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20260604_tokyospeakeasy_%E6%9E%97%E7%9C%9F%E7%90%86%E5%AD%90%EF%BC%86%E5%8F%A4%E5%B8%82%E6%86%B2%E5%AF%BF.aac" length="22190602" type="audio/aac" />
-      <guid isPermaLink="false">20260604_tokyospeakeasy_林真理子＆古市憲寿.aac</guid>
-      <pubDate>Thu, 04 Jun 2026 00:00:00 -0000</pubDate>
       <itunes:duration>01:00:00</itunes:duration>
     </item>
   </channel>
