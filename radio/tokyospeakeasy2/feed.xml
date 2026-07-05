@@ -6,7 +6,7 @@
     <description>tokyospeakeasy の音声Podcast (FMT)</description>
     <language>ja</language>
     <itunes:category text="News"/>
-    <lastBuildDate>Sat, 04 Jul 2026 18:00:15 -0000</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jul 2026 18:03:09 -0000</lastBuildDate>
     
     <item>
       <title>tokyospeakeasy - 2026年07月03日 (天野ひろゆき（キャイ〜ン）＆ビビる大木)</title>
@@ -118,13 +118,6 @@
       <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20260609_tokyospeakeasy_Bro.KORN%EF%BC%88DA_BUBBLEGUM_BROTHERS%EF%BC%89%EF%BC%86Bro.TOM.aac" length="22190662" type="audio/aac" />
       <guid isPermaLink="false">20260609_tokyospeakeasy_Bro.KORN（DA_BUBBLEGUM_BROTHERS）＆Bro.TOM.aac</guid>
       <pubDate>Tue, 09 Jun 2026 00:00:00 -0000</pubDate>
-      <itunes:duration>01:00:00</itunes:duration>
-    </item>
-    <item>
-      <title>tokyospeakeasy - 2026年06月05日 (タモリ＆秋元康)</title>
-      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20260605_tokyospeakeasy_%E3%82%BF%E3%83%A2%E3%83%AA%EF%BC%86%E7%A7%8B%E5%85%83%E5%BA%B7.aac" length="22190592" type="audio/aac" />
-      <guid isPermaLink="false">20260605_tokyospeakeasy_タモリ＆秋元康.aac</guid>
-      <pubDate>Fri, 05 Jun 2026 00:00:00 -0000</pubDate>
       <itunes:duration>01:00:00</itunes:duration>
     </item>
   </channel>
