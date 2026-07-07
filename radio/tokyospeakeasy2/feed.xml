@@ -6,8 +6,15 @@
     <description>tokyospeakeasy の音声Podcast (FMT)</description>
     <language>ja</language>
     <itunes:category text="News"/>
-    <lastBuildDate>Mon, 06 Jul 2026 18:01:57 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jul 2026 18:02:54 -0000</lastBuildDate>
     
+    <item>
+      <title>tokyospeakeasy - 2026年07月08日 (世良公則＆つるの剛士)</title>
+      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20260708_tokyospeakeasy_%E4%B8%96%E8%89%AF%E5%85%AC%E5%89%87%EF%BC%86%E3%81%A4%E3%82%8B%E3%81%AE%E5%89%9B%E5%A3%AB.aac" length="22190688" type="audio/aac" />
+      <guid isPermaLink="false">20260708_tokyospeakeasy_世良公則＆つるの剛士.aac</guid>
+      <pubDate>Wed, 08 Jul 2026 00:00:00 -0000</pubDate>
+      <itunes:duration>01:00:00</itunes:duration>
+    </item>
     <item>
       <title>tokyospeakeasy - 2026年07月07日 (三遊亭好楽＆錦笑亭満堂)</title>
       <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20260707_tokyospeakeasy_%E4%B8%89%E9%81%8A%E4%BA%AD%E5%A5%BD%E6%A5%BD%EF%BC%86%E9%8C%A6%E7%AC%91%E4%BA%AD%E6%BA%80%E5%A0%82.aac" length="22190620" type="audio/aac" />
