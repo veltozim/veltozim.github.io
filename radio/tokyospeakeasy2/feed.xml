@@ -6,8 +6,15 @@
     <description>tokyospeakeasy の音声Podcast (FMT)</description>
     <language>ja</language>
     <itunes:category text="News"/>
-    <lastBuildDate>Tue, 07 Jul 2026 18:02:54 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jul 2026 18:02:17 -0000</lastBuildDate>
     
+    <item>
+      <title>tokyospeakeasy - 2026年07月09日 (サンシャイン池崎＆あばれる君)</title>
+      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20260709_tokyospeakeasy_%E3%82%B5%E3%83%B3%E3%82%B7%E3%83%A3%E3%82%A4%E3%83%B3%E6%B1%A0%E5%B4%8E%EF%BC%86%E3%81%82%E3%81%B0%E3%82%8C%E3%82%8B%E5%90%9B.aac" length="22190569" type="audio/aac" />
+      <guid isPermaLink="false">20260709_tokyospeakeasy_サンシャイン池崎＆あばれる君.aac</guid>
+      <pubDate>Thu, 09 Jul 2026 00:00:00 -0000</pubDate>
+      <itunes:duration>01:00:00</itunes:duration>
+    </item>
     <item>
       <title>tokyospeakeasy - 2026年07月08日 (世良公則＆つるの剛士)</title>
       <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20260708_tokyospeakeasy_%E4%B8%96%E8%89%AF%E5%85%AC%E5%89%87%EF%BC%86%E3%81%A4%E3%82%8B%E3%81%AE%E5%89%9B%E5%A3%AB.aac" length="22190688" type="audio/aac" />
