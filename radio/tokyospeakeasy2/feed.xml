@@ -6,8 +6,15 @@
     <description>tokyospeakeasy の音声Podcast (FMT)</description>
     <language>ja</language>
     <itunes:category text="News"/>
-    <lastBuildDate>Wed, 08 Jul 2026 18:02:17 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jul 2026 18:02:20 -0000</lastBuildDate>
     
+    <item>
+      <title>tokyospeakeasy - 2026年07月10日 (秋元康＆ダチョウ倶楽部)</title>
+      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20260710_tokyospeakeasy_%E7%A7%8B%E5%85%83%E5%BA%B7%EF%BC%86%E3%83%80%E3%83%81%E3%83%A7%E3%82%A6%E5%80%B6%E6%A5%BD%E9%83%A8.aac" length="22190592" type="audio/aac" />
+      <guid isPermaLink="false">20260710_tokyospeakeasy_秋元康＆ダチョウ倶楽部.aac</guid>
+      <pubDate>Fri, 10 Jul 2026 00:00:00 -0000</pubDate>
+      <itunes:duration>01:00:00</itunes:duration>
+    </item>
     <item>
       <title>tokyospeakeasy - 2026年07月09日 (サンシャイン池崎＆あばれる君)</title>
       <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20260709_tokyospeakeasy_%E3%82%B5%E3%83%B3%E3%82%B7%E3%83%A3%E3%82%A4%E3%83%B3%E6%B1%A0%E5%B4%8E%EF%BC%86%E3%81%82%E3%81%B0%E3%82%8C%E3%82%8B%E5%90%9B.aac" length="22190569" type="audio/aac" />
@@ -132,13 +139,6 @@
       <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20260610_tokyospeakeasy_%E3%81%AF%E3%82%8A%E3%81%91%EF%BD%9E%E3%82%93%E3%81%9A%EF%BC%86%E3%82%B6%E3%83%BB%E3%83%91%E3%83%B3%E3%83%81.aac" length="22190907" type="audio/aac" />
       <guid isPermaLink="false">20260610_tokyospeakeasy_はりけ～んず＆ザ・パンチ.aac</guid>
       <pubDate>Wed, 10 Jun 2026 00:00:00 -0000</pubDate>
-      <itunes:duration>01:00:00</itunes:duration>
-    </item>
-    <item>
-      <title>tokyospeakeasy - 2026年06月09日 (Bro.KORN（DA_BUBBLEGUM_BROTHERS）＆Bro.TOM)</title>
-      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20260609_tokyospeakeasy_Bro.KORN%EF%BC%88DA_BUBBLEGUM_BROTHERS%EF%BC%89%EF%BC%86Bro.TOM.aac" length="22190662" type="audio/aac" />
-      <guid isPermaLink="false">20260609_tokyospeakeasy_Bro.KORN（DA_BUBBLEGUM_BROTHERS）＆Bro.TOM.aac</guid>
-      <pubDate>Tue, 09 Jun 2026 00:00:00 -0000</pubDate>
       <itunes:duration>01:00:00</itunes:duration>
     </item>
   </channel>

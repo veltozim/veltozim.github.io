@@ -6,8 +6,15 @@
     <description>アトロク の音声Podcast (TBS)</description>
     <language>ja</language>
     <itunes:category text="News"/>
-    <lastBuildDate>Wed, 08 Jul 2026 18:02:16 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jul 2026 18:02:20 -0000</lastBuildDate>
     
+    <item>
+      <title>アトロク - 2026年07月09日 (映画『アイ・ワズ・ア・ストレンジャー』評論_Offo tokyo（スタジオLIVE）)</title>
+      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/aftersix/20260709_%E6%98%A0%E7%94%BB%E3%80%8E%E3%82%A2%E3%82%A4%E3%83%BB%E3%83%AF%E3%82%BA%E3%83%BB%E3%82%A2%E3%83%BB%E3%82%B9%E3%83%88%E3%83%AC%E3%83%B3%E3%82%B8%E3%83%A3%E3%83%BC%E3%80%8F%E8%A9%95%E8%AB%96_Offo%20tokyo%EF%BC%88%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AALIVE%EF%BC%89.aac" length="44380812" type="audio/aac" />
+      <guid isPermaLink="false">20260709_映画『アイ・ワズ・ア・ストレンジャー』評論_Offo tokyo（スタジオLIVE）.aac</guid>
+      <pubDate>Thu, 09 Jul 2026 00:00:00 -0000</pubDate>
+      <itunes:duration>02:00:00</itunes:duration>
+    </item>
     <item>
       <title>アトロク - 2026年07月08日 (アニメの展覧会ってなんなんだ特集（藤津亮太）_鈴木みのりのちょっとクイアなカルチャー紹介)</title>
       <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/aftersix/20260708_%E3%82%A2%E3%83%8B%E3%83%A1%E3%81%AE%E5%B1%95%E8%A6%A7%E4%BC%9A%E3%81%A3%E3%81%A6%E3%81%AA%E3%82%93%E3%81%AA%E3%82%93%E3%81%A0%E7%89%B9%E9%9B%86%EF%BC%88%E8%97%A4%E6%B4%A5%E4%BA%AE%E5%A4%AA%EF%BC%89_%E9%88%B4%E6%9C%A8%E3%81%BF%E3%81%AE%E3%82%8A%E3%81%AE%E3%81%A1%E3%82%87%E3%81%A3%E3%81%A8%E3%82%AF%E3%82%A4%E3%82%A2%E3%81%AA%E3%82%AB%E3%83%AB%E3%83%81%E3%83%A3%E3%83%BC%E7%B4%B9%E4%BB%8B.aac" length="44381250" type="audio/aac" />
@@ -139,13 +146,6 @@
       <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/aftersix/20260609_%E8%81%B4%E3%81%8F%E3%83%9E%E3%83%96%E8%AB%96%EF%BC%88%E6%A3%AE%E7%94%B0%E7%A7%80%E4%B8%80%EF%BC%89_%E9%9B%A3%E6%B3%A2%E9%87%8C%E5%A5%88%EF%BC%88%E2%80%9C%E7%B4%94%E5%96%AB%E8%8C%B6%E3%83%A9%E3%83%B3%E3%83%81%E2%80%9D%E3%81%AE%E9%AD%85%E5%8A%9B%EF%BC%89.aac" length="44381250" type="audio/aac" />
       <guid isPermaLink="false">20260609_聴くマブ論（森田秀一）_難波里奈（“純喫茶ランチ”の魅力）.aac</guid>
       <pubDate>Tue, 09 Jun 2026 00:00:00 -0000</pubDate>
-      <itunes:duration>02:00:00</itunes:duration>
-    </item>
-    <item>
-      <title>アトロク - 2026年06月08日 (アトロク)</title>
-      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/aftersix/20260608_%E3%82%A2%E3%83%88%E3%83%AD%E3%82%AF.aac" length="44381250" type="audio/aac" />
-      <guid isPermaLink="false">20260608_アトロク.aac</guid>
-      <pubDate>Mon, 08 Jun 2026 00:00:00 -0000</pubDate>
       <itunes:duration>02:00:00</itunes:duration>
     </item>
   </channel>
