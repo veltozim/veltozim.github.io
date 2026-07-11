@@ -6,7 +6,7 @@
     <description>tokyospeakeasy の音声Podcast (FMT)</description>
     <language>ja</language>
     <itunes:category text="News"/>
-    <lastBuildDate>Fri, 10 Jul 2026 18:01:53 -0000</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jul 2026 18:00:16 -0000</lastBuildDate>
     
     <item>
       <title>tokyospeakeasy - 2026年07月10日 (秋元康＆ダチョウ倶楽部)</title>
@@ -125,13 +125,6 @@
       <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20260612_tokyospeakeasy_%E5%8D%83%E7%A7%8B%EF%BC%86%E6%9D%BE%E5%B6%8B%E5%B0%9A%E7%BE%8E.aac" length="22190823" type="audio/aac" />
       <guid isPermaLink="false">20260612_tokyospeakeasy_千秋＆松嶋尚美.aac</guid>
       <pubDate>Fri, 12 Jun 2026 00:00:00 -0000</pubDate>
-      <itunes:duration>01:00:00</itunes:duration>
-    </item>
-    <item>
-      <title>tokyospeakeasy - 2026年06月11日 (小宮山雄飛（ホフディラン）＆鳥居みゆき)</title>
-      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20260611_tokyospeakeasy_%E5%B0%8F%E5%AE%AE%E5%B1%B1%E9%9B%84%E9%A3%9B%EF%BC%88%E3%83%9B%E3%83%95%E3%83%87%E3%82%A3%E3%83%A9%E3%83%B3%EF%BC%89%EF%BC%86%E9%B3%A5%E5%B1%85%E3%81%BF%E3%82%86%E3%81%8D.aac" length="22190635" type="audio/aac" />
-      <guid isPermaLink="false">20260611_tokyospeakeasy_小宮山雄飛（ホフディラン）＆鳥居みゆき.aac</guid>
-      <pubDate>Thu, 11 Jun 2026 00:00:00 -0000</pubDate>
       <itunes:duration>01:00:00</itunes:duration>
     </item>
   </channel>
