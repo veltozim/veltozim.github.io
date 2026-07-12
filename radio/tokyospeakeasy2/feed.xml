@@ -6,7 +6,7 @@
     <description>tokyospeakeasy の音声Podcast (FMT)</description>
     <language>ja</language>
     <itunes:category text="News"/>
-    <lastBuildDate>Sat, 11 Jul 2026 18:00:16 -0000</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jul 2026 18:03:15 -0000</lastBuildDate>
     
     <item>
       <title>tokyospeakeasy - 2026年07月10日 (秋元康＆ダチョウ倶楽部)</title>
@@ -118,13 +118,6 @@
       <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20260616_tokyospeakeasy_%E5%A4%A7%E5%B3%B6%E9%BA%BB%E8%A1%A3%EF%BC%86ACE%EF%BC%88WHITE_SCORPION%EF%BC%89%EF%BC%86AOI%EF%BC%88WHITE_SCORPION%EF%BC%89.aac" length="22190580" type="audio/aac" />
       <guid isPermaLink="false">20260616_tokyospeakeasy_大島麻衣＆ACE（WHITE_SCORPION）＆AOI（WHITE_SCORPION）.aac</guid>
       <pubDate>Tue, 16 Jun 2026 00:00:00 -0000</pubDate>
-      <itunes:duration>01:00:00</itunes:duration>
-    </item>
-    <item>
-      <title>tokyospeakeasy - 2026年06月12日 (千秋＆松嶋尚美)</title>
-      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20260612_tokyospeakeasy_%E5%8D%83%E7%A7%8B%EF%BC%86%E6%9D%BE%E5%B6%8B%E5%B0%9A%E7%BE%8E.aac" length="22190823" type="audio/aac" />
-      <guid isPermaLink="false">20260612_tokyospeakeasy_千秋＆松嶋尚美.aac</guid>
-      <pubDate>Fri, 12 Jun 2026 00:00:00 -0000</pubDate>
       <itunes:duration>01:00:00</itunes:duration>
     </item>
   </channel>
