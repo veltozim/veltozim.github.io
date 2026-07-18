@@ -6,7 +6,7 @@
     <description>tokyospeakeasy の音声Podcast (FMT)</description>
     <language>ja</language>
     <itunes:category text="News"/>
-    <lastBuildDate>Fri, 17 Jul 2026 18:02:12 -0000</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jul 2026 18:00:15 -0000</lastBuildDate>
     
     <item>
       <title>tokyospeakeasy - 2026年07月17日 (脊山麻理子＆鈴木奈々)</title>
@@ -125,13 +125,6 @@
       <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20260619_tokyospeakeasy_%E7%A7%8B%E5%85%83%E5%BA%B7%EF%BC%86%E6%9D%BE%E4%BB%BB%E8%B0%B7%E7%94%B1%E5%AE%9F.aac" length="22190621" type="audio/aac" />
       <guid isPermaLink="false">20260619_tokyospeakeasy_秋元康＆松任谷由実.aac</guid>
       <pubDate>Fri, 19 Jun 2026 00:00:00 -0000</pubDate>
-      <itunes:duration>01:00:00</itunes:duration>
-    </item>
-    <item>
-      <title>tokyospeakeasy - 2026年06月18日 (はるな愛＆鈴木奈々)</title>
-      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20260618_tokyospeakeasy_%E3%81%AF%E3%82%8B%E3%81%AA%E6%84%9B%EF%BC%86%E9%88%B4%E6%9C%A8%E5%A5%88%E3%80%85.aac" length="22190387" type="audio/aac" />
-      <guid isPermaLink="false">20260618_tokyospeakeasy_はるな愛＆鈴木奈々.aac</guid>
-      <pubDate>Thu, 18 Jun 2026 00:00:00 -0000</pubDate>
       <itunes:duration>01:00:00</itunes:duration>
     </item>
   </channel>
