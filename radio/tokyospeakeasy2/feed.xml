@@ -6,8 +6,15 @@
     <description>tokyospeakeasy の音声Podcast (FMT)</description>
     <language>ja</language>
     <itunes:category text="News"/>
-    <lastBuildDate>Mon, 20 Jul 2026 18:02:12 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 18:02:56 -0000</lastBuildDate>
     
+    <item>
+      <title>tokyospeakeasy - 2026年07月22日 (岡田紗佳＆村重杏奈)</title>
+      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20260722_tokyospeakeasy_%E5%B2%A1%E7%94%B0%E7%B4%97%E4%BD%B3%EF%BC%86%E6%9D%91%E9%87%8D%E6%9D%8F%E5%A5%88.aac" length="22190601" type="audio/aac" />
+      <guid isPermaLink="false">20260722_tokyospeakeasy_岡田紗佳＆村重杏奈.aac</guid>
+      <pubDate>Wed, 22 Jul 2026 00:00:00 -0000</pubDate>
+      <itunes:duration>01:00:00</itunes:duration>
+    </item>
     <item>
       <title>tokyospeakeasy - 2026年07月21日 (飯尾和樹（ずん）＆黒沢かずこ（森三中）)</title>
       <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20260721_tokyospeakeasy_%E9%A3%AF%E5%B0%BE%E5%92%8C%E6%A8%B9%EF%BC%88%E3%81%9A%E3%82%93%EF%BC%89%EF%BC%86%E9%BB%92%E6%B2%A2%E3%81%8B%E3%81%9A%E3%81%93%EF%BC%88%E6%A3%AE%E4%B8%89%E4%B8%AD%EF%BC%89.aac" length="22190608" type="audio/aac" />
