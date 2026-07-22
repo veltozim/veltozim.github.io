@@ -6,8 +6,15 @@
     <description>tokyospeakeasy の音声Podcast (FMT)</description>
     <language>ja</language>
     <itunes:category text="News"/>
-    <lastBuildDate>Tue, 21 Jul 2026 18:02:56 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2026 18:02:15 -0000</lastBuildDate>
     
+    <item>
+      <title>tokyospeakeasy - 2026年07月23日 (柏木由紀＆稲葉斗真（Cloud_ten）)</title>
+      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20260723_tokyospeakeasy_%E6%9F%8F%E6%9C%A8%E7%94%B1%E7%B4%80%EF%BC%86%E7%A8%B2%E8%91%89%E6%96%97%E7%9C%9F%EF%BC%88Cloud_ten%EF%BC%89.aac" length="22190579" type="audio/aac" />
+      <guid isPermaLink="false">20260723_tokyospeakeasy_柏木由紀＆稲葉斗真（Cloud_ten）.aac</guid>
+      <pubDate>Thu, 23 Jul 2026 00:00:00 -0000</pubDate>
+      <itunes:duration>01:00:00</itunes:duration>
+    </item>
     <item>
       <title>tokyospeakeasy - 2026年07月22日 (岡田紗佳＆村重杏奈)</title>
       <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20260722_tokyospeakeasy_%E5%B2%A1%E7%94%B0%E7%B4%97%E4%BD%B3%EF%BC%86%E6%9D%91%E9%87%8D%E6%9D%8F%E5%A5%88.aac" length="22190601" type="audio/aac" />
