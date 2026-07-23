@@ -6,8 +6,15 @@
     <description>tokyospeakeasy の音声Podcast (FMT)</description>
     <language>ja</language>
     <itunes:category text="News"/>
-    <lastBuildDate>Wed, 22 Jul 2026 18:02:15 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 18:02:04 -0000</lastBuildDate>
     
+    <item>
+      <title>tokyospeakeasy - 2026年07月24日 (山本圭壱＆ワッキー（ペナルティ）)</title>
+      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20260724_tokyospeakeasy_%E5%B1%B1%E6%9C%AC%E5%9C%AD%E5%A3%B1%EF%BC%86%E3%83%AF%E3%83%83%E3%82%AD%E3%83%BC%EF%BC%88%E3%83%9A%E3%83%8A%E3%83%AB%E3%83%86%E3%82%A3%EF%BC%89.aac" length="22190594" type="audio/aac" />
+      <guid isPermaLink="false">20260724_tokyospeakeasy_山本圭壱＆ワッキー（ペナルティ）.aac</guid>
+      <pubDate>Fri, 24 Jul 2026 00:00:00 -0000</pubDate>
+      <itunes:duration>01:00:00</itunes:duration>
+    </item>
     <item>
       <title>tokyospeakeasy - 2026年07月23日 (柏木由紀＆稲葉斗真（Cloud_ten）)</title>
       <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20260723_tokyospeakeasy_%E6%9F%8F%E6%9C%A8%E7%94%B1%E7%B4%80%EF%BC%86%E7%A8%B2%E8%91%89%E6%96%97%E7%9C%9F%EF%BC%88Cloud_ten%EF%BC%89.aac" length="22190579" type="audio/aac" />
@@ -132,13 +139,6 @@
       <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20260624_tokyospeakeasy_%E3%82%B2%E3%82%B9%E3%83%88_%E5%8F%A4%E8%88%98%E4%BD%91%E5%A4%AA%E9%83%8E%EF%BC%86%E9%96%A2%E5%8F%96%E8%8A%B1%EF%BC%88%E3%82%B7%E3%83%B3%E3%82%AC%E3%83%BC%E3%82%BD%E3%83%B3%E3%82%B0%E3%83%A9%E3%82%A4%E3%82%BF%E3%83%BC%EF%BC%89.aac" length="22221607" type="audio/aac" />
       <guid isPermaLink="false">20260624_tokyospeakeasy_ゲスト_古舘佑太郎＆関取花（シンガーソングライター）.aac</guid>
       <pubDate>Wed, 24 Jun 2026 00:00:00 -0000</pubDate>
-      <itunes:duration>01:00:00</itunes:duration>
-    </item>
-    <item>
-      <title>tokyospeakeasy - 2026年06月23日 (寺島進（俳優）＆青山隼（SHOW-WA）)</title>
-      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20260623_tokyospeakeasy_%E5%AF%BA%E5%B3%B6%E9%80%B2%EF%BC%88%E4%BF%B3%E5%84%AA%EF%BC%89%EF%BC%86%E9%9D%92%E5%B1%B1%E9%9A%BC%EF%BC%88SHOW-WA%EF%BC%89.aac" length="22190589" type="audio/aac" />
-      <guid isPermaLink="false">20260623_tokyospeakeasy_寺島進（俳優）＆青山隼（SHOW-WA）.aac</guid>
-      <pubDate>Tue, 23 Jun 2026 00:00:00 -0000</pubDate>
       <itunes:duration>01:00:00</itunes:duration>
     </item>
   </channel>
