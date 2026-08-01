@@ -6,7 +6,7 @@
     <description>tokyospeakeasy の音声Podcast (FMT)</description>
     <language>ja</language>
     <itunes:category text="News"/>
-    <lastBuildDate>Fri, 31 Jul 2026 18:02:09 -0000</lastBuildDate>
+    <lastBuildDate>Sat, 01 Aug 2026 18:00:13 -0000</lastBuildDate>
     
     <item>
       <title>tokyospeakeasy - 2026年07月31日 (ウド鈴木＆濱口優（よゐこ）)</title>
@@ -125,13 +125,6 @@
       <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20260703_tokyospeakeasy_%E5%A4%A9%E9%87%8E%E3%81%B2%E3%82%8D%E3%82%86%E3%81%8D%EF%BC%88%E3%82%AD%E3%83%A3%E3%82%A4%E3%80%9C%E3%83%B3%EF%BC%89%EF%BC%86%E3%83%93%E3%83%93%E3%82%8B%E5%A4%A7%E6%9C%A8.aac" length="22190632" type="audio/aac" />
       <guid isPermaLink="false">20260703_tokyospeakeasy_天野ひろゆき（キャイ〜ン）＆ビビる大木.aac</guid>
       <pubDate>Fri, 03 Jul 2026 00:00:00 -0000</pubDate>
-      <itunes:duration>01:00:00</itunes:duration>
-    </item>
-    <item>
-      <title>tokyospeakeasy - 2026年07月02日 (お見送り芸人しんいち＆ゆきぽよ)</title>
-      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20260702_tokyospeakeasy_%E3%81%8A%E8%A6%8B%E9%80%81%E3%82%8A%E8%8A%B8%E4%BA%BA%E3%81%97%E3%82%93%E3%81%84%E3%81%A1%EF%BC%86%E3%82%86%E3%81%8D%E3%81%BD%E3%82%88.aac" length="22190633" type="audio/aac" />
-      <guid isPermaLink="false">20260702_tokyospeakeasy_お見送り芸人しんいち＆ゆきぽよ.aac</guid>
-      <pubDate>Thu, 02 Jul 2026 00:00:00 -0000</pubDate>
       <itunes:duration>01:00:00</itunes:duration>
     </item>
   </channel>
