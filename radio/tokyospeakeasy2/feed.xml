@@ -6,8 +6,15 @@
     <description>tokyospeakeasy の音声Podcast (FMT)</description>
     <language>ja</language>
     <itunes:category text="News"/>
-    <lastBuildDate>Sun, 09 Aug 2026 18:02:35 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2026 18:01:51 -0000</lastBuildDate>
     
+    <item>
+      <title>tokyospeakeasy - 2026年08月11日 (武田鉄矢＆カンニング竹山)</title>
+      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20260811_tokyospeakeasy_%E6%AD%A6%E7%94%B0%E9%89%84%E7%9F%A2%EF%BC%86%E3%82%AB%E3%83%B3%E3%83%8B%E3%83%B3%E3%82%B0%E7%AB%B9%E5%B1%B1.aac" length="22190603" type="audio/aac" />
+      <guid isPermaLink="false">20260811_tokyospeakeasy_武田鉄矢＆カンニング竹山.aac</guid>
+      <pubDate>Tue, 11 Aug 2026 00:00:00 -0000</pubDate>
+      <itunes:duration>01:00:00</itunes:duration>
+    </item>
     <item>
       <title>tokyospeakeasy - 2026年08月06日 (乙武洋匡＆松陰寺太勇（ぺこぱ）)</title>
       <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20260806_tokyospeakeasy_%E4%B9%99%E6%AD%A6%E6%B4%8B%E5%8C%A1%EF%BC%86%E6%9D%BE%E9%99%B0%E5%AF%BA%E5%A4%AA%E5%8B%87%EF%BC%88%E3%81%BA%E3%81%93%E3%81%B1%EF%BC%89.aac" length="22190746" type="audio/aac" />
