@@ -6,8 +6,15 @@
     <description>tokyospeakeasy の音声Podcast (FMT)</description>
     <language>ja</language>
     <itunes:category text="News"/>
-    <lastBuildDate>Mon, 10 Aug 2026 18:01:51 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2026 18:02:49 -0000</lastBuildDate>
     
+    <item>
+      <title>tokyospeakeasy - 2026年08月12日 (花澤香菜＆野口衣織（=LOVE）)</title>
+      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20260812_tokyospeakeasy_%E8%8A%B1%E6%BE%A4%E9%A6%99%E8%8F%9C%EF%BC%86%E9%87%8E%E5%8F%A3%E8%A1%A3%E7%B9%94%EF%BC%88%3DLOVE%EF%BC%89.aac" length="22190588" type="audio/aac" />
+      <guid isPermaLink="false">20260812_tokyospeakeasy_花澤香菜＆野口衣織（=LOVE）.aac</guid>
+      <pubDate>Wed, 12 Aug 2026 00:00:00 -0000</pubDate>
+      <itunes:duration>01:00:00</itunes:duration>
+    </item>
     <item>
       <title>tokyospeakeasy - 2026年08月11日 (武田鉄矢＆カンニング竹山)</title>
       <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20260811_tokyospeakeasy_%E6%AD%A6%E7%94%B0%E9%89%84%E7%9F%A2%EF%BC%86%E3%82%AB%E3%83%B3%E3%83%8B%E3%83%B3%E3%82%B0%E7%AB%B9%E5%B1%B1.aac" length="22190603" type="audio/aac" />
