@@ -6,8 +6,15 @@
     <description>大友良英JAMJAMラジオ の音声Podcast (KBS)</description>
     <language>ja</language>
     <itunes:category text="News"/>
-    <lastBuildDate>Thu, 13 Aug 2026 18:01:09 -0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 18:01:43 -0000</lastBuildDate>
     
+    <item>
+      <title>大友良英JAMJAMラジオ - 2026年08月15日</title>
+      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/JAMJAM/20260815_%E5%A4%A7%E5%8F%8B%E8%89%AF%E8%8B%B1JAMJAM%E3%83%A9%E3%82%B8%E3%82%AA.aac" length="11095333" type="audio/aac" />
+      <guid isPermaLink="false">20260815_大友良英JAMJAMラジオ.aac</guid>
+      <pubDate>Sat, 15 Aug 2026 00:00:00 -0000</pubDate>
+      <itunes:duration>00:30:00</itunes:duration>
+    </item>
     <item>
       <title>大友良英JAMJAMラジオ - 2026年08月08日</title>
       <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/JAMJAM/20260808_%E5%A4%A7%E5%8F%8B%E8%89%AF%E8%8B%B1JAMJAM%E3%83%A9%E3%82%B8%E3%82%AA.aac" length="11095085" type="audio/aac" />
