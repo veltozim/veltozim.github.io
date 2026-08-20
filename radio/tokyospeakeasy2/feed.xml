@@ -6,8 +6,15 @@
     <description>tokyospeakeasy の音声Podcast (FMT)</description>
     <language>ja</language>
     <itunes:category text="News"/>
-    <lastBuildDate>Wed, 19 Aug 2026 18:05:26 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 18:01:48 -0000</lastBuildDate>
     
+    <item>
+      <title>tokyospeakeasy - 2026年08月21日 (ファーストサマーウイカ＆小手伸也)</title>
+      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20260821_tokyospeakeasy_%E3%83%95%E3%82%A1%E3%83%BC%E3%82%B9%E3%83%88%E3%82%B5%E3%83%9E%E3%83%BC%E3%82%A6%E3%82%A4%E3%82%AB%EF%BC%86%E5%B0%8F%E6%89%8B%E4%BC%B8%E4%B9%9F.aac" length="22190635" type="audio/aac" />
+      <guid isPermaLink="false">20260821_tokyospeakeasy_ファーストサマーウイカ＆小手伸也.aac</guid>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 -0000</pubDate>
+      <itunes:duration>01:00:00</itunes:duration>
+    </item>
     <item>
       <title>tokyospeakeasy - 2026年08月20日 (菊地亜美＆加藤綾菜)</title>
       <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20260820_tokyospeakeasy_%E8%8F%8A%E5%9C%B0%E4%BA%9C%E7%BE%8E%EF%BC%86%E5%8A%A0%E8%97%A4%E7%B6%BE%E8%8F%9C.aac" length="22190591" type="audio/aac" />
@@ -118,13 +125,6 @@
       <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20260722_tokyospeakeasy_%E5%B2%A1%E7%94%B0%E7%B4%97%E4%BD%B3%EF%BC%86%E6%9D%91%E9%87%8D%E6%9D%8F%E5%A5%88.aac" length="22190601" type="audio/aac" />
       <guid isPermaLink="false">20260722_tokyospeakeasy_岡田紗佳＆村重杏奈.aac</guid>
       <pubDate>Wed, 22 Jul 2026 00:00:00 -0000</pubDate>
-      <itunes:duration>01:00:00</itunes:duration>
-    </item>
-    <item>
-      <title>tokyospeakeasy - 2026年07月21日 (飯尾和樹（ずん）＆黒沢かずこ（森三中）)</title>
-      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20260721_tokyospeakeasy_%E9%A3%AF%E5%B0%BE%E5%92%8C%E6%A8%B9%EF%BC%88%E3%81%9A%E3%82%93%EF%BC%89%EF%BC%86%E9%BB%92%E6%B2%A2%E3%81%8B%E3%81%9A%E3%81%93%EF%BC%88%E6%A3%AE%E4%B8%89%E4%B8%AD%EF%BC%89.aac" length="22190608" type="audio/aac" />
-      <guid isPermaLink="false">20260721_tokyospeakeasy_飯尾和樹（ずん）＆黒沢かずこ（森三中）.aac</guid>
-      <pubDate>Tue, 21 Jul 2026 00:00:00 -0000</pubDate>
       <itunes:duration>01:00:00</itunes:duration>
     </item>
   </channel>
