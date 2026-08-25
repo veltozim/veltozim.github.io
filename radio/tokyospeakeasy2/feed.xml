@@ -6,8 +6,15 @@
     <description>tokyospeakeasy の音声Podcast (FMT)</description>
     <language>ja</language>
     <itunes:category text="News"/>
-    <lastBuildDate>Mon, 24 Aug 2026 18:01:51 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 18:02:54 -0000</lastBuildDate>
     
+    <item>
+      <title>tokyospeakeasy - 2026年08月26日 (三宅弘城＆野間口徹)</title>
+      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20260826_tokyospeakeasy_%E4%B8%89%E5%AE%85%E5%BC%98%E5%9F%8E%EF%BC%86%E9%87%8E%E9%96%93%E5%8F%A3%E5%BE%B9.aac" length="22190703" type="audio/aac" />
+      <guid isPermaLink="false">20260826_tokyospeakeasy_三宅弘城＆野間口徹.aac</guid>
+      <pubDate>Wed, 26 Aug 2026 00:00:00 -0000</pubDate>
+      <itunes:duration>01:00:00</itunes:duration>
+    </item>
     <item>
       <title>tokyospeakeasy - 2026年08月25日 (秋元康＆飯島直子（女優）)</title>
       <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20260825_tokyospeakeasy_%E7%A7%8B%E5%85%83%E5%BA%B7%EF%BC%86%E9%A3%AF%E5%B3%B6%E7%9B%B4%E5%AD%90%EF%BC%88%E5%A5%B3%E5%84%AA%EF%BC%89.aac" length="22190612" type="audio/aac" />

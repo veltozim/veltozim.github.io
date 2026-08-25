@@ -6,8 +6,15 @@
     <description>アトロク の音声Podcast (TBS)</description>
     <language>ja</language>
     <itunes:category text="News"/>
-    <lastBuildDate>Mon, 24 Aug 2026 18:01:50 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 18:02:54 -0000</lastBuildDate>
     
+    <item>
+      <title>アトロク - 2026年08月25日 (ゲームデザインから紐解く『HUNTER×HUNTER』の凄さとは？特集 by 渡辺範明_おそろしく多いキャラ、オレでなきゃ見逃しちゃうね 祭り！ with 渡辺範明＆吉川きっちょむ＆上坂あゆ美)</title>
+      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/aftersix/20260825_%E3%82%B2%E3%83%BC%E3%83%A0%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E3%81%8B%E3%82%89%E7%B4%90%E8%A7%A3%E3%81%8F%E3%80%8EHUNTER%C3%97HUNTER%E3%80%8F%E3%81%AE%E5%87%84%E3%81%95%E3%81%A8%E3%81%AF%EF%BC%9F%E7%89%B9%E9%9B%86%20by%20%E6%B8%A1%E8%BE%BA%E7%AF%84%E6%98%8E_%E3%81%8A%E3%81%9D%E3%82%8D%E3%81%97%E3%81%8F%E5%A4%9A%E3%81%84%E3%82%AD%E3%83%A3%E3%83%A9%E3%80%81%E3%82%AA%E3%83%AC%E3%81%A7%E3%81%AA%E3%81%8D%E3%82%83%E8%A6%8B%E9%80%83%E3%81%97%E3%81%A1%E3%82%83%E3%81%86%E3%81%AD%20%E7%A5%AD%E3%82%8A%EF%BC%81%20with%20%E6%B8%A1%E8%BE%BA%E7%AF%84%E6%98%8E%EF%BC%86%E5%90%89%E5%B7%9D%E3%81%8D%E3%81%A3%E3%81%A1%E3%82%87%E3%82%80%EF%BC%86%E4%B8%8A%E5%9D%82%E3%81%82%E3%82%86%E7%BE%8E.aac" length="44412905" type="audio/aac" />
+      <guid isPermaLink="false">20260825_ゲームデザインから紐解く『HUNTER×HUNTER』の凄さとは？特集 by 渡辺範明_おそろしく多いキャラ、オレでなきゃ見逃しちゃうね 祭り！ with 渡辺範明＆吉川きっちょむ＆上坂あゆ美.aac</guid>
+      <pubDate>Tue, 25 Aug 2026 00:00:00 -0000</pubDate>
+      <itunes:duration>02:00:00</itunes:duration>
+    </item>
     <item>
       <title>アトロク - 2026年08月24日 (アトロク)</title>
       <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/aftersix/20260824_%E3%82%A2%E3%83%88%E3%83%AD%E3%82%AF.aac" length="44412760" type="audio/aac" />
@@ -139,13 +146,6 @@
       <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/aftersix/20260727_AI%E9%9F%B3%E6%A5%BD%E3%80%8E%E3%82%B5%E3%82%A4%E3%83%90%E3%83%BC%E6%BC%94%E6%AD%8C%E3%80%8F%E3%82%B7%E3%83%BC%E3%83%B3%E6%9C%80%E5%89%8D%E7%B7%9A_ChatGPT%E3%80%8E%E3%83%9C%E3%82%AE%E3%83%BC%E3%81%95%E3%82%93%E3%80%8F%E3%81%A8%E8%BB%BD%E5%BF%AB%E3%81%AA%E3%83%95%E3%83%AA%E3%83%BC%E3%83%88%E3%83%BC%E3%82%AF.aac" length="44412763" type="audio/aac" />
       <guid isPermaLink="false">20260727_AI音楽『サイバー演歌』シーン最前線_ChatGPT『ボギーさん』と軽快なフリートーク.aac</guid>
       <pubDate>Mon, 27 Jul 2026 00:00:00 -0000</pubDate>
-      <itunes:duration>02:00:00</itunes:duration>
-    </item>
-    <item>
-      <title>アトロク - 2026年07月23日 (映画『オブセッション　災愛』評論_山内総一郎（スタジオLIVE）)</title>
-      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/aftersix/20260723_%E6%98%A0%E7%94%BB%E3%80%8E%E3%82%AA%E3%83%96%E3%82%BB%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3%E3%80%80%E7%81%BD%E6%84%9B%E3%80%8F%E8%A9%95%E8%AB%96_%E5%B1%B1%E5%86%85%E7%B7%8F%E4%B8%80%E9%83%8E%EF%BC%88%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AALIVE%EF%BC%89.aac" length="44412772" type="audio/aac" />
-      <guid isPermaLink="false">20260723_映画『オブセッション　災愛』評論_山内総一郎（スタジオLIVE）.aac</guid>
-      <pubDate>Thu, 23 Jul 2026 00:00:00 -0000</pubDate>
       <itunes:duration>02:00:00</itunes:duration>
     </item>
   </channel>
