@@ -6,7 +6,7 @@
     <description>tokyospeakeasy の音声Podcast (FMT)</description>
     <language>ja</language>
     <itunes:category text="News"/>
-    <lastBuildDate>Thu, 27 Aug 2026 18:01:20 -0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 18:01:20 -0000</lastBuildDate>
     
     <item>
       <title>tokyospeakeasy - 2026年08月28日 (秋元康＆山口智子)</title>
@@ -118,13 +118,6 @@
       <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20260730_tokyospeakeasy_%E4%B8%8A%E7%94%B0%E6%AD%A3%E6%A8%B9%EF%BC%86%E6%B3%89%E3%83%94%E3%83%B3%E5%AD%90.aac" length="22190579" type="audio/aac" />
       <guid isPermaLink="false">20260730_tokyospeakeasy_上田正樹＆泉ピン子.aac</guid>
       <pubDate>Thu, 30 Jul 2026 00:00:00 -0000</pubDate>
-      <itunes:duration>01:00:00</itunes:duration>
-    </item>
-    <item>
-      <title>tokyospeakeasy - 2026年07月29日 (金属バット＆真空ジェシカ)</title>
-      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20260729_tokyospeakeasy_%E9%87%91%E5%B1%9E%E3%83%90%E3%83%83%E3%83%88%EF%BC%86%E7%9C%9F%E7%A9%BA%E3%82%B8%E3%82%A7%E3%82%B7%E3%82%AB.aac" length="22190670" type="audio/aac" />
-      <guid isPermaLink="false">20260729_tokyospeakeasy_金属バット＆真空ジェシカ.aac</guid>
-      <pubDate>Wed, 29 Jul 2026 00:00:00 -0000</pubDate>
       <itunes:duration>01:00:00</itunes:duration>
     </item>
   </channel>
