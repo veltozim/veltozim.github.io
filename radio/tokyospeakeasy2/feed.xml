@@ -6,7 +6,7 @@
     <description>tokyospeakeasy の音声Podcast (FMT)</description>
     <language>ja</language>
     <itunes:category text="News"/>
-    <lastBuildDate>Fri, 28 Aug 2026 18:01:20 -0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 18:00:14 -0000</lastBuildDate>
     
     <item>
       <title>tokyospeakeasy - 2026年08月28日 (秋元康＆山口智子)</title>
@@ -111,13 +111,6 @@
       <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20260731_tokyospeakeasy_%E3%82%A6%E3%83%89%E9%88%B4%E6%9C%A8%EF%BC%86%E6%BF%B1%E5%8F%A3%E5%84%AA%EF%BC%88%E3%82%88%E3%82%90%E3%81%93%EF%BC%89.aac" length="22190629" type="audio/aac" />
       <guid isPermaLink="false">20260731_tokyospeakeasy_ウド鈴木＆濱口優（よゐこ）.aac</guid>
       <pubDate>Fri, 31 Jul 2026 00:00:00 -0000</pubDate>
-      <itunes:duration>01:00:00</itunes:duration>
-    </item>
-    <item>
-      <title>tokyospeakeasy - 2026年07月30日 (上田正樹＆泉ピン子)</title>
-      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20260730_tokyospeakeasy_%E4%B8%8A%E7%94%B0%E6%AD%A3%E6%A8%B9%EF%BC%86%E6%B3%89%E3%83%94%E3%83%B3%E5%AD%90.aac" length="22190579" type="audio/aac" />
-      <guid isPermaLink="false">20260730_tokyospeakeasy_上田正樹＆泉ピン子.aac</guid>
-      <pubDate>Thu, 30 Jul 2026 00:00:00 -0000</pubDate>
       <itunes:duration>01:00:00</itunes:duration>
     </item>
   </channel>
