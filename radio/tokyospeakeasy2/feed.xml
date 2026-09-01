@@ -6,8 +6,15 @@
     <description>tokyospeakeasy の音声Podcast (FMT)</description>
     <language>ja</language>
     <itunes:category text="News"/>
-    <lastBuildDate>Mon, 31 Aug 2026 18:01:22 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 18:01:52 -0000</lastBuildDate>
     
+    <item>
+      <title>tokyospeakeasy - 2026年09月02日 (佐藤淑乃（プロバレーボール選手）＆筒井あやめ（乃木坂46）)</title>
+      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20260902_tokyospeakeasy_%E4%BD%90%E8%97%A4%E6%B7%91%E4%B9%83%EF%BC%88%E3%83%97%E3%83%AD%E3%83%90%E3%83%AC%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%AB%E9%81%B8%E6%89%8B%EF%BC%89%EF%BC%86%E7%AD%92%E4%BA%95%E3%81%82%E3%82%84%E3%82%81%EF%BC%88%E4%B9%83%E6%9C%A8%E5%9D%8246%EF%BC%89.aac" length="22190629" type="audio/aac" />
+      <guid isPermaLink="false">20260902_tokyospeakeasy_佐藤淑乃（プロバレーボール選手）＆筒井あやめ（乃木坂46）.aac</guid>
+      <pubDate>Wed, 02 Sep 2026 00:00:00 -0000</pubDate>
+      <itunes:duration>01:00:00</itunes:duration>
+    </item>
     <item>
       <title>tokyospeakeasy - 2026年09月01日 (小堺一機＆松尾伴内)</title>
       <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20260901_tokyospeakeasy_%E5%B0%8F%E5%A0%BA%E4%B8%80%E6%A9%9F%EF%BC%86%E6%9D%BE%E5%B0%BE%E4%BC%B4%E5%86%85.aac" length="22190620" type="audio/aac" />

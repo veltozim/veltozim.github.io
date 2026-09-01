@@ -6,7 +6,7 @@
     <description>TokioHot100 の音声Podcast (FMJ)</description>
     <language>ja</language>
     <itunes:category text="News"/>
-    <lastBuildDate>Mon, 31 Aug 2026 18:01:20 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 18:01:51 -0000</lastBuildDate>
     
     <item>
       <title>TokioHot100 - 2026年08月30日 (矢野顕子（14時頃〜）)</title>
@@ -34,13 +34,6 @@
       <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/TokioHot100/20260809_TokioHot100_%E6%9F%B4%E7%94%B0%E8%81%A1%E5%AD%90%EF%BC%8814%E6%99%82%E9%A0%83%E3%80%9C%EF%BC%89.aac" length="86543345" type="audio/aac" />
       <guid isPermaLink="false">20260809_TokioHot100_柴田聡子（14時頃〜）.aac</guid>
       <pubDate>Sun, 09 Aug 2026 00:00:00 -0000</pubDate>
-      <itunes:duration>03:54:00</itunes:duration>
-    </item>
-    <item>
-      <title>TokioHot100 - 2026年08月02日 (IBUKI（14時頃〜）)</title>
-      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/TokioHot100/20260802_TokioHot100_IBUKI%EF%BC%8814%E6%99%82%E9%A0%83%E3%80%9C%EF%BC%89.aac" length="86543377" type="audio/aac" />
-      <guid isPermaLink="false">20260802_TokioHot100_IBUKI（14時頃〜）.aac</guid>
-      <pubDate>Sun, 02 Aug 2026 00:00:00 -0000</pubDate>
       <itunes:duration>03:54:00</itunes:duration>
     </item>
   </channel>
