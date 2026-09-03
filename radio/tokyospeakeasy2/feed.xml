@@ -6,8 +6,15 @@
     <description>tokyospeakeasy の音声Podcast (FMT)</description>
     <language>ja</language>
     <itunes:category text="News"/>
-    <lastBuildDate>Wed, 02 Sep 2026 18:01:35 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 18:02:10 -0000</lastBuildDate>
     
+    <item>
+      <title>tokyospeakeasy - 2026年09月04日 (春風亭小朝＆林家正蔵)</title>
+      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20260904_tokyospeakeasy_%E6%98%A5%E9%A2%A8%E4%BA%AD%E5%B0%8F%E6%9C%9D%EF%BC%86%E6%9E%97%E5%AE%B6%E6%AD%A3%E8%94%B5.aac" length="22190626" type="audio/aac" />
+      <guid isPermaLink="false">20260904_tokyospeakeasy_春風亭小朝＆林家正蔵.aac</guid>
+      <pubDate>Fri, 04 Sep 2026 00:00:00 -0000</pubDate>
+      <itunes:duration>01:00:00</itunes:duration>
+    </item>
     <item>
       <title>tokyospeakeasy - 2026年09月03日 (西野未姫＆井上咲楽)</title>
       <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20260903_tokyospeakeasy_%E8%A5%BF%E9%87%8E%E6%9C%AA%E5%A7%AB%EF%BC%86%E4%BA%95%E4%B8%8A%E5%92%B2%E6%A5%BD.aac" length="22190653" type="audio/aac" />
@@ -118,13 +125,6 @@
       <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20260805_tokyospeakeasy_%E4%B8%89%E5%AE%85%E5%81%A5%EF%BC%86%E6%B8%85%E5%A1%9A%E4%BF%A1%E4%B9%9F.aac" length="22219463" type="audio/aac" />
       <guid isPermaLink="false">20260805_tokyospeakeasy_三宅健＆清塚信也.aac</guid>
       <pubDate>Wed, 05 Aug 2026 00:00:00 -0000</pubDate>
-      <itunes:duration>01:00:00</itunes:duration>
-    </item>
-    <item>
-      <title>tokyospeakeasy - 2026年08月04日 (岩崎う大＆原宿)</title>
-      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20260804_tokyospeakeasy_%E5%B2%A9%E5%B4%8E%E3%81%86%E5%A4%A7%EF%BC%86%E5%8E%9F%E5%AE%BF.aac" length="22183100" type="audio/aac" />
-      <guid isPermaLink="false">20260804_tokyospeakeasy_岩崎う大＆原宿.aac</guid>
-      <pubDate>Tue, 04 Aug 2026 00:00:00 -0000</pubDate>
       <itunes:duration>01:00:00</itunes:duration>
     </item>
   </channel>
