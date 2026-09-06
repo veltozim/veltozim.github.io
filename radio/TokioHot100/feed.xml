@@ -6,8 +6,15 @@
     <description>TokioHot100 の音声Podcast (FMJ)</description>
     <language>ja</language>
     <itunes:category text="News"/>
-    <lastBuildDate>Sat, 05 Sep 2026 18:00:12 -0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 18:03:33 -0000</lastBuildDate>
     
+    <item>
+      <title>TokioHot100 - 2026年09月06日 (あいみょん（14時頃〜）)</title>
+      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/TokioHot100/20260906_TokioHot100_%E3%81%82%E3%81%84%E3%81%BF%E3%82%87%E3%82%93%EF%BC%8814%E6%99%82%E9%A0%83%E3%80%9C%EF%BC%89.aac" length="86543460" type="audio/aac" />
+      <guid isPermaLink="false">20260906_TokioHot100_あいみょん（14時頃〜）.aac</guid>
+      <pubDate>Sun, 06 Sep 2026 00:00:00 -0000</pubDate>
+      <itunes:duration>03:54:00</itunes:duration>
+    </item>
     <item>
       <title>TokioHot100 - 2026年08月30日 (矢野顕子（14時頃〜）)</title>
       <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/TokioHot100/20260830_TokioHot100_%E7%9F%A2%E9%87%8E%E9%A1%95%E5%AD%90%EF%BC%8814%E6%99%82%E9%A0%83%E3%80%9C%EF%BC%89.aac" length="86543376" type="audio/aac" />
