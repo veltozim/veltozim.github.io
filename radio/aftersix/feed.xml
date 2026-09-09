@@ -6,8 +6,15 @@
     <description>アトロク の音声Podcast (TBS)</description>
     <language>ja</language>
     <itunes:category text="News"/>
-    <lastBuildDate>Tue, 08 Sep 2026 18:02:23 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 18:01:32 -0000</lastBuildDate>
     
+    <item>
+      <title>アトロク - 2026年09月09日 (バックルームズをゲーム視点から読み解く（Jini）_伊藤亜和さん登場（新刊「魔女になりたい」）)</title>
+      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/aftersix/20260909_%E3%83%90%E3%83%83%E3%82%AF%E3%83%AB%E3%83%BC%E3%83%A0%E3%82%BA%E3%82%92%E3%82%B2%E3%83%BC%E3%83%A0%E8%A6%96%E7%82%B9%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%EF%BC%88Jini%EF%BC%89_%E4%BC%8A%E8%97%A4%E4%BA%9C%E5%92%8C%E3%81%95%E3%82%93%E7%99%BB%E5%A0%B4%EF%BC%88%E6%96%B0%E5%88%8A%E3%80%8C%E9%AD%94%E5%A5%B3%E3%81%AB%E3%81%AA%E3%82%8A%E3%81%9F%E3%81%84%E3%80%8D%EF%BC%89.aac" length="44412722" type="audio/aac" />
+      <guid isPermaLink="false">20260909_バックルームズをゲーム視点から読み解く（Jini）_伊藤亜和さん登場（新刊「魔女になりたい」）.aac</guid>
+      <pubDate>Wed, 09 Sep 2026 00:00:00 -0000</pubDate>
+      <itunes:duration>02:00:00</itunes:duration>
+    </item>
     <item>
       <title>アトロク - 2026年09月08日 (アジア大会直前！！ 日本の「鬼塚」から世界の『オニツカタイガー』になるまで特集！by財部誠一さん_熊崎風斗アナウンサー（アジア大会の見どころ）)</title>
       <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/aftersix/20260908_%E3%82%A2%E3%82%B8%E3%82%A2%E5%A4%A7%E4%BC%9A%E7%9B%B4%E5%89%8D%EF%BC%81%EF%BC%81%20%E6%97%A5%E6%9C%AC%E3%81%AE%E3%80%8C%E9%AC%BC%E5%A1%9A%E3%80%8D%E3%81%8B%E3%82%89%E4%B8%96%E7%95%8C%E3%81%AE%E3%80%8E%E3%82%AA%E3%83%8B%E3%83%84%E3%82%AB%E3%82%BF%E3%82%A4%E3%82%AC%E3%83%BC%E3%80%8F%E3%81%AB%E3%81%AA%E3%82%8B%E3%81%BE%E3%81%A7%E7%89%B9%E9%9B%86%EF%BC%81by%E8%B2%A1%E9%83%A8%E8%AA%A0%E4%B8%80%E3%81%95%E3%82%93_%E7%86%8A%E5%B4%8E%E9%A2%A8%E6%96%97%E3%82%A2%E3%83%8A%E3%82%A6%E3%83%B3%E3%82%B5%E3%83%BC%EF%BC%88%E3%82%A2%E3%82%B8%E3%82%A2%E5%A4%A7%E4%BC%9A%E3%81%AE%E8%A6%8B%E3%81%A9%E3%81%93%E3%82%8D%EF%BC%89.aac" length="44379849" type="audio/aac" />
@@ -139,13 +146,6 @@
       <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/aftersix/20260810_%E3%82%A2%E3%82%B8%E3%82%A2%E5%A4%AA%E5%B9%B3%E6%B4%8B%E6%88%A6%E4%BA%89%E3%81%AE%E3%81%A8%E3%81%8D%E3%80%81%E3%80%8C%E4%BC%9D%E7%B5%B1%E8%8A%B8%E8%83%BD%E3%80%8D%E3%81%AF%E3%81%A9%E3%81%86%E3%81%97%E3%81%9F%EF%BC%9F%20by%20%E5%85%90%E7%8E%89%E7%AB%9C%E4%B8%80%EF%BC%88%E6%97%A9%E7%A8%B2%E7%94%B0%E5%A4%A7%E5%AD%A6%E6%BC%94%E5%8A%87%E5%8D%9A%E7%89%A9%E9%A4%A8%E9%A4%A8%E9%95%B7%EF%BC%89_%E3%81%93%E3%81%AE%E5%A4%8F%E3%82%AA%E3%82%B9%E3%82%B9%E3%83%A1%E3%81%AEDVD%E3%82%BD%E3%83%95%E3%83%88%20by%20%E9%A3%AF%E5%A1%9A%E5%85%8B%E5%91%B3%EF%BC%88%E6%98%A0%E7%94%BB%E3%83%A9%E3%82%A4%E3%82%BF%E3%83%BC%EF%BC%89.aac" length="44381250" type="audio/aac" />
       <guid isPermaLink="false">20260810_アジア太平洋戦争のとき、「伝統芸能」はどうした？ by 児玉竜一（早稲田大学演劇博物館館長）_この夏オススメのDVDソフト by 飯塚克味（映画ライター）.aac</guid>
       <pubDate>Mon, 10 Aug 2026 00:00:00 -0000</pubDate>
-      <itunes:duration>02:00:00</itunes:duration>
-    </item>
-    <item>
-      <title>アトロク - 2026年08月06日 (映画『ちいかわ　人魚の島のひみつ』評論_Skoop On Somebody（スタジオLIVE）)</title>
-      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/aftersix/20260806_%E6%98%A0%E7%94%BB%E3%80%8E%E3%81%A1%E3%81%84%E3%81%8B%E3%82%8F%E3%80%80%E4%BA%BA%E9%AD%9A%E3%81%AE%E5%B3%B6%E3%81%AE%E3%81%B2%E3%81%BF%E3%81%A4%E3%80%8F%E8%A9%95%E8%AB%96_Skoop%20On%20Somebody%EF%BC%88%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AALIVE%EF%BC%89.aac" length="44381250" type="audio/aac" />
-      <guid isPermaLink="false">20260806_映画『ちいかわ　人魚の島のひみつ』評論_Skoop On Somebody（スタジオLIVE）.aac</guid>
-      <pubDate>Thu, 06 Aug 2026 00:00:00 -0000</pubDate>
       <itunes:duration>02:00:00</itunes:duration>
     </item>
   </channel>
