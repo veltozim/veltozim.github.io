@@ -6,8 +6,15 @@
     <description>tokyospeakeasy の音声Podcast (FMT)</description>
     <language>ja</language>
     <itunes:category text="News"/>
-    <lastBuildDate>Wed, 09 Sep 2026 18:01:33 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 18:01:20 -0000</lastBuildDate>
     
+    <item>
+      <title>tokyospeakeasy - 2026年09月11日 (久本雅美＆はるな愛)</title>
+      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20260911_tokyospeakeasy_%E4%B9%85%E6%9C%AC%E9%9B%85%E7%BE%8E%EF%BC%86%E3%81%AF%E3%82%8B%E3%81%AA%E6%84%9B.aac" length="22183894" type="audio/aac" />
+      <guid isPermaLink="false">20260911_tokyospeakeasy_久本雅美＆はるな愛.aac</guid>
+      <pubDate>Fri, 11 Sep 2026 00:00:00 -0000</pubDate>
+      <itunes:duration>01:00:00</itunes:duration>
+    </item>
     <item>
       <title>tokyospeakeasy - 2026年09月10日 (ライス＆サルゴリラ（お笑い芸人）)</title>
       <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20260910_tokyospeakeasy_%E3%83%A9%E3%82%A4%E3%82%B9%EF%BC%86%E3%82%B5%E3%83%AB%E3%82%B4%E3%83%AA%E3%83%A9%EF%BC%88%E3%81%8A%E7%AC%91%E3%81%84%E8%8A%B8%E4%BA%BA%EF%BC%89.aac" length="22190603" type="audio/aac" />
@@ -125,13 +132,6 @@
       <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20260812_tokyospeakeasy_%E8%8A%B1%E6%BE%A4%E9%A6%99%E8%8F%9C%EF%BC%86%E9%87%8E%E5%8F%A3%E8%A1%A3%E7%B9%94%EF%BC%88%3DLOVE%EF%BC%89.aac" length="22190588" type="audio/aac" />
       <guid isPermaLink="false">20260812_tokyospeakeasy_花澤香菜＆野口衣織（=LOVE）.aac</guid>
       <pubDate>Wed, 12 Aug 2026 00:00:00 -0000</pubDate>
-      <itunes:duration>01:00:00</itunes:duration>
-    </item>
-    <item>
-      <title>tokyospeakeasy - 2026年08月11日 (武田鉄矢＆カンニング竹山)</title>
-      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20260811_tokyospeakeasy_%E6%AD%A6%E7%94%B0%E9%89%84%E7%9F%A2%EF%BC%86%E3%82%AB%E3%83%B3%E3%83%8B%E3%83%B3%E3%82%B0%E7%AB%B9%E5%B1%B1.aac" length="22190603" type="audio/aac" />
-      <guid isPermaLink="false">20260811_tokyospeakeasy_武田鉄矢＆カンニング竹山.aac</guid>
-      <pubDate>Tue, 11 Aug 2026 00:00:00 -0000</pubDate>
       <itunes:duration>01:00:00</itunes:duration>
     </item>
   </channel>
