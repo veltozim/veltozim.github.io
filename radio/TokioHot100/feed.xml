@@ -6,8 +6,15 @@
     <description>TokioHot100 の音声Podcast (FMJ)</description>
     <language>ja</language>
     <itunes:category text="News"/>
-    <lastBuildDate>Sat, 12 Sep 2026 18:00:12 -0000</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 18:02:55 -0000</lastBuildDate>
     
+    <item>
+      <title>TokioHot100 - 2026年09月13日 (レトロリロン（14時頃〜）_aron!（15時20分頃〜）)</title>
+      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/TokioHot100/20260913_TokioHot100_%E3%83%AC%E3%83%88%E3%83%AD%E3%83%AA%E3%83%AD%E3%83%B3%EF%BC%8814%E6%99%82%E9%A0%83%E3%80%9C%EF%BC%89_aron%21%EF%BC%8815%E6%99%8220%E5%88%86%E9%A0%83%E3%80%9C%EF%BC%89.aac" length="86543340" type="audio/aac" />
+      <guid isPermaLink="false">20260913_TokioHot100_レトロリロン（14時頃〜）_aron!（15時20分頃〜）.aac</guid>
+      <pubDate>Sun, 13 Sep 2026 00:00:00 -0000</pubDate>
+      <itunes:duration>03:54:00</itunes:duration>
+    </item>
     <item>
       <title>TokioHot100 - 2026年09月06日 (あいみょん（14時頃〜）)</title>
       <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/TokioHot100/20260906_TokioHot100_%E3%81%82%E3%81%84%E3%81%BF%E3%82%87%E3%82%93%EF%BC%8814%E6%99%82%E9%A0%83%E3%80%9C%EF%BC%89.aac" length="86543460" type="audio/aac" />
