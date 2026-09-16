@@ -6,8 +6,15 @@
     <description>tokyospeakeasy の音声Podcast (FMT)</description>
     <language>ja</language>
     <itunes:category text="News"/>
-    <lastBuildDate>Tue, 15 Sep 2026 18:03:50 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 18:01:56 -0000</lastBuildDate>
     
+    <item>
+      <title>tokyospeakeasy - 2026年09月17日 (加賀翔（かが屋）＆後藤拓実（四千頭身）)</title>
+      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20260917_tokyospeakeasy_%E5%8A%A0%E8%B3%80%E7%BF%94%EF%BC%88%E3%81%8B%E3%81%8C%E5%B1%8B%EF%BC%89%EF%BC%86%E5%BE%8C%E8%97%A4%E6%8B%93%E5%AE%9F%EF%BC%88%E5%9B%9B%E5%8D%83%E9%A0%AD%E8%BA%AB%EF%BC%89.aac" length="22190559" type="audio/aac" />
+      <guid isPermaLink="false">20260917_tokyospeakeasy_加賀翔（かが屋）＆後藤拓実（四千頭身）.aac</guid>
+      <pubDate>Thu, 17 Sep 2026 00:00:00 -0000</pubDate>
+      <itunes:duration>01:00:00</itunes:duration>
+    </item>
     <item>
       <title>tokyospeakeasy - 2026年09月16日 (松岡茉優＆鞘師里保)</title>
       <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20260916_tokyospeakeasy_%E6%9D%BE%E5%B2%A1%E8%8C%89%E5%84%AA%EF%BC%86%E9%9E%98%E5%B8%AB%E9%87%8C%E4%BF%9D.aac" length="22190650" type="audio/aac" />
