@@ -6,8 +6,15 @@
     <description>tokyospeakeasy の音声Podcast (FMT)</description>
     <language>ja</language>
     <itunes:category text="News"/>
-    <lastBuildDate>Wed, 16 Sep 2026 18:01:56 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 18:01:48 -0000</lastBuildDate>
     
+    <item>
+      <title>tokyospeakeasy - 2026年09月18日 (蝶野正洋＆天山広吉)</title>
+      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20260918_tokyospeakeasy_%E8%9D%B6%E9%87%8E%E6%AD%A3%E6%B4%8B%EF%BC%86%E5%A4%A9%E5%B1%B1%E5%BA%83%E5%90%89.aac" length="22190592" type="audio/aac" />
+      <guid isPermaLink="false">20260918_tokyospeakeasy_蝶野正洋＆天山広吉.aac</guid>
+      <pubDate>Fri, 18 Sep 2026 00:00:00 -0000</pubDate>
+      <itunes:duration>01:00:00</itunes:duration>
+    </item>
     <item>
       <title>tokyospeakeasy - 2026年09月17日 (加賀翔（かが屋）＆後藤拓実（四千頭身）)</title>
       <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20260917_tokyospeakeasy_%E5%8A%A0%E8%B3%80%E7%BF%94%EF%BC%88%E3%81%8B%E3%81%8C%E5%B1%8B%EF%BC%89%EF%BC%86%E5%BE%8C%E8%97%A4%E6%8B%93%E5%AE%9F%EF%BC%88%E5%9B%9B%E5%8D%83%E9%A0%AD%E8%BA%AB%EF%BC%89.aac" length="22190559" type="audio/aac" />
@@ -132,13 +139,6 @@
       <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20260819_tokyospeakeasy_%E6%96%8E%E8%97%A4%E5%B9%B8%E5%B9%B3%EF%BC%86%E4%B8%89%E5%AE%85%E9%A6%99%E5%B8%86.aac" length="22190576" type="audio/aac" />
       <guid isPermaLink="false">20260819_tokyospeakeasy_斎藤幸平＆三宅香帆.aac</guid>
       <pubDate>Wed, 19 Aug 2026 00:00:00 -0000</pubDate>
-      <itunes:duration>01:00:00</itunes:duration>
-    </item>
-    <item>
-      <title>tokyospeakeasy - 2026年08月18日 (ガダルカナル・タカ＆ダンカン)</title>
-      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20260818_tokyospeakeasy_%E3%82%AC%E3%83%80%E3%83%AB%E3%82%AB%E3%83%8A%E3%83%AB%E3%83%BB%E3%82%BF%E3%82%AB%EF%BC%86%E3%83%80%E3%83%B3%E3%82%AB%E3%83%B3.aac" length="22219177" type="audio/aac" />
-      <guid isPermaLink="false">20260818_tokyospeakeasy_ガダルカナル・タカ＆ダンカン.aac</guid>
-      <pubDate>Tue, 18 Aug 2026 00:00:00 -0000</pubDate>
       <itunes:duration>01:00:00</itunes:duration>
     </item>
   </channel>
