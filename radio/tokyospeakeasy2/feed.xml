@@ -6,7 +6,7 @@
     <description>tokyospeakeasy の音声Podcast (FMT)</description>
     <language>ja</language>
     <itunes:category text="News"/>
-    <lastBuildDate>Fri, 18 Sep 2026 18:01:56 -0000</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 18:00:13 -0000</lastBuildDate>
     
     <item>
       <title>tokyospeakeasy - 2026年09月18日 (蝶野正洋＆天山広吉)</title>
@@ -125,13 +125,6 @@
       <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20260821_tokyospeakeasy_%E3%83%95%E3%82%A1%E3%83%BC%E3%82%B9%E3%83%88%E3%82%B5%E3%83%9E%E3%83%BC%E3%82%A6%E3%82%A4%E3%82%AB%EF%BC%86%E5%B0%8F%E6%89%8B%E4%BC%B8%E4%B9%9F.aac" length="22190635" type="audio/aac" />
       <guid isPermaLink="false">20260821_tokyospeakeasy_ファーストサマーウイカ＆小手伸也.aac</guid>
       <pubDate>Fri, 21 Aug 2026 00:00:00 -0000</pubDate>
-      <itunes:duration>01:00:00</itunes:duration>
-    </item>
-    <item>
-      <title>tokyospeakeasy - 2026年08月20日 (菊地亜美＆加藤綾菜)</title>
-      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20260820_tokyospeakeasy_%E8%8F%8A%E5%9C%B0%E4%BA%9C%E7%BE%8E%EF%BC%86%E5%8A%A0%E8%97%A4%E7%B6%BE%E8%8F%9C.aac" length="22190591" type="audio/aac" />
-      <guid isPermaLink="false">20260820_tokyospeakeasy_菊地亜美＆加藤綾菜.aac</guid>
-      <pubDate>Thu, 20 Aug 2026 00:00:00 -0000</pubDate>
       <itunes:duration>01:00:00</itunes:duration>
     </item>
   </channel>
