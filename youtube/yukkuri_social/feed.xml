@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" 
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     version="2.0">
+<channel>
+    <title>ゆっくり社会科学 ポッドキャスト</title>
+    <description>ゆっくり社会科学の音声版</description>
+    <link>https://www.youtube.com/@yukkuri_social</link>
+    <language>ja</language>
+    <copyright>© 2025 ゆっくり社会科学</copyright>
+    <itunes:author>ゆっくり社会科学</itunes:author>
+    <itunes:summary>ゆっくり社会科学の音声版</itunes:summary>
+    <itunes:owner>
+        <itunes:name>ゆっくり社会科学</itunes:name>
+    </itunes:owner>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:category text="Entertainment"/>
+    <itunes:image href=""/>
+
+    <item>
+        <title>『なぜ貧しい地方は「小さな政府」を支持するのか？｜「The Politics o - 2026年09月11日</title>
+        <description>配信者: ゆっくり社会科学</description>
+        <link>https://www.youtube.com/@yukkuri_social</link>
+        <guid isPermaLink="false">09-11：『なぜ貧しい地方は「小さな政府」を支持するのか？｜「The Politics o.m4a</guid>
+        <pubDate>Sun, 20 Sep 2026 13:55:51 +0000</pubDate>
+        <enclosure url="https://pub-96dbc39af9e0495e99e6279bf489a92d.r2.dev/yukkuri_social/09-11%EF%BC%9A%E3%80%8E%E3%81%AA%E3%81%9C%E8%B2%A7%E3%81%97%E3%81%84%E5%9C%B0%E6%96%B9%E3%81%AF%E3%80%8C%E5%B0%8F%E3%81%95%E3%81%AA%E6%94%BF%E5%BA%9C%E3%80%8D%E3%82%92%E6%94%AF%E6%8C%81%E3%81%99%E3%82%8B%E3%81%AE%E3%81%8B%EF%BC%9F%EF%BD%9C%E3%80%8CThe%20Politics%20o.m4a" length="42005033" type="audio/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+</channel>
+</rss>
