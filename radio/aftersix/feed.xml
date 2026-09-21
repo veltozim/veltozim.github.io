@@ -6,8 +6,15 @@
     <description>アトロク の音声Podcast (TBS)</description>
     <language>ja</language>
     <itunes:category text="News"/>
-    <lastBuildDate>Sun, 20 Sep 2026 18:00:13 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 18:02:20 -0000</lastBuildDate>
     
+    <item>
+      <title>アトロク - 2026年09月21日 (アトロク)</title>
+      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/aftersix/20260921_%E3%82%A2%E3%83%88%E3%83%AD%E3%82%AF.aac" length="44386622" type="audio/aac" />
+      <guid isPermaLink="false">20260921_アトロク.aac</guid>
+      <pubDate>Mon, 21 Sep 2026 00:00:00 -0000</pubDate>
+      <itunes:duration>02:00:00</itunes:duration>
+    </item>
     <item>
       <title>アトロク - 2026年09月17日 (映画『バックルームズ』評論_さとうもか（スタジオLIVE）)</title>
       <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/aftersix/20260917_%E6%98%A0%E7%94%BB%E3%80%8E%E3%83%90%E3%83%83%E3%82%AF%E3%83%AB%E3%83%BC%E3%83%A0%E3%82%BA%E3%80%8F%E8%A9%95%E8%AB%96_%E3%81%95%E3%81%A8%E3%81%86%E3%82%82%E3%81%8B%EF%BC%88%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AALIVE%EF%BC%89.aac" length="44381250" type="audio/aac" />
@@ -138,13 +145,6 @@
       <title>アトロク - 2026年08月18日 (アトロク)</title>
       <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/aftersix/20260818_%E3%82%A2%E3%83%88%E3%83%AD%E3%82%AF.aac" length="44412902" type="audio/aac" />
       <guid isPermaLink="false">20260818_アトロク.aac</guid>
-      <pubDate>Tue, 18 Aug 2026 00:00:00 -0000</pubDate>
-      <itunes:duration>02:00:00</itunes:duration>
-    </item>
-    <item>
-      <title>アトロク - 2026年08月18日 (岡村ちゃんと『短歌ご一緒しませんか』特集！！_岡村靖幸（おすすめのApple TV＋ドラマ）)</title>
-      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/aftersix/20260818_%E5%B2%A1%E6%9D%91%E3%81%A1%E3%82%83%E3%82%93%E3%81%A8%E3%80%8E%E7%9F%AD%E6%AD%8C%E3%81%94%E4%B8%80%E7%B7%92%E3%81%97%E3%81%BE%E3%81%9B%E3%82%93%E3%81%8B%E3%80%8F%E7%89%B9%E9%9B%86%EF%BC%81%EF%BC%81_%E5%B2%A1%E6%9D%91%E9%9D%96%E5%B9%B8%EF%BC%88%E3%81%8A%E3%81%99%E3%81%99%E3%82%81%E3%81%AEApple%20TV%EF%BC%8B%E3%83%89%E3%83%A9%E3%83%9E%EF%BC%89.aac" length="44412902" type="audio/aac" />
-      <guid isPermaLink="false">20260818_岡村ちゃんと『短歌ご一緒しませんか』特集！！_岡村靖幸（おすすめのApple TV＋ドラマ）.aac</guid>
       <pubDate>Tue, 18 Aug 2026 00:00:00 -0000</pubDate>
       <itunes:duration>02:00:00</itunes:duration>
     </item>

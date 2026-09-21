@@ -6,8 +6,15 @@
     <description>tokyospeakeasy の音声Podcast (FMT)</description>
     <language>ja</language>
     <itunes:category text="News"/>
-    <lastBuildDate>Sun, 20 Sep 2026 18:00:14 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 18:02:20 -0000</lastBuildDate>
     
+    <item>
+      <title>tokyospeakeasy - 2026年09月22日 (クリス松村＆松岡卓弥（MATSURI）)</title>
+      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20260922_tokyospeakeasy_%E3%82%AF%E3%83%AA%E3%82%B9%E6%9D%BE%E6%9D%91%EF%BC%86%E6%9D%BE%E5%B2%A1%E5%8D%93%E5%BC%A5%EF%BC%88MATSURI%EF%BC%89.aac" length="22190613" type="audio/aac" />
+      <guid isPermaLink="false">20260922_tokyospeakeasy_クリス松村＆松岡卓弥（MATSURI）.aac</guid>
+      <pubDate>Tue, 22 Sep 2026 00:00:00 -0000</pubDate>
+      <itunes:duration>01:00:00</itunes:duration>
+    </item>
     <item>
       <title>tokyospeakeasy - 2026年09月18日 (蝶野正洋＆天山広吉)</title>
       <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20260918_tokyospeakeasy_%E8%9D%B6%E9%87%8E%E6%AD%A3%E6%B4%8B%EF%BC%86%E5%A4%A9%E5%B1%B1%E5%BA%83%E5%90%89.aac" length="22190592" type="audio/aac" />
