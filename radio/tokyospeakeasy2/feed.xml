@@ -6,8 +6,15 @@
     <description>tokyospeakeasy の音声Podcast (FMT)</description>
     <language>ja</language>
     <itunes:category text="News"/>
-    <lastBuildDate>Tue, 22 Sep 2026 18:02:20 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 18:01:35 -0000</lastBuildDate>
     
+    <item>
+      <title>tokyospeakeasy - 2026年09月24日 (酒井法子＆岡田奈々)</title>
+      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20260924_tokyospeakeasy_%E9%85%92%E4%BA%95%E6%B3%95%E5%AD%90%EF%BC%86%E5%B2%A1%E7%94%B0%E5%A5%88%E3%80%85.aac" length="22219362" type="audio/aac" />
+      <guid isPermaLink="false">20260924_tokyospeakeasy_酒井法子＆岡田奈々.aac</guid>
+      <pubDate>Thu, 24 Sep 2026 00:00:00 -0000</pubDate>
+      <itunes:duration>01:00:00</itunes:duration>
+    </item>
     <item>
       <title>tokyospeakeasy - 2026年09月23日 (BONNIE_PINK（シンガーソングライター）＆tofubeats)</title>
       <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20260923_tokyospeakeasy_BONNIE_PINK%EF%BC%88%E3%82%B7%E3%83%B3%E3%82%AC%E3%83%BC%E3%82%BD%E3%83%B3%E3%82%B0%E3%83%A9%E3%82%A4%E3%82%BF%E3%83%BC%EF%BC%89%EF%BC%86tofubeats.aac" length="22190584" type="audio/aac" />
