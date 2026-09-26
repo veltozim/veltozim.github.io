@@ -6,7 +6,7 @@
     <description>tokyospeakeasy の音声Podcast (FMT)</description>
     <language>ja</language>
     <itunes:category text="News"/>
-    <lastBuildDate>Fri, 25 Sep 2026 18:02:13 -0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 18:00:15 -0000</lastBuildDate>
     
     <item>
       <title>tokyospeakeasy - 2026年09月25日 (Chage＆早見優)</title>
@@ -125,13 +125,6 @@
       <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20260828_tokyospeakeasy_%E7%A7%8B%E5%85%83%E5%BA%B7%EF%BC%86%E5%B1%B1%E5%8F%A3%E6%99%BA%E5%AD%90.aac" length="22190596" type="audio/aac" />
       <guid isPermaLink="false">20260828_tokyospeakeasy_秋元康＆山口智子.aac</guid>
       <pubDate>Fri, 28 Aug 2026 00:00:00 -0000</pubDate>
-      <itunes:duration>01:00:00</itunes:duration>
-    </item>
-    <item>
-      <title>tokyospeakeasy - 2026年08月27日 (鈴木おさむ＆箕輪厚介)</title>
-      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20260827_tokyospeakeasy_%E9%88%B4%E6%9C%A8%E3%81%8A%E3%81%95%E3%82%80%EF%BC%86%E7%AE%95%E8%BC%AA%E5%8E%9A%E4%BB%8B.aac" length="22190631" type="audio/aac" />
-      <guid isPermaLink="false">20260827_tokyospeakeasy_鈴木おさむ＆箕輪厚介.aac</guid>
-      <pubDate>Thu, 27 Aug 2026 00:00:00 -0000</pubDate>
       <itunes:duration>01:00:00</itunes:duration>
     </item>
   </channel>
