@@ -6,8 +6,15 @@
     <description>tokyospeakeasy の音声Podcast (FMT)</description>
     <language>ja</language>
     <itunes:category text="News"/>
-    <lastBuildDate>Sun, 27 Sep 2026 18:02:51 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 18:02:43 -0000</lastBuildDate>
     
+    <item>
+      <title>tokyospeakeasy - 2026年09月29日 (AKIRA_TAKANO＆阿部顕嵐)</title>
+      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20260929_tokyospeakeasy_AKIRA_TAKANO%EF%BC%86%E9%98%BF%E9%83%A8%E9%A1%95%E5%B5%90.aac" length="22190383" type="audio/aac" />
+      <guid isPermaLink="false">20260929_tokyospeakeasy_AKIRA_TAKANO＆阿部顕嵐.aac</guid>
+      <pubDate>Tue, 29 Sep 2026 00:00:00 -0000</pubDate>
+      <itunes:duration>01:00:00</itunes:duration>
+    </item>
     <item>
       <title>tokyospeakeasy - 2026年09月25日 (Chage＆早見優)</title>
       <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20260925_tokyospeakeasy_Chage%EF%BC%86%E6%97%A9%E8%A6%8B%E5%84%AA.aac" length="22190571" type="audio/aac" />
