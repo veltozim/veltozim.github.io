@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" 
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     version="2.0">
+<channel>
+    <title>backspace ポッドキャスト</title>
+    <description>backspaceの音声版</description>
+    <link>https://www.youtube.com/@backspace</link>
+    <language>ja</language>
+    <copyright>© 2025 backspace</copyright>
+    <itunes:author>backspace</itunes:author>
+    <itunes:summary>backspaceの音声版</itunes:summary>
+    <itunes:owner>
+        <itunes:name>backspace</itunes:name>
+    </itunes:owner>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:category text="Entertainment"/>
+    <itunes:image href=""/>
+
+    <item>
+        <title>超解説DLSS5 by 西川善司 【日曜午後1時開始予定】ep674 - 2026年09月28日</title>
+        <description>配信者: backspace</description>
+        <link>https://www.youtube.com/@backspace</link>
+        <guid isPermaLink="false">09-28：超解説DLSS5 by 西川善司 【日曜午後1時開始予定】ep674.m4a</guid>
+        <pubDate>Tue, 29 Sep 2026 01:26:23 +0000</pubDate>
+        <enclosure url="https://pub-96dbc39af9e0495e99e6279bf489a92d.r2.dev/backspace/09-28%EF%BC%9A%E8%B6%85%E8%A7%A3%E8%AA%ACDLSS5%20by%20%E8%A5%BF%E5%B7%9D%E5%96%84%E5%8F%B8%20%E3%80%90%E6%97%A5%E6%9B%9C%E5%8D%88%E5%BE%8C1%E6%99%82%E9%96%8B%E5%A7%8B%E4%BA%88%E5%AE%9A%E3%80%91ep674.m4a" length="102547406" type="audio/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+        <title>日曜午後1時開始予定　ep673 - 2026年09月21日</title>
+        <description>配信者: backspace</description>
+        <link>https://www.youtube.com/@backspace</link>
+        <guid isPermaLink="false">09-21：日曜午後1時開始予定　ep673.m4a</guid>
+        <pubDate>Tue, 29 Sep 2026 01:26:23 +0000</pubDate>
+        <enclosure url="https://pub-96dbc39af9e0495e99e6279bf489a92d.r2.dev/backspace/09-21%EF%BC%9A%E6%97%A5%E6%9B%9C%E5%8D%88%E5%BE%8C1%E6%99%82%E9%96%8B%E5%A7%8B%E4%BA%88%E5%AE%9A%E3%80%80ep673.m4a" length="100213157" type="audio/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+</channel>
+</rss>
