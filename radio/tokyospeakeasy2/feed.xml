@@ -6,8 +6,15 @@
     <description>tokyospeakeasy の音声Podcast (FMT)</description>
     <language>ja</language>
     <itunes:category text="News"/>
-    <lastBuildDate>Tue, 29 Sep 2026 18:02:47 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 18:02:24 -0000</lastBuildDate>
     
+    <item>
+      <title>tokyospeakeasy - 2026年10月01日 (彦摩呂＆松村邦洋)</title>
+      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20261001_tokyospeakeasy_%E5%BD%A6%E6%91%A9%E5%91%82%EF%BC%86%E6%9D%BE%E6%9D%91%E9%82%A6%E6%B4%8B.aac" length="22190653" type="audio/aac" />
+      <guid isPermaLink="false">20261001_tokyospeakeasy_彦摩呂＆松村邦洋.aac</guid>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 -0000</pubDate>
+      <itunes:duration>01:00:00</itunes:duration>
+    </item>
     <item>
       <title>tokyospeakeasy - 2026年09月30日 (小林幸子＆古坂大魔王)</title>
       <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20260930_tokyospeakeasy_%E5%B0%8F%E6%9E%97%E5%B9%B8%E5%AD%90%EF%BC%86%E5%8F%A4%E5%9D%82%E5%A4%A7%E9%AD%94%E7%8E%8B.aac" length="22190633" type="audio/aac" />

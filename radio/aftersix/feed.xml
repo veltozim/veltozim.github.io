@@ -6,8 +6,15 @@
     <description>アトロク の音声Podcast (TBS)</description>
     <language>ja</language>
     <itunes:category text="News"/>
-    <lastBuildDate>Tue, 29 Sep 2026 18:02:46 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 18:02:24 -0000</lastBuildDate>
     
+    <item>
+      <title>アトロク - 2026年09月30日 (アトロク)</title>
+      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/aftersix/20260930_%E3%82%A2%E3%83%88%E3%83%AD%E3%82%AF.aac" length="44410268" type="audio/aac" />
+      <guid isPermaLink="false">20260930_アトロク.aac</guid>
+      <pubDate>Wed, 30 Sep 2026 00:00:00 -0000</pubDate>
+      <itunes:duration>02:00:00</itunes:duration>
+    </item>
     <item>
       <title>アトロク - 2026年09月29日 (50万字でも語り足りない！ でか美ちゃん＆朝井リョウ プレゼンツ 『宇宙一ディープなハロプロ楽曲』特集_でか美ちゃん（今ハマっているという“推し”としてのキャラクターの)</title>
       <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/aftersix/20260929_50%E4%B8%87%E5%AD%97%E3%81%A7%E3%82%82%E8%AA%9E%E3%82%8A%E8%B6%B3%E3%82%8A%E3%81%AA%E3%81%84%EF%BC%81%20%E3%81%A7%E3%81%8B%E7%BE%8E%E3%81%A1%E3%82%83%E3%82%93%EF%BC%86%E6%9C%9D%E4%BA%95%E3%83%AA%E3%83%A7%E3%82%A6%20%E3%83%97%E3%83%AC%E3%82%BC%E3%83%B3%E3%83%84%20%E3%80%8E%E5%AE%87%E5%AE%99%E4%B8%80%E3%83%87%E3%82%A3%E3%83%BC%E3%83%97%E3%81%AA%E3%83%8F%E3%83%AD%E3%83%97%E3%83%AD%E6%A5%BD%E6%9B%B2%E3%80%8F%E7%89%B9%E9%9B%86_%E3%81%A7%E3%81%8B%E7%BE%8E%E3%81%A1%E3%82%83%E3%82%93%EF%BC%88%E4%BB%8A%E3%83%8F%E3%83%9E%E3%81%A3%E3%81%A6%E3%81%84%E3%82%8B%E3%81%A8%E3%81%84%E3%81%86%E2%80%9C%E6%8E%A8%E3%81%97%E2%80%9D%E3%81%A8%E3%81%97%E3%81%A6%E3%81%AE%E3%82%AD%E3%83%A3%E3%83%A9%E3%82%AF%E3%82%BF%E3%83%BC%E3%81%AE.aac" length="44381250" type="audio/aac" />
@@ -139,13 +146,6 @@
       <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/aftersix/20260827_%E3%82%A2%E3%83%88%E3%83%AD%E3%82%AF.aac" length="44381250" type="audio/aac" />
       <guid isPermaLink="false">20260827_アトロク.aac</guid>
       <pubDate>Thu, 27 Aug 2026 00:00:00 -0000</pubDate>
-      <itunes:duration>02:00:00</itunes:duration>
-    </item>
-    <item>
-      <title>アトロク - 2026年08月26日 (番組丸ごと映画企画　最高の／最悪のバカンス映画はこれだ！（BLACK HOLE）)</title>
-      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/aftersix/20260826_%E7%95%AA%E7%B5%84%E4%B8%B8%E3%81%94%E3%81%A8%E6%98%A0%E7%94%BB%E4%BC%81%E7%94%BB%E3%80%80%E6%9C%80%E9%AB%98%E3%81%AE%EF%BC%8F%E6%9C%80%E6%82%AA%E3%81%AE%E3%83%90%E3%82%AB%E3%83%B3%E3%82%B9%E6%98%A0%E7%94%BB%E3%81%AF%E3%81%93%E3%82%8C%E3%81%A0%EF%BC%81%EF%BC%88BLACK%20HOLE%EF%BC%89.aac" length="44381250" type="audio/aac" />
-      <guid isPermaLink="false">20260826_番組丸ごと映画企画　最高の／最悪のバカンス映画はこれだ！（BLACK HOLE）.aac</guid>
-      <pubDate>Wed, 26 Aug 2026 00:00:00 -0000</pubDate>
       <itunes:duration>02:00:00</itunes:duration>
     </item>
   </channel>
