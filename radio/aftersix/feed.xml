@@ -6,8 +6,15 @@
     <description>アトロク の音声Podcast (TBS)</description>
     <language>ja</language>
     <itunes:category text="News"/>
-    <lastBuildDate>Tue, 06 Oct 2026 18:03:14 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 18:06:20 -0000</lastBuildDate>
     
+    <item>
+      <title>アトロク - 2026年10月07日 (アトロク)</title>
+      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/aftersix/20261007_%E3%82%A2%E3%83%88%E3%83%AD%E3%82%AF.aac" length="44410002" type="audio/aac" />
+      <guid isPermaLink="false">20261007_アトロク.aac</guid>
+      <pubDate>Wed, 07 Oct 2026 00:00:00 -0000</pubDate>
+      <itunes:duration>02:00:00</itunes:duration>
+    </item>
     <item>
       <title>アトロク - 2026年10月06日 (スマホ時代に、なぜ僕らは“生”の舞台に引き寄せられるのか？ 劇作家・平田オリザと解き明かす『高校演劇特集2026』)</title>
       <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/aftersix/20261006_%E3%82%B9%E3%83%9E%E3%83%9B%E6%99%82%E4%BB%A3%E3%81%AB%E3%80%81%E3%81%AA%E3%81%9C%E5%83%95%E3%82%89%E3%81%AF%E2%80%9C%E7%94%9F%E2%80%9D%E3%81%AE%E8%88%9E%E5%8F%B0%E3%81%AB%E5%BC%95%E3%81%8D%E5%AF%84%E3%81%9B%E3%82%89%E3%82%8C%E3%82%8B%E3%81%AE%E3%81%8B%EF%BC%9F%20%E5%8A%87%E4%BD%9C%E5%AE%B6%E3%83%BB%E5%B9%B3%E7%94%B0%E3%82%AA%E3%83%AA%E3%82%B6%E3%81%A8%E8%A7%A3%E3%81%8D%E6%98%8E%E3%81%8B%E3%81%99%E3%80%8E%E9%AB%98%E6%A0%A1%E6%BC%94%E5%8A%87%E7%89%B9%E9%9B%862026%E3%80%8F.aac" length="44381250" type="audio/aac" />
@@ -139,13 +146,6 @@
       <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/aftersix/20260903_%E6%98%A0%E7%94%BB%E3%80%8E%E3%82%AA%E3%83%BC%E3%82%AF%E3%82%B9%E3%83%88%E3%83%AA%E3%83%BC%E3%83%88%E3%81%AE%E7%95%B0%E5%A4%89%E3%80%8F%E8%A9%95%E8%AB%96.aac" length="44381250" type="audio/aac" />
       <guid isPermaLink="false">20260903_映画『オークストリートの異変』評論.aac</guid>
       <pubDate>Thu, 03 Sep 2026 00:00:00 -0000</pubDate>
-      <itunes:duration>02:00:00</itunes:duration>
-    </item>
-    <item>
-      <title>アトロク - 2026年09月02日 (聴くマブ論（森田秀一）_「ぽこ あ ポケモン」の凄み（クラベ・エスラ）)</title>
-      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/aftersix/20260902_%E8%81%B4%E3%81%8F%E3%83%9E%E3%83%96%E8%AB%96%EF%BC%88%E6%A3%AE%E7%94%B0%E7%A7%80%E4%B8%80%EF%BC%89_%E3%80%8C%E3%81%BD%E3%81%93%20%E3%81%82%20%E3%83%9D%E3%82%B1%E3%83%A2%E3%83%B3%E3%80%8D%E3%81%AE%E5%87%84%E3%81%BF%EF%BC%88%E3%82%AF%E3%83%A9%E3%83%99%E3%83%BB%E3%82%A8%E3%82%B9%E3%83%A9%EF%BC%89.aac" length="44381250" type="audio/aac" />
-      <guid isPermaLink="false">20260902_聴くマブ論（森田秀一）_「ぽこ あ ポケモン」の凄み（クラベ・エスラ）.aac</guid>
-      <pubDate>Wed, 02 Sep 2026 00:00:00 -0000</pubDate>
       <itunes:duration>02:00:00</itunes:duration>
     </item>
   </channel>
