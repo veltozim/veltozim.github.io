@@ -18,6 +18,15 @@
     <itunes:image href=""/>
 
     <item>
+        <title>第2期 TOPANGA POKECA LEAGUE 事前配信 - 2026年10月09日</title>
+        <description>配信者: トパンガ</description>
+        <link>https://www.youtube.com/@topanga3</link>
+        <guid isPermaLink="false">10-09：第2期 TOPANGA POKECA LEAGUE 事前配信.m4a</guid>
+        <pubDate>Thu, 08 Oct 2026 13:11:33 +0000</pubDate>
+        <enclosure url="https://pub-96dbc39af9e0495e99e6279bf489a92d.r2.dev/topanga3/10-09%EF%BC%9A%E7%AC%AC2%E6%9C%9F%20TOPANGA%20POKECA%20LEAGUE%20%E4%BA%8B%E5%89%8D%E9%85%8D%E4%BF%A1.m4a" length="104265657" type="audio/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
         <title>勝ちたがりTV659 SFL第3節終了＆今週末はEVOフランス【ゲスト：きんちょ - 2026年10月08日</title>
         <description>配信者: トパンガ</description>
         <link>https://www.youtube.com/@topanga3</link>
@@ -51,15 +60,6 @@
         <guid isPermaLink="false">09-24：TOPANGA TV 718 ポケカ初心者講習 - マゴ＆ときどポケカ対決！ 【.m4a</guid>
         <pubDate>Thu, 24 Sep 2026 11:06:35 +0000</pubDate>
         <enclosure url="https://pub-96dbc39af9e0495e99e6279bf489a92d.r2.dev/topanga3/09-24%EF%BC%9ATOPANGA%20TV%20718%20%E3%83%9D%E3%82%B1%E3%82%AB%E5%88%9D%E5%BF%83%E8%80%85%E8%AC%9B%E7%BF%92%20-%20%E3%83%9E%E3%82%B4%EF%BC%86%E3%81%A8%E3%81%8D%E3%81%A9%E3%83%9D%E3%82%B1%E3%82%AB%E5%AF%BE%E6%B1%BA%EF%BC%81%20%E3%80%90.m4a" length="122529974" type="audio/mp4"/>
-        <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-        <title>勝ちたがりTV657 TGS Red Bull Revengeおつかれさまでした - 2026年09月23日</title>
-        <description>配信者: トパンガ</description>
-        <link>https://www.youtube.com/@topanga3</link>
-        <guid isPermaLink="false">09-23：勝ちたがりTV657 TGS Red Bull Revengeおつかれさまでした.m4a</guid>
-        <pubDate>Tue, 22 Sep 2026 20:06:35 +0000</pubDate>
-        <enclosure url="https://pub-96dbc39af9e0495e99e6279bf489a92d.r2.dev/topanga3/09-23%EF%BC%9A%E5%8B%9D%E3%81%A1%E3%81%9F%E3%81%8C%E3%82%8ATV657%20TGS%20Red%20Bull%20Revenge%E3%81%8A%E3%81%A4%E3%81%8B%E3%82%8C%E3%81%95%E3%81%BE%E3%81%A7%E3%81%97%E3%81%9F.m4a" length="103041482" type="audio/mp4"/>
         <itunes:explicit>no</itunes:explicit>
     </item>
 </channel>
