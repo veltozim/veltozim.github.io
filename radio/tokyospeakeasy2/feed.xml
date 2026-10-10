@@ -6,7 +6,7 @@
     <description>tokyospeakeasy の音声Podcast (FMT)</description>
     <language>ja</language>
     <itunes:category text="News"/>
-    <lastBuildDate>Fri, 09 Oct 2026 18:01:56 -0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 18:00:15 -0000</lastBuildDate>
     
     <item>
       <title>tokyospeakeasy - 2026年10月09日 (鈴木奈々＆中川安奈)</title>
@@ -125,13 +125,6 @@
       <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20260911_tokyospeakeasy_%E4%B9%85%E6%9C%AC%E9%9B%85%E7%BE%8E%EF%BC%86%E3%81%AF%E3%82%8B%E3%81%AA%E6%84%9B.aac" length="22183894" type="audio/aac" />
       <guid isPermaLink="false">20260911_tokyospeakeasy_久本雅美＆はるな愛.aac</guid>
       <pubDate>Fri, 11 Sep 2026 00:00:00 -0000</pubDate>
-      <itunes:duration>01:00:00</itunes:duration>
-    </item>
-    <item>
-      <title>tokyospeakeasy - 2026年09月10日 (ライス＆サルゴリラ（お笑い芸人）)</title>
-      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20260910_tokyospeakeasy_%E3%83%A9%E3%82%A4%E3%82%B9%EF%BC%86%E3%82%B5%E3%83%AB%E3%82%B4%E3%83%AA%E3%83%A9%EF%BC%88%E3%81%8A%E7%AC%91%E3%81%84%E8%8A%B8%E4%BA%BA%EF%BC%89.aac" length="22190603" type="audio/aac" />
-      <guid isPermaLink="false">20260910_tokyospeakeasy_ライス＆サルゴリラ（お笑い芸人）.aac</guid>
-      <pubDate>Thu, 10 Sep 2026 00:00:00 -0000</pubDate>
       <itunes:duration>01:00:00</itunes:duration>
     </item>
   </channel>
