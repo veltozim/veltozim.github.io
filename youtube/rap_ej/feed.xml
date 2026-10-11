@@ -18,6 +18,15 @@
     <itunes:image href=""/>
 
     <item>
+        <title>なぜ今、世界が日本に憧れているのか？ - 2026年10月12日</title>
+        <description>配信者: Rap_EJ</description>
+        <link>https://www.youtube.com/@rap_ej</link>
+        <guid isPermaLink="false">10-12：なぜ今、世界が日本に憧れているのか？.m4a</guid>
+        <pubDate>Sun, 11 Oct 2026 20:01:44 +0000</pubDate>
+        <enclosure url="https://pub-96dbc39af9e0495e99e6279bf489a92d.r2.dev/rap_ej/10-12%EF%BC%9A%E3%81%AA%E3%81%9C%E4%BB%8A%E3%80%81%E4%B8%96%E7%95%8C%E3%81%8C%E6%97%A5%E6%9C%AC%E3%81%AB%E6%86%A7%E3%82%8C%E3%81%A6%E3%81%84%E3%82%8B%E3%81%AE%E3%81%8B%EF%BC%9F.m4a" length="6470410" type="audio/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
         <title>なぜ今、世界中が日本に憧れているのか？ - 2026年10月12日</title>
         <description>配信者: Rap_EJ</description>
         <link>https://www.youtube.com/@rap_ej</link>
@@ -51,15 +60,6 @@
         <guid isPermaLink="false">09-28：なぜラッパーは本名を使わないのか？.m4a</guid>
         <pubDate>Sun, 27 Sep 2026 11:04:08 +0000</pubDate>
         <enclosure url="https://pub-96dbc39af9e0495e99e6279bf489a92d.r2.dev/rap_ej/09-28%EF%BC%9A%E3%81%AA%E3%81%9C%E3%83%A9%E3%83%83%E3%83%91%E3%83%BC%E3%81%AF%E6%9C%AC%E5%90%8D%E3%82%92%E4%BD%BF%E3%82%8F%E3%81%AA%E3%81%84%E3%81%AE%E3%81%8B%EF%BC%9F.m4a" length="7359771" type="audio/mp4"/>
-        <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-        <title>Nike一強終了。覇権を争う13ブランドを徹底解説 - 2026年09月21日</title>
-        <description>配信者: Rap_EJ</description>
-        <link>https://www.youtube.com/@rap_ej</link>
-        <guid isPermaLink="false">09-21：Nike一強終了。覇権を争う13ブランドを徹底解説.m4a</guid>
-        <pubDate>Sun, 20 Sep 2026 11:03:49 +0000</pubDate>
-        <enclosure url="https://pub-96dbc39af9e0495e99e6279bf489a92d.r2.dev/rap_ej/09-21%EF%BC%9ANike%E4%B8%80%E5%BC%B7%E7%B5%82%E4%BA%86%E3%80%82%E8%A6%87%E6%A8%A9%E3%82%92%E4%BA%89%E3%81%8613%E3%83%96%E3%83%A9%E3%83%B3%E3%83%89%E3%82%92%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC.m4a" length="10696775" type="audio/mp4"/>
         <itunes:explicit>no</itunes:explicit>
     </item>
 </channel>
