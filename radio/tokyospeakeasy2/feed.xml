@@ -6,8 +6,15 @@
     <description>tokyospeakeasy の音声Podcast (FMT)</description>
     <language>ja</language>
     <itunes:category text="News"/>
-    <lastBuildDate>Mon, 12 Oct 2026 18:01:23 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 18:02:43 -0000</lastBuildDate>
     
+    <item>
+      <title>tokyospeakeasy - 2026年10月14日 (小栗有以（AKB48）＆濱岸ひより)</title>
+      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20261014_tokyospeakeasy_%E5%B0%8F%E6%A0%97%E6%9C%89%E4%BB%A5%EF%BC%88AKB48%EF%BC%89%EF%BC%86%E6%BF%B1%E5%B2%B8%E3%81%B2%E3%82%88%E3%82%8A.aac" length="22219330" type="audio/aac" />
+      <guid isPermaLink="false">20261014_tokyospeakeasy_小栗有以（AKB48）＆濱岸ひより.aac</guid>
+      <pubDate>Wed, 14 Oct 2026 00:00:00 -0000</pubDate>
+      <itunes:duration>01:00:00</itunes:duration>
+    </item>
     <item>
       <title>tokyospeakeasy - 2026年10月09日 (鈴木奈々＆中川安奈)</title>
       <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20261009_tokyospeakeasy_%E9%88%B4%E6%9C%A8%E5%A5%88%E3%80%85%EF%BC%86%E4%B8%AD%E5%B7%9D%E5%AE%89%E5%A5%88.aac" length="22190603" type="audio/aac" />
