@@ -18,6 +18,15 @@
     <itunes:image href=""/>
 
     <item>
+        <title>【超爽快】広告によく出てくるゲーム ラストウォーで遊んでみよう!【鬼越トマホーク - 2026年10月15日</title>
+        <description>配信者: 鬼越トマホーク</description>
+        <link>https://www.youtube.com/@onigoe</link>
+        <guid isPermaLink="false">10-15：【超爽快】広告によく出てくるゲーム ラストウォーで遊んでみよう!【鬼越トマホーク.m4a</guid>
+        <pubDate>Wed, 14 Oct 2026 11:01:33 +0000</pubDate>
+        <enclosure url="https://pub-96dbc39af9e0495e99e6279bf489a92d.r2.dev/onigoe/10-15%EF%BC%9A%E3%80%90%E8%B6%85%E7%88%BD%E5%BF%AB%E3%80%91%E5%BA%83%E5%91%8A%E3%81%AB%E3%82%88%E3%81%8F%E5%87%BA%E3%81%A6%E3%81%8F%E3%82%8B%E3%82%B2%E3%83%BC%E3%83%A0%20%E3%83%A9%E3%82%B9%E3%83%88%E3%82%A6%E3%82%A9%E3%83%BC%E3%81%A7%E9%81%8A%E3%82%93%E3%81%A7%E3%81%BF%E3%82%88%E3%81%86%21%E3%80%90%E9%AC%BC%E8%B6%8A%E3%83%88%E3%83%9E%E3%83%9B%E3%83%BC%E3%82%AF.m4a" length="16770282" type="audio/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
         <title>【世界一仲良しな女芸人】ガンバレルーヤの半生【鬼越トマホーク】 - 2026年10月13日</title>
         <description>配信者: 鬼越トマホーク</description>
         <link>https://www.youtube.com/@onigoe</link>
@@ -51,15 +60,6 @@
         <guid isPermaLink="false">10-01：【偶然と奇跡の連続】カンニング竹山の半生【鬼越トマホーク】.m4a</guid>
         <pubDate>Wed, 30 Sep 2026 20:02:22 +0000</pubDate>
         <enclosure url="https://pub-96dbc39af9e0495e99e6279bf489a92d.r2.dev/onigoe/10-01%EF%BC%9A%E3%80%90%E5%81%B6%E7%84%B6%E3%81%A8%E5%A5%87%E8%B7%A1%E3%81%AE%E9%80%A3%E7%B6%9A%E3%80%91%E3%82%AB%E3%83%B3%E3%83%8B%E3%83%B3%E3%82%B0%E7%AB%B9%E5%B1%B1%E3%81%AE%E5%8D%8A%E7%94%9F%E3%80%90%E9%AC%BC%E8%B6%8A%E3%83%88%E3%83%9E%E3%83%9B%E3%83%BC%E3%82%AF%E3%80%91.m4a" length="59432621" type="audio/mp4"/>
-        <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-        <title>【不憫じゃないですか？】スパイクの半生【鬼越トマホーク】 - 2026年09月28日</title>
-        <description>配信者: 鬼越トマホーク</description>
-        <link>https://www.youtube.com/@onigoe</link>
-        <guid isPermaLink="false">09-28：【不憫じゃないですか？】スパイクの半生【鬼越トマホーク】.m4a</guid>
-        <pubDate>Sun, 27 Sep 2026 11:02:14 +0000</pubDate>
-        <enclosure url="https://pub-96dbc39af9e0495e99e6279bf489a92d.r2.dev/onigoe/09-28%EF%BC%9A%E3%80%90%E4%B8%8D%E6%86%AB%E3%81%98%E3%82%83%E3%81%AA%E3%81%84%E3%81%A7%E3%81%99%E3%81%8B%EF%BC%9F%E3%80%91%E3%82%B9%E3%83%91%E3%82%A4%E3%82%AF%E3%81%AE%E5%8D%8A%E7%94%9F%E3%80%90%E9%AC%BC%E8%B6%8A%E3%83%88%E3%83%9E%E3%83%9B%E3%83%BC%E3%82%AF%E3%80%91.m4a" length="50234115" type="audio/mp4"/>
         <itunes:explicit>no</itunes:explicit>
     </item>
 </channel>
