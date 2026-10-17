@@ -6,7 +6,7 @@
     <description>tokyospeakeasy の音声Podcast (FMT)</description>
     <language>ja</language>
     <itunes:category text="News"/>
-    <lastBuildDate>Fri, 16 Oct 2026 18:02:44 -0000</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 18:00:14 -0000</lastBuildDate>
     
     <item>
       <title>tokyospeakeasy - 2026年10月16日 (紺野ぶるま＆エルフ・荒川)</title>
@@ -118,13 +118,6 @@
       <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20260918_tokyospeakeasy_%E8%9D%B6%E9%87%8E%E6%AD%A3%E6%B4%8B%EF%BC%86%E5%A4%A9%E5%B1%B1%E5%BA%83%E5%90%89.aac" length="22190592" type="audio/aac" />
       <guid isPermaLink="false">20260918_tokyospeakeasy_蝶野正洋＆天山広吉.aac</guid>
       <pubDate>Fri, 18 Sep 2026 00:00:00 -0000</pubDate>
-      <itunes:duration>01:00:00</itunes:duration>
-    </item>
-    <item>
-      <title>tokyospeakeasy - 2026年09月17日 (加賀翔（かが屋）＆後藤拓実（四千頭身）)</title>
-      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20260917_tokyospeakeasy_%E5%8A%A0%E8%B3%80%E7%BF%94%EF%BC%88%E3%81%8B%E3%81%8C%E5%B1%8B%EF%BC%89%EF%BC%86%E5%BE%8C%E8%97%A4%E6%8B%93%E5%AE%9F%EF%BC%88%E5%9B%9B%E5%8D%83%E9%A0%AD%E8%BA%AB%EF%BC%89.aac" length="22190559" type="audio/aac" />
-      <guid isPermaLink="false">20260917_tokyospeakeasy_加賀翔（かが屋）＆後藤拓実（四千頭身）.aac</guid>
-      <pubDate>Thu, 17 Sep 2026 00:00:00 -0000</pubDate>
       <itunes:duration>01:00:00</itunes:duration>
     </item>
   </channel>
