@@ -18,6 +18,15 @@
     <itunes:image href=""/>
 
     <item>
+        <title>【速報】ここ最近EricとNORIKIYOに続いてラッパーたちのディスが多すぎた - 2026年10月19日</title>
+        <description>配信者: ちびペンギン</description>
+        <link>https://www.youtube.com/@chibipen</link>
+        <guid isPermaLink="false">10-19：【速報】ここ最近EricとNORIKIYOに続いてラッパーたちのディスが多すぎた.m4a</guid>
+        <pubDate>Sun, 18 Oct 2026 11:02:40 +0000</pubDate>
+        <enclosure url="https://pub-96dbc39af9e0495e99e6279bf489a92d.r2.dev/chibipen/10-19%EF%BC%9A%E3%80%90%E9%80%9F%E5%A0%B1%E3%80%91%E3%81%93%E3%81%93%E6%9C%80%E8%BF%91Eric%E3%81%A8NORIKIYO%E3%81%AB%E7%B6%9A%E3%81%84%E3%81%A6%E3%83%A9%E3%83%83%E3%83%91%E3%83%BC%E3%81%9F%E3%81%A1%E3%81%AE%E3%83%87%E3%82%A3%E3%82%B9%E3%81%8C%E5%A4%9A%E3%81%99%E3%81%8E%E3%81%9F.m4a" length="6755541" type="audio/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
         <title>晋平太、最後のアルバムやMC TYSONの曲SANAE TAKAICHIにいろん - 2026年10月09日</title>
         <description>配信者: ちびペンギン</description>
         <link>https://www.youtube.com/@chibipen</link>
@@ -51,15 +60,6 @@
         <guid isPermaLink="false">10-01：千葉雄喜についてラッパーの反応やMU-TON復活など最近起きたJ-HIPHOPニ.m4a</guid>
         <pubDate>Wed, 30 Sep 2026 20:03:05 +0000</pubDate>
         <enclosure url="https://pub-96dbc39af9e0495e99e6279bf489a92d.r2.dev/chibipen/10-01%EF%BC%9A%E5%8D%83%E8%91%89%E9%9B%84%E5%96%9C%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E3%83%A9%E3%83%83%E3%83%91%E3%83%BC%E3%81%AE%E5%8F%8D%E5%BF%9C%E3%82%84MU-TON%E5%BE%A9%E6%B4%BB%E3%81%AA%E3%81%A9%E6%9C%80%E8%BF%91%E8%B5%B7%E3%81%8D%E3%81%9FJ-HIPHOP%E3%83%8B.m4a" length="6615926" type="audio/mp4"/>
-        <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-        <title>ジョジョSBRのエンディングを巡って千葉雄喜が批判されている件... - 2026年09月27日</title>
-        <description>配信者: ちびペンギン</description>
-        <link>https://www.youtube.com/@chibipen</link>
-        <guid isPermaLink="false">09-27：ジョジョSBRのエンディングを巡って千葉雄喜が批判されている件....m4a</guid>
-        <pubDate>Sun, 27 Sep 2026 11:03:03 +0000</pubDate>
-        <enclosure url="https://pub-96dbc39af9e0495e99e6279bf489a92d.r2.dev/chibipen/09-27%EF%BC%9A%E3%82%B8%E3%83%A7%E3%82%B8%E3%83%A7SBR%E3%81%AE%E3%82%A8%E3%83%B3%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%92%E5%B7%A1%E3%81%A3%E3%81%A6%E5%8D%83%E8%91%89%E9%9B%84%E5%96%9C%E3%81%8C%E6%89%B9%E5%88%A4%E3%81%95%E3%82%8C%E3%81%A6%E3%81%84%E3%82%8B%E4%BB%B6....m4a" length="6881297" type="audio/mp4"/>
         <itunes:explicit>no</itunes:explicit>
     </item>
 </channel>
