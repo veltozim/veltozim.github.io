@@ -6,8 +6,15 @@
     <description>tokyospeakeasy の音声Podcast (FMT)</description>
     <language>ja</language>
     <itunes:category text="News"/>
-    <lastBuildDate>Sun, 18 Oct 2026 18:03:24 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 18:03:12 -0000</lastBuildDate>
     
+    <item>
+      <title>tokyospeakeasy - 2026年10月20日 (小宮山雄飛（ホフディラン）＆田中みな実)</title>
+      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20261020_tokyospeakeasy_%E5%B0%8F%E5%AE%AE%E5%B1%B1%E9%9B%84%E9%A3%9B%EF%BC%88%E3%83%9B%E3%83%95%E3%83%87%E3%82%A3%E3%83%A9%E3%83%B3%EF%BC%89%EF%BC%86%E7%94%B0%E4%B8%AD%E3%81%BF%E3%81%AA%E5%AE%9F.aac" length="22190664" type="audio/aac" />
+      <guid isPermaLink="false">20261020_tokyospeakeasy_小宮山雄飛（ホフディラン）＆田中みな実.aac</guid>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 -0000</pubDate>
+      <itunes:duration>01:00:00</itunes:duration>
+    </item>
     <item>
       <title>tokyospeakeasy - 2026年10月16日 (紺野ぶるま＆エルフ・荒川)</title>
       <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20261016_tokyospeakeasy_%E7%B4%BA%E9%87%8E%E3%81%B6%E3%82%8B%E3%81%BE%EF%BC%86%E3%82%A8%E3%83%AB%E3%83%95%E3%83%BB%E8%8D%92%E5%B7%9D.aac" length="22190624" type="audio/aac" />
