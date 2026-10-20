@@ -6,8 +6,15 @@
     <description>アトロク の音声Podcast (TBS)</description>
     <language>ja</language>
     <itunes:category text="News"/>
-    <lastBuildDate>Mon, 19 Oct 2026 18:03:11 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 18:05:43 -0000</lastBuildDate>
     
+    <item>
+      <title>アトロク - 2026年10月20日 (アトロク)</title>
+      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/aftersix/20261020_%E3%82%A2%E3%83%88%E3%83%AD%E3%82%AF.aac" length="44381250" type="audio/aac" />
+      <guid isPermaLink="false">20261020_アトロク.aac</guid>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 -0000</pubDate>
+      <itunes:duration>02:00:00</itunes:duration>
+    </item>
     <item>
       <title>アトロク - 2026年10月19日 (世界で一番いいペア曲総選挙 feat.西寺郷太＆ジェーン・スー)</title>
       <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/aftersix/20261019_%E4%B8%96%E7%95%8C%E3%81%A7%E4%B8%80%E7%95%AA%E3%81%84%E3%81%84%E3%83%9A%E3%82%A2%E6%9B%B2%E7%B7%8F%E9%81%B8%E6%8C%99%20feat.%E8%A5%BF%E5%AF%BA%E9%83%B7%E5%A4%AA%EF%BC%86%E3%82%B8%E3%82%A7%E3%83%BC%E3%83%B3%E3%83%BB%E3%82%B9%E3%83%BC.aac" length="44378057" type="audio/aac" />
@@ -139,13 +146,6 @@
       <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/aftersix/20260916_%E3%83%94%E3%82%AF%E3%82%B5%E3%83%BC%E5%B0%8F%E8%A5%BF%E5%9C%92%E5%AD%90%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%93%E3%83%A5%E3%83%BC_%E6%B5%B7%E5%A4%963%E5%A4%A7SF%E8%B3%9E%E3%82%92%E8%A7%A3%E8%AA%AC%EF%BC%88%E5%A4%A7%E6%A3%AE%E6%9C%9B%EF%BC%89.aac" length="44412787" type="audio/aac" />
       <guid isPermaLink="false">20260916_ピクサー小西園子インタビュー_海外3大SF賞を解説（大森望）.aac</guid>
       <pubDate>Wed, 16 Sep 2026 00:00:00 -0000</pubDate>
-      <itunes:duration>02:00:00</itunes:duration>
-    </item>
-    <item>
-      <title>アトロク - 2026年09月15日 (アトロク)</title>
-      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/aftersix/20260915_%E3%82%A2%E3%83%88%E3%83%AD%E3%82%AF.aac" length="44412912" type="audio/aac" />
-      <guid isPermaLink="false">20260915_アトロク.aac</guid>
-      <pubDate>Tue, 15 Sep 2026 00:00:00 -0000</pubDate>
       <itunes:duration>02:00:00</itunes:duration>
     </item>
   </channel>
