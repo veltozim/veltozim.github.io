@@ -18,6 +18,15 @@
     <itunes:image href=""/>
 
     <item>
+        <title>第11回 細かすぎて伝わらない格ゲーモノマネ選手権 - 2026年10月23日</title>
+        <description>配信者: トパンガ</description>
+        <link>https://www.youtube.com/@topanga3</link>
+        <guid isPermaLink="false">10-23：第11回 細かすぎて伝わらない格ゲーモノマネ選手権.m4a</guid>
+        <pubDate>Thu, 22 Oct 2026 20:10:57 +0000</pubDate>
+        <enclosure url="https://pub-96dbc39af9e0495e99e6279bf489a92d.r2.dev/topanga3/10-23%EF%BC%9A%E7%AC%AC11%E5%9B%9E%20%E7%B4%B0%E3%81%8B%E3%81%99%E3%81%8E%E3%81%A6%E4%BC%9D%E3%82%8F%E3%82%89%E3%81%AA%E3%81%84%E6%A0%BC%E3%82%B2%E3%83%BC%E3%83%A2%E3%83%8E%E3%83%9E%E3%83%8D%E9%81%B8%E6%89%8B%E6%A8%A9.m4a" length="142983985" type="audio/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
         <title>TOPANGA TV 720 SFL第4節終了！ - 2026年10月22日</title>
         <description>配信者: トパンガ</description>
         <link>https://www.youtube.com/@topanga3</link>
@@ -51,15 +60,6 @@
         <guid isPermaLink="false">10-09：第2期 TOPANGA POKÉCA LEAGUE 事前配信.m4a</guid>
         <pubDate>Tue, 13 Oct 2026 13:10:10 +0000</pubDate>
         <enclosure url="https://pub-96dbc39af9e0495e99e6279bf489a92d.r2.dev/topanga3/10-09%EF%BC%9A%E7%AC%AC2%E6%9C%9F%20TOPANGA%20POK%C3%89CA%20LEAGUE%20%E4%BA%8B%E5%89%8D%E9%85%8D%E4%BF%A1.m4a" length="80282111" type="audio/mp4"/>
-        <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-        <title>勝ちたがりTV659 SFL第3節終了＆今週末はEVOフランス【ゲスト：きんちょ - 2026年10月08日</title>
-        <description>配信者: トパンガ</description>
-        <link>https://www.youtube.com/@topanga3</link>
-        <guid isPermaLink="false">10-08：勝ちたがりTV659 SFL第3節終了＆今週末はEVOフランス【ゲスト：きんちょ.m4a</guid>
-        <pubDate>Wed, 07 Oct 2026 20:06:08 +0000</pubDate>
-        <enclosure url="https://pub-96dbc39af9e0495e99e6279bf489a92d.r2.dev/topanga3/10-08%EF%BC%9A%E5%8B%9D%E3%81%A1%E3%81%9F%E3%81%8C%E3%82%8ATV659%20SFL%E7%AC%AC3%E7%AF%80%E7%B5%82%E4%BA%86%EF%BC%86%E4%BB%8A%E9%80%B1%E6%9C%AB%E3%81%AFEVO%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9%E3%80%90%E3%82%B2%E3%82%B9%E3%83%88%EF%BC%9A%E3%81%8D%E3%82%93%E3%81%A1%E3%82%87.m4a" length="91239250" type="audio/mp4"/>
         <itunes:explicit>no</itunes:explicit>
     </item>
 </channel>
