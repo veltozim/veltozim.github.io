@@ -6,8 +6,15 @@
     <description>tokyospeakeasy の音声Podcast (FMT)</description>
     <language>ja</language>
     <itunes:category text="News"/>
-    <lastBuildDate>Wed, 21 Oct 2026 18:02:41 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 18:02:13 -0000</lastBuildDate>
     
+    <item>
+      <title>tokyospeakeasy - 2026年10月23日 (秋元康＆鈴木京香)</title>
+      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20261023_tokyospeakeasy_%E7%A7%8B%E5%85%83%E5%BA%B7%EF%BC%86%E9%88%B4%E6%9C%A8%E4%BA%AC%E9%A6%99.aac" length="22190615" type="audio/aac" />
+      <guid isPermaLink="false">20261023_tokyospeakeasy_秋元康＆鈴木京香.aac</guid>
+      <pubDate>Fri, 23 Oct 2026 00:00:00 -0000</pubDate>
+      <itunes:duration>01:00:00</itunes:duration>
+    </item>
     <item>
       <title>tokyospeakeasy - 2026年10月22日 (見城徹＆堀江貴文)</title>
       <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20261022_tokyospeakeasy_%E8%A6%8B%E5%9F%8E%E5%BE%B9%EF%BC%86%E5%A0%80%E6%B1%9F%E8%B2%B4%E6%96%87.aac" length="22190556" type="audio/aac" />
@@ -125,13 +132,6 @@
       <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20260923_tokyospeakeasy_BONNIE_PINK%EF%BC%88%E3%82%B7%E3%83%B3%E3%82%AC%E3%83%BC%E3%82%BD%E3%83%B3%E3%82%B0%E3%83%A9%E3%82%A4%E3%82%BF%E3%83%BC%EF%BC%89%EF%BC%86tofubeats.aac" length="22190584" type="audio/aac" />
       <guid isPermaLink="false">20260923_tokyospeakeasy_BONNIE_PINK（シンガーソングライター）＆tofubeats.aac</guid>
       <pubDate>Wed, 23 Sep 2026 00:00:00 -0000</pubDate>
-      <itunes:duration>01:00:00</itunes:duration>
-    </item>
-    <item>
-      <title>tokyospeakeasy - 2026年09月22日 (クリス松村＆松岡卓弥（MATSURI）)</title>
-      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20260922_tokyospeakeasy_%E3%82%AF%E3%83%AA%E3%82%B9%E6%9D%BE%E6%9D%91%EF%BC%86%E6%9D%BE%E5%B2%A1%E5%8D%93%E5%BC%A5%EF%BC%88MATSURI%EF%BC%89.aac" length="22190613" type="audio/aac" />
-      <guid isPermaLink="false">20260922_tokyospeakeasy_クリス松村＆松岡卓弥（MATSURI）.aac</guid>
-      <pubDate>Tue, 22 Sep 2026 00:00:00 -0000</pubDate>
       <itunes:duration>01:00:00</itunes:duration>
     </item>
   </channel>
