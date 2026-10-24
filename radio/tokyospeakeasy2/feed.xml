@@ -6,7 +6,7 @@
     <description>tokyospeakeasy の音声Podcast (FMT)</description>
     <language>ja</language>
     <itunes:category text="News"/>
-    <lastBuildDate>Fri, 23 Oct 2026 18:02:11 -0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 18:00:16 -0000</lastBuildDate>
     
     <item>
       <title>tokyospeakeasy - 2026年10月23日 (秋元康＆鈴木京香)</title>
@@ -118,13 +118,6 @@
       <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20260925_tokyospeakeasy_Chage%EF%BC%86%E6%97%A9%E8%A6%8B%E5%84%AA.aac" length="22190571" type="audio/aac" />
       <guid isPermaLink="false">20260925_tokyospeakeasy_Chage＆早見優.aac</guid>
       <pubDate>Fri, 25 Sep 2026 00:00:00 -0000</pubDate>
-      <itunes:duration>01:00:00</itunes:duration>
-    </item>
-    <item>
-      <title>tokyospeakeasy - 2026年09月24日 (酒井法子＆岡田奈々)</title>
-      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20260924_tokyospeakeasy_%E9%85%92%E4%BA%95%E6%B3%95%E5%AD%90%EF%BC%86%E5%B2%A1%E7%94%B0%E5%A5%88%E3%80%85.aac" length="22219362" type="audio/aac" />
-      <guid isPermaLink="false">20260924_tokyospeakeasy_酒井法子＆岡田奈々.aac</guid>
-      <pubDate>Thu, 24 Sep 2026 00:00:00 -0000</pubDate>
       <itunes:duration>01:00:00</itunes:duration>
     </item>
   </channel>
