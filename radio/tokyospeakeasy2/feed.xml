@@ -6,8 +6,15 @@
     <description>tokyospeakeasy の音声Podcast (FMT)</description>
     <language>ja</language>
     <itunes:category text="News"/>
-    <lastBuildDate>Mon, 26 Oct 2026 18:01:18 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 18:03:06 -0000</lastBuildDate>
     
+    <item>
+      <title>tokyospeakeasy - 2026年10月28日 (ケンドーコバヤシ＆いとうあさこ)</title>
+      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20261028_tokyospeakeasy_%E3%82%B1%E3%83%B3%E3%83%89%E3%83%BC%E3%82%B3%E3%83%90%E3%83%A4%E3%82%B7%EF%BC%86%E3%81%84%E3%81%A8%E3%81%86%E3%81%82%E3%81%95%E3%81%93.aac" length="22190621" type="audio/aac" />
+      <guid isPermaLink="false">20261028_tokyospeakeasy_ケンドーコバヤシ＆いとうあさこ.aac</guid>
+      <pubDate>Wed, 28 Oct 2026 00:00:00 -0000</pubDate>
+      <itunes:duration>01:00:00</itunes:duration>
+    </item>
     <item>
       <title>tokyospeakeasy - 2026年10月23日 (秋元康＆鈴木京香)</title>
       <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20261023_tokyospeakeasy_%E7%A7%8B%E5%85%83%E5%BA%B7%EF%BC%86%E9%88%B4%E6%9C%A8%E4%BA%AC%E9%A6%99.aac" length="22190615" type="audio/aac" />
