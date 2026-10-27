@@ -18,6 +18,15 @@
     <itunes:image href=""/>
 
     <item>
+        <title>運動・SNS断ち・趣味で人生を変えたラッパーたちに学ぶ生活習慣 - 2026年10月28日</title>
+        <description>配信者: Rap_EJ</description>
+        <link>https://www.youtube.com/@rap_ej</link>
+        <guid isPermaLink="false">10-28：運動・SNS断ち・趣味で人生を変えたラッパーたちに学ぶ生活習慣.m4a</guid>
+        <pubDate>Tue, 27 Oct 2026 13:02:21 +0000</pubDate>
+        <enclosure url="https://pub-96dbc39af9e0495e99e6279bf489a92d.r2.dev/rap_ej/10-28%EF%BC%9A%E9%81%8B%E5%8B%95%E3%83%BBSNS%E6%96%AD%E3%81%A1%E3%83%BB%E8%B6%A3%E5%91%B3%E3%81%A7%E4%BA%BA%E7%94%9F%E3%82%92%E5%A4%89%E3%81%88%E3%81%9F%E3%83%A9%E3%83%83%E3%83%91%E3%83%BC%E3%81%9F%E3%81%A1%E3%81%AB%E5%AD%A6%E3%81%B6%E7%94%9F%E6%B4%BB%E7%BF%92%E6%85%A3.m4a" length="8779133" type="audio/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
         <title>“ラップが上手い”とはなんなのか - 2026年10月19日</title>
         <description>配信者: Rap_EJ</description>
         <link>https://www.youtube.com/@rap_ej</link>
@@ -51,15 +60,6 @@
         <guid isPermaLink="false">10-12：なぜ今、世界中が日本に憧れているのか？.m4a</guid>
         <pubDate>Sun, 11 Oct 2026 13:03:15 +0000</pubDate>
         <enclosure url="https://pub-96dbc39af9e0495e99e6279bf489a92d.r2.dev/rap_ej/10-12%EF%BC%9A%E3%81%AA%E3%81%9C%E4%BB%8A%E3%80%81%E4%B8%96%E7%95%8C%E4%B8%AD%E3%81%8C%E6%97%A5%E6%9C%AC%E3%81%AB%E6%86%A7%E3%82%8C%E3%81%A6%E3%81%84%E3%82%8B%E3%81%AE%E3%81%8B%EF%BC%9F.m4a" length="6470410" type="audio/mp4"/>
-        <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-        <title>ラッパーたちによる衝撃の司法取引5選 - 2026年10月05日</title>
-        <description>配信者: Rap_EJ</description>
-        <link>https://www.youtube.com/@rap_ej</link>
-        <guid isPermaLink="false">10-05：ラッパーたちによる衝撃の司法取引5選.m4a</guid>
-        <pubDate>Sun, 04 Oct 2026 11:02:24 +0000</pubDate>
-        <enclosure url="https://pub-96dbc39af9e0495e99e6279bf489a92d.r2.dev/rap_ej/10-05%EF%BC%9A%E3%83%A9%E3%83%83%E3%83%91%E3%83%BC%E3%81%9F%E3%81%A1%E3%81%AB%E3%82%88%E3%82%8B%E8%A1%9D%E6%92%83%E3%81%AE%E5%8F%B8%E6%B3%95%E5%8F%96%E5%BC%955%E9%81%B8.m4a" length="7404415" type="audio/mp4"/>
         <itunes:explicit>no</itunes:explicit>
     </item>
 </channel>
