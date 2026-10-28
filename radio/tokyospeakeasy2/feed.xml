@@ -6,8 +6,15 @@
     <description>tokyospeakeasy の音声Podcast (FMT)</description>
     <language>ja</language>
     <itunes:category text="News"/>
-    <lastBuildDate>Tue, 27 Oct 2026 18:03:06 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 18:02:14 -0000</lastBuildDate>
     
+    <item>
+      <title>tokyospeakeasy - 2026年10月29日 (水森かおり＆塩田将己（SHOW-WA）＆向山毅（SHOW-WA）)</title>
+      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20261029_tokyospeakeasy_%E6%B0%B4%E6%A3%AE%E3%81%8B%E3%81%8A%E3%82%8A%EF%BC%86%E5%A1%A9%E7%94%B0%E5%B0%86%E5%B7%B1%EF%BC%88SHOW-WA%EF%BC%89%EF%BC%86%E5%90%91%E5%B1%B1%E6%AF%85%EF%BC%88SHOW-WA%EF%BC%89.aac" length="22190576" type="audio/aac" />
+      <guid isPermaLink="false">20261029_tokyospeakeasy_水森かおり＆塩田将己（SHOW-WA）＆向山毅（SHOW-WA）.aac</guid>
+      <pubDate>Thu, 29 Oct 2026 00:00:00 -0000</pubDate>
+      <itunes:duration>01:00:00</itunes:duration>
+    </item>
     <item>
       <title>tokyospeakeasy - 2026年10月28日 (ケンドーコバヤシ＆いとうあさこ)</title>
       <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20261028_tokyospeakeasy_%E3%82%B1%E3%83%B3%E3%83%89%E3%83%BC%E3%82%B3%E3%83%90%E3%83%A4%E3%82%B7%EF%BC%86%E3%81%84%E3%81%A8%E3%81%86%E3%81%82%E3%81%95%E3%81%93.aac" length="22190621" type="audio/aac" />
