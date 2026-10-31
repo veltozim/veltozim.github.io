@@ -6,7 +6,7 @@
     <description>tokyospeakeasy の音声Podcast (FMT)</description>
     <language>ja</language>
     <itunes:category text="News"/>
-    <lastBuildDate>Fri, 30 Oct 2026 18:01:44 -0000</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 18:00:20 -0000</lastBuildDate>
     
     <item>
       <title>tokyospeakeasy - 2026年10月30日 (浜口京子（レスリング選手）＆村上佳菜子)</title>
@@ -111,13 +111,6 @@
       <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20261002_tokyospeakeasy_%E9%96%93%E5%AF%9B%E5%B9%B3%EF%BC%86%E3%82%A2%E3%82%AD.aac" length="22190658" type="audio/aac" />
       <guid isPermaLink="false">20261002_tokyospeakeasy_間寛平＆アキ.aac</guid>
       <pubDate>Fri, 02 Oct 2026 00:00:00 -0000</pubDate>
-      <itunes:duration>01:00:00</itunes:duration>
-    </item>
-    <item>
-      <title>tokyospeakeasy - 2026年10月01日 (彦摩呂＆松村邦洋)</title>
-      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20261001_tokyospeakeasy_%E5%BD%A6%E6%91%A9%E5%91%82%EF%BC%86%E6%9D%BE%E6%9D%91%E9%82%A6%E6%B4%8B.aac" length="22190653" type="audio/aac" />
-      <guid isPermaLink="false">20261001_tokyospeakeasy_彦摩呂＆松村邦洋.aac</guid>
-      <pubDate>Thu, 01 Oct 2026 00:00:00 -0000</pubDate>
       <itunes:duration>01:00:00</itunes:duration>
     </item>
   </channel>
