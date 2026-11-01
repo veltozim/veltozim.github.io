@@ -6,7 +6,7 @@
     <description>tokyospeakeasy の音声Podcast (FMT)</description>
     <language>ja</language>
     <itunes:category text="News"/>
-    <lastBuildDate>Sat, 31 Oct 2026 18:00:20 -0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 18:03:28 -0000</lastBuildDate>
     
     <item>
       <title>tokyospeakeasy - 2026年10月30日 (浜口京子（レスリング選手）＆村上佳菜子)</title>
@@ -104,13 +104,6 @@
       <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20261006_tokyospeakeasy_%E3%81%AA%E3%81%A0%E3%81%8E%E6%AD%A6%EF%BC%86%E3%83%81%E3%83%A3%E3%83%B3%E3%82%B9%E5%A4%A7%E5%9F%8E.aac" length="22181754" type="audio/aac" />
       <guid isPermaLink="false">20261006_tokyospeakeasy_なだぎ武＆チャンス大城.aac</guid>
       <pubDate>Tue, 06 Oct 2026 00:00:00 -0000</pubDate>
-      <itunes:duration>01:00:00</itunes:duration>
-    </item>
-    <item>
-      <title>tokyospeakeasy - 2026年10月02日 (間寛平＆アキ)</title>
-      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20261002_tokyospeakeasy_%E9%96%93%E5%AF%9B%E5%B9%B3%EF%BC%86%E3%82%A2%E3%82%AD.aac" length="22190658" type="audio/aac" />
-      <guid isPermaLink="false">20261002_tokyospeakeasy_間寛平＆アキ.aac</guid>
-      <pubDate>Fri, 02 Oct 2026 00:00:00 -0000</pubDate>
       <itunes:duration>01:00:00</itunes:duration>
     </item>
   </channel>
