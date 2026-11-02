@@ -6,8 +6,15 @@
     <description>tokyospeakeasy の音声Podcast (FMT)</description>
     <language>ja</language>
     <itunes:category text="News"/>
-    <lastBuildDate>Sun, 01 Nov 2026 18:03:28 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 18:02:10 -0000</lastBuildDate>
     
+    <item>
+      <title>tokyospeakeasy - 2026年11月03日 (相田周二＆天城サリー（22＆7）＆南伊織（22＆7）)</title>
+      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20261103_tokyospeakeasy_%E7%9B%B8%E7%94%B0%E5%91%A8%E4%BA%8C%EF%BC%86%E5%A4%A9%E5%9F%8E%E3%82%B5%E3%83%AA%E3%83%BC%EF%BC%8822%EF%BC%867%EF%BC%89%EF%BC%86%E5%8D%97%E4%BC%8A%E7%B9%94%EF%BC%8822%EF%BC%867%EF%BC%89.aac" length="22190622" type="audio/aac" />
+      <guid isPermaLink="false">20261103_tokyospeakeasy_相田周二＆天城サリー（22＆7）＆南伊織（22＆7）.aac</guid>
+      <pubDate>Tue, 03 Nov 2026 00:00:00 -0000</pubDate>
+      <itunes:duration>01:00:00</itunes:duration>
+    </item>
     <item>
       <title>tokyospeakeasy - 2026年10月30日 (浜口京子（レスリング選手）＆村上佳菜子)</title>
       <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20261030_tokyospeakeasy_%E6%B5%9C%E5%8F%A3%E4%BA%AC%E5%AD%90%EF%BC%88%E3%83%AC%E3%82%B9%E3%83%AA%E3%83%B3%E3%82%B0%E9%81%B8%E6%89%8B%EF%BC%89%EF%BC%86%E6%9D%91%E4%B8%8A%E4%BD%B3%E8%8F%9C%E5%AD%90.aac" length="22190591" type="audio/aac" />
