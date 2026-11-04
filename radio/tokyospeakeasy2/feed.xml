@@ -6,8 +6,15 @@
     <description>tokyospeakeasy の音声Podcast (FMT)</description>
     <language>ja</language>
     <itunes:category text="News"/>
-    <lastBuildDate>Tue, 03 Nov 2026 18:18:41 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 18:02:23 -0000</lastBuildDate>
     
+    <item>
+      <title>tokyospeakeasy - 2026年11月05日 (ますだおかだ岡田＆高橋成美)</title>
+      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20261105_tokyospeakeasy_%E3%81%BE%E3%81%99%E3%81%A0%E3%81%8A%E3%81%8B%E3%81%A0%E5%B2%A1%E7%94%B0%EF%BC%86%E9%AB%98%E6%A9%8B%E6%88%90%E7%BE%8E.aac" length="22190623" type="audio/aac" />
+      <guid isPermaLink="false">20261105_tokyospeakeasy_ますだおかだ岡田＆高橋成美.aac</guid>
+      <pubDate>Thu, 05 Nov 2026 00:00:00 -0000</pubDate>
+      <itunes:duration>01:00:00</itunes:duration>
+    </item>
     <item>
       <title>tokyospeakeasy - 2026年11月04日 (渡邊圭祐＆葵わかな)</title>
       <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20261104_tokyospeakeasy_%E6%B8%A1%E9%82%8A%E5%9C%AD%E7%A5%90%EF%BC%86%E8%91%B5%E3%82%8F%E3%81%8B%E3%81%AA.aac" length="22190612" type="audio/aac" />

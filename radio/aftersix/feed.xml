@@ -6,8 +6,15 @@
     <description>アトロク の音声Podcast (TBS)</description>
     <language>ja</language>
     <itunes:category text="News"/>
-    <lastBuildDate>Tue, 03 Nov 2026 18:18:40 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 18:02:22 -0000</lastBuildDate>
     
+    <item>
+      <title>アトロク - 2026年11月04日 (マブ論（森田秀一）_鈴木みのりのカルチャーニュース)</title>
+      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/aftersix/20261104_%E3%83%9E%E3%83%96%E8%AB%96%EF%BC%88%E6%A3%AE%E7%94%B0%E7%A7%80%E4%B8%80%EF%BC%89_%E9%88%B4%E6%9C%A8%E3%81%BF%E3%81%AE%E3%82%8A%E3%81%AE%E3%82%AB%E3%83%AB%E3%83%81%E3%83%A3%E3%83%BC%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9.aac" length="44381250" type="audio/aac" />
+      <guid isPermaLink="false">20261104_マブ論（森田秀一）_鈴木みのりのカルチャーニュース.aac</guid>
+      <pubDate>Wed, 04 Nov 2026 00:00:00 -0000</pubDate>
+      <itunes:duration>02:00:00</itunes:duration>
+    </item>
     <item>
       <title>アトロク - 2026年11月03日 (全国で見かける格安インドカレー店、通称“インネパ”を営む“カレー移民”とは？特集 by 室橋裕和_温泉エッセイスト・山崎まゆみ(国際交流基金コラボ企画))</title>
       <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/aftersix/20261103_%E5%85%A8%E5%9B%BD%E3%81%A7%E8%A6%8B%E3%81%8B%E3%81%91%E3%82%8B%E6%A0%BC%E5%AE%89%E3%82%A4%E3%83%B3%E3%83%89%E3%82%AB%E3%83%AC%E3%83%BC%E5%BA%97%E3%80%81%E9%80%9A%E7%A7%B0%E2%80%9C%E3%82%A4%E3%83%B3%E3%83%8D%E3%83%91%E2%80%9D%E3%82%92%E5%96%B6%E3%82%80%E2%80%9C%E3%82%AB%E3%83%AC%E3%83%BC%E7%A7%BB%E6%B0%91%E2%80%9D%E3%81%A8%E3%81%AF%EF%BC%9F%E7%89%B9%E9%9B%86%20by%20%E5%AE%A4%E6%A9%8B%E8%A3%95%E5%92%8C_%E6%B8%A9%E6%B3%89%E3%82%A8%E3%83%83%E3%82%BB%E3%82%A4%E3%82%B9%E3%83%88%E3%83%BB%E5%B1%B1%E5%B4%8E%E3%81%BE%E3%82%86%E3%81%BF%28%E5%9B%BD%E9%9A%9B%E4%BA%A4%E6%B5%81%E5%9F%BA%E9%87%91%E3%82%B3%E3%83%A9%E3%83%9C%E4%BC%81%E7%94%BB%29.aac" length="44381250" type="audio/aac" />
@@ -139,13 +146,6 @@
       <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/aftersix/20261001_%E6%98%A0%E7%94%BB%E3%80%8E%E3%81%95%E3%81%A8%E3%81%93%E3%81%AF%E3%81%84%E3%81%A4%E3%82%82%E3%80%8F%E8%A9%95%E8%AB%96_%E5%8F%8B%E7%94%B0%E3%82%AA%E3%83%AC%EF%BC%88%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AALIVE%EF%BC%89.aac" length="44381250" type="audio/aac" />
       <guid isPermaLink="false">20261001_映画『さとこはいつも』評論_友田オレ（スタジオLIVE）.aac</guid>
       <pubDate>Thu, 01 Oct 2026 00:00:00 -0000</pubDate>
-      <itunes:duration>02:00:00</itunes:duration>
-    </item>
-    <item>
-      <title>アトロク - 2026年09月30日 (アトロク)</title>
-      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/aftersix/20260930_%E3%82%A2%E3%83%88%E3%83%AD%E3%82%AF.aac" length="44410268" type="audio/aac" />
-      <guid isPermaLink="false">20260930_アトロク.aac</guid>
-      <pubDate>Wed, 30 Sep 2026 00:00:00 -0000</pubDate>
       <itunes:duration>02:00:00</itunes:duration>
     </item>
   </channel>
