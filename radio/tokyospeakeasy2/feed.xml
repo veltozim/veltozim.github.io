@@ -6,8 +6,15 @@
     <description>tokyospeakeasy の音声Podcast (FMT)</description>
     <language>ja</language>
     <itunes:category text="News"/>
-    <lastBuildDate>Tue, 10 Nov 2026 18:28:35 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 18:02:12 -0000</lastBuildDate>
     
+    <item>
+      <title>tokyospeakeasy - 2026年11月12日 (黒岩祐治＆ラサール石井)</title>
+      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20261112_tokyospeakeasy_%E9%BB%92%E5%B2%A9%E7%A5%90%E6%B2%BB%EF%BC%86%E3%83%A9%E3%82%B5%E3%83%BC%E3%83%AB%E7%9F%B3%E4%BA%95.aac" length="22190642" type="audio/aac" />
+      <guid isPermaLink="false">20261112_tokyospeakeasy_黒岩祐治＆ラサール石井.aac</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 -0000</pubDate>
+      <itunes:duration>01:00:00</itunes:duration>
+    </item>
     <item>
       <title>tokyospeakeasy - 2026年11月11日 (戸塚祥太（A.B.C-Z）＆宮近海斗（Travis_Japan）)</title>
       <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20261111_tokyospeakeasy_%E6%88%B8%E5%A1%9A%E7%A5%A5%E5%A4%AA%EF%BC%88A.B.C-Z%EF%BC%89%EF%BC%86%E5%AE%AE%E8%BF%91%E6%B5%B7%E6%96%97%EF%BC%88Travis_Japan%EF%BC%89.aac" length="22178424" type="audio/aac" />
