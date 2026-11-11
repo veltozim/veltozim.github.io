@@ -18,6 +18,24 @@
     <itunes:image href=""/>
 
     <item>
+        <title>TOPANGA TV 723 SFL第7節終了！ - 2026年11月12日</title>
+        <description>配信者: トパンガ</description>
+        <link>https://www.youtube.com/@topanga3</link>
+        <guid isPermaLink="false">11-12：TOPANGA TV 723 SFL第7節終了！.m4a</guid>
+        <pubDate>Wed, 11 Nov 2026 20:06:57 +0000</pubDate>
+        <enclosure url="https://pub-96dbc39af9e0495e99e6279bf489a92d.r2.dev/topanga3/11-12%EF%BC%9ATOPANGA%20TV%20723%20SFL%E7%AC%AC7%E7%AF%80%E7%B5%82%E4%BA%86%EF%BC%81.m4a" length="72944858" type="audio/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+        <title>勝ちたがりTV663 SFL第7節終了 - 2026年11月12日</title>
+        <description>配信者: トパンガ</description>
+        <link>https://www.youtube.com/@topanga3</link>
+        <guid isPermaLink="false">11-12：勝ちたがりTV663 SFL第7節終了.m4a</guid>
+        <pubDate>Wed, 11 Nov 2026 20:05:52 +0000</pubDate>
+        <enclosure url="https://pub-96dbc39af9e0495e99e6279bf489a92d.r2.dev/topanga3/11-12%EF%BC%9A%E5%8B%9D%E3%81%A1%E3%81%9F%E3%81%8C%E3%82%8ATV663%20SFL%E7%AC%AC7%E7%AF%80%E7%B5%82%E4%BA%86.m4a" length="64674873" type="audio/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
         <title>TOPANGA TV 722 SFL第6節終了！ - 2026年11月05日</title>
         <description>配信者: トパンガ</description>
         <link>https://www.youtube.com/@topanga3</link>
@@ -42,24 +60,6 @@
         <guid isPermaLink="false">10-29：TOPANGA TV 721 SFL第5節終了！.m4a</guid>
         <pubDate>Wed, 28 Oct 2026 13:08:25 +0000</pubDate>
         <enclosure url="https://pub-96dbc39af9e0495e99e6279bf489a92d.r2.dev/topanga3/10-29%EF%BC%9ATOPANGA%20TV%20721%20SFL%E7%AC%AC5%E7%AF%80%E7%B5%82%E4%BA%86%EF%BC%81.m4a" length="97164781" type="audio/mp4"/>
-        <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-        <title>勝ちたがりTV661 SFL第5節終了 - 2026年10月29日</title>
-        <description>配信者: トパンガ</description>
-        <link>https://www.youtube.com/@topanga3</link>
-        <guid isPermaLink="false">10-29：勝ちたがりTV661 SFL第5節終了.m4a</guid>
-        <pubDate>Wed, 28 Oct 2026 20:06:37 +0000</pubDate>
-        <enclosure url="https://pub-96dbc39af9e0495e99e6279bf489a92d.r2.dev/topanga3/10-29%EF%BC%9A%E5%8B%9D%E3%81%A1%E3%81%9F%E3%81%8C%E3%82%8ATV661%20SFL%E7%AC%AC5%E7%AF%80%E7%B5%82%E4%BA%86.m4a" length="59602400" type="audio/mp4"/>
-        <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-        <title>第11回 細かすぎて伝わらない格ゲーモノマネ選手権 - 2026年10月23日</title>
-        <description>配信者: トパンガ</description>
-        <link>https://www.youtube.com/@topanga3</link>
-        <guid isPermaLink="false">10-23：第11回 細かすぎて伝わらない格ゲーモノマネ選手権.m4a</guid>
-        <pubDate>Thu, 22 Oct 2026 20:10:57 +0000</pubDate>
-        <enclosure url="https://pub-96dbc39af9e0495e99e6279bf489a92d.r2.dev/topanga3/10-23%EF%BC%9A%E7%AC%AC11%E5%9B%9E%20%E7%B4%B0%E3%81%8B%E3%81%99%E3%81%8E%E3%81%A6%E4%BC%9D%E3%82%8F%E3%82%89%E3%81%AA%E3%81%84%E6%A0%BC%E3%82%B2%E3%83%BC%E3%83%A2%E3%83%8E%E3%83%9E%E3%83%8D%E9%81%B8%E6%89%8B%E6%A8%A9.m4a" length="142983985" type="audio/mp4"/>
         <itunes:explicit>no</itunes:explicit>
     </item>
 </channel>
