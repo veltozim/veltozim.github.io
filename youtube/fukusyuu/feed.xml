@@ -18,6 +18,15 @@
     <itunes:image href=""/>
 
     <item>
+        <title>第１７７回復讐ラジオ〜あの芸人からDMの回〜 - 2026年11月13日</title>
+        <description>配信者: 復讐ラジオ</description>
+        <link>https://www.youtube.com/@fukusyuu</link>
+        <guid isPermaLink="false">11-13：第１７７回復讐ラジオ〜あの芸人からDMの回〜.m4a</guid>
+        <pubDate>Thu, 12 Nov 2026 11:14:40 +0000</pubDate>
+        <enclosure url="https://pub-96dbc39af9e0495e99e6279bf489a92d.r2.dev/fukusyuu/11-13%EF%BC%9A%E7%AC%AC%EF%BC%91%EF%BC%97%EF%BC%97%E5%9B%9E%E5%BE%A9%E8%AE%90%E3%83%A9%E3%82%B7%E3%82%99%E3%82%AA%E3%80%9C%E3%81%82%E3%81%AE%E8%8A%B8%E4%BA%BA%E3%81%8B%E3%82%89DM%E3%81%AE%E5%9B%9E%E3%80%9C.m4a" length="41010356" type="audio/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
         <title>【人間成長ラジオに行ってきた！】第１７６回復讐ラジオ〜１点問題決着！！の回〜 - 2026年11月06日</title>
         <description>配信者: 復讐ラジオ</description>
         <link>https://www.youtube.com/@fukusyuu</link>
@@ -51,15 +60,6 @@
         <guid isPermaLink="false">10-17：第１７３回復讐ラジオ〜色々あったオールスター後夜祭の回〜.m4a</guid>
         <pubDate>Fri, 16 Oct 2026 13:05:29 +0000</pubDate>
         <enclosure url="https://pub-96dbc39af9e0495e99e6279bf489a92d.r2.dev/fukusyuu/10-17%EF%BC%9A%E7%AC%AC%EF%BC%91%EF%BC%97%EF%BC%93%E5%9B%9E%E5%BE%A9%E8%AE%90%E3%83%A9%E3%82%B7%E3%82%99%E3%82%AA%E3%80%9C%E8%89%B2%E3%80%85%E3%81%82%E3%81%A3%E3%81%9F%E3%82%AA%E3%83%BC%E3%83%AB%E3%82%B9%E3%82%BF%E3%83%BC%E5%BE%8C%E5%A4%9C%E7%A5%AD%E3%81%AE%E5%9B%9E%E3%80%9C.m4a" length="48219725" type="audio/mp4"/>
-        <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-        <title>第１７２回復讐ラジオ〜ウケたいだけ！の回〜 - 2026年10月09日</title>
-        <description>配信者: 復讐ラジオ</description>
-        <link>https://www.youtube.com/@fukusyuu</link>
-        <guid isPermaLink="false">10-09：第１７２回復讐ラジオ〜ウケたいだけ！の回〜.m4a</guid>
-        <pubDate>Thu, 08 Oct 2026 11:05:06 +0000</pubDate>
-        <enclosure url="https://pub-96dbc39af9e0495e99e6279bf489a92d.r2.dev/fukusyuu/10-09%EF%BC%9A%E7%AC%AC%EF%BC%91%EF%BC%97%EF%BC%92%E5%9B%9E%E5%BE%A9%E8%AE%90%E3%83%A9%E3%82%B7%E3%82%99%E3%82%AA%E3%80%9C%E3%82%A6%E3%82%B1%E3%81%9F%E3%81%84%E3%81%A0%E3%81%91%EF%BC%81%E3%81%AE%E5%9B%9E%E3%80%9C.m4a" length="49498558" type="audio/mp4"/>
         <itunes:explicit>no</itunes:explicit>
     </item>
 </channel>
