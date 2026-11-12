@@ -6,8 +6,15 @@
     <description>アトロク の音声Podcast (TBS)</description>
     <language>ja</language>
     <itunes:category text="News"/>
-    <lastBuildDate>Wed, 11 Nov 2026 18:02:11 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 18:02:52 -0000</lastBuildDate>
     
+    <item>
+      <title>アトロク - 2026年11月12日 (映画『クレイフェイス』 評論_Luv（スタジオLIVE）)</title>
+      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/aftersix/20261112_%E6%98%A0%E7%94%BB%E3%80%8E%E3%82%AF%E3%83%AC%E3%82%A4%E3%83%95%E3%82%A7%E3%82%A4%E3%82%B9%E3%80%8F%20%E8%A9%95%E8%AB%96_Luv%EF%BC%88%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AALIVE%EF%BC%89.aac" length="44411861" type="audio/aac" />
+      <guid isPermaLink="false">20261112_映画『クレイフェイス』 評論_Luv（スタジオLIVE）.aac</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 -0000</pubDate>
+      <itunes:duration>02:00:00</itunes:duration>
+    </item>
     <item>
       <title>アトロク - 2026年11月11日 (シェイクスピア入門・ロミジュリ編（北村紗衣）_ミン・ジヒョンさんインタビュー（『忘れないから、私たちは』出版）)</title>
       <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/aftersix/20261111_%E3%82%B7%E3%82%A7%E3%82%A4%E3%82%AF%E3%82%B9%E3%83%94%E3%82%A2%E5%85%A5%E9%96%80%E3%83%BB%E3%83%AD%E3%83%9F%E3%82%B8%E3%83%A5%E3%83%AA%E7%B7%A8%EF%BC%88%E5%8C%97%E6%9D%91%E7%B4%97%E8%A1%A3%EF%BC%89_%E3%83%9F%E3%83%B3%E3%83%BB%E3%82%B8%E3%83%92%E3%83%A7%E3%83%B3%E3%81%95%E3%82%93%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%93%E3%83%A5%E3%83%BC%EF%BC%88%E3%80%8E%E5%BF%98%E3%82%8C%E3%81%AA%E3%81%84%E3%81%8B%E3%82%89%E3%80%81%E7%A7%81%E3%81%9F%E3%81%A1%E3%81%AF%E3%80%8F%E5%87%BA%E7%89%88%EF%BC%89.aac" length="44381250" type="audio/aac" />
@@ -139,13 +146,6 @@
       <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/aftersix/20261012_%E3%80%8E%E3%83%87%E3%82%A3%E3%82%AC%E3%83%BC%E3%80%8F%E3%82%A2%E3%83%AC%E3%83%8F%E3%83%B3%E3%83%89%E3%83%AD%E3%83%BBG%E3%83%BB%E3%82%A4%E3%83%8B%E3%83%A3%E3%83%AA%E3%83%88%E3%82%A5%E7%9B%A3%E7%9D%A3%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%93%E3%83%A5%E3%83%BC.aac" length="44381250" type="audio/aac" />
       <guid isPermaLink="false">20261012_『ディガー』アレハンドロ・G・イニャリトゥ監督インタビュー.aac</guid>
       <pubDate>Mon, 12 Oct 2026 00:00:00 -0000</pubDate>
-      <itunes:duration>02:00:00</itunes:duration>
-    </item>
-    <item>
-      <title>アトロク - 2026年10月08日 (映画『我々は宇宙人』評論_NakamuraEmi（スタジオLIVE）)</title>
-      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/aftersix/20261008_%E6%98%A0%E7%94%BB%E3%80%8E%E6%88%91%E3%80%85%E3%81%AF%E5%AE%87%E5%AE%99%E4%BA%BA%E3%80%8F%E8%A9%95%E8%AB%96_NakamuraEmi%EF%BC%88%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AALIVE%EF%BC%89.aac" length="44381250" type="audio/aac" />
-      <guid isPermaLink="false">20261008_映画『我々は宇宙人』評論_NakamuraEmi（スタジオLIVE）.aac</guid>
-      <pubDate>Thu, 08 Oct 2026 00:00:00 -0000</pubDate>
       <itunes:duration>02:00:00</itunes:duration>
     </item>
   </channel>
