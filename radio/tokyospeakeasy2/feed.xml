@@ -6,7 +6,7 @@
     <description>tokyospeakeasy の音声Podcast (FMT)</description>
     <language>ja</language>
     <itunes:category text="News"/>
-    <lastBuildDate>Fri, 13 Nov 2026 18:02:20 -0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 18:00:18 -0000</lastBuildDate>
     
     <item>
       <title>tokyospeakeasy - 2026年11月13日 (柏木由紀＆牧野真莉愛)</title>
@@ -118,13 +118,6 @@
       <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20261016_tokyospeakeasy_%E7%B4%BA%E9%87%8E%E3%81%B6%E3%82%8B%E3%81%BE%EF%BC%86%E3%82%A8%E3%83%AB%E3%83%95%E3%83%BB%E8%8D%92%E5%B7%9D.aac" length="22190624" type="audio/aac" />
       <guid isPermaLink="false">20261016_tokyospeakeasy_紺野ぶるま＆エルフ・荒川.aac</guid>
       <pubDate>Fri, 16 Oct 2026 00:00:00 -0000</pubDate>
-      <itunes:duration>01:00:00</itunes:duration>
-    </item>
-    <item>
-      <title>tokyospeakeasy - 2026年10月15日 (吉田豪＆福嶋涼斗（Cloud_ten）＆小峯佑斗（Cloud_ten）)</title>
-      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20261015_tokyospeakeasy_%E5%90%89%E7%94%B0%E8%B1%AA%EF%BC%86%E7%A6%8F%E5%B6%8B%E6%B6%BC%E6%96%97%EF%BC%88Cloud_ten%EF%BC%89%EF%BC%86%E5%B0%8F%E5%B3%AF%E4%BD%91%E6%96%97%EF%BC%88Cloud_ten%EF%BC%89.aac" length="22190652" type="audio/aac" />
-      <guid isPermaLink="false">20261015_tokyospeakeasy_吉田豪＆福嶋涼斗（Cloud_ten）＆小峯佑斗（Cloud_ten）.aac</guid>
-      <pubDate>Thu, 15 Oct 2026 00:00:00 -0000</pubDate>
       <itunes:duration>01:00:00</itunes:duration>
     </item>
   </channel>
