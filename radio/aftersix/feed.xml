@@ -6,8 +6,15 @@
     <description>アトロク の音声Podcast (TBS)</description>
     <language>ja</language>
     <itunes:category text="News"/>
-    <lastBuildDate>Tue, 17 Nov 2026 18:04:44 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 18:04:11 -0000</lastBuildDate>
     
+    <item>
+      <title>アトロク - 2026年11月18日 (GTA超入門（Jini）_GTAは現代のアメリカ文学か？（矢倉喬士）)</title>
+      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/aftersix/20261118_GTA%E8%B6%85%E5%85%A5%E9%96%80%EF%BC%88Jini%EF%BC%89_GTA%E3%81%AF%E7%8F%BE%E4%BB%A3%E3%81%AE%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E6%96%87%E5%AD%A6%E3%81%8B%EF%BC%9F%EF%BC%88%E7%9F%A2%E5%80%89%E5%96%AC%E5%A3%AB%EF%BC%89.aac" length="44380635" type="audio/aac" />
+      <guid isPermaLink="false">20261118_GTA超入門（Jini）_GTAは現代のアメリカ文学か？（矢倉喬士）.aac</guid>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 -0000</pubDate>
+      <itunes:duration>02:00:00</itunes:duration>
+    </item>
     <item>
       <title>アトロク - 2026年11月17日 (公開直前企画！映画『装甲騎兵ボトムズ 灰色の魔女』は知識ゼロでも楽しめるんだぜ！特集 by 山田集佳 ＆ 渡辺範明_プロデューサー・松本紀子＆アニメーション作家・矢野ほなみ)</title>
       <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/aftersix/20261117_%E5%85%AC%E9%96%8B%E7%9B%B4%E5%89%8D%E4%BC%81%E7%94%BB%EF%BC%81%E6%98%A0%E7%94%BB%E3%80%8E%E8%A3%85%E7%94%B2%E9%A8%8E%E5%85%B5%E3%83%9C%E3%83%88%E3%83%A0%E3%82%BA%20%E7%81%B0%E8%89%B2%E3%81%AE%E9%AD%94%E5%A5%B3%E3%80%8F%E3%81%AF%E7%9F%A5%E8%AD%98%E3%82%BC%E3%83%AD%E3%81%A7%E3%82%82%E6%A5%BD%E3%81%97%E3%82%81%E3%82%8B%E3%82%93%E3%81%A0%E3%81%9C%EF%BC%81%E7%89%B9%E9%9B%86%20by%20%E5%B1%B1%E7%94%B0%E9%9B%86%E4%BD%B3%20%EF%BC%86%20%E6%B8%A1%E8%BE%BA%E7%AF%84%E6%98%8E_%E3%83%97%E3%83%AD%E3%83%87%E3%83%A5%E3%83%BC%E3%82%B5%E3%83%BC%E3%83%BB%E6%9D%BE%E6%9C%AC%E7%B4%80%E5%AD%90%EF%BC%86%E3%82%A2%E3%83%8B%E3%83%A1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E4%BD%9C%E5%AE%B6%E3%83%BB%E7%9F%A2%E9%87%8E%E3%81%BB%E3%81%AA%E3%81%BF.aac" length="44381250" type="audio/aac" />
@@ -139,13 +146,6 @@
       <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/aftersix/20261019_%E4%B8%96%E7%95%8C%E3%81%A7%E4%B8%80%E7%95%AA%E3%81%84%E3%81%84%E3%83%9A%E3%82%A2%E6%9B%B2%E7%B7%8F%E9%81%B8%E6%8C%99%20feat.%E8%A5%BF%E5%AF%BA%E9%83%B7%E5%A4%AA%EF%BC%86%E3%82%B8%E3%82%A7%E3%83%BC%E3%83%B3%E3%83%BB%E3%82%B9%E3%83%BC.aac" length="44378057" type="audio/aac" />
       <guid isPermaLink="false">20261019_世界で一番いいペア曲総選挙 feat.西寺郷太＆ジェーン・スー.aac</guid>
       <pubDate>Mon, 19 Oct 2026 00:00:00 -0000</pubDate>
-      <itunes:duration>02:00:00</itunes:duration>
-    </item>
-    <item>
-      <title>アトロク - 2026年10月15日 (映画『バイオハザード』評論)</title>
-      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/aftersix/20261015_%E6%98%A0%E7%94%BB%E3%80%8E%E3%83%90%E3%82%A4%E3%82%AA%E3%83%8F%E3%82%B6%E3%83%BC%E3%83%89%E3%80%8F%E8%A9%95%E8%AB%96.aac" length="44386251" type="audio/aac" />
-      <guid isPermaLink="false">20261015_映画『バイオハザード』評論.aac</guid>
-      <pubDate>Thu, 15 Oct 2026 00:00:00 -0000</pubDate>
       <itunes:duration>02:00:00</itunes:duration>
     </item>
   </channel>

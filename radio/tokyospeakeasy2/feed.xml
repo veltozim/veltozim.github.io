@@ -6,8 +6,15 @@
     <description>tokyospeakeasy の音声Podcast (FMT)</description>
     <language>ja</language>
     <itunes:category text="News"/>
-    <lastBuildDate>Tue, 17 Nov 2026 18:04:45 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 18:04:11 -0000</lastBuildDate>
     
+    <item>
+      <title>tokyospeakeasy - 2026年11月19日 (バッファロー吾郎A＆吉田大吾)</title>
+      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20261119_tokyospeakeasy_%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC%E5%90%BE%E9%83%8EA%EF%BC%86%E5%90%89%E7%94%B0%E5%A4%A7%E5%90%BE.aac" length="22190564" type="audio/aac" />
+      <guid isPermaLink="false">20261119_tokyospeakeasy_バッファロー吾郎A＆吉田大吾.aac</guid>
+      <pubDate>Thu, 19 Nov 2026 00:00:00 -0000</pubDate>
+      <itunes:duration>01:00:00</itunes:duration>
+    </item>
     <item>
       <title>tokyospeakeasy - 2026年11月18日 (はしのえみ＆安めぐみ)</title>
       <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20261118_tokyospeakeasy_%E3%81%AF%E3%81%97%E3%81%AE%E3%81%88%E3%81%BF%EF%BC%86%E5%AE%89%E3%82%81%E3%81%90%E3%81%BF.aac" length="22190649" type="audio/aac" />
