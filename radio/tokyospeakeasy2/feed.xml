@@ -6,8 +6,15 @@
     <description>tokyospeakeasy の音声Podcast (FMT)</description>
     <language>ja</language>
     <itunes:category text="News"/>
-    <lastBuildDate>Wed, 18 Nov 2026 18:04:11 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 18:01:39 -0000</lastBuildDate>
     
+    <item>
+      <title>tokyospeakeasy - 2026年11月20日 (森本しんたろう＆岩本理瑚＆早﨑すずき)</title>
+      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20261120_tokyospeakeasy_%E6%A3%AE%E6%9C%AC%E3%81%97%E3%82%93%E3%81%9F%E3%82%8D%E3%81%86%EF%BC%86%E5%B2%A9%E6%9C%AC%E7%90%86%E7%91%9A%EF%BC%86%E6%97%A9%EF%A8%91%E3%81%99%E3%81%9A%E3%81%8D.aac" length="22190540" type="audio/aac" />
+      <guid isPermaLink="false">20261120_tokyospeakeasy_森本しんたろう＆岩本理瑚＆早﨑すずき.aac</guid>
+      <pubDate>Fri, 20 Nov 2026 00:00:00 -0000</pubDate>
+      <itunes:duration>01:00:00</itunes:duration>
+    </item>
     <item>
       <title>tokyospeakeasy - 2026年11月19日 (バッファロー吾郎A＆吉田大吾)</title>
       <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20261119_tokyospeakeasy_%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC%E5%90%BE%E9%83%8EA%EF%BC%86%E5%90%89%E7%94%B0%E5%A4%A7%E5%90%BE.aac" length="22190564" type="audio/aac" />
@@ -125,13 +132,6 @@
       <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20261021_tokyospeakeasy_%E9%88%B4%E6%9C%A8%E6%84%9B%E7%90%86%EF%BC%86%E5%90%89%E9%87%8E%E5%8C%97%E4%BA%BA%EF%BC%88THE_RAMPAGE%EF%BC%89.aac" length="22190644" type="audio/aac" />
       <guid isPermaLink="false">20261021_tokyospeakeasy_鈴木愛理＆吉野北人（THE_RAMPAGE）.aac</guid>
       <pubDate>Wed, 21 Oct 2026 00:00:00 -0000</pubDate>
-      <itunes:duration>01:00:00</itunes:duration>
-    </item>
-    <item>
-      <title>tokyospeakeasy - 2026年10月20日 (小宮山雄飛（ホフディラン）＆田中みな実)</title>
-      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20261020_tokyospeakeasy_%E5%B0%8F%E5%AE%AE%E5%B1%B1%E9%9B%84%E9%A3%9B%EF%BC%88%E3%83%9B%E3%83%95%E3%83%87%E3%82%A3%E3%83%A9%E3%83%B3%EF%BC%89%EF%BC%86%E7%94%B0%E4%B8%AD%E3%81%BF%E3%81%AA%E5%AE%9F.aac" length="22190664" type="audio/aac" />
-      <guid isPermaLink="false">20261020_tokyospeakeasy_小宮山雄飛（ホフディラン）＆田中みな実.aac</guid>
-      <pubDate>Tue, 20 Oct 2026 00:00:00 -0000</pubDate>
       <itunes:duration>01:00:00</itunes:duration>
     </item>
   </channel>
