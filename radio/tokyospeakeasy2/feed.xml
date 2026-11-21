@@ -6,7 +6,7 @@
     <description>tokyospeakeasy の音声Podcast (FMT)</description>
     <language>ja</language>
     <itunes:category text="News"/>
-    <lastBuildDate>Fri, 20 Nov 2026 18:01:42 -0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 18:00:14 -0000</lastBuildDate>
     
     <item>
       <title>tokyospeakeasy - 2026年11月20日 (森本しんたろう＆岩本理瑚＆早﨑すずき)</title>
@@ -118,13 +118,6 @@
       <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20261023_tokyospeakeasy_%E7%A7%8B%E5%85%83%E5%BA%B7%EF%BC%86%E9%88%B4%E6%9C%A8%E4%BA%AC%E9%A6%99.aac" length="22190615" type="audio/aac" />
       <guid isPermaLink="false">20261023_tokyospeakeasy_秋元康＆鈴木京香.aac</guid>
       <pubDate>Fri, 23 Oct 2026 00:00:00 -0000</pubDate>
-      <itunes:duration>01:00:00</itunes:duration>
-    </item>
-    <item>
-      <title>tokyospeakeasy - 2026年10月22日 (見城徹＆堀江貴文)</title>
-      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20261022_tokyospeakeasy_%E8%A6%8B%E5%9F%8E%E5%BE%B9%EF%BC%86%E5%A0%80%E6%B1%9F%E8%B2%B4%E6%96%87.aac" length="22190556" type="audio/aac" />
-      <guid isPermaLink="false">20261022_tokyospeakeasy_見城徹＆堀江貴文.aac</guid>
-      <pubDate>Thu, 22 Oct 2026 00:00:00 -0000</pubDate>
       <itunes:duration>01:00:00</itunes:duration>
     </item>
   </channel>
