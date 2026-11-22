@@ -6,8 +6,15 @@
     <description>TokioHot100 の音声Podcast (FMJ)</description>
     <language>ja</language>
     <itunes:category text="News"/>
-    <lastBuildDate>Sat, 21 Nov 2026 18:00:13 -0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 18:02:40 -0000</lastBuildDate>
     
+    <item>
+      <title>TokioHot100 - 2026年11月22日 (luv（14時ごろ〜）_Alan Walker、Snow Man・ラウール(15時20分ごろ〜))</title>
+      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/TokioHot100/20261122_TokioHot100_luv%EF%BC%8814%E6%99%82%E3%81%94%E3%82%8D%E3%80%9C%EF%BC%89_Alan%20Walker%E3%80%81Snow%20Man%E3%83%BB%E3%83%A9%E3%82%A6%E3%83%BC%E3%83%AB%2815%E6%99%8220%E5%88%86%E3%81%94%E3%82%8D%E3%80%9C%29.aac" length="86543606" type="audio/aac" />
+      <guid isPermaLink="false">20261122_TokioHot100_luv（14時ごろ〜）_Alan Walker、Snow Man・ラウール(15時20分ごろ〜).aac</guid>
+      <pubDate>Sun, 22 Nov 2026 00:00:00 -0000</pubDate>
+      <itunes:duration>03:54:00</itunes:duration>
+    </item>
     <item>
       <title>TokioHot100 - 2026年11月15日 (Billyrrom（14時頃〜）_Joyce Wrice（15時20分頃〜）)</title>
       <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/TokioHot100/20261115_TokioHot100_Billyrrom%EF%BC%8814%E6%99%82%E9%A0%83%E3%80%9C%EF%BC%89_Joyce%20Wrice%EF%BC%8815%E6%99%8220%E5%88%86%E9%A0%83%E3%80%9C%EF%BC%89.aac" length="86543672" type="audio/aac" />
