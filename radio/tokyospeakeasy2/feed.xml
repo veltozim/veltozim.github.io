@@ -6,8 +6,15 @@
     <description>tokyospeakeasy の音声Podcast (FMT)</description>
     <language>ja</language>
     <itunes:category text="News"/>
-    <lastBuildDate>Sun, 22 Nov 2026 18:02:42 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 18:01:44 -0000</lastBuildDate>
     
+    <item>
+      <title>tokyospeakeasy - 2026年11月24日 (モト冬樹＆入山杏奈)</title>
+      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20261124_tokyospeakeasy_%E3%83%A2%E3%83%88%E5%86%AC%E6%A8%B9%EF%BC%86%E5%85%A5%E5%B1%B1%E6%9D%8F%E5%A5%88.aac" length="22190662" type="audio/aac" />
+      <guid isPermaLink="false">20261124_tokyospeakeasy_モト冬樹＆入山杏奈.aac</guid>
+      <pubDate>Tue, 24 Nov 2026 00:00:00 -0000</pubDate>
+      <itunes:duration>01:00:00</itunes:duration>
+    </item>
     <item>
       <title>tokyospeakeasy - 2026年11月20日 (森本しんたろう＆岩本理瑚＆早﨑すずき)</title>
       <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20261120_tokyospeakeasy_%E6%A3%AE%E6%9C%AC%E3%81%97%E3%82%93%E3%81%9F%E3%82%8D%E3%81%86%EF%BC%86%E5%B2%A9%E6%9C%AC%E7%90%86%E7%91%9A%EF%BC%86%E6%97%A9%EF%A8%91%E3%81%99%E3%81%9A%E3%81%8D.aac" length="22190540" type="audio/aac" />
