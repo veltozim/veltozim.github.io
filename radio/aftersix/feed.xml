@@ -6,8 +6,15 @@
     <description>アトロク の音声Podcast (TBS)</description>
     <language>ja</language>
     <itunes:category text="News"/>
-    <lastBuildDate>Mon, 23 Nov 2026 18:01:44 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 18:02:26 -0000</lastBuildDate>
     
+    <item>
+      <title>アトロク - 2026年11月24日 (《文房具ヒストリア》第1回 〜 最古の文房具っていったい何なんだ？ 〜編_第16回OKB総選挙（お気に入りボールペン総選挙）)</title>
+      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/aftersix/20261124_%E3%80%8A%E6%96%87%E6%88%BF%E5%85%B7%E3%83%92%E3%82%B9%E3%83%88%E3%83%AA%E3%82%A2%E3%80%8B%E7%AC%AC1%E5%9B%9E%20%E3%80%9C%20%E6%9C%80%E5%8F%A4%E3%81%AE%E6%96%87%E6%88%BF%E5%85%B7%E3%81%A3%E3%81%A6%E3%81%84%E3%81%A3%E3%81%9F%E3%81%84%E4%BD%95%E3%81%AA%E3%82%93%E3%81%A0%EF%BC%9F%20%E3%80%9C%E7%B7%A8_%E7%AC%AC16%E5%9B%9EOKB%E7%B7%8F%E9%81%B8%E6%8C%99%EF%BC%88%E3%81%8A%E6%B0%97%E3%81%AB%E5%85%A5%E3%82%8A%E3%83%9C%E3%83%BC%E3%83%AB%E3%83%9A%E3%83%B3%E7%B7%8F%E9%81%B8%E6%8C%99%EF%BC%89.aac" length="44381219" type="audio/aac" />
+      <guid isPermaLink="false">20261124_《文房具ヒストリア》第1回 〜 最古の文房具っていったい何なんだ？ 〜編_第16回OKB総選挙（お気に入りボールペン総選挙）.aac</guid>
+      <pubDate>Tue, 24 Nov 2026 00:00:00 -0000</pubDate>
+      <itunes:duration>02:00:00</itunes:duration>
+    </item>
     <item>
       <title>アトロク - 2026年11月23日 (アクセシビリティ最新トピック2026 特集（ゲスト： 田中みゆきさん／アクセシビリティ研究者）)</title>
       <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/aftersix/20261123_%E3%82%A2%E3%82%AF%E3%82%BB%E3%82%B7%E3%83%93%E3%83%AA%E3%83%86%E3%82%A3%E6%9C%80%E6%96%B0%E3%83%88%E3%83%94%E3%83%83%E3%82%AF2026%20%E7%89%B9%E9%9B%86%EF%BC%88%E3%82%B2%E3%82%B9%E3%83%88%EF%BC%9A%20%E7%94%B0%E4%B8%AD%E3%81%BF%E3%82%86%E3%81%8D%E3%81%95%E3%82%93%EF%BC%8F%E3%82%A2%E3%82%AF%E3%82%BB%E3%82%B7%E3%83%93%E3%83%AA%E3%83%86%E3%82%A3%E7%A0%94%E7%A9%B6%E8%80%85%EF%BC%89.aac" length="44381250" type="audio/aac" />
@@ -139,13 +146,6 @@
       <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/aftersix/20261022_%E3%80%8EDIGGER%EF%BC%8F%E3%83%87%E3%82%A3%E3%82%AC%E3%83%BC%E3%80%8F%EF%BC%88%E3%83%88%E3%83%A0%E3%83%BB%E3%82%AF%E3%83%AB%E3%83%BC%E3%82%BA%E3%81%A8%E3%82%A2%E3%83%AC%E3%83%8F%E3%83%B3%E3%83%89%E3%83%AD%E3%83%BBG%E3%83%BB%E3%82%A4%E3%83%8B%E3%83%A3%E3%83%AA%E3%83%88%E3%82%A5%E7%9B%A3%E7%9D%A3%E3%81%AE%E3%83%9A%E3%82%A2%EF%BC%89%E8%A9%95%E8%AB%96_Sakurashimeji%EF%BC%88%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AALIVE%EF%BC%89.aac" length="44381250" type="audio/aac" />
       <guid isPermaLink="false">20261022_『DIGGER／ディガー』（トム・クルーズとアレハンドロ・G・イニャリトゥ監督のペア）評論_Sakurashimeji（スタジオLIVE）.aac</guid>
       <pubDate>Thu, 22 Oct 2026 00:00:00 -0000</pubDate>
-      <itunes:duration>02:00:00</itunes:duration>
-    </item>
-    <item>
-      <title>アトロク - 2026年10月21日 (アトロク)</title>
-      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/aftersix/20261021_%E3%82%A2%E3%83%88%E3%83%AD%E3%82%AF.aac" length="44381250" type="audio/aac" />
-      <guid isPermaLink="false">20261021_アトロク.aac</guid>
-      <pubDate>Wed, 21 Oct 2026 00:00:00 -0000</pubDate>
       <itunes:duration>02:00:00</itunes:duration>
     </item>
   </channel>
