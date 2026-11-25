@@ -6,8 +6,15 @@
     <description>tokyospeakeasy の音声Podcast (FMT)</description>
     <language>ja</language>
     <itunes:category text="News"/>
-    <lastBuildDate>Tue, 24 Nov 2026 18:02:27 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 18:02:02 -0000</lastBuildDate>
     
+    <item>
+      <title>tokyospeakeasy - 2026年11月26日 (翔（横浜銀蝿）＆Johnny（横浜銀蝿）)</title>
+      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20261126_tokyospeakeasy_%E7%BF%94%EF%BC%88%E6%A8%AA%E6%B5%9C%E9%8A%80%E8%9D%BF%EF%BC%89%EF%BC%86Johnny%EF%BC%88%E6%A8%AA%E6%B5%9C%E9%8A%80%E8%9D%BF%EF%BC%89.aac" length="22190600" type="audio/aac" />
+      <guid isPermaLink="false">20261126_tokyospeakeasy_翔（横浜銀蝿）＆Johnny（横浜銀蝿）.aac</guid>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 -0000</pubDate>
+      <itunes:duration>01:00:00</itunes:duration>
+    </item>
     <item>
       <title>tokyospeakeasy - 2026年11月25日 (鈴木慶一＆スカート_澤部渡)</title>
       <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20261125_tokyospeakeasy_%E9%88%B4%E6%9C%A8%E6%85%B6%E4%B8%80%EF%BC%86%E3%82%B9%E3%82%AB%E3%83%BC%E3%83%88_%E6%BE%A4%E9%83%A8%E6%B8%A1.aac" length="22190636" type="audio/aac" />
