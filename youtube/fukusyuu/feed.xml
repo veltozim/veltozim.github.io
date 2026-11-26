@@ -18,6 +18,15 @@
     <itunes:image href=""/>
 
     <item>
+        <title>【メール豊作】第１７９回復讐ラジオ〜M-1は俺らに関係ないの回〜 - 2026年11月27日</title>
+        <description>配信者: 復讐ラジオ</description>
+        <link>https://www.youtube.com/@fukusyuu</link>
+        <guid isPermaLink="false">11-27：【メール豊作】第１７９回復讐ラジオ〜M-1は俺らに関係ないの回〜.m4a</guid>
+        <pubDate>Thu, 26 Nov 2026 11:08:48 +0000</pubDate>
+        <enclosure url="https://pub-96dbc39af9e0495e99e6279bf489a92d.r2.dev/fukusyuu/11-27%EF%BC%9A%E3%80%90%E3%83%A1%E3%83%BC%E3%83%AB%E8%B1%8A%E4%BD%9C%E3%80%91%E7%AC%AC%EF%BC%91%EF%BC%97%EF%BC%99%E5%9B%9E%E5%BE%A9%E8%AE%90%E3%83%A9%E3%82%B7%E3%82%99%E3%82%AA%E3%80%9CM-1%E3%81%AF%E4%BF%BA%E3%82%89%E3%81%AB%E9%96%A2%E4%BF%82%E3%81%AA%E3%81%84%E3%81%AE%E5%9B%9E%E3%80%9C.m4a" length="46833580" type="audio/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
         <title>【解散詐欺】第１７８回復讐ラジオ〜不仲説を語るひつじねいりの回〜 - 2026年11月20日</title>
         <description>配信者: 復讐ラジオ</description>
         <link>https://www.youtube.com/@fukusyuu</link>
@@ -51,15 +60,6 @@
         <guid isPermaLink="false">10-30：第１７５回復讐ラジオ〜本間キッドの結婚式の回〜.m4a</guid>
         <pubDate>Thu, 29 Oct 2026 11:07:19 +0000</pubDate>
         <enclosure url="https://pub-96dbc39af9e0495e99e6279bf489a92d.r2.dev/fukusyuu/10-30%EF%BC%9A%E7%AC%AC%EF%BC%91%EF%BC%97%EF%BC%95%E5%9B%9E%E5%BE%A9%E8%AE%90%E3%83%A9%E3%82%B7%E3%82%99%E3%82%AA%E3%80%9C%E6%9C%AC%E9%96%93%E3%82%AD%E3%83%83%E3%83%89%E3%81%AE%E7%B5%90%E5%A9%9A%E5%BC%8F%E3%81%AE%E5%9B%9E%E3%80%9C.m4a" length="46382764" type="audio/mp4"/>
-        <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-        <title>【物議】第１７４回復讐ラジオ〜１点つけて何が悪い？の回〜 - 2026年10月23日</title>
-        <description>配信者: 復讐ラジオ</description>
-        <link>https://www.youtube.com/@fukusyuu</link>
-        <guid isPermaLink="false">10-23：【物議】第１７４回復讐ラジオ〜１点つけて何が悪い？の回〜.m4a</guid>
-        <pubDate>Sat, 24 Oct 2026 13:11:48 +0000</pubDate>
-        <enclosure url="https://pub-96dbc39af9e0495e99e6279bf489a92d.r2.dev/fukusyuu/10-23%EF%BC%9A%E3%80%90%E7%89%A9%E8%AD%B0%E3%80%91%E7%AC%AC%EF%BC%91%EF%BC%97%EF%BC%94%E5%9B%9E%E5%BE%A9%E8%AE%90%E3%83%A9%E3%82%B7%E3%82%99%E3%82%AA%E3%80%9C%EF%BC%91%E7%82%B9%E3%81%A4%E3%81%91%E3%81%A6%E4%BD%95%E3%81%8C%E6%82%AA%E3%81%84%EF%BC%9F%E3%81%AE%E5%9B%9E%E3%80%9C.m4a" length="48442279" type="audio/mp4"/>
         <itunes:explicit>no</itunes:explicit>
     </item>
 </channel>
