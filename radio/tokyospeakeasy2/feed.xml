@@ -6,8 +6,15 @@
     <description>tokyospeakeasy の音声Podcast (FMT)</description>
     <language>ja</language>
     <itunes:category text="News"/>
-    <lastBuildDate>Wed, 25 Nov 2026 18:02:02 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 18:01:48 -0000</lastBuildDate>
     
+    <item>
+      <title>tokyospeakeasy - 2026年11月27日 (関根勤＆近藤真彦)</title>
+      <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20261127_tokyospeakeasy_%E9%96%A2%E6%A0%B9%E5%8B%A4%EF%BC%86%E8%BF%91%E8%97%A4%E7%9C%9F%E5%BD%A6.aac" length="22190594" type="audio/aac" />
+      <guid isPermaLink="false">20261127_tokyospeakeasy_関根勤＆近藤真彦.aac</guid>
+      <pubDate>Fri, 27 Nov 2026 00:00:00 -0000</pubDate>
+      <itunes:duration>01:00:00</itunes:duration>
+    </item>
     <item>
       <title>tokyospeakeasy - 2026年11月26日 (翔（横浜銀蝿）＆Johnny（横浜銀蝿）)</title>
       <enclosure url="https://pub-21ca56a178674f60b9902a88754703b9.r2.dev/tokyospeakeasy2/20261126_tokyospeakeasy_%E7%BF%94%EF%BC%88%E6%A8%AA%E6%B5%9C%E9%8A%80%E8%9D%BF%EF%BC%89%EF%BC%86Johnny%EF%BC%88%E6%A8%AA%E6%B5%9C%E9%8A%80%E8%9D%BF%EF%BC%89.aac" length="22190600" type="audio/aac" />
