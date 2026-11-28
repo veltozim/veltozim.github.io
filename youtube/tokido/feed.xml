@@ -18,6 +18,15 @@
     <itunes:image href=""/>
 
     <item>
+        <title>Tokido&#39;s Saturday morning (￣▽￣) 2026-11- - 2026年11月28日</title>
+        <description>配信者: ときどch</description>
+        <link>https://www.youtube.com/@tokido</link>
+        <guid isPermaLink="false">11-28：Tokido's Saturday morning (￣▽￣) 2026-11-.m4a</guid>
+        <pubDate>Sat, 28 Nov 2026 11:03:30 +0000</pubDate>
+        <enclosure url="https://pub-96dbc39af9e0495e99e6279bf489a92d.r2.dev/tokido/11-28%EF%BC%9ATokido%27s%20Saturday%20morning%20%28%EF%BF%A3%E2%96%BD%EF%BF%A3%29%202026-11-.m4a" length="65053369" type="audio/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
         <title>Tokido&#39;s Saturday morning ( ･´ｰ･｀) 2026- - 2026年11月21日</title>
         <description>配信者: ときどch</description>
         <link>https://www.youtube.com/@tokido</link>
@@ -51,15 +60,6 @@
         <guid isPermaLink="false">10-24：Tokido's Saturday morning ( ･´ｰ･｀) 2026-.m4a</guid>
         <pubDate>Sat, 24 Oct 2026 11:06:03 +0000</pubDate>
         <enclosure url="https://pub-96dbc39af9e0495e99e6279bf489a92d.r2.dev/tokido/10-24%EF%BC%9ATokido%27s%20Saturday%20morning%20%28%20%EF%BD%A5%C2%B4%EF%BD%B0%EF%BD%A5%EF%BD%80%29%202026-.m4a" length="89801005" type="audio/mp4"/>
-        <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-        <title>Tokido&#39;s Saturday morning ( ･´ｰ･｀) 2026- - 2026年10月17日</title>
-        <description>配信者: ときどch</description>
-        <link>https://www.youtube.com/@tokido</link>
-        <guid isPermaLink="false">10-17：Tokido's Saturday morning ( ･´ｰ･｀) 2026-.m4a</guid>
-        <pubDate>Sat, 17 Oct 2026 11:09:42 +0000</pubDate>
-        <enclosure url="https://pub-96dbc39af9e0495e99e6279bf489a92d.r2.dev/tokido/10-17%EF%BC%9ATokido%27s%20Saturday%20morning%20%28%20%EF%BD%A5%C2%B4%EF%BD%B0%EF%BD%A5%EF%BD%80%29%202026-.m4a" length="115689969" type="audio/mp4"/>
         <itunes:explicit>no</itunes:explicit>
     </item>
 </channel>
